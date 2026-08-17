@@ -2,8 +2,10 @@ import type { Metadata, Viewport } from "next";
 import { Sora, Inter } from "next/font/google";
 import "./globals.css";
 import { BookmarkProvider } from "@/components/BookmarkProvider";
+import { SessionProvider } from "@/components/SessionProvider";
 import { NavBar } from "@/components/NavBar";
 import { Footer } from "@/components/Footer";
+import { getCurrentUser } from "@/lib/auth";
 
 const display = Sora({
   subsets: ["latin"],
@@ -21,7 +23,7 @@ const body = Inter({
 export const metadata: Metadata = {
   title: "InternNow — Internships & volunteering for students, mapped by industry",
   description:
-    "A free national directory of internships and volunteering opportunities for high school and college students. Explore by map and industry, with interview processes, sample supplements, and tips.",
+    "A free national directory of internships and volunteering opportunities for high school and college students. Explore by map and industry, get personalized recommendations, build your resume, and prep for interviews.",
   icons: { icon: "/icons/icon.svg" },
 };
 
@@ -31,19 +33,22 @@ export const viewport: Viewport = {
   initialScale: 1,
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const user = await getCurrentUser();
   return (
     <html lang="en" className={`${display.variable} ${body.variable}`}>
       <body>
-        <BookmarkProvider>
-          <NavBar />
-          {children}
-          <Footer />
-        </BookmarkProvider>
+        <SessionProvider user={user}>
+          <BookmarkProvider>
+            <NavBar />
+            {children}
+            <Footer />
+          </BookmarkProvider>
+        </SessionProvider>
       </body>
     </html>
   );

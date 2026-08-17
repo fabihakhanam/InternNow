@@ -5,6 +5,15 @@
 .DS_Store
 *.pem
 npm-debug.log*
+
+# env (never commit real secrets)
+.env
 .env*.local
+!.env.example
+
+# sqlite
+/prisma/*.db
+/prisma/*.db-journal
+
 *.tsbuildinfo
 next-env.d.ts

@@ -15,11 +15,14 @@ export function Footer() {
               application prep.
             </p>
           </div>
-          <nav className="grid grid-cols-2 gap-x-10 gap-y-2 text-sm">
+          <nav className="grid grid-cols-2 gap-x-10 gap-y-2 text-sm sm:grid-cols-3">
             <Link href="/opportunities" className="muted hover:text-ink">Browse</Link>
             <Link href="/map" className="muted hover:text-ink">Map</Link>
             <Link href="/industries" className="muted hover:text-ink">Industries</Link>
-            <Link href="/tips" className="muted hover:text-ink">Tips</Link>
+            <Link href="/for-you" className="muted hover:text-ink">For You</Link>
+            <Link href="/documents" className="muted hover:text-ink">Résumé builder</Link>
+            <Link href="/interview-prep" className="muted hover:text-ink">Interview prep</Link>
+            <Link href="/resources" className="muted hover:text-ink">Resources</Link>
             <Link href="/saved" className="muted hover:text-ink">Saved</Link>
             <Link href="/about" className="muted hover:text-ink">About</Link>
           </nav>

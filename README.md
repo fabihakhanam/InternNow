@@ -10,11 +10,15 @@ plus a likely process, **sample supplements**, and **tips**.
 
 ## ✨ Features
 
-- **🗺️ National map** — a real, zoomable Leaflet/OpenStreetMap view. Pins are colored by industry and cluster together until you zoom into a city.
-- **🏭 Industry filters** — Technology, Business & Finance, Law & Justice, Arts & Culture, Science & Research, Healthcare, Government & Policy, Nonprofit, and Education.
+- **🗺️ National map** — a real, zoomable Leaflet/OpenStreetMap view. Pins are colored by industry and cluster together until you zoom into a city, with a dedicated **nationwide programs** section.
+- **🏭 Industry filters** — Technology, Business & Finance, Law & Justice, Arts & Culture, Science & Research, Healthcare, Government & Policy, Nonprofit, Education, Media & Journalism, and Environment.
 - **🔎 Powerful browse** — search + filters for industry, audience (HS/college), type, and state.
-- **📄 Rich detail pages** — official website link, "what the process can look like", **sample supplement prompts & answers**, and **tips to stand out**.
-- **⭐ Save opportunities** — bookmark favorites (stored locally in your browser, no login required).
+- **📄 Rich detail pages** — official website link, "what the process can look like", **sample supplement prompts & answers**, **tips to stand out**, and a **Connect & learn more** section (LinkedIn/socials + how to reach them).
+- **👤 Accounts + profiles** — email/password accounts with a student profile (grade, interests, skills, location).
+- **🎯 "For You" feed** — personalized recommendations that explain *why* each opportunity matches your profile.
+- **📝 Résumé & cover letter builder** — guided, section-by-section builders with a live, printable preview; documents save to your account.
+- **🎤 Interview prep + resource library** — STAR method, common/mock questions, and how-to guides (networking, cold emails, first internship, and more).
+- **⭐ Save + deadline tracker** — bookmark opportunities and track status, personal deadlines, and notes.
 - **📱 Responsive** — works great on phones and desktops.
 
 ## 🏢 Organizations included
@@ -39,25 +43,37 @@ Outreach**, the **Smithsonian**, **Bank of America Student Leaders**, **The Met*
 | Framework | Next.js (App Router) + TypeScript             |
 | Styling   | Tailwind CSS                                  |
 | Map       | Leaflet + React-Leaflet + marker clustering   |
-| Data      | Typed, curated catalog (`lib/catalog.ts`)     |
-| Saving    | Browser localStorage (no backend/accounts)    |
+| Content   | Typed, curated catalog (`lib/catalog.ts`)     |
+| Database  | Prisma ORM + SQLite (users, profiles, documents) |
+| Auth      | `jose` JWT session cookies + `bcryptjs`       |
+| Tracker   | Browser localStorage (saved list + deadlines) |
 
 ## 🚀 Getting started
 
 ```bash
 npm install
+npm run setup      # generate Prisma client + create the SQLite database
 npm run dev
 ```
 
-Open <http://localhost:3000>.
+Open <http://localhost:3000>, create a free account, fill in your profile, and
+your **For You** feed and document builders unlock.
 
 ### Scripts
 
-| Script          | What it does           |
-| --------------- | ---------------------- |
-| `npm run dev`   | Start the dev server   |
-| `npm run build` | Production build       |
-| `npm run start` | Run the production build |
+| Script          | What it does                               |
+| --------------- | ------------------------------------------ |
+| `npm run dev`   | Start the dev server                       |
+| `npm run setup` | Generate Prisma client + create the DB     |
+| `npm run build` | Production build (also generates Prisma)   |
+| `npm run start` | Run the production build                   |
+
+## 🔧 Configuration
+
+Environment variables live in `.env` (see `.env.example`):
+
+- `DATABASE_URL` — SQLite file path (default `file:./dev.db`)
+- `AUTH_SECRET` — secret used to sign session cookies. **Change this in production.**
 
 ## ➕ Adding an opportunity
 
@@ -68,7 +84,14 @@ map pins, industry pages, filters — updates automatically.
 
 ## 🗺️ Roadmap
 
-- More opportunities and deeper regional coverage
-- Deadline reminders and a personal application tracker
-- Optional accounts to sync saved opportunities across devices
-- User-submitted opportunities with moderation
+Planned platform features (need real users and/or a hosted backend):
+
+- Reviews & testimonials from past interns
+- Discussion forums / Q&A
+- Mentorship matching
+- Email/push notifications for deadlines and new opportunities
+- Referral system
+- DB-synced saved list & tracker (currently browser-local)
+- Multi-language support
+- Verified-listing badges and employer self-serve org pages
+- Skills-assessment quiz and events calendar

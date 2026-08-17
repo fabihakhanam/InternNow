@@ -1,0 +1,47 @@
+// InternNow user data. Opportunity content lives in lib/catalog.ts;
+// this database stores accounts, profiles, and user documents.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String     @id @default(cuid())
+  email        String     @unique
+  name         String
+  passwordHash String
+  createdAt    DateTime   @default(now())
+
+  profile   Profile?
+  documents Document[]
+}
+
+model Profile {
+  id              String @id @default(cuid())
+  userId          String @unique
+  user            User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  gradeLevel      String  @default("") // e.g. "hs-11", "college-2"
+  state           String? // 2-letter, optional
+  gpa             Float?
+  interestsJson   String  @default("[]") // IndustryId[]
+  skillsJson      String  @default("[]") // string[]
+  extracurriculars String @default("")
+  bio             String  @default("")
+}
+
+model Document {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type      String   // "resume" | "cover-letter"
+  title     String
+  dataJson  String   // structured builder data
+  updatedAt DateTime @updatedAt
+  createdAt DateTime @default(now())
+}

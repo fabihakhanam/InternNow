@@ -90,6 +90,29 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* more than a directory */}
+      <section className="mx-auto max-w-6xl px-4 py-10">
+        <h2 className="display mb-1 text-2xl font-bold">More than a directory</h2>
+        <p className="muted mb-5">Create a free account to unlock tools that help you actually land the role.</p>
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {[
+            { href: "/for-you", emoji: "🎯", title: "For You matches", desc: "Personalized picks based on your grade, interests, and location." },
+            { href: "/documents", emoji: "📄", title: "Résumé & cover letters", desc: "Guided builders with a printable, professional preview." },
+            { href: "/interview-prep", emoji: "🎤", title: "Interview prep", desc: "STAR method, common questions, and a mock practice set." },
+            { href: "/saved", emoji: "🗓️", title: "Deadline tracker", desc: "Save opportunities and track statuses and due dates." },
+          ].map((f) => (
+            <Link key={f.href} href={f.href} className="card hover:-translate-y-0.5 hover:shadow-card">
+              <div className="text-3xl">{f.emoji}</div>
+              <div className="display mt-2 text-lg font-bold">{f.title}</div>
+              <div className="muted text-sm">{f.desc}</div>
+            </Link>
+          ))}
+        </div>
+        <div className="mt-5">
+          <Link href="/signup" className="btn-primary">Create a free account →</Link>
+        </div>
+      </section>
+
       {/* how it works */}
       <section className="mx-auto max-w-6xl px-4 py-10">
         <h2 className="display mb-5 text-2xl font-bold">How it works</h2>

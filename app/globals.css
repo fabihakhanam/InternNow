@@ -109,3 +109,35 @@ body {
   font-size: 14px;
   line-height: 1;
 }
+
+/* Document builder: print only the preview area */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #doc-print,
+  #doc-print * {
+    visibility: visible;
+  }
+  #doc-print {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+  }
+  @page {
+    margin: 0.6in;
+  }
+}
+.doc-preview {
+  color: #111;
+  background: #fff;
+}
+.doc-preview h1,
+.doc-preview h2,
+.doc-preview h3 {
+  color: #111;
+}
