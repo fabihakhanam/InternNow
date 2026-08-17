@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #f7f8fc;
+  --surface: #ffffff;
+  --border: rgba(15, 23, 41, 0.1);
+  --ink: #0f1729;
+  --ink-soft: #3a4358;
+  --ink-muted: #69728a;
+  --brand: #3a5ce8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background:
+    radial-gradient(900px 400px at 100% -5%, #eef4ff, transparent 60%),
+    radial-gradient(700px 350px at -5% 0%, #fff4e6, transparent 55%),
+    var(--paper);
+  color: var(--ink);
+  min-height: 100dvh;
+  font-family: var(--font-body), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+*:focus-visible {
+  outline: 3px solid var(--brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+@layer components {
+  .display {
+    font-family: var(--font-display), system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  .card {
+    @apply rounded-xl2 border bg-white p-5 shadow-soft transition;
+    border-color: var(--border);
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 font-semibold transition active:scale-[0.98] disabled:opacity-60;
+  }
+  .btn-primary {
+    @apply btn bg-brand-500 text-white shadow-soft hover:bg-brand-600;
+  }
+  .btn-accent {
+    @apply btn bg-accent-500 text-ink shadow-soft hover:bg-accent-600 hover:text-white;
+  }
+  .btn-ghost {
+    @apply btn border bg-white text-ink hover:bg-paper;
+    border-color: var(--border);
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border bg-white px-3.5 py-1.5 text-sm font-semibold text-ink-soft transition;
+    border-color: var(--border);
+  }
+  .chip[data-active="true"] {
+    @apply border-brand-500 bg-brand-500 text-white;
+  }
+
+  .input {
+    @apply w-full rounded-xl2 border bg-white px-4 py-2.5 text-ink outline-none transition;
+    border-color: var(--border);
+  }
+  .input:focus {
+    @apply border-brand-400;
+    box-shadow: 0 0 0 4px rgba(58, 92, 232, 0.15);
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-bold;
+  }
+
+  .muted {
+    color: var(--ink-muted);
+  }
+  .link {
+    @apply font-semibold text-brand-600 underline decoration-brand-200 underline-offset-2 hover:decoration-brand-500;
+  }
+}
+
+/* Leaflet tweaks */
+.leaflet-container {
+  font-family: var(--font-body), system-ui, sans-serif;
+  border-radius: 1.1rem;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 0.9rem;
+}
+.pin {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+  border: 2px solid white;
+  box-shadow: 0 4px 10px -3px rgba(0, 0, 0, 0.4);
+}
+.pin > span {
+  transform: rotate(45deg);
+  font-size: 14px;
+  line-height: 1;
+}
