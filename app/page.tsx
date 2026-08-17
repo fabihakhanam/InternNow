@@ -30,6 +30,9 @@ export default function HomePage() {
             <Link href="/map" className="btn-primary text-lg">🗺️ Explore the map</Link>
             <Link href="/opportunities" className="btn-ghost text-lg">Browse opportunities</Link>
           </div>
+          <p className="mt-4 text-sm font-semibold">
+            <Link href="/start" className="link">🌱 Never applied to anything before? Start here →</Link>
+          </p>
           <div className="muted mt-5 flex flex-wrap gap-x-6 gap-y-1 text-sm font-semibold">
             <span>{OPPORTUNITIES.length} opportunities</span>
             <span>{INDUSTRIES.length} industries</span>
@@ -56,6 +59,26 @@ export default function HomePage() {
                 {i.emoji}
               </span>
               <span className="display text-sm font-bold leading-tight">{i.label}</span>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* featured collections */}
+      <section className="mx-auto max-w-6xl px-4 py-10">
+        <h2 className="display mb-1 text-2xl font-bold">Featured collections</h2>
+        <p className="muted mb-5">Programs that proactively support students often overlooked by other platforms.</p>
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+          {[
+            { href: "/opportunities?focus=first-gen", emoji: "🎓", label: "First-generation" },
+            { href: "/opportunities?focus=women-in-stem", emoji: "👩‍🔬", label: "Women & girls in STEM" },
+            { href: "/opportunities?focus=students-of-color", emoji: "🌍", label: "Students of color" },
+            { href: "/opportunities?focus=low-income", emoji: "💛", label: "Low-income / need-based" },
+            { href: "/opportunities?format=remote", emoji: "🌐", label: "Remote-friendly" },
+          ].map((c) => (
+            <Link key={c.href} href={c.href} className="card flex flex-col items-start gap-2 py-4 hover:-translate-y-0.5 hover:shadow-card">
+              <span className="text-2xl" aria-hidden>{c.emoji}</span>
+              <span className="display text-sm font-bold leading-tight">{c.label}</span>
             </Link>
           ))}
         </div>

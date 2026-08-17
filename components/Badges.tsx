@@ -1,4 +1,12 @@
-import { getIndustry, type IndustryId } from "@/lib/catalog";
+import { getIndustry, EQUITY_LABELS, type IndustryId, type EquityTag } from "@/lib/catalog";
+
+export function EquityBadge({ id }: { id: EquityTag }) {
+  return (
+    <span className="badge bg-fuchsia-100 text-fuchsia-800" title={EQUITY_LABELS[id]}>
+      {EQUITY_LABELS[id]}
+    </span>
+  );
+}
 
 export function IndustryBadge({ id, small }: { id: IndustryId; small?: boolean }) {
   const ind = getIndustry(id);

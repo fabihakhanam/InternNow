@@ -5,8 +5,10 @@ import {
   TYPE_LABELS,
   type Opportunity,
 } from "@/lib/catalog";
-import { IndustryBadge, PlainBadge } from "./Badges";
+import { IndustryBadge, PlainBadge, EquityBadge } from "./Badges";
 import { BookmarkButton } from "./BookmarkButton";
+
+const FORMAT_BADGE: Record<string, string> = { remote: "🌐 Remote", hybrid: "🔀 Hybrid" };
 
 function locationText(o: Opportunity) {
   if (o.national && o.locations.length <= 1) return "Nationwide";
@@ -39,8 +41,15 @@ export function OpportunityCard({ o }: { o: Opportunity }) {
 
       <p className="text-sm text-ink-soft">{o.summary}</p>
 
+      {o.equityTags && o.equityTags.length > 0 && (
+        <div className="flex flex-wrap gap-1.5">
+          {o.equityTags.map((t) => <EquityBadge key={t} id={t} />)}
+        </div>
+      )}
+
       <div className="mt-auto flex flex-wrap gap-1.5 pt-1">
         <PlainBadge tone="blue">📍 {locationText(o)}</PlainBadge>
+        {FORMAT_BADGE[o.format] && <PlainBadge tone="green">{FORMAT_BADGE[o.format]}</PlainBadge>}
         {o.audiences.map((a) => (
           <PlainBadge key={a}>{AUDIENCE_LABELS[a]}</PlainBadge>
         ))}

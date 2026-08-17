@@ -6,20 +6,33 @@ import {
   OPPORTUNITIES,
   TYPE_LABELS,
   AUDIENCE_LABELS,
+  EQUITY_META,
+  EQUITY_LABELS,
   US_STATES,
   type Audience,
   type IndustryId,
   type OppType,
+  type EquityTag,
+  type Format,
 } from "@/lib/catalog";
 import { OpportunityCard } from "./OpportunityCard";
 
-const TYPES: OppType[] = ["internship", "volunteering", "fellowship", "program", "scholarship"];
+const TYPES: OppType[] = [
+  "internship", "volunteering", "fellowship", "program", "scholarship",
+  "research", "competition", "summer-program", "mentorship",
+];
 const AUDIENCES: Audience[] = ["high-school", "college"];
+const FORMATS: Format[] = ["remote", "hybrid", "in-person"];
+const FORMAT_LABELS: Record<Format, string> = { remote: "🌐 Remote", hybrid: "🔀 Hybrid", "in-person": "🏢 In-person" };
 
 export function DirectoryBrowser({
   initialIndustry,
+  initialEquity,
+  initialFormat,
 }: {
   initialIndustry?: IndustryId;
+  initialEquity?: EquityTag;
+  initialFormat?: Format;
 }) {
   const [query, setQuery] = useState("");
   const [industries, setIndustries] = useState<IndustryId[]>(
@@ -28,6 +41,8 @@ export function DirectoryBrowser({
   const [audiences, setAudiences] = useState<Audience[]>([]);
   const [types, setTypes] = useState<OppType[]>([]);
   const [state, setState] = useState("");
+  const [formats, setFormats] = useState<Format[]>(initialFormat ? [initialFormat] : []);
+  const [equity, setEquity] = useState<EquityTag[]>(initialEquity ? [initialEquity] : []);
 
   function toggle<T>(list: T[], setList: (v: T[]) => void, v: T) {
     setList(list.includes(v) ? list.filter((x) => x !== v) : [...list, v]);
@@ -49,12 +64,14 @@ export function DirectoryBrowser({
       const ma = audiences.length === 0 || o.audiences.some((a) => audiences.includes(a));
       const mt = types.length === 0 || o.types.some((t) => types.includes(t));
       const ms = !state || o.national || o.locations.some((l) => l.state === state);
-      return mq && mi && ma && mt && ms;
+      const mf = formats.length === 0 || formats.includes(o.format);
+      const me = equity.length === 0 || Boolean(o.equityTags?.some((t) => equity.includes(t)));
+      return mq && mi && ma && mt && ms && mf && me;
     });
-  }, [query, industries, audiences, types, state]);
+  }, [query, industries, audiences, types, state, formats, equity]);
 
   const hasFilters =
-    query || industries.length || audiences.length || types.length || state;
+    query || industries.length || audiences.length || types.length || state || formats.length || equity.length;
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-6">
@@ -117,6 +134,28 @@ export function DirectoryBrowser({
           </div>
 
           <div>
+            <div className="mb-1.5 text-xs font-bold uppercase tracking-wide text-ink-muted">Format</div>
+            <div className="flex flex-wrap gap-1.5">
+              {FORMATS.map((f) => (
+                <button key={f} className="chip" data-active={formats.includes(f)} onClick={() => toggle(formats, setFormats, f)}>
+                  {FORMAT_LABELS[f]}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <div className="mb-1.5 text-xs font-bold uppercase tracking-wide text-ink-muted">Communities served</div>
+            <div className="flex flex-wrap gap-1.5">
+              {EQUITY_META.map((e) => (
+                <button key={e.id} className="chip" data-active={equity.includes(e.id)} onClick={() => toggle(equity, setEquity, e.id)}>
+                  <span aria-hidden>{e.emoji}</span> {EQUITY_LABELS[e.id]}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div>
             <div className="mb-1.5 text-xs font-bold uppercase tracking-wide text-ink-muted">State</div>
             <select className="input" value={state} onChange={(e) => setState(e.target.value)} aria-label="State">
               <option value="">All states (+ nationwide)</option>
@@ -135,6 +174,8 @@ export function DirectoryBrowser({
                 setAudiences([]);
                 setTypes([]);
                 setState("");
+                setFormats([]);
+                setEquity([]);
               }}
             >
               Clear all filters

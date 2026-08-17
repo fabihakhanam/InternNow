@@ -25,7 +25,12 @@ export type OppType =
   | "volunteering"
   | "fellowship"
   | "program"
-  | "scholarship";
+  | "scholarship"
+  | "research"
+  | "competition"
+  | "summer-program"
+  | "mentorship";
+export type EquityTag = "first-gen" | "low-income" | "students-of-color" | "women-in-stem";
 export type Format = "in-person" | "remote" | "hybrid";
 export type Cost = "free" | "paid" | "stipend";
 
@@ -69,6 +74,8 @@ export type Opportunity = {
   interviewProcess: string[];
   supplements: Supplement[];
   tips: string[];
+  // Communities an organization publicly focuses on serving (for equity filters).
+  equityTags?: EquityTag[];
   // Optional official social links (exact URLs). When omitted, the UI falls
   // back to platform searches so links never break.
   socials?: { linkedin?: string; instagram?: string; x?: string; youtube?: string };
@@ -99,7 +106,25 @@ export const TYPE_LABELS: Record<OppType, string> = {
   fellowship: "Fellowship",
   program: "Program",
   scholarship: "Scholarship",
+  research: "Research",
+  competition: "Competition",
+  "summer-program": "Summer program",
+  mentorship: "Mentorship",
 };
+
+export const EQUITY_LABELS: Record<EquityTag, string> = {
+  "first-gen": "First-generation",
+  "low-income": "Low-income / need-based",
+  "students-of-color": "Students of color",
+  "women-in-stem": "Women & girls in STEM",
+};
+
+export const EQUITY_META: { id: EquityTag; emoji: string }[] = [
+  { id: "first-gen", emoji: "🎓" },
+  { id: "low-income", emoji: "💛" },
+  { id: "students-of-color", emoji: "🌍" },
+  { id: "women-in-stem", emoji: "👩‍🔬" },
+];
 
 export const COST_LABELS: Record<Cost, string> = {
   free: "Free to join",
@@ -1053,7 +1078,157 @@ export const OPPORTUNITIES: Opportunity[] = [
       "Be your authentic self; Posse selects for potential and character.",
     ],
   },
+  {
+    id: "congressional-app-challenge",
+    org: "Congressional App Challenge",
+    url: "https://www.congressionalappchallenge.us",
+    industries: ["technology"],
+    audiences: ["high-school"],
+    types: ["competition", "program"],
+    format: "remote",
+    national: true,
+    locations: [{ city: "Washington", state: "DC", lat: 38.9072, lng: -77.0369 }],
+    cost: "free",
+    compensation: "Free to enter; winners are recognized by their member of Congress.",
+    deadlineNote: "Register by your congressional district; submissions are typically due in the fall.",
+    summary: "A free coding competition where students build an app and are recognized by Congress.",
+    about:
+      "The Congressional App Challenge, coordinated for the U.S. House of Representatives, invites students to create an app and submit it by congressional district. It intentionally reaches underserved, diverse, and rural students, and winners are celebrated by their member of Congress.",
+    interviewProcess: [
+      "Find your congressional district and register on the site.",
+      "Build an app individually or in a small team.",
+      "Submit your app and a short demo video by the deadline.",
+      "Winners are announced and recognized by their representative.",
+    ],
+    supplements: [
+      {
+        prompt: "What problem does your app solve, and why did you build it?",
+        sampleAnswer:
+          "My town's bus schedule is only on a paper flyer that's always out of date, so I built an app that shows the next bus using the public transit feed. I made it because my little brother missed school twice waiting for a bus that never came. It's simple, but it solves a real problem for people I know.",
+        tips: "Judges love a real, local problem. Explain the 'why' as clearly as the 'what'.",
+      },
+    ],
+    tips: [
+      "You don't need to be an expert — first-time coders win every year.",
+      "Pick a small problem you actually care about; scope it tightly.",
+      "Make your demo video clear: show the problem, then the app solving it.",
+    ],
+  },
+  {
+    id: "society-for-science",
+    org: "Society for Science",
+    program: "Regeneron STS & ISEF",
+    url: "https://www.societyforscience.org",
+    industries: ["science"],
+    audiences: ["high-school"],
+    types: ["competition", "research"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Washington", state: "DC", lat: 38.9072, lng: -77.0369 }],
+    cost: "free",
+    compensation: "Prestigious research competitions with significant scholarship prizes.",
+    deadlineNote: "The Regeneron Science Talent Search (seniors) has a fall deadline; ISEF runs through affiliated fairs.",
+    summary: "The nation's most prestigious high school science research competitions.",
+    about:
+      "Society for Science runs the Regeneron Science Talent Search — the nation's oldest and most prestigious science research competition for high school seniors — and the Regeneron International Science and Engineering Fair (ISEF), the world's largest pre-college science competition.",
+    interviewProcess: [
+      "Complete an independent research project (often with a mentor/lab).",
+      "For ISEF, compete through an affiliated regional/state science fair.",
+      "For the Science Talent Search, submit your research and application as a senior.",
+      "Finalists present their work to judges and compete for awards.",
+    ],
+    supplements: [
+      {
+        prompt: "Summarize your research question, method, and what you found.",
+        sampleAnswer:
+          "I tested whether a cheap, plant-based filter could reduce lead in drinking water. I ran 30 trials comparing okra-based filtration to a control and measured lead with a home test kit, finding a consistent ~40% reduction. It's early, but it suggests a low-cost option worth studying with lab-grade equipment.",
+        tips: "Be precise about your method and honest about limitations — judges reward rigorous thinking.",
+      },
+    ],
+    tips: [
+      "Start your research early and keep a detailed lab notebook.",
+      "Find a mentor (teacher, local university, or lab) to guide method.",
+      "Practice explaining your project to a non-expert in two minutes.",
+    ],
+  },
+  {
+    id: "technovation-girls",
+    org: "Technovation",
+    program: "Technovation Girls",
+    url: "https://www.technovation.org",
+    industries: ["technology"],
+    audiences: ["high-school"],
+    types: ["competition", "program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "San Francisco", state: "CA", lat: 37.7749, lng: -122.4194 }],
+    cost: "free",
+    compensation: "Free global program; teams build tech ventures and compete for awards.",
+    deadlineNote: "The season typically runs winter–spring with a submission deadline in the spring.",
+    summary: "Girls team up to build an app or AI venture that solves a community problem.",
+    about:
+      "Technovation Girls guides young women, in teams, to identify a community problem and build a technology product — an app or AI venture — to solve it, developing coding, entrepreneurship, and leadership skills with mentor support.",
+    interviewProcess: [
+      "Form a team and (optionally) find a mentor.",
+      "Pick a community problem and research it.",
+      "Build your app/venture and a pitch over the season.",
+      "Submit your project and pitch for regional and global judging.",
+    ],
+    supplements: [
+      {
+        prompt: "What community problem are you solving, and why does your team care?",
+        sampleAnswer:
+          "Our neighborhood has a lot of elderly residents who live alone, so we're building an app that pairs them with student volunteers for weekly check-ins. Two of us have grandparents who felt isolated during the pandemic, and we kept thinking, 'there has to be an app for this.' So we're making it.",
+        tips: "Center a problem your team has real connection to; judges value authentic motivation.",
+      },
+    ],
+    tips: [
+      "No coding experience needed to start — you'll learn as a team.",
+      "Lean on your mentor, but make the ideas your own.",
+      "A clear problem and a confident pitch matter as much as the code.",
+    ],
+  },
 ];
+
+// Communities each org publicly focuses on serving. Tags reflect an
+// organization's stated mission/audience; all students should confirm
+// eligibility on the org's own site.
+const EQUITY: Record<string, EquityTag[]> = {
+  "seo-scholars": ["students-of-color", "first-gen", "low-income"],
+  "seo-career": ["students-of-color", "first-gen"],
+  "seeds-of-fortune": ["students-of-color", "first-gen", "low-income"],
+  "america-on-tech": ["students-of-color", "low-income"],
+  "genesys-works": ["low-income", "students-of-color", "first-gen"],
+  "girls-who-code": ["women-in-stem"],
+  "year-up": ["low-income", "students-of-color"],
+  "legal-outreach": ["first-gen", "low-income", "students-of-color"],
+  inroads: ["students-of-color", "first-gen"],
+  mlt: ["students-of-color", "low-income", "first-gen"],
+  questbridge: ["low-income", "first-gen"],
+  "emma-bowen-foundation": ["students-of-color"],
+  "cristo-rey-network": ["low-income", "first-gen"],
+  mites: ["students-of-color", "low-income", "first-gen"],
+  "posse-foundation": ["first-gen", "students-of-color", "low-income"],
+  "technovation-girls": ["women-in-stem"],
+};
+
+// Additional opportunity types beyond each org's primary framing.
+const EXTRA_TYPES: Record<string, OppType[]> = {
+  "nasa-ostem": ["research"],
+  "nih-sip": ["research"],
+  "smithsonian-internships": ["research"],
+  mites: ["summer-program"],
+  "seo-scholars": ["summer-program"],
+  mlt: ["mentorship"],
+  inroads: ["mentorship"],
+  "posse-foundation": ["mentorship"],
+  "year-up": ["mentorship"],
+};
+
+for (const o of OPPORTUNITIES) {
+  if (EQUITY[o.id]) o.equityTags = EQUITY[o.id];
+  if (EXTRA_TYPES[o.id]) o.types = Array.from(new Set([...o.types, ...EXTRA_TYPES[o.id]]));
+}
 
 // ---- helpers ---------------------------------------------------------------
 

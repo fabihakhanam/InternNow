@@ -7,7 +7,7 @@ import {
   COST_LABELS,
   TYPE_LABELS,
 } from "@/lib/catalog";
-import { IndustryBadge, PlainBadge } from "@/components/Badges";
+import { IndustryBadge, PlainBadge, EquityBadge } from "@/components/Badges";
 import { BookmarkButton } from "@/components/BookmarkButton";
 import { OpportunityCard } from "@/components/OpportunityCard";
 import { ConnectSection } from "@/components/ConnectSection";
@@ -40,6 +40,7 @@ export default function OpportunityDetail({ params }: { params: { id: string } }
         <div>
           <div className="mb-2 flex flex-wrap gap-1.5">
             {o.industries.map((i) => <IndustryBadge key={i} id={i} />)}
+            {o.equityTags?.map((t) => <EquityBadge key={t} id={t} />)}
           </div>
           <h1 className="display text-3xl font-bold leading-tight">{o.program ?? o.org}</h1>
           {o.program && <p className="muted mt-1 font-semibold">{o.org}</p>}
