@@ -47,6 +47,9 @@ export function MapExplorer() {
   const pins = useMemo(() => mapPins(filtered), [filtered]);
   const hasFilters = industries.length + audiences.length + types.length > 0;
 
+  const nationwide = useMemo(() => filtered.filter((o) => o.national), [filtered]);
+  const located = useMemo(() => filtered.filter((o) => !o.national), [filtered]);
+
   return (
     <div className="mx-auto max-w-6xl px-4 py-6">
       <div className="mb-4">
@@ -113,8 +116,18 @@ export function MapExplorer() {
 
       <div className="grid gap-4 lg:grid-cols-[1fr_360px]">
         {/* map */}
-        <div className="h-[62vh] min-h-[420px] overflow-hidden rounded-xl2 border border-[var(--border)] shadow-soft">
-          <MapView pins={pins} />
+        <div className="flex flex-col gap-2">
+          <div className="h-[62vh] min-h-[420px] overflow-hidden rounded-xl2 border border-[var(--border)] shadow-soft">
+            <MapView pins={pins} />
+          </div>
+          {nationwide.length > 0 && (
+            <p className="muted text-xs">
+              🇺🇸 {nationwide.length} nationwide{" "}
+              {nationwide.length === 1 ? "program is" : "programs are"} available anywhere in the
+              U.S. — see the highlighted list on the right. Their pins show each program&apos;s
+              headquarters or main campus.
+            </p>
+          )}
         </div>
 
         {/* results */}
@@ -122,14 +135,38 @@ export function MapExplorer() {
           <div className="mb-2 text-sm font-semibold text-ink-soft">
             {filtered.length} {filtered.length === 1 ? "opportunity" : "opportunities"}
           </div>
-          <div className="grid gap-3">
-            {filtered.map((o) => (
-              <OpportunityCard key={o.id} o={o} />
-            ))}
-            {filtered.length === 0 && (
-              <p className="muted py-8 text-center">No opportunities match these filters.</p>
-            )}
-          </div>
+
+          {filtered.length === 0 && (
+            <p className="muted py-8 text-center">No opportunities match these filters.</p>
+          )}
+
+          {/* Nationwide — available anywhere */}
+          {nationwide.length > 0 && (
+            <div className="mb-4 rounded-xl2 border border-brand-200 bg-brand-50/60 p-3">
+              <div className="mb-2 flex items-center gap-2 text-sm font-bold text-brand-700">
+                <span aria-hidden>🇺🇸</span> Nationwide — available anywhere
+              </div>
+              <div className="grid gap-3">
+                {nationwide.map((o) => (
+                  <OpportunityCard key={o.id} o={o} />
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Location-based */}
+          {located.length > 0 && (
+            <>
+              {nationwide.length > 0 && (
+                <div className="mb-2 text-sm font-bold text-ink-soft">📍 In specific locations</div>
+              )}
+              <div className="grid gap-3">
+                {located.map((o) => (
+                  <OpportunityCard key={o.id} o={o} />
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </div>
     </div>

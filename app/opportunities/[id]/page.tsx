@@ -10,6 +10,7 @@ import {
 import { IndustryBadge, PlainBadge } from "@/components/Badges";
 import { BookmarkButton } from "@/components/BookmarkButton";
 import { OpportunityCard } from "@/components/OpportunityCard";
+import { ConnectSection } from "@/components/ConnectSection";
 
 export function generateStaticParams() {
   return OPPORTUNITIES.map((o) => ({ id: o.id }));
@@ -127,6 +128,9 @@ export default function OpportunityDetail({ params }: { params: { id: string } }
           ))}
         </ul>
       </Section>
+
+      {/* connect */}
+      <ConnectSection o={o} />
 
       {/* similar */}
       {similar.length > 0 && (

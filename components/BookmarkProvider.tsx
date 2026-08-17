@@ -5,28 +5,69 @@ import {
   useCallback,
   useContext,
   useEffect,
+  useMemo,
   useState,
 } from "react";
 
-const KEY = "internnow:saved";
+const KEY = "internnow:tracker";
+const LEGACY_KEY = "internnow:saved";
+
+export type TrackStatus =
+  | "interested"
+  | "applying"
+  | "applied"
+  | "interview"
+  | "accepted"
+  | "declined";
+
+export type TrackItem = {
+  addedAt: number;
+  status: TrackStatus;
+  dueDate?: string; // ISO yyyy-mm-dd
+  notes?: string;
+};
+
+export const STATUS_LABELS: Record<TrackStatus, string> = {
+  interested: "Interested",
+  applying: "Applying",
+  applied: "Applied",
+  interview: "Interview",
+  accepted: "Accepted",
+  declined: "Declined",
+};
 
 type Ctx = {
-  saved: string[];
+  items: Record<string, TrackItem>;
+  saved: string[]; // ids, most-recently-added first
   isSaved: (id: string) => boolean;
   toggle: (id: string) => void;
+  update: (id: string, partial: Partial<TrackItem>) => void;
   ready: boolean;
 };
 
 const BookmarkContext = createContext<Ctx | null>(null);
 
 export function BookmarkProvider({ children }: { children: React.ReactNode }) {
-  const [saved, setSaved] = useState<string[]>([]);
+  const [items, setItems] = useState<Record<string, TrackItem>>({});
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
     try {
       const raw = localStorage.getItem(KEY);
-      if (raw) setSaved(JSON.parse(raw));
+      if (raw) {
+        setItems(JSON.parse(raw));
+      } else {
+        // Migrate the older array-of-ids format, if present.
+        const legacy = localStorage.getItem(LEGACY_KEY);
+        if (legacy) {
+          const ids: string[] = JSON.parse(legacy);
+          const migrated: Record<string, TrackItem> = {};
+          ids.forEach((id, i) => {
+            migrated[id] = { addedAt: Date.now() - i, status: "interested" };
+          });
+          setItems(migrated);
+        }
+      }
     } catch {
       /* ignore */
     }
@@ -34,19 +75,37 @@ export function BookmarkProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   useEffect(() => {
-    if (ready) localStorage.setItem(KEY, JSON.stringify(saved));
-  }, [saved, ready]);
+    if (ready) localStorage.setItem(KEY, JSON.stringify(items));
+  }, [items, ready]);
 
   const toggle = useCallback((id: string) => {
-    setSaved((prev) =>
-      prev.includes(id) ? prev.filter((x) => x !== id) : [id, ...prev]
-    );
+    setItems((prev) => {
+      if (prev[id]) {
+        const next = { ...prev };
+        delete next[id];
+        return next;
+      }
+      return { ...prev, [id]: { addedAt: Date.now(), status: "interested" } };
+    });
   }, []);
 
-  const isSaved = useCallback((id: string) => saved.includes(id), [saved]);
+  const update = useCallback((id: string, partial: Partial<TrackItem>) => {
+    setItems((prev) => {
+      const existing = prev[id] ?? { addedAt: Date.now(), status: "interested" };
+      return { ...prev, [id]: { ...existing, ...partial } };
+    });
+  }, []);
+
+  const isSaved = useCallback((id: string) => Boolean(items[id]), [items]);
+
+  const saved = useMemo(
+    () =>
+      Object.keys(items).sort((a, b) => items[b].addedAt - items[a].addedAt),
+    [items]
+  );
 
   return (
-    <BookmarkContext.Provider value={{ saved, isSaved, toggle, ready }}>
+    <BookmarkContext.Provider value={{ items, saved, isSaved, toggle, update, ready }}>
       {children}
     </BookmarkContext.Provider>
   );

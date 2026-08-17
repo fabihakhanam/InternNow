@@ -15,7 +15,9 @@ export type IndustryId =
   | "healthcare"
   | "government"
   | "nonprofit"
-  | "education";
+  | "education"
+  | "media"
+  | "environment";
 
 export type Audience = "high-school" | "college";
 export type OppType =
@@ -67,6 +69,9 @@ export type Opportunity = {
   interviewProcess: string[];
   supplements: Supplement[];
   tips: string[];
+  // Optional official social links (exact URLs). When omitted, the UI falls
+  // back to platform searches so links never break.
+  socials?: { linkedin?: string; instagram?: string; x?: string; youtube?: string };
 };
 
 export const INDUSTRIES: Industry[] = [
@@ -79,6 +84,8 @@ export const INDUSTRIES: Industry[] = [
   { id: "government", label: "Government & Policy", emoji: "🏛️", color: "#64748b", blurb: "Civic leadership, policy, and public service." },
   { id: "nonprofit", label: "Nonprofit & Social Impact", emoji: "🤝", color: "#f59e0b", blurb: "Community service, volunteering, and social good." },
   { id: "education", label: "Education & College Prep", emoji: "🎓", color: "#eab308", blurb: "Scholarships, mentorship, and college access." },
+  { id: "media", label: "Media & Journalism", emoji: "📰", color: "#e11d48", blurb: "News, broadcast, communications, and storytelling." },
+  { id: "environment", label: "Environment & Conservation", emoji: "🌿", color: "#16a34a", blurb: "Sustainability, conservation, and the outdoors." },
 ];
 
 export const AUDIENCE_LABELS: Record<Audience, string> = {
@@ -676,6 +683,374 @@ export const OPPORTUNITIES: Opportunity[] = [
       "Email potential mentors directly; a good match drives selection.",
       "Even a small science-fair project shows research readiness.",
       "Apply early and follow the portal's document requirements exactly.",
+    ],
+  },
+  {
+    id: "inroads",
+    org: "INROADS",
+    url: "https://inroads.org",
+    industries: ["business", "technology"],
+    audiences: ["high-school", "college"],
+    types: ["internship", "program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Atlanta", state: "GA", lat: 33.749, lng: -84.388 }],
+    cost: "paid",
+    compensation: "Paid multi-year internships plus leadership development; 40,000+ alumni network.",
+    deadlineNote: "Recruits year-round; apply well before summer for internship placement.",
+    summary: "Paid internships and leadership development that create career pathways for students.",
+    about:
+      "INROADS is a national nonprofit that equips students with the skills, tools, and network for long-term career success, through programs like College Links (high school), a paid Internships Program (college), the Financial Services Institute, and HBCU+.",
+    interviewProcess: [
+      "Apply online and complete the INROADS assessment.",
+      "Attend training and professional-development sessions.",
+      "Interview with a corporate partner for an internship match.",
+      "Begin a paid internship with ongoing coaching across summers.",
+    ],
+    supplements: [
+      {
+        prompt: "Where do you see your career in ten years, and how does a multi-year internship help?",
+        sampleAnswer:
+          "I want to lead a product team at a company that builds tools for small businesses like the ones in my family. A multi-year internship means I don't just get one summer of exposure — I get to grow with the same mentors and prove myself over time. By senior year I want a return offer, not just a line on my resume.",
+        tips: "Show long-term thinking; INROADS invests across multiple summers, so signal commitment.",
+      },
+    ],
+    tips: [
+      "Emphasize that you'll commit across multiple summers, not just one.",
+      "Bring measurable achievements from school clubs or jobs.",
+      "Lean on the alumni network for informational interviews.",
+    ],
+  },
+  {
+    id: "mlt",
+    org: "Management Leadership for Tomorrow (MLT)",
+    url: "https://mlt.org",
+    industries: ["business"],
+    audiences: ["college"],
+    types: ["fellowship", "program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Washington", state: "DC", lat: 38.9072, lng: -77.0369 }],
+    cost: "free",
+    compensation: "Free career coaching and fellowships; strong outcomes into competitive first jobs.",
+    deadlineNote: "The Career Prep fellowship recruits rising college sophomores/juniors annually.",
+    summary: "Career coaching and fellowships that prepare college students for competitive careers.",
+    about:
+      "MLT accelerates economic mobility by expanding career opportunities. Its Career Prep fellowship coaches high-achieving college students through internships and full-time recruiting, with a large alumni and employer-partner network.",
+    interviewProcess: [
+      "Apply to the Career Prep fellowship with essays and resume.",
+      "Complete interviews focused on goals and coachability.",
+      "If admitted, work with a coach and cohort over 18+ months.",
+      "Recruit for internships and jobs with MLT's partner employers.",
+    ],
+    supplements: [
+      {
+        prompt: "What does economic mobility mean to you personally?",
+        sampleAnswer:
+          "For me it's the difference between my parents choosing jobs out of necessity and me choosing a career out of possibility. Economic mobility means my future kids will start where I'm working to get to, not where I started. A structured fellowship gives me the playbook that classmates with connected families already have.",
+        tips: "Be personal and specific; MLT centers economic mobility, so connect it to your own story.",
+      },
+    ],
+    tips: [
+      "Apply as early in college as you're eligible for maximum coaching.",
+      "Be open to feedback — 'coachability' is genuinely evaluated.",
+      "Use the alumni network for referrals during recruiting season.",
+    ],
+  },
+  {
+    id: "washington-center",
+    org: "The Washington Center",
+    program: "Academic Internship Program",
+    url: "https://www.twc.edu",
+    industries: ["government", "business"],
+    audiences: ["college"],
+    types: ["internship", "program"],
+    format: "in-person",
+    national: false,
+    locations: [{ city: "Washington", state: "DC", lat: 38.9072, lng: -77.0369 }],
+    cost: "paid",
+    compensation: "Semester and summer internships in DC across government, nonprofit, and private sectors (many with scholarships/stipends).",
+    deadlineNote: "Semester and summer terms have separate application deadlines.",
+    summary: "DC-based internships in government, nonprofits, and industry, plus professional development.",
+    about:
+      "The Washington Center places college students and recent graduates into internships in Washington, DC — in government, nonprofits, or the private sector — paired with seminars, networking, and career guidance.",
+    interviewProcess: [
+      "Apply and select a term (semester or summer) and field.",
+      "Complete placement interviews to match you to a host site.",
+      "Confirm housing and program logistics in DC.",
+      "Intern while attending professional-development programming.",
+    ],
+    supplements: [
+      {
+        prompt: "Why do you want to intern in Washington, DC specifically?",
+        sampleAnswer:
+          "I study political science from a small town where policy feels abstract, and I want to see how a bill actually moves before I decide whether to pursue law or public service. DC is the one place where I can sit in on hearings, meet staffers, and test my classroom ideas against the real thing for a whole semester.",
+        tips: "Tie DC's unique access to a concrete career question you're trying to answer.",
+      },
+    ],
+    tips: [
+      "Plan finances early — DC housing and living costs matter; ask about scholarships.",
+      "Be flexible on placement sector; the network matters more than the logo.",
+      "Attend the seminars — they're a big part of the value.",
+    ],
+  },
+  {
+    id: "questbridge",
+    org: "QuestBridge",
+    url: "https://www.questbridge.org",
+    industries: ["education"],
+    audiences: ["high-school"],
+    types: ["scholarship", "program"],
+    format: "remote",
+    national: true,
+    locations: [{ city: "Palo Alto", state: "CA", lat: 37.4419, lng: -122.143 }],
+    cost: "free",
+    compensation: "Connects students to full four-year scholarships at 55+ partner colleges.",
+    deadlineNote: "College Prep Scholars (juniors) and National College Match (seniors) have fall deadlines.",
+    summary: "Connects high-achieving, low-income students to full scholarships at top colleges.",
+    about:
+      "QuestBridge connects high-achieving students from low-income backgrounds with full four-year scholarships at 55+ of the nation's best colleges, via the College Prep Scholars Program (juniors) and the National College Match (seniors).",
+    interviewProcess: [
+      "Create a QuestBridge application (juniors or seniors).",
+      "Submit essays, transcript, recommendations, and financial info.",
+      "Seniors rank partner colleges for the National College Match.",
+      "Receive Match results or become a Finalist for regular decision.",
+    ],
+    supplements: [
+      {
+        prompt: "Describe the household in which you grew up and how it shaped you.",
+        sampleAnswer:
+          "In my house, three generations share four rooms, and I did homework at the kitchen table while translating bills for my grandmother. It taught me to focus through noise and to see responsibility as normal, not a burden. Those are the exact muscles I'll use to thrive far from home at a demanding college.",
+        tips: "Be honest and specific about your circumstances; connect them to strengths you've built.",
+      },
+    ],
+    tips: [
+      "Apply to College Prep Scholars as a junior — it boosts your senior-year odds.",
+      "Rank colleges thoughtfully; the Match is binding if you're matched.",
+      "Start essays early; QuestBridge essays are detailed and personal.",
+    ],
+  },
+  {
+    id: "sca",
+    org: "Student Conservation Association (SCA)",
+    url: "https://www.thesca.org",
+    industries: ["environment", "nonprofit"],
+    audiences: ["high-school", "college"],
+    types: ["internship", "volunteering", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Arlington", state: "VA", lat: 38.8799, lng: -77.1068 }],
+    cost: "stipend",
+    compensation: "Conservation internships and crews (many with stipends/AmeriCorps awards) in parks nationwide.",
+    deadlineNote: "Summer high school crews and college internships recruit in winter/spring.",
+    summary: "Hands-on conservation internships and crews in national parks and public lands nationwide.",
+    about:
+      "The Student Conservation Association places high school and college students in hands-on conservation service — from national-park internships to summer crews — building the next generation of conservation leaders across the country.",
+    interviewProcess: [
+      "Search positions by location, season, and program type.",
+      "Apply with your interests, availability, and references.",
+      "Interview with the program or crew leader.",
+      "Complete onboarding and gear up for your placement.",
+    ],
+    supplements: [
+      {
+        prompt: "Why do you want to spend a season doing physical conservation work outdoors?",
+        sampleAnswer:
+          "I grew up in a city where the only 'nature' was a single park, and a school trip to a national forest genuinely changed how I see the world. I want to give other people that feeling by maintaining the trails that make it possible. I'm not afraid of hard, sweaty work — I'm more afraid of these places disappearing.",
+        tips: "Show you understand the work is physical and outdoors; connect it to a real motivation.",
+      },
+    ],
+    tips: [
+      "Be realistic about the physical demands and remote locations.",
+      "Highlight teamwork — crews live and work closely together.",
+      "Some positions offer AmeriCorps education awards; ask about them.",
+    ],
+  },
+  {
+    id: "emma-bowen-foundation",
+    org: "Emma Bowen Foundation",
+    url: "https://emmabowenfoundation.org",
+    industries: ["media", "technology"],
+    audiences: ["college"],
+    types: ["fellowship", "internship", "program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "paid",
+    compensation: "Multi-year paid fellowships with media and tech companies, plus a talent network.",
+    deadlineNote: "Fellows are recruited annually; check the site for the application window.",
+    summary: "Multi-year paid media and tech fellowships and career development for students of color.",
+    about:
+      "The Emma Bowen Foundation develops the next generation of media and technology leaders from communities of color through Fellows programs, industry events, and a talent network connecting students to jobs and professional development.",
+    interviewProcess: [
+      "Apply to become an EBF Fellow (essays + resume).",
+      "Complete interviews with the foundation and/or partner company.",
+      "Match to a paid role at a media or tech partner.",
+      "Grow through multi-year placements, events, and mentorship.",
+    ],
+    supplements: [
+      {
+        prompt: "How would you use a media or tech platform to represent your community?",
+        sampleAnswer:
+          "The news I grew up watching never covered my neighborhood unless something bad happened. I want to work in media so the everyday wins — a local coach, a family business, a mutual-aid group — get told too. Whether it's producing, coding a story tool, or reporting, I want the newsroom to look and think more like the people it covers.",
+        tips: "Connect representation to a concrete plan; EBF centers diversifying media and tech.",
+      },
+    ],
+    tips: [
+      "Show a genuine interest in media/tech and in representation.",
+      "Fellowships are multi-year — signal you're in it for the long haul.",
+      "Tap the AMMP talent network for events and connections.",
+    ],
+  },
+  {
+    id: "cristo-rey-network",
+    org: "Cristo Rey Network",
+    program: "Corporate Work Study Program",
+    url: "https://www.cristoreynetwork.org",
+    industries: ["education", "business"],
+    audiences: ["high-school"],
+    types: ["internship", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Chicago", state: "IL", lat: 41.8781, lng: -87.6298 }],
+    cost: "free",
+    compensation: "Tuition largely offset by student work-study earnings; real corporate job placements.",
+    deadlineNote: "Enrollment follows each Cristo Rey high school's admissions calendar.",
+    summary: "Catholic high schools pairing rigorous academics with real corporate work-study jobs.",
+    about:
+      "The Cristo Rey Network operates college-prep Catholic high schools whose signature Corporate Work Study Program places students in real professional jobs, blending rigorous academics with work experience that helps fund their education.",
+    interviewProcess: [
+      "Apply to a Cristo Rey high school in your city.",
+      "Complete admissions steps and family meetings.",
+      "Attend work-readiness training before job placement.",
+      "Work scheduled days at a corporate partner throughout the year.",
+    ],
+    supplements: [
+      {
+        prompt: "How do you balance responsibilities, and why does working while in school appeal to you?",
+        sampleAnswer:
+          "I already juggle school, caring for my younger brothers, and a weekend job, so a schedule doesn't scare me. Working in a real office while I'm still in high school means I'll graduate knowing how professionals actually behave — how to email, how to meet a deadline, how to ask for help. That head start is worth the early mornings.",
+        tips: "Show maturity and time-management with real examples; the program is demanding.",
+      },
+    ],
+    tips: [
+      "Treat the work placement like a real job — attendance is tracked.",
+      "Practice professional communication (email, phone, dress).",
+      "Use your corporate supervisor as a mentor and reference.",
+    ],
+  },
+  {
+    id: "mites",
+    org: "MIT",
+    program: "MITES (Introduction to Technology, Engineering & Science)",
+    url: "https://mites.mit.edu",
+    industries: ["science", "technology"],
+    audiences: ["high-school"],
+    types: ["program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Cambridge", state: "MA", lat: 42.3601, lng: -71.0942 }],
+    cost: "free",
+    compensation: "Free STEM enrichment (including a residential summer program) for high schoolers.",
+    deadlineNote: "MITES Summer and MITES Semester recruit rising seniors; deadlines are typically in the winter.",
+    summary: "Free, rigorous STEM programs for high schoolers, including a residential summer at MIT.",
+    about:
+      "MIT's MITES offers free STEM programs for motivated 7th–12th graders, especially from underserved backgrounds — including MITES Summer (a residential program for rising seniors), MITES Semester, and MITES Saturdays.",
+    interviewProcess: [
+      "Choose the MITES program that fits your grade and location.",
+      "Submit the free application with essays and recommendations.",
+      "Selected students receive an admissions decision.",
+      "Attend the program (residential or online) at no cost.",
+    ],
+    supplements: [
+      {
+        prompt: "Describe a STEM problem you found fascinating and how you explored it.",
+        sampleAnswer:
+          "I got obsessed with why bridges fail, so I built popsicle-stick trusses and loaded them with textbooks until they snapped, recording the breaking weight each time. My triangular designs held almost twice as much as the square ones, which is when statics stopped being a word and became something I could feel. I want to learn the real math behind what I discovered by trial and error.",
+        tips: "Show curiosity-driven, hands-on exploration — MITES values genuine STEM passion over polish.",
+      },
+    ],
+    tips: [
+      "No cost to attend — apply even if finances feel like a barrier.",
+      "Write about authentic curiosity, not just awards.",
+      "Ask teachers who know your STEM work for recommendations.",
+    ],
+  },
+  {
+    id: "americorps",
+    org: "AmeriCorps",
+    url: "https://www.americorps.gov",
+    industries: ["nonprofit"],
+    audiences: ["college"],
+    types: ["volunteering", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Washington", state: "DC", lat: 38.9072, lng: -77.0369 }],
+    cost: "stipend",
+    compensation: "Service positions with a living allowance and an education award for college.",
+    deadlineNote: "Thousands of positions are posted year-round on the AmeriCorps portal.",
+    summary: "Paid national-service positions nationwide, with an education award for college.",
+    about:
+      "AmeriCorps is the federal agency for national service and volunteering. Members serve with nonprofits, schools, and community organizations across the country, often receiving a living allowance and a Segal AmeriCorps Education Award to help pay for college.",
+    interviewProcess: [
+      "Search the AmeriCorps portal by cause area and location.",
+      "Apply directly to positions that fit your goals.",
+      "Interview with the host organization running the program.",
+      "Complete enrollment and begin your term of service.",
+    ],
+    supplements: [
+      {
+        prompt: "What cause do you want to serve, and what would a year of service teach you?",
+        sampleAnswer:
+          "I want to serve in education because a single AmeriCorps tutor is the reason I learned to read on grade level in third grade. A year of full-time service would let me be that person for someone else, while I figure out whether teaching is my long-term path. The education award would also make finishing my own degree possible.",
+        tips: "Name a specific cause and be honest that service is also a way to explore your path.",
+      },
+    ],
+    tips: [
+      "Use the education award — it can significantly offset college costs.",
+      "Read each program's term length and living allowance carefully.",
+      "Service terms are a strong resume and grad-school signal.",
+    ],
+  },
+  {
+    id: "posse-foundation",
+    org: "The Posse Foundation",
+    url: "https://www.possefoundation.org",
+    industries: ["education"],
+    audiences: ["high-school"],
+    types: ["scholarship", "program"],
+    format: "in-person",
+    national: false,
+    locations: [
+      { city: "New York", state: "NY", lat: 40.7128, lng: -74.006 },
+      { city: "Chicago", state: "IL", lat: 41.8781, lng: -87.6298 },
+      { city: "Atlanta", state: "GA", lat: 33.749, lng: -84.388 },
+      { city: "Los Angeles", state: "CA", lat: 34.0522, lng: -118.2437 },
+    ],
+    cost: "free",
+    compensation: "Full-tuition leadership scholarships through partner colleges; students go to college in supportive 'posses'.",
+    deadlineNote: "Nominations happen in the fall of senior year through participating high schools.",
+    summary: "Full-tuition leadership scholarships that send students to top colleges in supportive teams.",
+    about:
+      "The Posse Foundation identifies students with extraordinary leadership potential and awards full-tuition scholarships at partner colleges, sending them in supportive cohorts ('posses') so they succeed and graduate at high rates.",
+    interviewProcess: [
+      "Get nominated (often via your high school) in the fall.",
+      "Attend group interviews in the Dynamic Assessment Process.",
+      "Advance through individual interviews with Posse and colleges.",
+      "Receive a full-tuition scholarship and join a posse.",
+    ],
+    supplements: [
+      {
+        prompt: "Describe a time you led a group toward a goal.",
+        sampleAnswer:
+          "When our robotics team lost its coach mid-season, I organized a shared schedule, split roles by strength, and kept a groupchat where we celebrated small wins. We didn't win the regional, but every member finished the season and two joined again the next year. I learned that leadership is mostly keeping people believing when things get hard.",
+        tips: "Posse's group interviews reward collaboration and drawing others in — show that, not solo heroics.",
+      },
+    ],
+    tips: [
+      "The group interview is key — help others shine, don't dominate.",
+      "Show leadership from real life, not just titles.",
+      "Be your authentic self; Posse selects for potential and character.",
     ],
   },
 ];
