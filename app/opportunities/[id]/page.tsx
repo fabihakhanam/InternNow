@@ -6,6 +6,7 @@ import {
   AUDIENCE_LABELS,
   COST_LABELS,
   TYPE_LABELS,
+  DEFAULT_PREP,
 } from "@/lib/catalog";
 import { IndustryBadge, PlainBadge, EquityBadge } from "@/components/Badges";
 import { BookmarkButton } from "@/components/BookmarkButton";
@@ -30,6 +31,10 @@ export default function OpportunityDetail({ params }: { params: { id: string } }
   const similar = OPPORTUNITIES.filter(
     (x) => x.id !== o.id && x.industries.some((i) => o.industries.includes(i))
   ).slice(0, 3);
+
+  const interviewProcess = o.interviewProcess ?? DEFAULT_PREP.interviewProcess;
+  const supplements = o.supplements ?? DEFAULT_PREP.supplements;
+  const tips = o.tips ?? DEFAULT_PREP.tips;
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-6">
@@ -89,7 +94,7 @@ export default function OpportunityDetail({ params }: { params: { id: string } }
       {/* interview process */}
       <Section title="What the process can look like">
         <ol className="space-y-3">
-          {o.interviewProcess.map((step, i) => (
+          {interviewProcess.map((step, i) => (
             <li key={i} className="flex gap-3">
               <span className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-brand-500 text-sm font-bold text-white">
                 {i + 1}
@@ -103,7 +108,7 @@ export default function OpportunityDetail({ params }: { params: { id: string } }
       {/* sample supplements */}
       <Section title="Sample supplement prompts & answers">
         <div className="space-y-4">
-          {o.supplements.map((s, i) => (
+          {supplements.map((s, i) => (
             <div key={i} className="rounded-xl2 border border-[var(--border)] bg-white p-5 shadow-soft">
               <div className="mb-1 text-xs font-bold uppercase tracking-wide text-brand-600">Prompt (example)</div>
               <p className="font-semibold">{s.prompt}</p>
@@ -121,7 +126,7 @@ export default function OpportunityDetail({ params }: { params: { id: string } }
       {/* tips */}
       <Section title="Tips to stand out">
         <ul className="space-y-2">
-          {o.tips.map((t, i) => (
+          {tips.map((t, i) => (
             <li key={i} className="flex gap-2">
               <span aria-hidden className="text-accent-500">★</span>
               <span className="text-ink-soft">{t}</span>

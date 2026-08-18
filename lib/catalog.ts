@@ -71,9 +71,11 @@ export type Opportunity = {
   deadlineNote?: string;
   summary: string;
   about: string;
-  interviewProcess: string[];
-  supplements: Supplement[];
-  tips: string[];
+  // Prep content is optional; when omitted, the UI shows solid generic guidance
+  // (see DEFAULT_PREP). Either way it's clearly labeled as an illustrative example.
+  interviewProcess?: string[];
+  supplements?: Supplement[];
+  tips?: string[];
   // Communities an organization publicly focuses on serving (for equity filters).
   equityTags?: EquityTag[];
   // Optional official social links (exact URLs). When omitted, the UI falls
@@ -1188,6 +1190,272 @@ export const OPPORTUNITIES: Opportunity[] = [
       "A clear problem and a confident pitch matter as much as the code.",
     ],
   },
+  {
+    id: "youngarts",
+    org: "National YoungArts Foundation",
+    program: "YoungArts",
+    url: "https://youngarts.org",
+    industries: ["arts"],
+    audiences: ["high-school"],
+    types: ["competition", "scholarship", "program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Miami", state: "FL", lat: 25.7617, lng: -80.1918 }],
+    cost: "free",
+    compensation: "Awards, cash prizes, mentorship, and lifelong artist support.",
+    deadlineNote: "The national competition typically has a fall deadline.",
+    summary: "National recognition and support for talented young artists (ages 15–18).",
+    about:
+      "YoungArts identifies and supports talented young artists ages 15–18 across disciplines like visual arts, writing, music, dance, film, and theater, offering recognition, mentorship, and lifelong career support.",
+  },
+  {
+    id: "deca",
+    org: "DECA",
+    url: "https://www.deca.org",
+    industries: ["business"],
+    audiences: ["high-school", "college"],
+    types: ["competition", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Reston", state: "VA", lat: 38.9586, lng: -77.357 }],
+    cost: "free",
+    compensation: "Competitive events, conferences, and scholarships.",
+    deadlineNote: "Join through a school chapter; competition season runs through the school year.",
+    summary: "Business, marketing, and entrepreneurship competitions and leadership for students.",
+    about:
+      "DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality, and management through competitive events, conferences, and scholarships, via school chapters.",
+  },
+  {
+    id: "hosa",
+    org: "HOSA – Future Health Professionals",
+    url: "https://hosa.org",
+    industries: ["healthcare"],
+    audiences: ["high-school", "college"],
+    types: ["competition", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Southlake", state: "TX", lat: 32.9412, lng: -97.1342 }],
+    cost: "free",
+    compensation: "Competitions, scholarships, and conferences.",
+    deadlineNote: "Join through a school chapter; competitive events run through the school year.",
+    summary: "Health-career competitions, leadership, and scholarships for future health professionals.",
+    about:
+      "HOSA empowers future health professionals through education, competitions, scholarships, and conferences, preparing students for careers across the health fields via school chapters.",
+  },
+  {
+    id: "first-robotics",
+    org: "FIRST",
+    program: "FIRST Robotics & Tech Challenge",
+    url: "https://www.firstinspires.org",
+    industries: ["technology", "science"],
+    audiences: ["high-school"],
+    types: ["competition", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Manchester", state: "NH", lat: 42.9956, lng: -71.4548 }],
+    cost: "free",
+    compensation: "Hands-on robotics; scholarships available to participants.",
+    deadlineNote: "Teams register seasonally; the build season runs winter into spring.",
+    summary: "Hands-on robotics competitions that build real STEM skills.",
+    about:
+      "FIRST is the world's leading youth robotics community, running hands-on STEM competitions (FIRST Tech Challenge and FIRST Robotics Competition) for students, plus scholarships.",
+  },
+  {
+    id: "dosomething",
+    org: "DoSomething.org",
+    url: "https://www.dosomething.org",
+    industries: ["nonprofit"],
+    audiences: ["high-school", "college"],
+    types: ["volunteering", "competition"],
+    format: "remote",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "free",
+    compensation: "Youth-led campaigns, many with scholarship opportunities.",
+    deadlineNote: "Join anytime; campaigns run year-round.",
+    summary: "Join youth-led campaigns for social change — many offer scholarships.",
+    about:
+      "DoSomething is a platform for young people to take action on causes they care about through campaigns and volunteering, with many actions offering scholarship opportunities.",
+  },
+  {
+    id: "junior-achievement",
+    org: "Junior Achievement (JA USA)",
+    url: "https://jausa.ja.org",
+    industries: ["business", "education"],
+    audiences: ["high-school"],
+    types: ["program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Colorado Springs", state: "CO", lat: 38.8339, lng: -104.8214 }],
+    cost: "free",
+    compensation: "Free financial-literacy, work-readiness, and entrepreneurship programs.",
+    deadlineNote: "Offered through schools and local JA areas year-round.",
+    summary: "Hands-on programs in financial literacy, work readiness, and entrepreneurship.",
+    about:
+      "Junior Achievement delivers experiential programs in financial literacy, work readiness, and entrepreneurship, often through schools and local JA offices.",
+  },
+  {
+    id: "kode-with-klossy",
+    org: "Kode With Klossy",
+    url: "https://www.kodewithklossy.com",
+    industries: ["technology"],
+    audiences: ["high-school"],
+    types: ["summer-program", "program"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "free",
+    compensation: "Free coding camps; no experience needed.",
+    deadlineNote: "Applications for summer camps typically open in the winter/spring.",
+    summary: "Free coding camps for young women and gender-expansive youth ages 13–18.",
+    about:
+      "Kode With Klossy offers free coding programs for young women and gender-expansive youth (ages 13–18), welcoming all experience levels.",
+    equityTags: ["women-in-stem"],
+  },
+  {
+    id: "breakthrough-collaborative",
+    org: "Breakthrough Collaborative",
+    url: "https://www.breakthroughcollaborative.org",
+    industries: ["education"],
+    audiences: ["high-school", "college"],
+    types: ["program", "fellowship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "San Francisco", state: "CA", lat: 37.7749, lng: -122.4194 }],
+    cost: "free",
+    compensation: "Free college prep for students; paid summer teaching fellowships for college students.",
+    deadlineNote: "Student and teaching-fellow applications run in the winter/spring.",
+    summary: "College prep for underserved students and teaching fellowships for college students.",
+    about:
+      "Breakthrough Collaborative provides college preparation for students from underserved communities and develops aspiring educators through paid summer teaching fellowships.",
+    equityTags: ["first-gen", "low-income", "students-of-color"],
+  },
+  {
+    id: "habitat-for-humanity",
+    org: "Habitat for Humanity",
+    url: "https://www.habitat.org",
+    industries: ["nonprofit", "environment"],
+    audiences: ["high-school", "college"],
+    types: ["volunteering"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Atlanta", state: "GA", lat: 33.749, lng: -84.388 }],
+    cost: "free",
+    compensation: "Volunteer builds; youth and collegiate programs.",
+    deadlineNote: "Volunteer opportunities are available year-round through local affiliates.",
+    summary: "Volunteer to build homes and community, with youth and collegiate programs.",
+    about:
+      "Habitat for Humanity is a global nonprofit that builds affordable housing; students can volunteer through Youth Programs and the Collegiate Challenge with local affiliates.",
+  },
+  {
+    id: "close-up",
+    org: "Close Up Foundation",
+    url: "https://www.closeup.org",
+    industries: ["government"],
+    audiences: ["high-school"],
+    types: ["program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Washington", state: "DC", lat: 38.9072, lng: -77.0369 }],
+    cost: "paid",
+    compensation: "Washington, DC civic programs; scholarships available.",
+    deadlineNote: "Programs run throughout the school year.",
+    summary: "Hands-on civic education and Washington, DC student travel programs.",
+    about:
+      "The Close Up Foundation runs civic education and hands-on Washington, DC travel programs that help students build the skills to become engaged citizens; scholarships are available.",
+  },
+  {
+    id: "hack-club",
+    org: "Hack Club",
+    url: "https://hackclub.com",
+    industries: ["technology"],
+    audiences: ["high-school"],
+    types: ["program", "competition"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Burlington", state: "VT", lat: 44.4759, lng: -73.2121 }],
+    cost: "free",
+    compensation: "Free clubs, hackathons, and maker events for teens.",
+    deadlineNote: "Join anytime; clubs and hackathons run year-round.",
+    summary: "A teen movement of coding clubs, hackathons, and maker events.",
+    about:
+      "Hack Club is a nonprofit network of teen-led coding clubs and hackathons where students (ages 13–18) build real projects together.",
+  },
+  {
+    id: "rsi-cee",
+    org: "Center for Excellence in Education",
+    program: "Research Science Institute (RSI)",
+    url: "https://www.cee.org",
+    industries: ["science"],
+    audiences: ["high-school"],
+    types: ["summer-program", "research"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "McLean", state: "VA", lat: 38.9339, lng: -77.1773 }],
+    cost: "free",
+    compensation: "Free, highly selective summer STEM research program.",
+    deadlineNote: "Applications are typically due in the winter for the summer program.",
+    summary: "A free, prestigious summer research program for high school students.",
+    about:
+      "The Center for Excellence in Education runs the Research Science Institute (RSI), a free and highly selective summer program pairing top high school students with mentors for original STEM research.",
+  },
+  {
+    id: "fbla",
+    org: "FBLA (Future Business Leaders of America)",
+    url: "https://www.fbla.org",
+    industries: ["business"],
+    audiences: ["high-school"],
+    types: ["competition", "program"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Reston", state: "VA", lat: 38.9586, lng: -77.357 }],
+    cost: "free",
+    compensation: "Competitive events, conferences, and scholarships.",
+    deadlineNote: "Join through a school chapter; competitions run through the school year.",
+    summary: "Business leadership, competitions, and career prep for high school students.",
+    about:
+      "FBLA prepares students for careers in business and business-related fields through competitive events, conferences, and leadership development via school chapters.",
+  },
+  {
+    id: "bottom-line",
+    org: "Bottom Line",
+    url: "https://www.bottomline.org",
+    industries: ["education"],
+    audiences: ["high-school", "college"],
+    types: ["program", "mentorship"],
+    format: "hybrid",
+    national: false,
+    locations: [
+      { city: "Boston", state: "MA", lat: 42.3601, lng: -71.0589 },
+      { city: "New York", state: "NY", lat: 40.7128, lng: -74.006 },
+      { city: "Chicago", state: "IL", lat: 41.8781, lng: -87.6298 },
+      { city: "Houston", state: "TX", lat: 29.7604, lng: -95.3698 },
+    ],
+    cost: "free",
+    compensation: "Free one-on-one college advising.",
+    deadlineNote: "Enrollment aligns with the school-year advising calendar.",
+    summary: "One-on-one college access and success advising for first-gen, low-income students.",
+    about:
+      "Bottom Line provides personalized college access and success advising to help first-generation and low-income students affordably get into college, persist, and graduate career-ready.",
+    equityTags: ["first-gen", "low-income"],
+  },
+  {
+    id: "science-olympiad",
+    org: "Science Olympiad",
+    url: "https://www.soinc.org",
+    industries: ["science"],
+    audiences: ["high-school"],
+    types: ["competition"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "East Lansing", state: "MI", lat: 42.736, lng: -84.4839 }],
+    cost: "free",
+    compensation: "Team STEM competition via state chapters.",
+    deadlineNote: "Join through your state chapter; tournaments run winter into spring.",
+    summary: "The nation's leading team STEM competition.",
+    about:
+      "Science Olympiad is a team-based STEM competition with standards-based events across all 50 states; students join through their state chapter and school team.",
+  },
 ];
 
 // Communities each org publicly focuses on serving. Tags reflect an
@@ -1229,6 +1497,29 @@ for (const o of OPPORTUNITIES) {
   if (EQUITY[o.id]) o.equityTags = EQUITY[o.id];
   if (EXTRA_TYPES[o.id]) o.types = Array.from(new Set([...o.types, ...EXTRA_TYPES[o.id]]));
 }
+
+// Generic, honestly-labeled prep shown for opportunities without custom content.
+export const DEFAULT_PREP = {
+  interviewProcess: [
+    "Review the official site for eligibility, requirements, and deadlines.",
+    "Prepare your materials — a résumé and, if asked, short essays or a portfolio.",
+    "Submit the application before the deadline and keep a copy of what you sent.",
+    "If shortlisted, complete an interview or activity, then await a decision.",
+  ],
+  supplements: [
+    {
+      prompt: "Why are you interested in this opportunity, and what will you bring?",
+      sampleAnswer:
+        "I'm drawn to this because it lines up with something I already care about, and I've shown that through a specific project or activity. I'd bring curiosity, reliability, and a willingness to learn quickly. Most of all, I want to grow in this field and this is a real chance to do that.",
+      tips: "Swap in a specific example from your own life. Specific beats generic every time.",
+    },
+  ],
+  tips: [
+    "Read the eligibility and deadline details on the official site carefully.",
+    "Tailor your application to this specific program, not a generic template.",
+    "Ask for recommendations early and give recommenders your résumé.",
+  ],
+} as const;
 
 // ---- helpers ---------------------------------------------------------------
 
