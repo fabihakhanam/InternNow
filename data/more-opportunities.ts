@@ -1,6 +1,6 @@
 import type { Opportunity } from "@/lib/catalog";
 
-// Auto-generated from verified research (workflow internnow-expand-catalog, all 12 categories).
+// Auto-generated from verified research (see InternNow expansion workflows).
 export const MORE_OPPORTUNITIES: Opportunity[] = [
   {
     "id": "codepath",
@@ -2872,5 +2872,1992 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
       "students-of-color",
       "women-in-stem"
     ]
+  },
+  {
+    "id": "boston-consulting-group-bcg",
+    "org": "Boston Consulting Group (BCG)",
+    "program": "Summer Associate/Consultant Internship",
+    "url": "https://careers.bcg.com/internships",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for the following summer",
+    "summary": "BCG offers paid summer consulting internships for undergraduates and MBAs, working on real client projects with mentorship.",
+    "about": "Boston Consulting Group is a leading global management consulting firm. Its internships give students hands-on strategy consulting experience with structured mentorship and training. Programs are national across US offices."
+  },
+  {
+    "id": "bain-and-company",
+    "org": "Bain & Company",
+    "program": "Associate Consultant Intern",
+    "url": "https://www.bain.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications generally open in the fall on a rolling basis",
+    "summary": "Bain runs paid consulting internships (Associate Consultant Intern) for undergraduates and graduate students across US offices.",
+    "about": "Bain & Company is a global management consulting firm headquartered in Boston. It offers internship and early-career programs for students, including the Associate Consultant Intern role, with real client casework."
+  },
+  {
+    "id": "accenture",
+    "org": "Accenture",
+    "url": "https://www.accenture.com/us-en/careers/jobsearch?jk=intern",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall on a rolling basis",
+    "summary": "Accenture offers paid internships across consulting, technology, and strategy for US undergraduate and graduate students.",
+    "about": "Accenture is a global professional-services company specializing in technology and consulting. It recruits US students into internships spanning strategy, consulting, and technology delivery."
+  },
+  {
+    "id": "pwc-pricewaterhousecoopers",
+    "org": "PwC (PricewaterhouseCoopers)",
+    "program": "Entry Level / University Relations",
+    "url": "https://jobs.us.pwc.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for summer positions",
+    "summary": "PwC US runs paid internships in assurance, tax, and advisory for undergraduate and graduate students nationwide.",
+    "about": "PwC is one of the Big Four professional-services firms. Its US Entry Level and University Relations programs place students into internships across audit, tax, and consulting practices."
+  },
+  {
+    "id": "ey-ernst-and-young",
+    "org": "EY (Ernst & Young)",
+    "url": "https://careers.ey.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall on a rolling basis",
+    "summary": "EY offers paid internships in assurance, consulting, tax, and strategy for US undergraduate and graduate students.",
+    "about": "EY (Ernst & Young) is a Big Four professional-services firm. Its Early Careers program recruits US students into internships across audit, tax, consulting, and strategy."
+  },
+  {
+    "id": "kpmg",
+    "org": "KPMG",
+    "url": "https://kpmguscareers.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall on a rolling basis",
+    "summary": "KPMG US offers paid internships in audit, tax, and advisory for undergraduate and graduate students nationwide.",
+    "about": "KPMG is a Big Four audit, tax, and advisory firm. Its US campus recruiting places students into internships across its service lines through the Early Career program."
+  },
+  {
+    "id": "oliver-wyman",
+    "org": "Oliver Wyman",
+    "program": "Summer Consulting Internship",
+    "url": "https://www.oliverwyman.com/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall",
+    "summary": "Oliver Wyman offers paid summer consulting internships for undergraduate and graduate students at US offices.",
+    "about": "Oliver Wyman is a global management consulting firm and part of Marsh McLennan. It offers summer internships giving students hands-on strategy and operations consulting experience."
+  },
+  {
+    "id": "capgemini",
+    "org": "Capgemini",
+    "url": "https://www.capgemini.com/us-en/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall on a rolling basis",
+    "summary": "Capgemini offers paid US internships in technology and business consulting for students and recent graduates.",
+    "about": "Capgemini is a global technology and consulting services firm. Its US Students and Graduates track recruits interns across consulting, engineering, and digital brands like Capgemini Invent."
+  },
+  {
+    "id": "zs-associates",
+    "org": "ZS Associates",
+    "url": "https://www.zs.com/careers",
+    "industries": [
+      "business",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Evanston",
+        "state": "IL",
+        "lat": 42.0451,
+        "lng": -87.6877
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall on a rolling basis",
+    "summary": "ZS offers paid internships in analytics and consulting, often serving pharma/healthcare clients, for US students.",
+    "about": "ZS Associates is a management consulting and analytics firm known for healthcare and life-sciences work. Interns work on real client projects with experienced mentors, gaining hands-on consulting experience."
+  },
+  {
+    "id": "booz-allen-hamilton",
+    "org": "Booz Allen Hamilton",
+    "program": "Internships & Early Careers",
+    "url": "https://www.boozallen.com/careers.html",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "McLean",
+        "state": "VA",
+        "lat": 38.9339,
+        "lng": -77.1773
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall on a rolling basis",
+    "summary": "Booz Allen offers paid internships in consulting, analytics, and technology for US undergraduate and graduate students.",
+    "about": "Booz Allen Hamilton is a management and technology consulting firm serving government and commercial clients. Its Internships & Early Careers program places students across consulting, analytics, and technology roles."
+  },
+  {
+    "id": "citi",
+    "org": "Citi",
+    "program": "Citi Early Career (Summer Analyst)",
+    "url": "https://jobs.citi.com/students-and-graduates",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for the following summer.",
+    "summary": "Citi's summer analyst and early-career internships across banking, markets, tech and corporate functions for US undergraduates.",
+    "about": "Citi is a global investment bank and financial services firm. Its early-career programs place students into pre-internships, summer internships and full-time analyst roles across banking, markets, technology and corporate functions."
+  },
+  {
+    "id": "barclays",
+    "org": "Barclays",
+    "program": "Barclays Summer Internship",
+    "url": "https://search.jobs.barclays/early-careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "Barclays summer and off-cycle internships giving students real projects across investment banking and markets, with US roles in NY, Boston, SF and Houston.",
+    "about": "Barclays is a British universal bank with major US investment banking and markets operations. Its early-careers program offers summer and off-cycle internships with real client projects across US offices."
+  },
+  {
+    "id": "wells-fargo",
+    "org": "Wells Fargo",
+    "program": "Wells Fargo Undergraduate Summer Internship",
+    "url": "https://www.wellsfargojobs.com/en/university-programs",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "Wells Fargo summer internships across investment banking, quantitative analytics, commercial banking, finance, audit and wealth management for US undergraduates.",
+    "about": "Wells Fargo is a major US bank. Its undergraduate programs provide summer internships with specialized training, mentorship and access to senior leaders across banking, markets, finance, risk and wealth management."
+  },
+  {
+    "id": "jefferies",
+    "org": "Jefferies",
+    "program": "Jefferies Intern and Entry-Level Program",
+    "url": "https://www.jefferies.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "Jefferies summer internship and entry-level programs in investment banking and markets, with campus recruiting and cross-divisional mentorship.",
+    "about": "Jefferies is a global investment bank. Its campus recruiting offers intern and entry-level programs with training, campus events and a cross-divisional mentorship initiative for students and graduates."
+  },
+  {
+    "id": "evercore",
+    "org": "Evercore",
+    "program": "Evercore Summer Analyst",
+    "url": "https://www.evercore.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "Evercore summer analyst internships in advisory investment banking for US undergraduates, with a dedicated students & graduates track.",
+    "about": "Evercore is an independent investment banking advisory firm. Its students & graduates program offers summer analyst internships focused on M&A and strategic advisory work."
+  },
+  {
+    "id": "lazard",
+    "org": "Lazard",
+    "program": "Lazard Summer Analyst",
+    "url": "https://www.lazard.com/careers/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "Lazard summer analyst internships in financial advisory and asset management for US undergraduates.",
+    "about": "Lazard is a global financial advisory and asset management firm. Its students program offers summer analyst internships across advisory and asset management in the United States."
+  },
+  {
+    "id": "ubs",
+    "org": "UBS",
+    "program": "UBS Early Careers Internship",
+    "url": "https://www.ubs.com/global/en/careers/early-careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "UBS early-careers internships and entry-level programs across investment banking, markets and wealth management for US students.",
+    "about": "UBS is a global bank and wealth manager with significant US operations. Its early-careers program offers internships and entry-level roles across investment banking, markets and wealth management."
+  },
+  {
+    "id": "deutsche-bank",
+    "org": "Deutsche Bank",
+    "program": "Deutsche Bank Internship Programme",
+    "url": "https://careers.db.com/students-graduates",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications open in the fall for the following summer.",
+    "summary": "Deutsche Bank internship programme for penultimate-year students, plus insight programmes for freshmen and sophomores, across banking and infrastructure.",
+    "about": "Deutsche Bank is a global investment bank with major US operations. Its internship programme, for penultimate-year students, offers formal training and networking across business divisions, alongside earlier-year insight programmes."
+  },
+  {
+    "id": "procter-and-gamble",
+    "org": "Procter & Gamble",
+    "url": "https://www.pgcareers.com/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cincinnati",
+        "state": "OH",
+        "lat": 39.1031,
+        "lng": -84.512
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "P&G offers paid summer internships across brand management, finance, engineering, R&D, sales and more for US undergrad and MBA students.",
+    "about": "Procter & Gamble is a global consumer packaged goods company headquartered in Cincinnati, Ohio. Its internship program places students in real business roles across functions and is a primary pipeline into full-time entry roles."
+  },
+  {
+    "id": "pepsico",
+    "org": "PepsiCo",
+    "program": "PepsiCo Internships & Programs",
+    "url": "https://www.pepsicojobs.com/main/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Purchase",
+        "state": "NY",
+        "lat": 41.0426,
+        "lng": -73.7132
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications generally open in the fall for the following summer.",
+    "summary": "PepsiCo brings ~1,000 interns into 20 departments across US offices, with internships and early-career programs for undergrads and MBAs.",
+    "about": "PepsiCo is a global food and beverage company headquartered in Purchase, New York. It runs large-scale US internships spanning functions from engineering to marketing to law, plus named early-career programs."
+  },
+  {
+    "id": "the-coca-cola-company",
+    "org": "The Coca-Cola Company",
+    "url": "https://careers.coca-colacompany.com/early-careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Internship applications typically open in the fall.",
+    "summary": "The Coca-Cola Company offers paid US internships and early-career opportunities across business, marketing, supply chain and finance functions.",
+    "about": "The Coca-Cola Company is a global beverage company headquartered in Atlanta, Georgia. Its early-careers site hosts internship and entry-level opportunities for university students in the US."
+  },
+  {
+    "id": "general-mills",
+    "org": "General Mills",
+    "url": "https://careers.generalmills.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Golden Valley",
+        "state": "MN",
+        "lat": 46.3,
+        "lng": -94.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "General Mills runs a University & Internships program placing students across marketing, finance, supply chain, R&D and other functions.",
+    "about": "General Mills is a food manufacturer headquartered in Golden Valley, Minnesota. It offers a dedicated university and internships track that feeds its full-time early-career hiring."
+  },
+  {
+    "id": "nike",
+    "org": "Nike",
+    "url": "https://careers.nike.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Beaverton",
+        "state": "OR",
+        "lat": 45.4871,
+        "lng": -122.8037
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Internship applications typically open in the fall/winter.",
+    "summary": "The Nike Internship Experience offers paid internships across design, marketing, product, technology and business functions for students.",
+    "about": "Nike, Inc. is a global athletic footwear and apparel company headquartered in Beaverton, Oregon. It runs a structured internship experience across its Nike, Jordan and Converse brands."
+  },
+  {
+    "id": "target",
+    "org": "Target",
+    "program": "Target Internships & Graduate Programs",
+    "url": "https://corporate.target.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Target offers internships, graduate programs and entry-level roles across merchandising, stores, supply chain, finance and technology.",
+    "about": "Target Corporation is a major US retailer headquartered in Minneapolis, Minnesota. Its early-career track includes internships and graduate programs designed as pathways to full-time roles."
+  },
+  {
+    "id": "colgate-palmolive",
+    "org": "Colgate-Palmolive",
+    "url": "https://jobs.colgate.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Colgate-Palmolive offers paid student internships across marketing, finance, supply chain, R&D and other business functions.",
+    "about": "Colgate-Palmolive is a consumer products company headquartered in New York City. It operates a Student Opportunities track that includes internships across its global business functions."
+  },
+  {
+    "id": "mars",
+    "org": "Mars",
+    "url": "https://careers.mars.com/us/en",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "McLean",
+        "state": "VA",
+        "lat": 38.9339,
+        "lng": -77.1773
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Mars offers US internships across supply chain, engineering, marketing, R&D, sales and finance in its snacking, food and petcare segments.",
+    "about": "Mars, Incorporated is a privately held food, snacking and petcare company headquartered in McLean, Virginia. It hires students into internships across its business segments and functions."
+  },
+  {
+    "id": "unilever",
+    "org": "Unilever",
+    "url": "https://careers.unilever.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Englewood Cliffs",
+        "state": "NJ",
+        "lat": 40.1,
+        "lng": -74.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Unilever's Early Careers program offers US internships across marketing, supply chain, finance, R&D and other functions.",
+    "about": "Unilever is a global consumer goods company whose US operations are headquartered in Englewood Cliffs, New Jersey. Its Early Careers track includes internships and graduate opportunities."
+  },
+  {
+    "id": "l-oreal",
+    "org": "L'Oreal",
+    "program": "SeedZ / Brandstorm",
+    "url": "https://www.loreal.com/en/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall; Brandstorm challenge runs annually.",
+    "summary": "L'Oreal offers US internships plus early-talent programs like SeedZ and the Brandstorm innovation challenge for students.",
+    "about": "L'Oreal is the world's largest cosmetics company, with US operations headquartered in New York City. It provides thousands of internships and early-career opportunities and runs named programs such as SeedZ and Brandstorm."
+  },
+  {
+    "id": "pfizer",
+    "org": "Pfizer",
+    "program": "Early Careers",
+    "url": "https://www.pfizer.com/about/careers",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Pfizer runs paid summer internships and Early Careers programs across R&D, manufacturing, and commercial functions for US students.",
+    "about": "Pfizer is a global biopharmaceutical company headquartered in New York City. Its Early Careers program offers undergraduate and graduate internships across research, manufacturing, digital, and commercial areas."
+  },
+  {
+    "id": "johnson-and-johnson",
+    "org": "Johnson & Johnson",
+    "program": "Internships & Co-ops",
+    "url": "https://www.careers.jnj.com/en",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New Brunswick",
+        "state": "NJ",
+        "lat": 40.1,
+        "lng": -74.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "J&J offers paid internships, co-ops, and leadership development programs for students across pharmaceutical and medtech businesses.",
+    "about": "Johnson & Johnson is a healthcare company headquartered in New Brunswick, NJ. It hires students into internships, co-ops, and early-career leadership development programs across its Innovative Medicine and MedTech segments."
+  },
+  {
+    "id": "merck-and-co",
+    "org": "Merck & Co.",
+    "url": "https://jobs.merck.com",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Rahway",
+        "state": "NJ",
+        "lat": 40.6082,
+        "lng": -74.2777
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Merck offers paid student internships and co-ops across research labs, manufacturing, and support functions in the US.",
+    "about": "Merck & Co. (known as MSD outside the US and Canada) is a pharmaceutical company headquartered in Rahway, NJ. It recruits students into internships across its research, manufacturing, and business functions."
+  },
+  {
+    "id": "amgen",
+    "org": "Amgen",
+    "url": "https://careers.amgen.com/en",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "lat": 34.1706,
+        "lng": -118.8376
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Amgen offers paid internships for students and graduates across biotech research, manufacturing, and business roles.",
+    "about": "Amgen is a biotechnology company headquartered in Thousand Oaks, CA. It hires students and recent graduates into internships and early-career roles supporting the development of human therapeutics."
+  },
+  {
+    "id": "gilead-sciences",
+    "org": "Gilead Sciences",
+    "program": "Gilead Internship Program",
+    "url": "https://www.gilead.com/careers",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Foster City",
+        "state": "CA",
+        "lat": 37.5585,
+        "lng": -122.2711
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "The Gilead Internship Program offers paid internships for students across research, clinical, and business functions.",
+    "about": "Gilead Sciences is a biopharmaceutical company headquartered in Foster City, CA. Its Gilead Internship Program and postdoctoral fellowships provide students hands-on experience in drug discovery and development."
+  },
+  {
+    "id": "bristol-myers-squibb",
+    "org": "Bristol Myers Squibb",
+    "program": "Internships & Co-ops",
+    "url": "https://careers.bms.com/early-career",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "BMS offers paid summer internships and co-ops plus rotational leadership development programs, some running 20+ years.",
+    "about": "Bristol Myers Squibb is a biopharmaceutical company headquartered in New York City. It runs summer internships, school-credit co-ops, and rotational leadership development programs for students and advanced-degree candidates."
+  },
+  {
+    "id": "genentech",
+    "org": "Genentech",
+    "url": "https://careers.gene.com/us/en",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "South San Francisco",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "Genentech offers paid internships across biotech research, development, and commercial functions for US students.",
+    "about": "Genentech, a member of the Roche Group, is a biotechnology company headquartered in South San Francisco, CA. It recruits students into internships spanning research, clinical, and business roles."
+  },
+  {
+    "id": "cvs-health",
+    "org": "CVS Health",
+    "program": "Leadership Development Programs",
+    "url": "https://jobs.cvshealth.com/us/en/students",
+    "industries": [
+      "healthcare",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Woonsocket",
+        "state": "RI",
+        "lat": 41.7,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "CVS Health offers paid internships across clinical, corporate, pharmacy, and retail tracks, plus post-grad leadership development programs.",
+    "about": "CVS Health is a diversified health services and pharmacy company headquartered in Woonsocket, RI. Its student programs include internships across clinical, corporate, pharmacy, and retail management, plus leadership development programs. Its internships have earned Vault top rankings."
+  },
+  {
+    "id": "unitedhealth-group-optum",
+    "org": "UnitedHealth Group (Optum)",
+    "program": "Early Careers",
+    "url": "https://careers.unitedhealthgroup.com",
+    "industries": [
+      "healthcare",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Minnetonka",
+        "state": "MN",
+        "lat": 46.3,
+        "lng": -94.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for summer internships.",
+    "summary": "UnitedHealth Group and Optum offer paid Early Careers internships across technology, data, finance, clinical, and business roles.",
+    "about": "UnitedHealth Group is a health care and services company headquartered in Minnetonka, MN, and parent of Optum and UnitedHealthcare. Its Early Careers program places students into internships across technology, data science, finance, and clinical operations."
+  },
+  {
+    "id": "boeing",
+    "org": "Boeing",
+    "program": "Boeing Internship Program",
+    "url": "https://jobs.boeing.com/internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Arlington",
+        "state": "VA",
+        "lat": 38.8799,
+        "lng": -77.1068
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "US applications open in the fall (Aug-Oct) for summer, with a spring window (Feb-Mar); program runs mid-May to Sept.",
+    "summary": "Paid summer internships in engineering, business, and IT/data at the aerospace and defense manufacturer.",
+    "about": "Boeing is one of the world's largest aerospace companies, building commercial jets, defense systems, and space vehicles. Its paid US internships offer real project work, mentorship, and development events across engineering, business operations, and IT/data disciplines."
+  },
+  {
+    "id": "lockheed-martin",
+    "org": "Lockheed Martin",
+    "program": "College Internships",
+    "url": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Bethesda",
+        "state": "MD",
+        "lat": 38.9959,
+        "lng": -77.101
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Roles posted on rolling basis via the careers portal; most summer internships recruit in the fall.",
+    "summary": "Paid college internships and early-career roles tied to national security, aeronautics, and space missions.",
+    "about": "Lockheed Martin is a global aerospace, defense, and security company. Its student and early-careers program includes college internships, apprenticeships, and full-time recent-grad roles where interns work on real missions rather than shadowing."
+  },
+  {
+    "id": "northrop-grumman",
+    "org": "Northrop Grumman",
+    "program": "Students & Entry-Level Program",
+    "url": "https://www.northropgrumman.com/careers/students-and-entry-level-careers-start-a-career-of-purpose",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Falls Church",
+        "state": "VA",
+        "lat": 38.8823,
+        "lng": -77.1711
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internships typically open for applications in the fall; roles listed on rolling basis.",
+    "summary": "Paid internships and entry-level roles across aerospace, defense, and space technology programs.",
+    "about": "Northrop Grumman is a leading global aerospace and defense technology company. Its students and entry-level program exposes interns and early-career employees to work across aeronautics, space, mission, and defense systems."
+  },
+  {
+    "id": "rtx-raytheon",
+    "org": "RTX (Raytheon)",
+    "program": "Campus Programs",
+    "url": "https://careers.rtx.com/global/en/campusprograms",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Arlington",
+        "state": "VA",
+        "lat": 38.8799,
+        "lng": -77.1068
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Campus/summer roles generally open in the fall; positions posted on rolling basis.",
+    "summary": "Paid campus internships across RTX businesses: Collins Aerospace, Pratt & Whitney, and Raytheon.",
+    "about": "RTX is an aerospace and defense company formed from Raytheon, comprising Collins Aerospace, Pratt & Whitney, and Raytheon. Its Campus Programs offer internships and early-career roles in engineering and other fields across its business units."
+  },
+  {
+    "id": "general-motors",
+    "org": "General Motors",
+    "program": "GM Internship Program",
+    "url": "https://search-careers.gm.com/en/students-and-graduates",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "10-12 week summer internships; applications typically open in the fall.",
+    "summary": "Paid 10-12 week internships and the TRACK Program across engineering, manufacturing, and IT.",
+    "about": "General Motors is a global automaker pursuing a vision of zero crashes, zero emissions, and zero congestion. Its Early Careers offerings include a 10-12 week Internship Program and the rotational TRACK Program across engineering, manufacturing, IT, and more."
+  },
+  {
+    "id": "ford-motor-company",
+    "org": "Ford Motor Company",
+    "program": "Summer Interns Program",
+    "url": "https://jobs.ford.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Dearborn",
+        "state": "MI",
+        "lat": 42.3223,
+        "lng": -83.1763
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internships; applications generally open in the fall.",
+    "summary": "Paid summer internships and student full-time roles at the automaker across engineering and business.",
+    "about": "Ford Motor Company is a major American automaker producing vehicles and mobility technology. Its careers site lists a Summer Interns Program plus full-time roles for recent graduates across engineering and business functions."
+  },
+  {
+    "id": "tesla",
+    "org": "Tesla",
+    "program": "Tesla Internship Program",
+    "url": "https://www.tesla.com/careers/students",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Internships offered year-round in multiple sessions; applications open on a rolling basis, largely in the fall for summer.",
+    "summary": "Paid internships in EV, energy, and manufacturing engineering plus business functions at Tesla.",
+    "about": "Tesla designs and manufactures electric vehicles, battery energy storage, and solar products. Its internship program places students on real engineering, software, manufacturing, and business teams across multiple sessions per year."
+  },
+  {
+    "id": "spacex",
+    "org": "SpaceX",
+    "program": "SpaceX Internship Program",
+    "url": "https://www.spacex.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Hawthorne",
+        "state": "CA",
+        "lat": 33.9164,
+        "lng": -118.3526
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Internships run in spring, summer, and fall sessions; applications open on a rolling basis.",
+    "summary": "Paid internships in rocket, spacecraft, and Starlink engineering plus operations at SpaceX.",
+    "about": "SpaceX designs, manufactures, and launches advanced rockets and spacecraft, including Falcon, Dragon, Starship, and Starlink. It runs paid internships across engineering and operations in spring, summer, and fall sessions."
+  },
+  {
+    "id": "general-dynamics",
+    "org": "General Dynamics",
+    "program": "Internships & Co-ops",
+    "url": "https://www.gd.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Reston",
+        "state": "VA",
+        "lat": 38.9586,
+        "lng": -77.357
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Internships and co-ops posted across business units; most summer roles open in the fall.",
+    "summary": "Paid internships and co-ops across aerospace, marine, combat, and technology business units.",
+    "about": "General Dynamics is a global aerospace and defense company whose business units include Gulfstream, Electric Boat, Land Systems, and GDIT. It offers internships and co-op positions across engineering, technology, and business functions."
+  },
+  {
+    "id": "chevron",
+    "org": "Chevron",
+    "program": "Internship Program",
+    "url": "https://careers.chevron.com/internship",
+    "industries": [
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall; many roles filled on a rolling basis.",
+    "summary": "Chevron offers paid summer internships and early-career development roles for undergraduate and graduate students in engineering, geoscience, business and IT.",
+    "about": "Chevron is one of the world's largest integrated energy companies. Its U.S. internship program places students across engineering, geoscience, finance and technology functions and feeds a broader early-career development pipeline."
+  },
+  {
+    "id": "slb-schlumberger",
+    "org": "SLB (Schlumberger)",
+    "url": "https://careers.slb.com/early-careers/internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall; recruiting is largely rolling.",
+    "summary": "SLB runs paid internships for students across operations, technology, geoscience, petrotechnical and commercial/business tracks.",
+    "about": "SLB (formerly Schlumberger) is a global technology company serving the energy industry. Its Early Careers program offers student internships across field operations, engineering, geoscience and business functions."
+  },
+  {
+    "id": "caterpillar",
+    "org": "Caterpillar",
+    "url": "https://careers.caterpillar.com/en/students-graduates/interns-and-graduates",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Irving",
+        "state": "TX",
+        "lat": 32.814,
+        "lng": -96.9489
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall for summer roles.",
+    "summary": "Caterpillar offers paid internships and co-ops plus professional development programs for engineering, manufacturing, supply chain and business students.",
+    "about": "Caterpillar is the world's leading manufacturer of construction and mining equipment, engines and industrial power systems. Its Students & Graduates track includes internships, co-ops and structured professional development programs."
+  },
+  {
+    "id": "emerson",
+    "org": "Emerson",
+    "url": "https://www.emerson.com/en-us/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "St. Louis",
+        "state": "MO",
+        "lat": 38.4,
+        "lng": -92.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall; roles filled on a rolling basis.",
+    "summary": "Emerson offers paid internships and early-career programs for engineering, technology and business students across its automation and industrial businesses.",
+    "about": "Emerson is a global industrial automation and engineering technology company. It runs a Students & Graduates program and was named a Handshake Early Talent Award employer in 2026."
+  },
+  {
+    "id": "ge-aerospace",
+    "org": "GE Aerospace",
+    "url": "https://careers.geaerospace.com/global/en/global-students-new-graduates",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cincinnati",
+        "state": "OH",
+        "lat": 39.1031,
+        "lng": -84.512
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall for summer roles.",
+    "summary": "GE Aerospace offers paid internships and co-ops for engineering, manufacturing and business students, plus early-career leadership programs.",
+    "about": "GE Aerospace designs and manufactures commercial and military jet engines and systems. Its Students and New Graduates program provides internships, co-ops and early-career development, and it ranks highly among U.S. engineering-student employers."
+  },
+  {
+    "id": "exxonmobil",
+    "org": "ExxonMobil",
+    "url": "https://jobs.exxonmobil.com/search/?q=intern&locationsearch=United+States",
+    "industries": [
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Spring",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Student internship/co-op postings open in the fall and are accepted on a rolling basis.",
+    "summary": "ExxonMobil offers paid internships and co-ops for STEM, business, commercial, trading and PhD students across engineering and science functions.",
+    "about": "ExxonMobil is one of the largest publicly traded integrated energy companies. It recruits interns and co-ops in STEM, business, commercial and trading disciplines, with many roles based near its Houston-area headquarters."
+  },
+  {
+    "id": "halliburton",
+    "org": "Halliburton",
+    "url": "https://jobs.halliburton.com/students-and-grads",
+    "industries": [
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall; recruiting is largely rolling.",
+    "summary": "Halliburton offers internships and early-career roles for engineering, science and business students entering the energy services industry.",
+    "about": "Halliburton is one of the world's largest providers of products and services to the energy industry. Its Students & Recent Graduates track offers internships and entry-level roles across engineering, technology and business."
+  },
+  {
+    "id": "conocophillips",
+    "org": "ConocoPhillips",
+    "url": "https://careers.conocophillips.com/university-students",
+    "industries": [
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "University/internship applications typically open in the fall.",
+    "summary": "ConocoPhillips offers paid internships and university-recruiting roles for engineering, geoscience, business and technology students.",
+    "about": "ConocoPhillips is one of the world's largest independent exploration and production companies. Its University Students program provides internships and entry-level roles across technical and business functions."
+  },
+  {
+    "id": "phillips-66",
+    "org": "Phillips 66",
+    "url": "https://careers.phillips66.com",
+    "industries": [
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship",
+    "deadlineNote": "Applications typically open in the fall for summer roles.",
+    "summary": "Phillips 66 offers paid internships and co-ops for engineering, science, IT and business students across refining and midstream operations.",
+    "about": "Phillips 66 is a diversified energy manufacturing and logistics company spanning refining, midstream, chemicals and marketing. Its Students and Graduates program includes internships and co-ops across technical and business fields."
+  },
+  {
+    "id": "the-walt-disney-company",
+    "org": "The Walt Disney Company",
+    "program": "Disney Internships",
+    "url": "https://jobs.disneycareers.com/internships",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Burbank",
+        "state": "CA",
+        "lat": 34.1808,
+        "lng": -118.309
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Roles posted on a rolling basis; many summer/professional internships open in the fall.",
+    "summary": "Disney offers paid professional and campus internships across media, entertainment, parks, and technology for college students.",
+    "about": "The Walt Disney Company runs an established Disney Internships program placing undergraduate and graduate students across its studios, media networks, parks, and corporate functions. Internships are paid and posted throughout the year on the official Disney careers site."
+  },
+  {
+    "id": "nbcuniversal",
+    "org": "NBCUniversal",
+    "program": "NBCUniversal Internship Program",
+    "url": "https://www.nbcunicareers.com/internships",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications typically open in the fall for spring and summer cohorts.",
+    "summary": "NBCUniversal runs paid internships in media, news, entertainment, and technology for college students across the US.",
+    "about": "NBCUniversal, a Comcast company, operates an established internship program for undergraduate and graduate students spanning its news, entertainment, film, and technology divisions. Positions are paid and recruited through the official NBCUniversal careers site."
+  },
+  {
+    "id": "warner-bros-discovery",
+    "org": "Warner Bros. Discovery",
+    "url": "https://careers.wbd.com",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internships generally open applications in the fall.",
+    "summary": "Warner Bros. Discovery offers paid internships across its film, TV, streaming, and news brands for college students.",
+    "about": "Warner Bros. Discovery is a global media and entertainment company whose brands include Warner Bros., HBO Max, CNN, and Discovery. It recruits undergraduate and graduate interns through its official careers site."
+  },
+  {
+    "id": "paramount",
+    "org": "Paramount",
+    "url": "https://www.paramount.com/careers/students",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications typically open in the fall/winter.",
+    "summary": "Paramount offers paid internships across CBS, MTV, Nickelodeon, and its film and streaming brands for college students.",
+    "about": "Paramount Global is a media and entertainment company operating brands such as CBS, Paramount Pictures, MTV, and Nickelodeon. Its official careers site runs an internships program for college students."
+  },
+  {
+    "id": "comcast",
+    "org": "Comcast",
+    "url": "https://jobs.comcast.com",
+    "industries": [
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications typically open in the fall.",
+    "summary": "Comcast runs paid early-career internships across media, telecom, and technology roles for college students.",
+    "about": "Comcast is a global media and technology company (parent of NBCUniversal and Xfinity). It operates an Early Career program with paid internships for undergraduate and graduate students, recruited through its official careers site."
+  },
+  {
+    "id": "verizon",
+    "org": "Verizon",
+    "url": "https://mycareer.verizon.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications typically open in the fall.",
+    "summary": "Verizon offers paid internships across technology, engineering, finance, and business for college students.",
+    "about": "Verizon Communications is a leading US telecommunications and technology company. It runs a paid internship program for undergraduate and graduate students across technical and business functions via its official careers site."
+  },
+  {
+    "id": "t-mobile",
+    "org": "T-Mobile",
+    "url": "https://careers.t-mobile.com/internship",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Bellevue",
+        "state": "WA",
+        "lat": 47.6101,
+        "lng": -122.2015
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications typically open in the fall.",
+    "summary": "T-Mobile runs a paid Early Careers internship program across technology, retail, and corporate roles for college students.",
+    "about": "T-Mobile US is a major wireless telecommunications carrier. Its official careers site features an Early Careers category with paid internship opportunities for college students and recent graduates."
+  },
+  {
+    "id": "spotify",
+    "org": "Spotify",
+    "program": "Global Summer Internship Program",
+    "url": "https://www.lifeatspotify.com/students",
+    "industries": [
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "10-week summer program (June-August); applications typically open in the fall/winter for the following summer.",
+    "summary": "Spotify's paid 10-week Global Summer Internship spans business, product, and tech teams, with a NYC location in the US.",
+    "about": "Spotify runs a paid Global Summer Internship Program lasting 10 weeks between June and August across business, product, and technical teams. In the US it is based in New York, and graduating Product & Technology interns may extend via the Emerging Talent Program."
+  },
+  {
+    "id": "electronic-arts",
+    "org": "Electronic Arts",
+    "program": "EA Emerging Talent (Internships & Co-Ops)",
+    "url": "https://www.ea.com/careers/early-careers",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Redwood City",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications typically open in the fall.",
+    "summary": "Electronic Arts offers paid internships and co-ops across game development, engineering, and business for college students.",
+    "about": "Electronic Arts (EA) is a leading video game company behind franchises like EA SPORTS FC, Madden, and The Sims. Its official careers site runs an Emerging Talent program with paid internships and co-ops for college students."
+  },
+  {
+    "id": "netflix",
+    "org": "Netflix",
+    "url": "https://jobs.netflix.com",
+    "industries": [
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Los Gatos",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Roles posted on a rolling basis with Summer and Fall cohorts.",
+    "summary": "Netflix offers paid, onsite internships in engineering and other functions, with Summer and Fall cohorts for students.",
+    "about": "Netflix is a global streaming entertainment and technology company. It posts paid internship roles (including engineering and PhD-level positions) for college and graduate students through its official careers site, with Summer and Fall cohorts."
   }
 ];
