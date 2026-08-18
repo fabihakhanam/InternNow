@@ -6,6 +6,8 @@
 // are NOT any organization's official prompts, questions, or answers. Always
 // check the org's own site (linked) for current, authoritative details.
 
+import { MORE_OPPORTUNITIES } from "@/data/more-opportunities";
+
 export type IndustryId =
   | "technology"
   | "business"
@@ -134,7 +136,7 @@ export const COST_LABELS: Record<Cost, string> = {
   stipend: "Stipend",
 };
 
-export const OPPORTUNITIES: Opportunity[] = [
+const BASE_OPPORTUNITIES: Opportunity[] = [
   {
     id: "seo-scholars",
     org: "SEO (Sponsors for Educational Opportunity)",
@@ -1456,7 +1458,154 @@ export const OPPORTUNITIES: Opportunity[] = [
     about:
       "Science Olympiad is a team-based STEM competition with standards-based events across all 50 states; students join through their state chapter and school team.",
   },
+  {
+    id: "google-step",
+    org: "Google",
+    program: "STEP Internship",
+    url: "https://buildyourfuture.withgoogle.com",
+    industries: ["technology"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Mountain View", state: "CA", lat: 37.422, lng: -122.0841 }],
+    cost: "paid",
+    compensation: "Paid software-engineering internship for underclassmen.",
+    deadlineNote: "Applications typically open in the fall for the following summer.",
+    summary: "Paid software-engineering internship for first- and second-year college students.",
+    about:
+      "Google's STEP (Student Training in Engineering Program) is a paid software-engineering internship for first- and second-year undergraduates, pairing project work with mentorship.",
+  },
+  {
+    id: "microsoft-internships",
+    org: "Microsoft",
+    program: "Internships (incl. Explore)",
+    url: "https://careers.microsoft.com/v2/global/en/students",
+    industries: ["technology"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Redmond", state: "WA", lat: 47.674, lng: -122.1215 }],
+    cost: "paid",
+    compensation: "Paid internships; Explore is aimed at first/second-years.",
+    deadlineNote: "Applications typically open in the fall.",
+    summary: "Paid software internships, including Explore for first- and second-year students.",
+    about:
+      "Microsoft offers paid internships for college students, including the Explore Program for first- and second-years and broad software and engineering internships.",
+  },
+  {
+    id: "meta-university",
+    org: "Meta",
+    program: "Meta University & Internships",
+    url: "https://www.metacareers.com/careerprograms/students",
+    industries: ["technology", "business"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "Menlo Park", state: "CA", lat: 37.453, lng: -122.1817 }],
+    cost: "paid",
+    compensation: "Paid internships and the Meta University program.",
+    deadlineNote: "Recruiting typically begins in the fall.",
+    summary: "Internships and Meta University for college students in engineering, PM, analytics, and more.",
+    about:
+      "Meta offers paid internships and the Meta University program for college students across software engineering, product management, data, and business.",
+  },
+  {
+    id: "amazon-internships",
+    org: "Amazon",
+    program: "Student Programs & Internships",
+    url: "https://www.amazon.jobs/content/en/career-programs/student-programs",
+    industries: ["technology", "business"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "Seattle", state: "WA", lat: 47.6062, lng: -122.3321 }],
+    cost: "paid",
+    compensation: "Paid internships across software, science, operations, and business.",
+    deadlineNote: "Roles open on a rolling basis, with many posted in the fall.",
+    summary: "Paid internships for college students in software, science, operations, and business.",
+    about:
+      "Amazon offers paid internships for undergraduate and graduate students across software development, applied science, operations, and non-tech roles like product and program management.",
+  },
+  {
+    id: "mckinsey-internships",
+    org: "McKinsey & Company",
+    program: "Business Analyst Internship",
+    url: "https://www.mckinsey.com/careers",
+    industries: ["business"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "paid",
+    compensation: "Paid summer consulting internships; insight programs for underclassmen.",
+    deadlineNote: "Applications typically open in the summer/fall for the next year.",
+    summary: "Summer business-analyst internships in management consulting for college students.",
+    about:
+      "McKinsey offers internships such as the summer business analyst role for college students exploring management consulting, plus insight programs for underclassmen.",
+  },
+  {
+    id: "deloitte-internships",
+    org: "Deloitte",
+    program: "Student Internships",
+    url: "https://www.deloitte.com/us/en/pages/careers/topics/students.html",
+    industries: ["business", "technology"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "hybrid",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "paid",
+    compensation: "Paid internships across consulting, audit, tax, and technology.",
+    deadlineNote: "Recruiting typically runs in the fall for the following year.",
+    summary: "Internships across consulting, audit, tax, and technology for college students.",
+    about:
+      "Deloitte offers internships for college students across consulting, audit & assurance, tax, and technology, plus programs for early-year students.",
+  },
+  {
+    id: "jpmorgan-internships",
+    org: "J.P. Morgan (JPMorgan Chase)",
+    program: "Students & Graduates Programs",
+    url: "https://www.jpmorganchase.com/careers/explore-opportunities/students-and-graduates",
+    industries: ["business", "technology"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "paid",
+    compensation: "Paid internships and insight programs.",
+    deadlineNote: "Applications open early — often the spring before the internship year.",
+    summary: "Finance, tech, and business internships and insight programs for college students.",
+    about:
+      "JPMorgan Chase offers internships and insight programs for college students across investment banking, software engineering, markets, and business functions.",
+  },
+  {
+    id: "goldman-sachs-internships",
+    org: "Goldman Sachs",
+    program: "Summer Analyst Internship",
+    url: "https://www.goldmansachs.com/careers/students",
+    industries: ["business"],
+    audiences: ["college"],
+    types: ["internship"],
+    format: "in-person",
+    national: true,
+    locations: [{ city: "New York", state: "NY", lat: 40.7128, lng: -74.006 }],
+    cost: "paid",
+    compensation: "Paid Summer Analyst internships; early-insight programs.",
+    deadlineNote: "Applications typically open in the spring before the internship year.",
+    summary: "Summer Analyst internships across finance, tech, and more for college students.",
+    about:
+      "Goldman Sachs offers Summer Analyst internships and early-insight programs for college students across banking, markets, engineering, and asset management.",
+  },
 ];
+
+// Merge the hand-curated base list with the research-verified additions.
+export const OPPORTUNITIES: Opportunity[] = [...BASE_OPPORTUNITIES, ...MORE_OPPORTUNITIES];
 
 // Communities each org publicly focuses on serving. Tags reflect an
 // organization's stated mission/audience; all students should confirm
