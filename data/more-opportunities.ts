@@ -6542,5 +6542,1639 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "deadlineNote": "Internship and co-op recruiting typically opens in the fall for summer terms.",
     "summary": "Paid internships and a multi-semester co-op program across FedEx business areas.",
     "about": "FedEx is a Fortune 500 global shipping and logistics company headquartered in Memphis, Tennessee. Its Student Programs include internships across many business areas plus a comprehensive multi-semester co-op program."
+  },
+  {
+    "id": "california-institute-of-technology-caltech",
+    "org": "California Institute of Technology (Caltech)",
+    "program": "Summer Undergraduate Research Fellowship (SURF)",
+    "url": "https://sfp.caltech.edu/undergraduate-research/programs/surf",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pasadena",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "summary": "Caltech's flagship 10-week summer program where undergraduates conduct mentored research modeled on the grant-seeking process and produce a technical paper and presentation.",
+    "about": "Running since 1979, SURF invites undergraduates to develop a project with a faculty or research mentor, write a research proposal, and carry out full-time in-person research over a 10-week summer period. Fellows submit interim reports and a final technical paper and present at a SURF Seminar Day. For 2026, fellows receive an $8,110 award for the ten-week period."
+  },
+  {
+    "id": "georgia-institute-of-technology",
+    "org": "Georgia Institute of Technology",
+    "program": "Summer Undergraduate Research in Engineering (SURE)",
+    "url": "https://sure.gatech.edu",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "A 10-week summer research program at Georgia Tech designed to attract rising juniors and seniors into engineering and science research and graduate study.",
+    "about": "Founded in 1992 by Dr. Gary May, SURE pairs undergraduates with Georgia Tech faculty and graduate mentors on hands-on research projects across engineering and the sciences. The program is committed to increasing the number of students entering STEM fields nationwide and includes GRE prep, NSF GRFP prep, industry tours, and social events. The 2026 program runs May 17 to July 24, and all students may apply.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "ucla-institute-for-pure-and-applied-mathematic",
+    "org": "UCLA Institute for Pure and Applied Mathematics (IPAM)",
+    "program": "Research in Industrial Projects for Students (RIPS)",
+    "url": "https://www.ipam.ucla.edu/programs/student-research-programs",
+    "industries": [
+      "science",
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A nine-week summer program at UCLA's IPAM where undergraduate teams work on real-world math and data-science research problems posed by industry sponsors.",
+    "about": "RIPS brings together undergraduates to work in teams on research projects proposed by industrial and government sponsors, applying mathematics and computation to practical problems. Each team is guided by an academic mentor and a sponsor liaison, with the Los Angeles 2026 session running June 22 to August 21. Applications open in November for the following summer; the program provides a stipend, housing, and travel support."
+  },
+  {
+    "id": "santa-fe-institute",
+    "org": "Santa Fe Institute",
+    "program": "Undergraduate Complexity Research (UCR)",
+    "url": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Santa Fe",
+        "state": "NM",
+        "lat": 34.5,
+        "lng": -106.1
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A 10-week residential summer research program at the Santa Fe Institute where undergraduates pursue independent projects in complex-systems science.",
+    "about": "The Undergraduate Complexity Research program immerses students in the interdisciplinary study of complex systems across the physical, natural, and social sciences and mathematics, blending theory, methods, and data. Participants build a project alongside an SFI mentor and attend seminars and workshops, with the 2026 program running May 31 to August 8. The program provides a $7,000 stipend plus free housing, meals, and travel support, funded in part by the NSF BIO REU program."
+  },
+  {
+    "id": "arizona-state-university",
+    "org": "Arizona State University",
+    "program": "Mathematical & Theoretical Biology Institute (MTBI) / QRLSSP Summer Program",
+    "url": "https://qrlssp.asu.edu",
+    "industries": [
+      "science",
+      "education",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "An intensive ASU summer research program (formerly MTBI, now QRLSSP) where undergraduates learn mathematical modeling and complete original research in the life and social sciences.",
+    "about": "Housed at ASU's Simon A. Levin Mathematical, Computational and Modeling Sciences Center, the program provides undergraduates from across the nation with training in applied mathematics and dynamical systems, culminating in student-led research projects. It has a strong track record of mentoring underrepresented and Latino students into STEM graduate programs, with long-term alumni support and continuing research opportunities. Participants receive a stipend, travel, and housing.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "space-telescope-science-institute-stsci",
+    "org": "Space Telescope Science Institute (STScI)",
+    "program": "Space Astronomy Summer Program (SASP)",
+    "url": "https://www.stsci.edu/opportunities/space-astronomy-summer-program",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Baltimore",
+        "state": "MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A summer research internship at STScI in Baltimore where about a dozen undergraduates work one-on-one with staff on astronomy, software, instrumentation, and outreach projects.",
+    "about": "SASP places primarily upper-division undergraduates on individual projects spanning astrophysics research, software engineering, instrument calibration, and public outreach at the home of Hubble and James Webb Space Telescope operations. Students are mentored by STScI staff, attend lectures, and present their results at a closing symposium. The 2026 program runs June 1 to July 31, and participants receive a stipend, housing assistance, and travel reimbursement."
+  },
+  {
+    "id": "simons-foundation-flatiron-institute",
+    "org": "Simons Foundation (Flatiron Institute)",
+    "program": "Flatiron Institute Research Internship (Summer at Simons)",
+    "url": "https://www.simonsfoundation.org/flatiron/summer-at-simons",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "summary": "In-person summer internships at the Simons Foundation's Flatiron Institute in NYC applying computation and data science to research problems in the natural sciences.",
+    "about": "The Flatiron Institute is the Simons Foundation's in-house computational research division, spanning centers in astrophysics, biology, mathematics, neuroscience, and quantum physics plus a Scientific Computing Core. Undergraduate research assistants and software interns are matched with mentors, attend lectures and seminars, and work on computational projects, with Flatiron internships typically lasting 11 weeks. Positions are based in-person at the Manhattan campus with possible housing support; most applications open December 1."
+  },
+  {
+    "id": "allen-institute-for-ai-ai2",
+    "org": "Allen Institute for AI (AI2)",
+    "program": "AI2 Internships",
+    "url": "https://allenai.org/internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "paid",
+    "summary": "Paid research and engineering internships at the Allen Institute for AI (Ai2) in Seattle working on cutting-edge artificial intelligence and machine learning projects.",
+    "about": "Ai2 is a nonprofit research institute founded by Paul Allen focused on high-impact AI research for the common good. Interns collaborate with research scientists and engineers on projects in NLP, computer vision, and machine learning, with no restrictions on publications and each intern paired with a mentor. Internships are typically 12 weeks, paid with competitive compensation and visa sponsorship, and interns are expected to be on-site at the Seattle office."
+  },
+  {
+    "id": "university-of-california-san-diego",
+    "org": "University of California, San Diego",
+    "program": "BioChemCoRe",
+    "url": "https://biochemcore.ucsd.edu",
+    "industries": [
+      "science",
+      "healthcare",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A UC San Diego summer research program introducing undergraduates to computational and biochemical research.",
+    "about": "BioChemCoRe (Biology and Chemistry Computational Research, formerly CompChemBioCAMP) is a summer outreach program in computational chemistry and biology run through UCSD's Department of Chemistry and Biochemistry and the Amaro Lab. It was originally launched to improve retention of talented young women in science and has since expanded to local students of all genders interested in computational sciences. Projects range from computational biophysics of molecular recognition to multi-scale modeling of proteins.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "usc-institute-for-creative-technologies-ict",
+    "org": "USC Institute for Creative Technologies (ICT)",
+    "program": "ICT Summer Research Program",
+    "url": "https://ict.usc.edu/academics/internships",
+    "industries": [
+      "technology",
+      "science",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A summer research internship at USC's Institute for Creative Technologies working on simulation, interactive media, virtual reality, and interactive virtual experiences.",
+    "about": "ICT offers summer opportunities for students pursuing careers in simulation, interactive media, and virtual reality, including an NSF-sponsored REU for undergraduates and a broader Interdisciplinary Summer Research Program open to undergraduate and graduate students. The full-time program runs about 10 to 12 weeks at 40 hours per week, with students matched to ongoing research projects. The 2026 ICT Summer Research Program application was open with a January 12, 2026 deadline."
+  },
+  {
+    "id": "uc-berkeley-eecs",
+    "org": "UC Berkeley EECS",
+    "program": "Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB)",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/research/superb",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "A summer research program in UC Berkeley's EECS department aimed at preparing a diverse group of undergraduates for graduate study in electrical engineering and computer science.",
+    "about": "SUPERB gives rising juniors and seniors, especially those from underrepresented groups and institutions with limited research opportunities, hands-on experience with faculty and graduate-student-mentored research; the recent AI4E edition centered on Artificial Intelligence for Engineering. Participants attend weekly researcher presentations, lab tours, an industry field trip, and graduate school advising. The program is open to U.S. citizens and permanent residents with a 3.0+ GPA and provides a stipend plus room and board on campus.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "purdue-university",
+    "org": "Purdue University",
+    "program": "Summer Research Opportunity Program (SROP)",
+    "url": "https://www.purdue.edu/academics/ogsps/ogrs/summer-research-opportunity-program",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "An eight-week Purdue summer program giving non-Purdue undergraduates mentored faculty research to prepare them for graduate school.",
+    "about": "SROP is an eight-week residential program (June 7-July 31, 2026) that pairs undergraduates entering their junior or senior year at other institutions with Purdue faculty mentors and is open to participants from all disciplines. It emphasizes preparation for graduate education, culminating in a research symposium plus deliverables like an abstract, poster, and personal statement. Participants receive a $4,500 stipend, a partial meal stipend, university housing in West Lafayette, and paid travel to and from campus.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "scale-ai",
+    "org": "Scale AI",
+    "url": "https://scale.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "California",
+        "lat": 39.5,
+        "lng": -98.35
+      }
+    ],
+    "cost": "paid",
+    "summary": "Paid AI Builder internship at a leading data-labeling and AI infrastructure company aimed at underclassmen.",
+    "about": "Scale AI provides training data and infrastructure spanning the AI stack, powering models for enterprises, government, and leading AI labs since 2016. Its AI Builder Intern role is geared toward early-career students who want hands-on experience building AI products. Internships are typically based at the company's San Francisco headquarters."
+  },
+  {
+    "id": "etched",
+    "org": "Etched",
+    "url": "https://www.etched.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Jose",
+        "state": "California",
+        "lat": 39.5,
+        "lng": -98.35
+      }
+    ],
+    "cost": "paid",
+    "summary": "Supercomputing internship at an AI-chip startup building transformer-specialized hardware.",
+    "about": "Etched designs specialized inference hardware and 'frontier inference clusters' co-designing chips, racks, and software purpose-built to run transformer AI models efficiently. Its Supercomputing Intern position offers early-career students exposure to cutting-edge hardware and systems engineering. The company is headquartered at 3155 Olsen Dr, San Jose, CA."
+  },
+  {
+    "id": "kalshi",
+    "org": "Kalshi",
+    "url": "https://kalshi.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "New York",
+        "lat": 39.5,
+        "lng": -98.35
+      }
+    ],
+    "cost": "paid",
+    "summary": "Support Operations internship at a CFTC-regulated prediction-market exchange.",
+    "about": "Kalshi is a federally regulated exchange where people can trade on the outcome of future events. Its Support Ops Intern role blends operations, customer support, and fintech exposure for early-career students. The company is headquartered in New York City."
+  },
+  {
+    "id": "optiver",
+    "org": "Optiver",
+    "url": "https://www.optiver.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "Illinois",
+        "lat": 39.5,
+        "lng": -98.35
+      }
+    ],
+    "cost": "paid",
+    "summary": "Quantitative internship at a global proprietary trading firm for underclassmen (Summer 2027).",
+    "about": "Optiver is a leading global market maker and technology- and research-driven proprietary trading firm active across 100+ exchanges since 1986. Its student programs and internships introduce students to trading, research, and quantitative problem-solving. Chicago is one of its listed global offices, alongside cities like Amsterdam, Austin, and New York."
+  },
+  {
+    "id": "coinbase",
+    "org": "Coinbase",
+    "url": "https://www.coinbase.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Next-Gen Networking program connecting underclassmen with a major crypto exchange.",
+    "about": "Coinbase is a publicly traded cryptocurrency exchange and fintech platform. Its Next-Gen Networking initiative gives early-career students access to networking, mentorship, and pathways into tech and finance roles. The program is run virtually for students nationwide."
+  },
+  {
+    "id": "stellic",
+    "org": "Stellic",
+    "program": "The Pathfinders Challenge",
+    "url": "https://www.stellic.com/pathfinders",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Pathfinders Challenge, a student competition run by academic-planning edtech company Stellic.",
+    "about": "Stellic builds a student-journey platform for academic planning and degree mapping used by universities including Carnegie Mellon, Duke, and Cornell, supporting over one million students. Its Pathfinders Challenge is a competition inviting students to solve real problems in higher education. The challenge is open to students nationwide and runs through August 2026."
+  },
+  {
+    "id": "headstart-fellowship",
+    "org": "HeadStart Fellowship",
+    "url": "https://www.headstartfellowship.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A semester-long fellowship pairing first- and second-year college students with mentors in finance, consulting, and technology.",
+    "about": "The HeadStart Fellowship is a 501(c)(3) nonprofit program exclusively for first- and second-year undergraduates at U.S. colleges, with tracks in finance, consulting, and technology. Fellows get 1:1 mentorship in their vertical, weekly general-education sessions, a speaker series, and access to a community whose alumni have landed at firms like Goldman Sachs, McKinsey, and Apple. The program emphasizes access for first-generation, low-income, and underrepresented students and runs remotely with online and in-person events; Fall 2026 applications close August 28.",
+    "equityTags": [
+      "first-gen",
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "elevenlabs",
+    "org": "ElevenLabs",
+    "program": "Ambassador Program",
+    "url": "https://elevenlabs.io/ambassador",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Ambassador program at an AI voice and audio startup for community builders and content creators.",
+    "about": "ElevenLabs builds AI voice generation and text-to-speech technology used across media and applications. Its Ambassador Program is a community program (explicitly not a paid role) open to anyone 18 or older with an active account, offering two tracks: Community Builder (organizing local meetups, hackathons, and workshops) and Content Creator (producing tutorials and demos). Ambassadors receive perks such as platform credits, early feature access, event funding, and event invitations."
+  },
+  {
+    "id": "handshake",
+    "org": "Handshake",
+    "program": "Handshake AI Fellowship",
+    "url": "https://joinhandshake.com/ai",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "Paid, remote AI Fellowship run by the college career platform Handshake.",
+    "about": "Handshake is a large early-career recruiting platform that positions itself as the career network for the AI economy. Its Handshake AI Fellowship is a paid, remote research community where experts and generalists do AI training work to make models smarter and safer, with roles that require no prior AI experience. The fellowship is conducted remotely for participants across the US."
+  },
+  {
+    "id": "mlh",
+    "org": "MLH",
+    "program": "MLH Fellowship",
+    "url": "https://fellowship.mlh.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "Major League Hacking Fellowship, a fully remote 12-week internship alternative offering software-building experience with a stipend.",
+    "about": "Major League Hacking (MLH) is the official student hackathon league supporting hundreds of events worldwide. The MLH Fellowship is a fully remote, 12-week internship alternative where fellows collaborate on real open-source projects with peers and engineers from top companies, across tracks in Software Engineering, Production Engineering (SRE), and Web3. Fellows receive an educational stipend and access to professional mentors."
+  },
+  {
+    "id": "jane-street",
+    "org": "Jane Street",
+    "url": "https://www.janestreet.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "New York",
+        "lat": 39.5,
+        "lng": -98.35
+      }
+    ],
+    "cost": "stipend",
+    "summary": "Immersive internships, events, and multi-day trading and technology programs offering scholarships and stipends for students.",
+    "about": "Jane Street is a quantitative trading firm that runs recruiting programs and internships for students, including immersive internships with mentorship and real-world projects, meet-up events with tech talks and puzzles, and multi-day programs offering scholarships and stipends. These programs introduce students to trading and software engineering. They are primarily hosted at the firm's New York office."
+  },
+  {
+    "id": "lime-connect",
+    "org": "Lime Connect",
+    "url": "https://www.limeconnect.com",
+    "industries": [
+      "nonprofit",
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Network membership connecting students with disabilities to careers, scholarships, and recruiting in tech and business.",
+    "about": "Lime Connect is a nonprofit that rebrands disability through the lens of achievement, connecting high-achieving students and professionals (including veterans) with visible and non-visible disabilities to employers. Membership provides access to scholarships (such as the Johnson & Johnson Access-Ability Lime Scholarship), leadership programs, events, and recruiting opportunities with major companies. The network serves students across the United States."
+  },
+  {
+    "id": "github",
+    "org": "GitHub",
+    "url": "https://education.github.com/campus_experts",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "GitHub Campus Experts program training students to lead technical communities.",
+    "about": "GitHub is the world's largest software development and version-control platform. The Campus Experts program provides training and support in public speaking, technical writing, and community management so student leaders can grow developer communities on their campuses. It is open to students at educational institutions nationwide."
+  },
+  {
+    "id": "canva",
+    "org": "Canva",
+    "url": "https://public.canva.site/campus-canvassadors",
+    "industries": [
+      "technology",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Campus Canvassadors ambassador program from the design-software company Canva.",
+    "about": "Canva is a widely used online graphic design and visual communication platform. Its Campus Canvassadors program lets students represent Canva, run creative events, and build marketing and leadership skills. The program operates across campuses nationwide."
+  },
+  {
+    "id": "last-mile-education-fund",
+    "org": "Last Mile Education Fund",
+    "url": "https://www.lastmile-ed.org/apply",
+    "industries": [
+      "technology",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Rapid-response scholarships and emergency funding for low-income tech and engineering students near degree completion.",
+    "about": "Last Mile Education Fund provides fast financial support to underrepresented, low-income students in high-demand STEM fields who are within a few semesters of completing their degrees. Through a single common application it matches students to funds ranging from small emergency grants (up to $595) to Last Mile awards of up to $10,000, including named funds like the Microsoft Cybersecurity Scholarship Program. The fund supports students at accredited U.S. colleges nationwide.",
+    "equityTags": [
+      "low-income",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "uncf",
+    "org": "UNCF",
+    "url": "https://uncf.org/scholarships",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "United Negro College Fund scholarships supporting minority students at HBCUs and beyond.",
+    "about": "UNCF (United Negro College Fund) is the nation's largest private provider of scholarships to minority students and supports a network of 36 HBCUs. It awards more than $62 million annually to students at over 600 schools and runs programs such as the STEM Scholars Program and K-12 Education Fellowship. UNCF serves students nationwide.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "aauw",
+    "org": "AAUW",
+    "url": "https://www.aauw.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "American Association of University Women scholarships and fellowships for women.",
+    "about": "AAUW (American Association of University Women), founded in 1881, advances equity for women and girls through advocacy, education, and research. It offers fellowships and grants supporting women's academic pursuits and funds K-12 STEM initiatives for girls, alongside local-branch undergraduate scholarships. Opportunities are available to women students across the country.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "rewriting-the-code",
+    "org": "Rewriting the Code",
+    "url": "https://rewritingthecode.org/join-us",
+    "industries": [
+      "technology",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "mentorship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Membership community supporting university and early-career women in tech.",
+    "about": "Rewriting the Code (RTC) is a 501(c)(3) nonprofit community that empowers university students and early-career women in technology. Members gain access to mentorship, a 24/7 Slack community, affinity groups (such as Black Wings and Latinas de RTC), career opportunities, and conference scholarships. The community serves students across the US.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "anitab-org",
+    "org": "AnitaB.org",
+    "url": "https://anitab.org",
+    "industries": [
+      "technology",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Membership and the Grace Hopper Celebration for women in computing.",
+    "about": "AnitaB.org is a nonprofit that supports women and underrepresented technologists. It hosts the Grace Hopper Celebration, the largest gathering of women in computing, and offers year-round membership, mentorship programs, an Apprenticeship Pathway Program, and a talent network. Programs are open to students and professionals nationwide.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "society-of-women-engineers",
+    "org": "Society of Women Engineers",
+    "url": "https://swe.org",
+    "industries": [
+      "technology",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "National engineering nonprofit offering conferences, scholarships, and programs for women and students of all genders.",
+    "about": "The Society of Women Engineers (SWE) unites nearly 45,000 members across 90+ countries and empowers women to succeed and advance in engineering. It hosts the WE annual conference (WE26 in Boston, Nov 2026) and WE Local events, offers Society- and Section-selected scholarships, and runs SWENext for students ages 5-18 plus collegiate leadership programs. SWE membership and events are open to all.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "women-in-analytics",
+    "org": "Women in Analytics",
+    "url": "https://www.dataconnectconf.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "Ohio",
+        "lat": 39.5,
+        "lng": -98.35
+      }
+    ],
+    "cost": "free",
+    "summary": "DataConnect Conference in Columbus showcasing careers in data, analytics, and AI, hosted by Women in Analytics.",
+    "about": "Women in Analytics hosts the DataConnect Conference, an inclusive global event featuring the latest in data, analytics, and AI through keynotes, panels, and workshops. Past attendees include analysts, data scientists, ML engineers, developers, researchers, students, and executives, and individuals of all genders and skill levels are welcomed. The 2026 conference is in Columbus, Ohio, on October 29-30, 2026.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "national-merit-scholarship-corporation",
+    "org": "National Merit Scholarship Corporation",
+    "url": "https://www.nationalmerit.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "National academic scholarship competition based on PSAT/NMSQT performance.",
+    "about": "The National Merit Scholarship Corporation runs an annual academic competition recognizing high-achieving high school students through PSAT/NMSQT scores. Finalists compete for merit scholarships supporting college study. The program is open to eligible students nationwide."
+  },
+  {
+    "id": "the-gates-scholarship",
+    "org": "The Gates Scholarship",
+    "url": "https://www.thegatesscholarship.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Highly selective last-dollar scholarship for outstanding, low-income minority high school seniors.",
+    "about": "The Gates Scholarship, funded by the Bill & Melinda Gates Foundation, is a highly selective, last-dollar scholarship for outstanding high school seniors from low-income households, targeted at high-achieving minority students. It covers the full cost of attendance not met by other financial aid. The scholarship is open to eligible students across the United States.",
+    "equityTags": [
+      "low-income",
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "hagan-scholarship-foundation",
+    "org": "Hagan Scholarship Foundation",
+    "url": "https://haganscholarships.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Nationwide need-based scholarship of up to $7,500 per semester to help students graduate debt-free.",
+    "about": "The Hagan Scholarship Foundation awards a nationwide need-based merit scholarship intended to help students graduate from college debt-free. Recipients receive $2,000 for college essentials plus up to $7,500 each semester for up to eight consecutive semesters, along with workshops, brokerage accounts, and study-abroad opportunities. Eligibility requires financial need, with parents' adjusted household income not exceeding $125,000.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "new-technologists",
+    "org": "New Technologists",
+    "program": "New Technologists",
+    "url": "https://newtechnologists.com",
+    "industries": [
+      "technology",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A nonprofit tech program offering an in-person academy and virtual fellowship with mentorship and stipends for students from underrepresented backgrounds.",
+    "about": "New Technologists (TNT), run by NextWave Society, is a career-launching program for students from nontraditional and underestimated backgrounds in tech. It offers The Academy, a 7-week in-person program for college freshmen and sophomores, and The Fellowship, a 9-month virtual part-time program for early-career technologists, both providing mentorship, hands-on projects, and a stipend. A majority of participants come from community colleges, HBCUs, or HSIs and are Pell Grant recipients.",
+    "equityTags": [
+      "students-of-color",
+      "low-income"
+    ]
+  },
+  {
+    "id": "palantir-technologies",
+    "org": "Palantir Technologies",
+    "program": "Palantir Path",
+    "url": "https://www.palantir.com/careers/students-and-early-talent",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Palantir's students and early-talent hub for software engineering internships and early-career roles.",
+    "about": "Palantir's Students and Early Talent page is the company's hub for internships and early-career opportunities for college students interested in building large-scale data and software systems. Participants gain software engineering experience and mentorship. The specific 'Palantir Path' program name could not be confirmed from the page content."
+  },
+  {
+    "id": "dropbox",
+    "org": "Dropbox",
+    "program": "Dropbox Launch",
+    "url": "https://www.dropbox.jobs",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Dropbox's careers site, including an Emerging Talent section for student internships.",
+    "about": "The Dropbox Careers site describes the company's teams (Engineering, Data Science, Design & Research, Product), its Virtual First work model, and an Emerging Talent section for students and early-career candidates. Internships are paid. A distinct 'Dropbox Launch' underclassmen program was not described on the page."
+  },
+  {
+    "id": "duolingo",
+    "org": "Duolingo",
+    "program": "Duolingo Thrive Internship",
+    "url": "https://careers.duolingo.com",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Duolingo's official careers page listing internships and early-career roles at the language-learning company.",
+    "about": "The Duolingo Careers page is the company's hub for jobs and internships, including opportunities for students to contribute to its education technology products. Interns work alongside full-time staff with mentorship. The specific 'Thrive Internship' program name could not be confirmed from the page content."
+  },
+  {
+    "id": "zillow",
+    "org": "Zillow",
+    "program": "Zillow ZEAL",
+    "url": "https://www.zillow.com/careers/internships",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Zillow's official internships page for software engineering and technology roles at the real-estate tech company.",
+    "about": "Zillow's Careers internships page is the company's hub for student internships in software engineering and technology, with real product work, mentorship, and professional development. Internships are paid. The specific 'ZEAL' program name could not be confirmed because the page was bot-blocked."
+  },
+  {
+    "id": "major-league-hacking",
+    "org": "Major League Hacking",
+    "program": "MLH Fellowship",
+    "url": "https://fellowship.mlh.com",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "A fully remote 12-week software engineering fellowship serving as an internship alternative.",
+    "about": "The MLH Fellowship is a fully remote, 12-week internship alternative that teaches software engineering through open-source projects sourced from corporate partners. It offers tracks in Software Engineering, Production Engineering (SRE), and Web3 Engineering, with small-group work and professional mentors. Fellows receive an educational stipend to offset expenses."
+  },
+  {
+    "id": "snap-inc",
+    "org": "Snap Inc.",
+    "program": "Snap Up Apprentice",
+    "url": "https://careers.snap.com/emerging-talent",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Snap Inc's Emerging Talent page offering internships and Snap Academies for students.",
+    "about": "Snap Inc's Emerging Talent page describes its early-career programs, including Internships that place students on meaningful projects that go live, and Snap Academies, a skill-development program for community college students across design, engineering, branding, and augmented reality. It positions Snap as a launchpad for those starting out or changing careers. A distinct 'Snap Up Apprentice' program was not found on the page."
+  },
+  {
+    "id": "bessemer-venture-partners",
+    "org": "Bessemer Venture Partners",
+    "program": "Bessemer Fellowship Program",
+    "url": "https://www.bvp.com/bessemer-fellows",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A fellowship connecting university students to Bessemer's portfolio tech companies (currently paused and being reimagined).",
+    "about": "The Bessemer Fellowship connected university students, especially technical ones, with hands-on experience at Bessemer Venture Partners portfolio startups, and ran cohorts from 2020 through 2025. The page states the program is currently paused and being reimagined as part of Bessemer's evolving talent initiatives, directing interested students toward portfolio internships and the Bessemer Analyst Program."
+  },
+  {
+    "id": "kleiner-perkins",
+    "org": "Kleiner Perkins",
+    "program": "Kleiner Perkins Fellows",
+    "url": "https://www.kleinerperkins.com/fellows",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A fellowship placing top students in engineering, design, and product roles at Kleiner Perkins portfolio companies.",
+    "about": "The Kleiner Perkins Fellows Program pairs standout college students with one of its company partners to gain technical skills while being mentored by experienced engineers. Fellows join a curriculum of founder speaker series, entrepreneurial workshops, and community events, plus access to an alumni network of 1,000+ up-and-coming tech leaders."
+  },
+  {
+    "id": "8vc",
+    "org": "8VC",
+    "program": "8VC Fellowships",
+    "url": "https://www.8vc.com/fellowships",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A three-month summer internship program placing undergraduates into roles at 8VC portfolio startups.",
+    "about": "The 8VC Fellowship is an immersive three-month summer internship that places undergraduates into engineering or design roles at 8VC portfolio companies spanning AI, healthcare, financial services, defense, and life sciences. A single application is considered across dozens of portfolio companies, and fellows collaborate directly with founders and engineers on technical problems."
+  },
+  {
+    "id": "thrive-capital",
+    "org": "Thrive Capital",
+    "program": "Thrive Capital Summer Fellowship",
+    "url": "https://fellows.thrivecap.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "internship",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Internship annualized at $100,000 salary plus a $40,000 grant toward junior-year education costs",
+    "deadlineNote": "Application deadline was December 1, 2025 (now closed); fellows selected February 2026.",
+    "summary": "A paid 10-week in-person summer fellowship at Thrive Capital's New York office for college underclassmen interested in technology.",
+    "about": "The Thrive Capital Summer Fellowship is a full-time, in-person summer internship in Thrive's New York office running June to August, open to current freshmen, sophomores, or juniors with strong interest and ability in technology. Fellows work alongside a team, attend curated events, and receive mentorship, an internship annualized at a $100,000 salary, and a $40,000 education grant."
+  },
+  {
+    "id": "hudson-river-trading",
+    "org": "Hudson River Trading",
+    "program": "HRT Women in Trading & Technology Internship",
+    "url": "https://www.hudsonrivertrading.com/student-opportunities",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "deadlineNote": "Applications for January 2026 are closed.",
+    "summary": "A short January internship introducing second-year women and other underrepresented students to automated trading and engineering at quantitative firm HRT.",
+    "about": "Hudson River Trading's Women in Trading & Technology internship is a 2-4 week January program in NYC for second-year students from underrepresented backgrounds in tech and finance, offering hands-on Python and C++ projects exploring automated trading. It is fully in-person and paid, with fully-paid housing, travel allowances, and other amenities, and no prior finance experience is required.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "the-d-e-shaw-group",
+    "org": "The D.E. Shaw Group",
+    "program": "D.E. Shaw Group Campus Programs",
+    "url": "https://campus.deshaw.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Internships and insight programs introducing college students to quantitative finance, trading, and technology careers at The D.E. Shaw Group.",
+    "about": "The D.E. Shaw Group's campus site lists summer internships across business operations, discretionary and systematic investing, strategy, and systems, open to undergraduate and graduate students from all fields with no finance background required. It also offers a single-day London Insight Programme with travel and accommodations covered; the former fellowships subdomain now redirects here."
+  },
+  {
+    "id": "morgan-stanley",
+    "org": "Morgan Stanley",
+    "program": "Spring Technology Early Insights",
+    "url": "https://www.morganstanley.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "An early-insight program introducing underclassmen to technology careers at Morgan Stanley.",
+    "about": "Morgan Stanley's Spring Technology Early Insights program is described as giving first- and second-year college students exposure to technology roles within the financial services firm through sessions and networking. The specific program page could not be loaded during verification; the linked URL is the firm's general careers landing page."
+  },
+  {
+    "id": "y-combinator",
+    "org": "Y Combinator",
+    "program": "Startup School 2026",
+    "url": "https://events.ycombinator.com/startup-school-2026",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A Y Combinator program teaching students and early builders how to found AI and technology startups.",
+    "about": "Startup School 2026 is Y Combinator's program for students and early builders interested in founding startups, the successor to YC's 2025 AI Startup School. It features talks, resources, and community for aspiring technical founders; detailed format and dates were not retrievable from the JavaScript-rendered page."
+  },
+  {
+    "id": "cmd-it-tapia-conference",
+    "org": "CMD-IT / Tapia Conference",
+    "program": "Tapia Conference Scholarship",
+    "url": "https://cmd-it.org/programs/tapia",
+    "industries": [
+      "technology",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A scholarship to attend the CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing.",
+    "about": "The Tapia Conference, organized by CMD-IT, brings together computing students and professionals from underrepresented groups for technical sessions, panels, mentoring, and recruiting. Scholarships fund student attendance so they can connect with companies, schools, and the broader computing community.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "society-of-hispanic-professional-engineers-shp",
+    "org": "Society of Hispanic Professional Engineers (SHPE)",
+    "program": "SHPE National Convention",
+    "url": "https://shpe.org/engage/events/national-convention",
+    "industries": [
+      "technology",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A national convention connecting Hispanic STEM students and professionals through a career fair, workshops, and competitions.",
+    "about": "The SHPE National Convention is one of the country's largest annual gatherings of STEM students and professionals, hosted by the Society of Hispanic Professional Engineers over five days in a different city each year. It features a career fair with on-site interviews and offers, hundreds of workshops, STAR Awards, and competitions with prize money; the 2026 convention is Oct 28-31 in Indianapolis.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "brown-university",
+    "org": "Brown University",
+    "program": "Brown + Google exploreCSR",
+    "url": "http://explorecsr.cs.brown.edu",
+    "industries": [
+      "technology",
+      "education",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Providence",
+        "state": "RI",
+        "lat": 41.7,
+        "lng": -71.5
+      }
+    ],
+    "cost": "free",
+    "summary": "A research-oriented computing workshop for undergraduates from underrepresented groups at Brown University.",
+    "about": "Brown + Google exploreCSR introduces undergraduate students, especially those from underrepresented groups, to computing research. The program offers tracks such as Socially-Responsible AI and Computational Creativity and Diversity in Computer Systems, pairing participants with faculty mentors and workshops.",
+    "equityTags": [
+      "students-of-color",
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "nyu-center-for-data-science",
+    "org": "NYU Center for Data Science",
+    "program": "NYU CDS Undergraduate Research Program (CURP)",
+    "url": "https://cds.nyu.edu/curp",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "deadlineNote": "Fall 2026 applications are closed.",
+    "summary": "An undergraduate data science research program at NYU's Center for Data Science.",
+    "about": "The NYU CDS Undergraduate Research Program pairs enrolled NYU undergraduates with faculty and researchers on data science projects across the academic year. Students commit about 10 hours weekly, present their work at fall and spring events, and can receive funding of up to $5,000 ($2,500 per semester)."
+  },
+  {
+    "id": "harvey-mudd-college",
+    "org": "Harvey Mudd College",
+    "program": "Harvey Mudd CS Department REU",
+    "url": "https://www.hmc.edu/cs/research/reu",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Claremont",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "deadlineNote": "No REU hosted in 2026 (NSF renewal year); program hopes to resume in 2027.",
+    "summary": "An NSF-funded computer science Research Experience for Undergraduates at Harvey Mudd College.",
+    "about": "Harvey Mudd College's CS department hosts an NSF-funded 10-week summer REU where 10 undergraduates conduct collaborative research with faculty mentors. The 2025 program provided a $6,800 stipend plus free on-campus housing and meals, and encourages applicants from groups underrepresented in CS (open to U.S. citizens and permanent residents)."
+  },
+  {
+    "id": "national-center-for-atmospheric-research",
+    "org": "National Center for Atmospheric Research",
+    "program": "NCAR CISL Internships (SIParCS)",
+    "url": "https://www.cisl.ucar.edu/outreach/internships",
+    "industries": [
+      "science",
+      "environment",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Boulder",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "summary": "Summer research internships in high-performance computing and atmospheric science at NCAR.",
+    "about": "NCAR's Computational and Information Systems Lab runs SIParCS (Summer Internships in Parallel Computational Science), embedding university students in hands-on high-performance computing, data science, machine learning, and software engineering projects. Interns work primarily on-site in Boulder with mentors and give final presentations; a separate CODE internship supports outreach and program administration."
+  },
+  {
+    "id": "university-of-michigan-school-of-public-health",
+    "org": "University of Michigan School of Public Health",
+    "program": "Big Data Summer Institute (BDSI)",
+    "url": "https://sph.umich.edu/bdsi",
+    "industries": [
+      "science",
+      "healthcare",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Ann Arbor",
+        "state": "MI",
+        "lat": 44.3,
+        "lng": -85.6
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A summer research institute in big data and biostatistics for undergraduates.",
+    "about": "The Big Data Summer Institute at the University of Michigan School of Public Health trains undergraduates in biostatistics, data science, and computational research applied to health. Participants complete a mentored research project and typically receive a stipend."
+  },
+  {
+    "id": "blackstone",
+    "org": "Blackstone",
+    "program": "Blackstone Diverse Leaders Program",
+    "url": "https://www.blackstone.com/careers/diversity-inclusion",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "An exploratory diversity program introducing underclassmen to finance careers at Blackstone.",
+    "about": "Blackstone's diversity programs, including the Diverse Leaders Program, give underrepresented college students early exposure to careers in private equity and finance. Participants learn about the firm through sessions, networking, and mentorship.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "vanguard",
+    "org": "Vanguard",
+    "program": "Vanguard EXPLORE Days",
+    "url": "https://www.vanguardjobs.com/students-and-recent-graduates/explore-days",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "An early-insight program introducing students to careers at investment firm Vanguard.",
+    "about": "Vanguard EXPLORE Days is an exploratory program for college students to learn about careers in investment management, technology, and business at Vanguard. Participants attend sessions and network with employees."
+  },
+  {
+    "id": "crowdstrike",
+    "org": "CrowdStrike",
+    "program": "CrowdStrike University Internships",
+    "url": "https://www.crowdstrike.com/careers/university-interns",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "deadlineNote": "Applications open beginning September.",
+    "summary": "Paid university internships in cybersecurity and software at CrowdStrike.",
+    "about": "CrowdStrike's Emerging Talent Program offers paid internships, apprenticeships, and new-grad roles for enrolled university students across cybersecurity, software engineering, data science, and business functions. The 10-12 week U.S. summer internships are primarily in-person at global campus locations, with mentorship, an executive speaker series, and a housing or work-from-home stipend for eligible participants."
+  },
+  {
+    "id": "the-home-depot",
+    "org": "The Home Depot",
+    "program": "Home Depot Student Internships",
+    "url": "https://careers.homedepot.com/students-internships",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A paid 11-week summer internship at The Home Depot with roles across technology and business functions.",
+    "about": "The Home Depot offers a paid 11-week summer internship for college students, with technology roles (software development, systems analysis, data analytics, app development) and business roles (project management, enterprise program development). Interns own projects end-to-end, meet with executive leadership, and work on real business-impacting initiatives at store, supply chain, and corporate locations. Applications run September 15 to October 31, 2025 for the May 18 to July 31, 2026 program."
   }
 ];
