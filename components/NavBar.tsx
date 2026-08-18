@@ -20,6 +20,7 @@ export function NavBar() {
     ...(user ? [{ href: "/for-you", label: "For You" }] : []),
     { href: "/opportunities", label: "Browse" },
     { href: "/map", label: "Map" },
+    { href: "/discover", label: "Discover" },
     { href: "/industries", label: "Industries" },
     { href: "/resources", label: "Resources" },
     ...(user ? [{ href: "/documents", label: "Documents" }] : []),

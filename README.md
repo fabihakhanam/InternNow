@@ -18,6 +18,10 @@ plus a likely process, **sample supplements**, and **tips**.
 - **🎯 "For You" feed** — personalized recommendations that explain *why* each opportunity matches your profile.
 - **📝 Résumé & cover letter builder** — guided, section-by-section builders with a live, printable preview; documents save to your account.
 - **🎤 Interview prep + resource library** — STAR method, common/mock questions, and how-to guides (networking, cold emails, first internship, and more).
+- **🧭 Career-fit quiz + "Get Ready" path** — 8 questions map you to fields, then a step-by-step prep checklist.
+- **🃏 Discover (swipe)** — swipe right to save, left to skip through opportunities.
+- **🗓️ Deadline calendar** — application windows grouped by season with an "opening soon" view.
+- **♿ Equity & access** — filter by communities served (first-gen, low-income, students of color, women in STEM) and by remote/hybrid; a beginner **"Start here"** onboarding.
 - **⭐ Save + deadline tracker** — bookmark opportunities and track status, personal deadlines, and notes.
 - **📱 Responsive** — works great on phones and desktops.
 
@@ -94,4 +98,4 @@ Planned platform features (need real users and/or a hosted backend):
 - DB-synced saved list & tracker (currently browser-local)
 - Multi-language support
 - Verified-listing badges and employer self-serve org pages
-- Skills-assessment quiz and events calendar
+- Events calendar

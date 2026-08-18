@@ -8,8 +8,8 @@ const steps = [
     n: "1",
     title: "Figure out what fits you",
     body: "You don't need to know your career. Pick a field that sounds interesting and start there.",
-    cta: { href: "/opportunities", label: "Browse by interest" },
-    alt: { href: "/map", label: "or explore the map" },
+    cta: { href: "/quiz", label: "Take the 2-min quiz" },
+    alt: { href: "/opportunities", label: "or browse by interest" },
   },
   {
     n: "2",

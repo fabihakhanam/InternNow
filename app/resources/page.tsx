@@ -4,8 +4,11 @@ import { ARTICLES } from "@/data/resources";
 export const metadata = { title: "Resources — InternNow" };
 
 const tools = [
+  { href: "/quiz", emoji: "🧭", title: "Career-fit quiz", desc: "Answer 8 questions to find fields and opportunities that fit you." },
   { href: "/interview-prep", emoji: "🎤", title: "Interview prep", desc: "STAR method, common questions, and a mock practice set." },
   { href: "/documents", emoji: "📄", title: "Résumé & cover letter builder", desc: "Guided builders with a printable preview." },
+  { href: "/deadlines", emoji: "🗓️", title: "Deadline calendar", desc: "Application windows by season, plus what's opening soon." },
+  { href: "/discover", emoji: "🃏", title: "Discover (swipe)", desc: "Swipe through opportunities and save the ones you like." },
   { href: "/tips", emoji: "✅", title: "Application tips", desc: "Finding fit, writing supplements, and staying organized." },
 ];
 

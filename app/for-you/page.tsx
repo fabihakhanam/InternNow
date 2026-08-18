@@ -29,7 +29,10 @@ export default async function ForYouPage() {
             Add your grade level and a few interests, and we&apos;ll recommend opportunities that
             fit you — with a note on <em>why</em> each one matches.
           </p>
-          <Link href="/profile" className="btn-primary mt-4">Complete your profile →</Link>
+          <div className="mt-4 flex flex-wrap justify-center gap-3">
+            <Link href="/profile" className="btn-primary">Complete your profile →</Link>
+            <Link href="/quiz" className="btn-ghost">Not sure? Take the quiz</Link>
+          </div>
         </div>
       </div>
     );
