@@ -21,7 +21,7 @@ export type IndustryId =
   | "media"
   | "environment";
 
-export type Audience = "high-school" | "college";
+export type Audience = "high-school" | "college" | "graduate";
 export type OppType =
   | "internship"
   | "volunteering"
@@ -102,6 +102,7 @@ export const INDUSTRIES: Industry[] = [
 export const AUDIENCE_LABELS: Record<Audience, string> = {
   "high-school": "High school",
   college: "College",
+  graduate: "Graduate students",
 };
 
 export const TYPE_LABELS: Record<OppType, string> = {

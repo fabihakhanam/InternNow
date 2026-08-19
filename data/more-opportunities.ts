@@ -8176,5 +8176,1395 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "cost": "paid",
     "summary": "A paid 11-week summer internship at The Home Depot with roles across technology and business functions.",
     "about": "The Home Depot offers a paid 11-week summer internship for college students, with technology roles (software development, systems analysis, data analytics, app development) and business roles (project management, enterprise program development). Interns own projects end-to-end, meet with executive leadership, and work on real business-impacting initiatives at store, supply chain, and corporate locations. Applications run September 15 to October 31, 2025 for the May 18 to July 31, 2026 program."
+  },
+  {
+    "id": "amazon-future-engineer",
+    "org": "Amazon Future Engineer",
+    "program": "Amazon Future Engineer Scholarship & Internship",
+    "url": "https://www.amazonfutureengineer.com/scholarships",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $40,000 scholarship ($10,000/year for up to 4 years) plus a paid summer software engineering internship at Amazon",
+    "deadlineNote": "For graduating U.S. high school seniors pursuing a computer science degree; applications typically open in the fall — check the site for the next cycle.",
+    "summary": "A scholarship and paid Amazon internship for students from underserved communities pursuing computer science degrees.",
+    "about": "Amazon Future Engineer supports students with demonstrated financial need who are pursuing computer science (or related majors like software/computer/electrical engineering, data science, or IT) at an accredited four-year college. Recipients get up to $10,000 per year toward unmet financial need (up to $40,000 over four years, renewable), a guaranteed paid summer internship at Amazon where they work embedded on software engineering teams, and industry mentorship. Eligibility includes U.S. high school seniors authorized to work in the U.S. with a minimum 2.3 GPA who have taken or will take a computer science course/assessment.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "rivian",
+    "org": "Rivian",
+    "url": "https://rivian.com/careers-home/students",
+    "industries": [
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rivian runs paid undergraduate and graduate internship programs across its electric-vehicle and clean-mobility teams.",
+    "about": "Rivian is an American electric vehicle manufacturer focused on sustainable transportation. Its student programs place undergraduate and graduate interns on teams spanning engineering, software, design, and business to work on EV and energy products. Roles are paid and hosted at Rivian sites with some hybrid flexibility."
+  },
+  {
+    "id": "anduril",
+    "org": "Anduril",
+    "url": "https://www.anduril.com/careers",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Anduril Industries offers paid internships for university students across its defense-technology engineering and product teams.",
+    "about": "Anduril Industries is a defense technology company building autonomous systems, sensors, and software for the U.S. and allied governments. It recruits university students into paid internships across hardware, software, and mission-focused roles. Positions are based at Anduril offices with hybrid arrangements depending on team."
+  },
+  {
+    "id": "figma",
+    "org": "Figma",
+    "url": "https://www.figma.com/careers",
+    "industries": [
+      "technology",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Figma offers paid early-career internships, including software engineering roles, for university students.",
+    "about": "Figma is a collaborative design platform whose mission is to make design accessible to all. Its careers site features an Early Career section with intern openings such as Software Engineer Intern posted on the company's Greenhouse board. Internships are paid and include benefits like a learning stipend."
+  },
+  {
+    "id": "plaid",
+    "org": "Plaid",
+    "url": "https://plaid.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Plaid runs a paid software engineering internship program for university students in fintech infrastructure.",
+    "about": "Plaid is a financial technology company that builds infrastructure connecting apps to users' bank accounts. Its careers page describes a software engineering internship giving students hands-on project work alongside full-time teammates. Applications route through Plaid's early-career (RippleMatch) portal."
+  },
+  {
+    "id": "kkr",
+    "org": "KKR",
+    "url": "https://www.kkr.com/careers/early-careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "KKR offers paid early-careers summer analyst internships for college students in investing and finance.",
+    "about": "KKR is a leading global investment firm managing private equity, credit, and real assets. It recruits undergraduates into paid summer analyst and early-career internship roles across its investment and corporate functions. Programs are based in KKR offices."
+  },
+  {
+    "id": "the-carlyle-group",
+    "org": "The Carlyle Group",
+    "url": "https://www.carlyle.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Carlyle Group offers paid summer analyst internships for college students across its investment platforms.",
+    "about": "The Carlyle Group is a global investment firm spanning private equity, credit, and investment solutions. Its careers site highlights early-career recruiting, with paid summer analyst internships for undergraduates. Open roles are posted through Carlyle's Workday careers portal."
+  },
+  {
+    "id": "apollo-global-management",
+    "org": "Apollo Global Management",
+    "url": "https://www.apollo.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Apollo Global Management offers paid summer analyst / early-career internships for college students in asset management.",
+    "about": "Apollo Global Management is a global alternative asset manager active in credit, equity, and real assets. It recruits undergraduates into paid summer analyst and early-career roles through its official careers portal. Positions are based in Apollo offices such as New York."
+  },
+  {
+    "id": "ares-management",
+    "org": "Ares Management",
+    "url": "https://www.aresmgmt.com/careers/campus-recruiting",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Ares Management runs a paid campus-recruiting summer analyst internship program for college students.",
+    "about": "Ares Management is a global alternative investment manager spanning credit, private equity, and real assets. Its campus recruiting program places undergraduates into paid summer analyst internships across investment and corporate teams. Roles are hosted in Ares offices."
+  },
+  {
+    "id": "houlihan-lokey",
+    "org": "Houlihan Lokey",
+    "url": "https://hl.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Houlihan Lokey offers a paid summer analyst campus-recruiting internship for college students in investment banking.",
+    "about": "Houlihan Lokey is a global investment bank specializing in M&A, capital markets, and financial restructuring advisory. It recruits undergraduates into paid summer analyst internships through its campus-recruiting program. Roles are based in Houlihan Lokey offices worldwide."
+  },
+  {
+    "id": "piper-sandler",
+    "org": "Piper Sandler",
+    "url": "https://www.pipersandler.com/careers/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Piper Sandler offers a paid summer analyst internship program for college students in investment banking and finance.",
+    "about": "Piper Sandler is a leading investment bank and capital markets firm serving corporations and institutions. Its careers site includes a students section for campus recruiting into paid summer analyst internships. Open roles are posted through Piper Sandler's Workday careers portal."
+  },
+  {
+    "id": "t-rowe-price",
+    "org": "T. Rowe Price",
+    "url": "https://www.troweprice.com/en/us/careers/career-pathways/internships",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "T. Rowe Price offers paid internships for college students across investing, technology, and business functions.",
+    "about": "T. Rowe Price is a global asset management firm offering investment products and services. Its careers site features an Internships pathway alongside technology and entry-level tracks, giving students paid experience in investing, tech, sales, and marketing. Programs are hosted at T. Rowe Price offices."
+  },
+  {
+    "id": "medtronic",
+    "org": "Medtronic",
+    "url": "https://www.medtronic.com/en-us/about/careers/students-early-career.html",
+    "industries": [
+      "healthcare",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Medtronic offers paid student and early-career internships across its medical-technology engineering and business teams.",
+    "about": "Medtronic is a global medical technology company developing devices and therapies across cardiac, surgical, diabetes, and neuroscience areas. It recruits college students into paid internships and early-career programs spanning engineering, R&D, and business functions. Roles are based at Medtronic facilities with hybrid options."
+  },
+  {
+    "id": "point72",
+    "org": "Point72",
+    "program": "Point72 Academy Investment Analyst / Future of Finance",
+    "url": "https://point72.com/point72-academy",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Summer internship opens Winter; full-time (upcoming grads) opens Spring",
+    "summary": "Point72's Academy trains university students and recent graduates to become buy-side investment analysts, with the Future of Finance serving as a diversity recruiting pathway into the program.",
+    "about": "The Point72 Academy is an investment analyst training program running since 2015, offering an eight-week summer internship for students in their final summer of university and a ten-month full-time Associate program for recent graduates. It centers on academics, apprenticeship, and mentorship and recruits from diverse backgrounds. Point72's 'Future of Finance' is a diversity-focused initiative that introduces underrepresented candidates to the Academy."
+  },
+  {
+    "id": "campervan-finder",
+    "org": "Campervan Finder",
+    "program": "Campervan Finder Scholarship (Shape The Future)",
+    "url": "https://www.campervanfinder.com/scholarship",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500 scholarship",
+    "deadlineNote": "January 1st and June 30th annually",
+    "summary": "Campervan Finder awards a $2,500 scholarship twice a year to full-time students passionate about travel and business.",
+    "about": "Campervan Finder's 'Shape The Future' scholarship grants $2,500 twice annually to help students with rising education costs. Applicants must be full-time students with at least a 2.0 cumulative GPA and submit a 600-word essay on booking travel online versus using an accredited travel agent. Deadlines are January 1 and June 30 each year."
+  },
+  {
+    "id": "ge-reagan-foundation",
+    "org": "GE Reagan Foundation",
+    "program": "GE-Reagan Foundation Scholarship Program",
+    "url": "https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$10,000 per year, renewable up to $40,000 total",
+    "deadlineNote": "Deadline early January (2026 cycle closed); reopens annually",
+    "summary": "The GE-Reagan Foundation Scholarship awards U.S. high school seniors $10,000 per year, renewable for up to four years (up to $40,000 total).",
+    "about": "The GE-Reagan Foundation Scholarship Program recognizes high school seniors who demonstrate leadership, drive, integrity, and citizenship. Recipients receive $10,000 annually, renewable for up to three additional years for a total of up to $40,000. Applicants must be U.S. citizens with a minimum 3.0 GPA planning to enroll full-time at an accredited four-year U.S. college."
+  },
+  {
+    "id": "abacus-life",
+    "org": "Abacus Life",
+    "program": "Abacus Life Scholarship",
+    "url": "https://abacuslifesettlements.com/abacus-scholarship",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 scholarship",
+    "summary": "Abacus Life offers an annual scholarship to currently enrolled college students of all majors to help reduce the cost of higher education.",
+    "about": "Abacus Life (Abacus Settlements) runs a scholarship open to currently enrolled college students of any major who are passionate and driven. Applicants complete an application form to be considered, and the 2026-2027 cycle is currently open. The page highlights past winners from 2020 through 2026."
+  },
+  {
+    "id": "taco-bell-foundation",
+    "org": "Taco Bell Foundation",
+    "program": "Live Más Scholarship",
+    "url": "https://www.tacobellfoundation.org/live-mas-scholarship",
+    "industries": [
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $25,000 scholarship",
+    "summary": "The Taco Bell Foundation's Live Más Scholarship funds students pursuing their passions, awarding up to $25,000 with no GPA or essay required.",
+    "about": "The Live Más Scholarship supports students who submit a short passion-driven video rather than an essay or transcript. Awards range up to $25,000, and it is open to high school, college, and non-traditional students across the U.S. It is administered through the Kaleidoscope application platform."
+  },
+  {
+    "id": "jackie-robinson-foundation",
+    "org": "Jackie Robinson Foundation",
+    "program": "Jackie Robinson Foundation Scholarship",
+    "url": "https://jackierobinson.org/apply",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $35,000 scholarship (over four years)",
+    "deadlineNote": "Deadline early January; next cycle opens summer 2026",
+    "summary": "The Jackie Robinson Foundation awards a four-year merit-based scholarship (up to about $35,000 total) plus mentoring and support to graduating high school seniors with financial need.",
+    "about": "The JRF Scholarship is a merit-based award for graduating U.S. high school seniors who demonstrate academic excellence, leadership potential, community service, and financial need. Beyond funding, scholars receive comprehensive support including mentoring, the '42 Strategies for Success' curriculum, and internship/job placement. Applicants are not required to be athletes or attend an HBCU.",
+    "equityTags": [
+      "students-of-color",
+      "low-income"
+    ]
+  },
+  {
+    "id": "jones-t-shirts",
+    "org": "Jones T-Shirts",
+    "program": "Love Your Career Scholarship",
+    "url": "https://www.jonestshirts.com/pages/scholarship",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 scholarship",
+    "summary": "Jones T-Shirts offers a $1,000 essay-based scholarship for college students reflecting on building a career they love.",
+    "about": "The Love Your Career Scholarship is a recurring award from apparel retailer Jones T-Shirts. It is open to college students nationwide and is decided through an essay submission. There is no cost to apply."
+  },
+  {
+    "id": "the-may-firm",
+    "org": "The May Firm",
+    "program": "The May Firm Scholarship Fund",
+    "url": "https://mayfirm.com/scholarship",
+    "industries": [
+      "law"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 scholarship",
+    "summary": "The May Firm awards a bi-annual $1,000 scholarship to community college or university students who submit a personal-resilience essay.",
+    "about": "The May Firm Scholarship Fund is open to students enrolled at any accredited community college or university in the U.S. Applicants submit a 300+ word essay about overcoming a traumatic experience plus a resume with GPA. Deadlines fall on September 15 and January 5 each year."
+  },
+  {
+    "id": "the-advocates-driggs-bills-and-day-pllc",
+    "org": "The Advocates (Driggs, Bills & Day PLLC)",
+    "program": "The Advocates Scholarship",
+    "url": "https://www.advocateslaw.com/scholarship",
+    "industries": [
+      "law"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 scholarship (two $1,000 awards annually; $2,000 total)",
+    "summary": "The Advocates personal-injury law firm awards two $1,000 scholarships annually via a road-safety essay contest, one to a high schooler and one to a college student.",
+    "about": "Administered by Driggs, Bills & Day PLLC, the scholarship gives $2,000 total each year, split as $1,000 for a high school junior or senior and $1,000 for an enrolled college student. Applicants submit a 300-500 word essay on road safety and must follow one of the firm's social media pages; AI-generated essays are disqualified. The annual deadline is January 31."
+  },
+  {
+    "id": "future-of-stem-scholars-initiative-fossi",
+    "org": "Future of STEM Scholars Initiative (FOSSI)",
+    "program": "FOSSI Scholarship",
+    "url": "https://futureofstemscholars.org/FOSSI/apply",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$10,000/year for four years ($40,000 total)",
+    "summary": "FOSSI awards $10,000 per year for four years to high school seniors pursuing STEM degrees at Historically Black Colleges and Universities.",
+    "about": "The Future of STEM Scholars Initiative was founded by the American Chemistry Council, AIChE, Chemours, and the HBCU Week Foundation to increase underrepresented professionals in STEM. Applicants must be graduating high school seniors entering their freshman year at an HBCU, with a minimum 3.0 GPA, demonstrated financial need, and interest in chemical-industry-related careers. Recipients must maintain full-time STEM study at an HBCU to keep the award.",
+    "equityTags": [
+      "students-of-color",
+      "low-income"
+    ]
+  },
+  {
+    "id": "noaa",
+    "org": "NOAA",
+    "program": "Ernest F. Hollings Undergraduate Scholarship",
+    "url": "https://www.noaa.gov/office-education/hollings-scholarship",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Up to $9,500 in academic support plus a paid 10-week NOAA summer internship (~$700/week)",
+    "summary": "NOAA's Hollings Scholarship provides up to $9,500 in annual academic support plus a paid 10-week summer internship at a NOAA facility for undergraduate students.",
+    "about": "The Ernest F. Hollings Undergraduate Scholarship targets rising college juniors (sophomores when applying) in NOAA mission-related science, math, and environmental fields. It combines two years of academic funding with a full-time, paid 10-week summer internship at a NOAA facility. It is a national, U.S.-citizen program administered by NOAA's Office of Education."
+  },
+  {
+    "id": "talking-rain-sparkling-ice",
+    "org": "Talking Rain (Sparkling Ice)",
+    "program": "Flavorful Futures Scholarship",
+    "url": "https://apply.mykaleidoscope.com/program/flavorfulfutures2025",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000 scholarship",
+    "summary": "Talking Rain's Flavorful Futures Scholarship awards $5,000 to graduating high school seniors enrolling in any trade, vocational, or 2- or 4-year academic program.",
+    "about": "Sponsored by Talking Rain Beverage Company (maker of Sparkling Ice), the scholarship is open to U.S. high school seniors with at least a 2.5 GPA enrolling as first-year students at an accredited institution. Applications are managed through the Kaleidoscope platform. Relatives and dependents of Talking Rain employees are ineligible."
+  },
+  {
+    "id": "jet-insurance-jet-surety",
+    "org": "Jet Insurance / Jet Surety",
+    "program": "Jet Future Business Leaders Scholarship",
+    "url": "https://jetsurety.com/scholarship",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 scholarship",
+    "summary": "Jet Surety offers a $1,000 scholarship for students pursuing business-related education and future business leadership.",
+    "about": "The scholarship is sponsored by surety-bond provider Jet Surety and is aimed at high school and college students interested in business. Page content could not be retrieved due to a 403 bot block, but the official domain hosts the program at the /scholarship path."
+  },
+  {
+    "id": "edison-international",
+    "org": "Edison International",
+    "program": "Edison Scholars Program",
+    "url": "https://www.edison.com/community/edison-scholars",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": false,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$50,000 scholarship",
+    "summary": "Edison International awards thirty $50,000 scholarships each year to high school seniors in Southern California Edison's service area who plan to pursue STEM degrees.",
+    "about": "The Edison Scholars Program grants 30 scholarships of $50,000 annually to graduating high school seniors with at least a 3.0 GPA and demonstrated financial need who live within SCE's service territory. Recipients must plan to major in science, technology, engineering, or math at a four-year college. Top 50 finalists submit a short video on community impact through STEM.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "trib-total-media",
+    "org": "Trib Total Media",
+    "program": "Jim Borden Memorial Scholarship",
+    "url": "https://tribtotalmedia.com/jim-borden-memorial-scholarship",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      }
+    ],
+    "cost": "free",
+    "compensation": "Up to $30,000 scholarship ($7,500/year) plus annual summer internships and a full-time job offer at graduation",
+    "summary": "Trib Total Media's Jim Borden Memorial Scholarship provides up to $30,000 over four years plus summer internships to a Pittsburgh-region student majoring in journalism, English, or communication.",
+    "about": "The scholarship pays up to $7,500 per year to a student attending an accredited four-year college in Journalism, English Writing, or Communication who lives in the Pittsburgh-area counties and maintains a 3.25 GPA. Recipients complete annual summer internships at Trib Total Media and receive a full-time job offer upon graduation. Trib Total Media is based in Western Pennsylvania (Tarentum, PA)."
+  },
+  {
+    "id": "samuel-huntington-fund",
+    "org": "Samuel Huntington Fund",
+    "program": "Samuel Huntington Public Service Award",
+    "url": "https://www.samuelhuntingtonaward.org/apply",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$30,000 stipend for a one-year public service project",
+    "summary": "The Samuel Huntington Public Service Award gives graduating college seniors a $30,000 stipend to pursue a year of public service in the U.S. or abroad before graduate school or a career.",
+    "about": "Open to graduating seniors at accredited U.S. colleges, the award funds a self-designed one-year public service project, paid as $15,000 at the start and $15,000 after a six-month progress report. Selection is based on proposal quality, academic record, and personal achievements, with finalist interviews. The referenced application deadline is February 9, 2027."
+  },
+  {
+    "id": "texas-tech-university",
+    "org": "Texas Tech University",
+    "program": "Anson L. Clark Scholars Program",
+    "url": "https://www.depts.ttu.edu/clarkscholars",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Tuition-free residential program with a stipend, room, and board",
+    "summary": "The Anson L. Clark Scholars Program is an intensive seven-week summer research experience at Texas Tech for twelve rising high school seniors and recent graduates.",
+    "about": "Each summer the program selects twelve highly qualified rising high school seniors and recent high school graduates for hands-on research with Texas Tech faculty across many disciplines. The 2026 session runs June 21 to August 6 at the Texas Tech campus in Lubbock, Texas. Selected scholars receive a stipend along with room and board."
+  },
+  {
+    "id": "army-educational-outreach-program-aeop",
+    "org": "Army Educational Outreach Program (AEOP)",
+    "program": "High School Apprenticeship",
+    "url": "https://aeopinternships-fellowships.org",
+    "industries": [
+      "science",
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid (stipend)",
+    "summary": "AEOP places high school students in paid summer research apprenticeships at Army-funded university and Army laboratories alongside professional STEM mentors.",
+    "about": "The Army Educational Outreach Program offers competitive, paid research placements where high school students conduct authentic STEM research in state-of-the-art facilities under a professional mentor. Placements are hosted at Army research labs and partner university labs across the country. Participants receive a stipend for their work."
+  },
+  {
+    "id": "nyu-tandon-school-of-engineering",
+    "org": "NYU Tandon School of Engineering",
+    "program": "Computer Science for Cyber Security (CS4CS)",
+    "url": "https://k12stem.engineering.nyu.edu/programs/cs4cs",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Brooklyn",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "free",
+    "deadlineNote": "Runs approximately mid-July to early August; open to current 10th/11th graders residing in NYC and specified NJ/Nassau County areas.",
+    "summary": "CS4CS is a free four-week summer introduction to cybersecurity for high school students at NYU Tandon.",
+    "about": "CS4CS is a four-week hands-on summer program teaching cybersecurity fundamentals including scripting, cryptography, digital forensics, and Capture the Flag competitions. It is held in-person at NYU Tandon in Brooklyn, NY and is offered on full scholarship (free) funded by DTCC. Eligibility is limited to current 10th and 11th graders in the NYC metro area."
+  },
+  {
+    "id": "national-institute-of-standards-and-technology",
+    "org": "National Institute of Standards and Technology (NIST)",
+    "program": "Summer High School Intern Program (SHIP)",
+    "url": "https://www.nist.gov/property-fieldsection/summer-high-school-intern-program",
+    "industries": [
+      "science",
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [],
+    "cost": "free",
+    "summary": "SHIP is a NIST summer volunteer research program giving high school juniors and seniors hands-on science and engineering experience.",
+    "about": "The Summer High School Intern Program (SHIP) offers unpaid volunteer research placements for high school juniors and seniors interested in science, technology, engineering, and math. Interns work alongside NIST researchers on cutting-edge projects, primarily at the Gaithersburg, MD campus (with some Boulder, CO opportunities). The program is unpaid but free to participate."
+  },
+  {
+    "id": "national-security-agency-nsa",
+    "org": "National Security Agency (NSA)",
+    "program": "Student Programs",
+    "url": "https://www.nsa.gov/Careers/Students-Educators",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "NSA offers paid student programs, including opportunities for high school students in STEM and cybersecurity fields.",
+    "about": "The National Security Agency runs a range of paid student programs spanning high school through graduate level, including high school work-study and cybersecurity-focused opportunities. Positions are based at NSA facilities and typically require U.S. citizenship and a security clearance process. Programs are paid."
+  },
+  {
+    "id": "sandia-national-laboratories",
+    "org": "Sandia National Laboratories",
+    "program": "Sandia Internships",
+    "url": "https://www.sandia.gov/careers/students-postdocs/internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid (competitive hourly)",
+    "summary": "Sandia National Laboratories offers paid summer, year-round, and co-op internships open to students from high school through PhD.",
+    "about": "Sandia offers paid technical and business internships including summer (10-12 weeks), year-round, and co-op formats. Applicants must be at least 16 and enrolled full-time at an accredited high school, college, or university, with a general 3.0 GPA expectation. Interns earn competitive pay and benefits; some roles require U.S. citizenship for security clearance."
+  },
+  {
+    "id": "u-s-department-of-state",
+    "org": "U.S. Department of State",
+    "program": "Pathways Internship Program",
+    "url": "https://careers.state.gov/interns-fellows",
+    "industries": [
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Pathways Internship Program offers paid federal internships at the U.S. Department of State for students enrolled in qualifying educational programs.",
+    "about": "Pathways is a governmentwide OPM internship program that the U.S. Department of State uses to hire current students, including those enrolled at least half-time in high school, into paid roles. Placements can lead to conversion to permanent federal positions. Work is typically in-person or hybrid at State Department facilities and requires U.S. citizenship."
+  },
+  {
+    "id": "american-fisheries-society",
+    "org": "American Fisheries Society",
+    "program": "Hutton Junior Fisheries Biology Program",
+    "url": "https://hutton.fisheries.org",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "mentorship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$3,000 scholarship/stipend",
+    "summary": "The Hutton Program pairs high school students with fisheries-science mentors for a paid summer research and mentorship experience.",
+    "about": "The Hutton Junior Fisheries Biology Program is an American Fisheries Society summer mentorship program matching high school students (rising sophomores through seniors) with professional fisheries and aquatic-science mentors. Participants gain hands-on field and lab research experience and receive a $3,000 scholarship/stipend. The program operates nationwide with an emphasis on diversifying the fisheries profession."
+  },
+  {
+    "id": "scripps-research-translational-institute",
+    "org": "Scripps Research Translational Institute",
+    "program": "Student Research Internship Program",
+    "url": "https://www.scripps.edu/science/translational-institute/education-training/student-research-internship-program",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "free",
+    "deadlineNote": "10-week summer program (June-August); high school applicants must be at least 16 before the start. 2026 applications closed; check back in late fall for 2027.",
+    "summary": "Scripps Research Translational Institute offers a 10-week summer research internship in genomics and digital medicine, open to high school students aged 16+.",
+    "about": "The Student Research Internship Program is a 10-week summer experience letting students test-drive a career in translational science, focused on genomics and mobile/digital health. It is open to high school (16+), undergraduate, graduate, and professional students at Scripps Research in La Jolla, CA. Positions are currently unpaid and completed for school credit or transcript notation."
+  },
+  {
+    "id": "johns-hopkins-university",
+    "org": "Johns Hopkins University",
+    "program": "Internship in Brain Sciences (JHIBS)",
+    "url": "https://sites.krieger.jhu.edu/jhibs",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Baltimore",
+        "state": "MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (stipend)",
+    "summary": "JHIBS is a paid summer research internship introducing Baltimore-area high school students to brain and neuroscience research at Johns Hopkins.",
+    "about": "The Johns Hopkins Internship in Brain Sciences (JHIBS) is a summer program giving high school students hands-on experience in neuroscience and brain-science research alongside Johns Hopkins scientists in Baltimore, MD. It emphasizes broadening participation of students from backgrounds underrepresented in science. Interns receive a stipend."
+  },
+  {
+    "id": "fred-hutchinson-cancer-center",
+    "org": "Fred Hutchinson Cancer Center",
+    "program": "Summer High School Internship Program (SHIP)",
+    "url": "https://www.fredhutch.org/en/education-training/high-school-students/summer-high-school-internship-program.html",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "An eight-week paid summer research internship at Fred Hutch for high schoolers transitioning from 11th to 12th grade.",
+    "about": "SHIP places rising high school seniors in Fred Hutch labs in Seattle for a paid, eight-week experience. The program opens with about two weeks of hands-on training in lab techniques and safety, followed by six weeks of supervised research under a faculty mentor. Interns attend weekly workshops and seminars and deliver a final research presentation."
+  },
+  {
+    "id": "national-cancer-institute",
+    "org": "National Cancer Institute",
+    "program": "Graduate Student Programs",
+    "url": "https://www.cancer.gov/grants-training/training/at-nci/graduate-student-programs",
+    "industries": [
+      "healthcare",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "NCI graduate training programs let PhD, MD, or equivalent-degree candidates conduct dissertation research with NCI investigators.",
+    "about": "The National Cancer Institute, part of the NIH, offers graduate-level research training at its Maryland campuses. Programs are open to students pursuing a PhD, MD, or equivalent degree, who can carry out all or part of their dissertation research alongside a leading NCI investigator. Trainees receive stipend support."
+  },
+  {
+    "id": "rand-corporation",
+    "org": "RAND Corporation",
+    "program": "Graduate Student Summer Associate Program",
+    "url": "https://www.rand.org/about/edu_op/fellowships/gsap.html",
+    "industries": [
+      "government",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Santa Monica",
+        "state": "CA",
+        "lat": 34.0195,
+        "lng": -118.4912
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "RAND's summer associate program brings graduate students onto policy research projects at RAND offices.",
+    "about": "The RAND Graduate Student Summer Associate Program gives current graduate students the chance to work on RAND's public policy research during the summer. Associates collaborate with RAND researchers at its Santa Monica headquarters and other U.S. offices and receive a stipend."
+  },
+  {
+    "id": "public-policy-institute-of-california-ppic",
+    "org": "Public Policy Institute of California (PPIC)",
+    "program": "Internships",
+    "url": "https://www.ppic.org/about-ppic/careers",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [],
+    "cost": "free",
+    "summary": "PPIC offers research internships supporting its nonpartisan California public-policy studies.",
+    "about": "The Public Policy Institute of California is a nonprofit, nonpartisan research organization producing analysis on California policy issues. It provides internship opportunities for students to support its research and communications work, based at its California offices."
+  },
+  {
+    "id": "united-nations-university",
+    "org": "United Nations University",
+    "program": "Internship Programmes (incl. Junior Fellows)",
+    "url": "https://unu.edu/careers",
+    "industries": [
+      "government",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "UNU offers internships across its centre and institutes connecting graduates with global research and policy work.",
+    "about": "United Nations University, the academic and research arm of the UN, offers periodic internships and fellowships through UNU Centre and its institutes, including the Junior Fellows Internship Programme in the Office of the Rector and institute-specific internships (e.g., UNU-IAS, UNU-FLORES, UNU-INWEH). They target university graduates and early-career professionals; specific eligibility and compensation vary by program and are usually unpaid."
+  },
+  {
+    "id": "world-bank",
+    "org": "World Bank",
+    "program": "WBG Pioneers Internship Program (formerly World Bank Internship Program)",
+    "url": "https://www.worldbank.org/ext/en/careers/talent-programs/wbg-pioneers",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid (competitive hourly salary)",
+    "summary": "The World Bank Group's paid internship places graduate students on active project workstreams in Washington, D.C. and country offices.",
+    "about": "Now branded the WBG Pioneers Internship Program, the World Bank Group internship is open to final-year undergraduates and current master's or PhD students who are citizens of a member country. Interns work on real cross-functional project assignments with mentorship, based in Washington, D.C. and country offices worldwide, and are paid a competitive hourly salary. It runs in Spring/Summer and Winter/Fall cycles."
+  },
+  {
+    "id": "u-s-department-of-labor",
+    "org": "U.S. Department of Labor",
+    "program": "Internships (Pathways Internship Program)",
+    "url": "https://www.dol.gov/general/jobs/students-and-recent-graduates",
+    "industries": [
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "DOL offers federal internships for current students, including graduate students, through the government-wide Pathways Internship Program.",
+    "about": "The U.S. Department of Labor hires students and recent graduates through the federal Pathways Programs. The Internship Program provides paid work experience for students enrolled in qualifying degree programs, including graduate students, with positions posted on USAJOBS and located at DOL offices nationwide."
+  },
+  {
+    "id": "santander",
+    "org": "Santander",
+    "program": "Students, Grads & Early Talent",
+    "url": "https://www.santandercareers.com/early-talent",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Santander offers early-talent internship and post-graduation programs for students and recent graduates across its banking business units.",
+    "about": "Santander's early-talent program places students in internships across a range of business units and functions, with hands-on project work and exposure to senior leaders. U.S. internships are based on-site in offices including Boston, Dallas, Miami, New York, Los Angeles, and San Francisco. Post-graduation programs span Corporate Functions, Corporate & Investment Banking, and Wealth Management."
+  },
+  {
+    "id": "roland-berger",
+    "org": "Roland Berger",
+    "program": "Student and Graduate Opportunities",
+    "url": "https://www.rolandberger.com/en/Careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Roland Berger, a global strategy consulting firm, offers internships and entry-level roles for students and graduates.",
+    "about": "Roland Berger is an international strategy consulting firm that recruits students and graduates through internships and permanent positions. The careers site directs candidates to recruiting-day preparation resources, job listings, and FAQs. Internships serve as an entry point into consulting alongside full-time roles."
+  },
+  {
+    "id": "altman-solon",
+    "org": "Altman Solon",
+    "program": "Campus Recruiting",
+    "url": "https://www.altmansolon.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Altman Solon, the largest strategy consulting firm focused on telecom, media, and technology, runs a campus internship program for students.",
+    "about": "Altman Solon describes itself as the world's largest strategy consulting firm exclusively focused on telecommunications, media, and technology (TMT). Interns are integrated into project teams and supported by experienced consultants, with internships typically lasting two to three months. A dedicated Students section covers internships and entry-level TMT roles."
+  },
+  {
+    "id": "analysis-group",
+    "org": "Analysis Group",
+    "program": "Internship Program",
+    "url": "https://www.analysisgroup.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Analysis Group, an economic consulting firm, offers full-time and summer internship roles for undergraduate and graduate students.",
+    "about": "Analysis Group is an economic consulting firm that solves complex business problems in health care, technology, financial services, and other industries. The entry-level Analyst role is open to undergraduate and graduate students for full-time and summer internships, while the Associate role targets MBA/PhD candidates and holders. Consultants collaborate with an affiliated network of academic experts."
+  },
+  {
+    "id": "kearney-and-company",
+    "org": "Kearney & Company",
+    "program": "Summer Internship Program",
+    "url": "https://kearneyco.com/careers/early-talent",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Kearney & Company, a top U.S. CPA firm, runs a summer internship program offering associate-level accounting and audit experience.",
+    "about": "Kearney & Company is one of the top 35 CPA firms in the nation, based in Alexandria, Virginia (distinct from the management consultancy Kearney). Its summer interns start in early June, work in a hybrid environment on associate-level projects, and take part in mentoring, networking, and a firm-wide community service project. The firm also offers a two-day summer externship and may extend full-time offers upon graduation."
+  },
+  {
+    "id": "corning",
+    "org": "Corning",
+    "program": "Campus Programs & Internships",
+    "url": "https://www.corning.com/worldwide/en/careers/career-areas/students-and-recent-graduates.html",
+    "industries": [
+      "science",
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Corning offers campus programs and internships for students and recent graduates across its materials science, engineering, and business functions.",
+    "about": "Corning is a materials science and specialty glass and ceramics company that recruits students and recent graduates into internships and campus programs. Opportunities span science, engineering, technology, and business functions. The dedicated students-and-recent-graduates careers page could not be scraped directly due to bot protection, but the domain is unambiguously Corning's official site."
+  },
+  {
+    "id": "bryan-cameron-education-foundation",
+    "org": "Bryan Cameron Education Foundation",
+    "program": "The Cameron Impact Scholarship",
+    "url": "https://www.bryancameroneducationfoundation.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Full-tuition scholarship",
+    "deadlineNote": "September 9",
+    "summary": "The Cameron Impact Scholarship is a full-tuition award for high-achieving U.S. high school seniors offered by the Bryan Cameron Education Foundation.",
+    "about": "The Cameron Impact Scholarship, run by the Bryan Cameron Education Foundation, provides a full-tuition award covering four years of undergraduate study for outstanding U.S. high school seniors. Selection weighs academic excellence, leadership, community impact, and character. The foundation's official site could not be scraped directly due to bot protection but responded as an active server."
+  },
+  {
+    "id": "college-board",
+    "org": "College Board",
+    "program": "BigFuture Scholarships",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$500 to $40,000 scholarships",
+    "deadlineNote": "Deadlines vary by class year",
+    "summary": "The College Board BigFuture Scholarship awards no-essay scholarships of $500 to $40,000 to high school students who complete college-planning steps.",
+    "about": "BigFuture Scholarships, run by the College Board, let high school students earn entries into scholarship drawings by completing college and career planning steps on their BigFuture dashboard, with no essay required. Awards range from $500 up to $40,000, and students whose families earn under $60K per year can improve their odds. Deadlines vary by class year, and the program has been extended through the class of 2030."
+  },
+  {
+    "id": "breakthrough-prize-foundation",
+    "org": "Breakthrough Prize Foundation",
+    "program": "Breakthrough Junior Challenge",
+    "url": "https://breakthroughjuniorchallenge.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$250,000 college scholarship (plus $50,000 for teacher and $100,000 science lab)",
+    "deadlineNote": "September 15",
+    "summary": "The Breakthrough Junior Challenge is an annual global science-video competition for high school students, with a $250,000 college scholarship for the winner.",
+    "about": "The Breakthrough Junior Challenge is an annual global science video competition for high school students, founded in 2015 by Julia and Yuri Milner. Entrants create a short video explaining a concept in science or mathematics. The grand prize includes a $250,000 post-secondary scholarship for the winner, $50,000 for their teacher, and a $100,000 science lab for their school; the 2026 deadline is September 15, 2026."
+  },
+  {
+    "id": "equitable-foundation",
+    "org": "Equitable Foundation",
+    "program": "Equitable Excellence Scholarship",
+    "url": "https://equitable.com/foundation/equitable-excellence-scholarship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500, $10,000, or $25,000 scholarship",
+    "deadlineNote": "December",
+    "summary": "The Equitable Excellence Scholarship recognizes high school seniors who demonstrate achievement, drive, and courage, with awards of $2,500, $10,000, or $25,000.",
+    "about": "The Equitable Excellence Scholarship, sponsored by the Equitable Foundation, recognizes U.S. high school seniors who show achievement, courage, and the drive to overcome obstacles. Recipients receive one-time awards of $2,500, with a select number upgraded to $10,000 or $25,000. The official page was blocked by a web application firewall during verification but is unambiguously on Equitable's domain."
+  },
+  {
+    "id": "u-s-bank",
+    "org": "U.S. Bank",
+    "program": "U.S. Bank Student Scholarship Program",
+    "url": "https://www.usbank.com/scholarship",
+    "industries": [
+      "business",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Prizes up to $20,000 (tiered: $2,500 / $5,000 / $10,000 / $20,000 based on learning modules completed)",
+    "deadlineNote": "October 30 (2026 sweepstakes runs Feb 2 - Oct 30, 2026, in two entry periods)",
+    "summary": "A sweepstakes-style scholarship where students learn personal finance through the Zogo app for a chance to win up to $20,000 toward tuition.",
+    "about": "U.S. Bank awards scholarship prizes to students who complete personal-finance learning modules in the Zogo app, with prize tiers ranging up to a $20,000 grand prize for completing 150+ modules. It is open to U.S. residents age 17 or older who are accepted/enrolled high school students or current undergraduate, trade, or vocational school students; graduate and international students are not eligible. Entries are accepted online (with a mail-in alternative) during two annual entry periods."
+  },
+  {
+    "id": "veterans-of-foreign-wars-vfw",
+    "org": "Veterans of Foreign Wars (VFW)",
+    "program": "Voice of Democracy Scholarship",
+    "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $35,000 scholarship (national first place); other national awards and state-level awards from $1,000",
+    "deadlineNote": "October 31 (entries due to a local participating VFW Post by midnight, Oct. 31)",
+    "summary": "An annual audio-essay competition in which high school students record a patriotic-themed essay to compete for over $1.6 million in scholarships nationwide.",
+    "about": "The VFW's Voice of Democracy program invites 9th-12th grade students to write and record a broadcast-style audio essay on an annual patriotic theme. Nearly 28,000 students compete each year for more than $1.6 million in scholarships and incentives, with the national first-place winner earning a $35,000 scholarship paid to their college. Entries are submitted through a local participating VFW Post, and state first-place winners advance to national judging."
   }
 ];

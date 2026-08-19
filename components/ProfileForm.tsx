@@ -24,6 +24,8 @@ const GRADES = [
   { v: "college-2", l: "College — 2nd year" },
   { v: "college-3", l: "College — 3rd year" },
   { v: "college-4", l: "College — 4th year+" },
+  { v: "grad-masters", l: "Graduate — Master's / MBA" },
+  { v: "grad-phd", l: "Graduate — PhD / doctoral" },
   { v: "other", l: "Other" },
 ];
 

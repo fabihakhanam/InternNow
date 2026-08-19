@@ -24,7 +24,7 @@ const MapView = dynamic(() => import("./MapView"), {
 });
 
 const TYPES: OppType[] = ["internship", "volunteering", "fellowship", "program", "scholarship"];
-const AUDIENCES: Audience[] = ["high-school", "college"];
+const AUDIENCES: Audience[] = ["high-school", "college", "graduate"];
 
 export function MapExplorer() {
   const [industries, setIndustries] = useState<IndustryId[]>([]);

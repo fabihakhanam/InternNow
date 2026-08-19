@@ -21,7 +21,7 @@ const TYPES: OppType[] = [
   "internship", "volunteering", "fellowship", "program", "scholarship",
   "research", "competition", "summer-program", "mentorship",
 ];
-const AUDIENCES: Audience[] = ["high-school", "college"];
+const AUDIENCES: Audience[] = ["high-school", "college", "graduate"];
 const FORMATS: Format[] = ["remote", "hybrid", "in-person"];
 const FORMAT_LABELS: Record<Format, string> = { remote: "🌐 Remote", hybrid: "🔀 Hybrid", "in-person": "🏢 In-person" };
 

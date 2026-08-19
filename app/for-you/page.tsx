@@ -4,7 +4,7 @@ import { getCurrentUser, getSessionUserId } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { rankForProfile, audienceFromGrade } from "@/lib/match";
 import { OpportunityCard } from "@/components/OpportunityCard";
-import type { IndustryId } from "@/lib/catalog";
+import { AUDIENCE_LABELS, type IndustryId } from "@/lib/catalog";
 
 export const metadata = { title: "For You — InternNow" };
 
@@ -55,7 +55,7 @@ export default async function ForYouPage() {
         <div>
           <h1 className="display text-3xl font-bold">For you, {user.name.split(" ")[0]} 👋</h1>
           <p className="muted mt-1">
-            Based on your profile{audience ? ` (${audience === "high-school" ? "high school" : "college"})` : ""}
+            Based on your profile{audience ? ` (${AUDIENCE_LABELS[audience]})` : ""}
             {interests.length ? ` and interest in ${interests.length} field${interests.length > 1 ? "s" : ""}` : ""}.
           </p>
         </div>

@@ -16,8 +16,15 @@ export type ProfileData = {
 export function audienceFromGrade(gradeLevel: string): Audience | null {
   if (gradeLevel.startsWith("hs")) return "high-school";
   if (gradeLevel.startsWith("college")) return "college";
+  if (gradeLevel.startsWith("grad")) return "graduate";
   return null;
 }
+
+const AUDIENCE_REASON: Record<Audience, string> = {
+  "high-school": "Open to high schoolers",
+  college: "Open to college students",
+  graduate: "Open to graduate students",
+};
 
 export type Scored = { opp: Opportunity; score: number; reasons: string[] };
 
@@ -38,7 +45,7 @@ export function rankForProfile(profile: ProfileData): Scored[] {
 
     if (audience && opp.audiences.includes(audience)) {
       score += 3;
-      reasons.push(audience === "high-school" ? "Open to high schoolers" : "Open to college students");
+      reasons.push(AUDIENCE_REASON[audience]);
     }
 
     if (profile.state) {
