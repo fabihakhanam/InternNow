@@ -13810,5 +13810,13793 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "compensation": "Paid",
     "summary": "Mondelez International offers internships and early-career programs for students across marketing, supply chain, finance, and other functions.",
     "about": "Mondelez International is one of the world's largest snacking companies, with brands such as Oreo, Cadbury, and Ritz. Its careers site features 'Early Careers' sections with regional links (including the US) covering student and entry-level programs. The company recruits interns nationally across functions like Marketing, Sales, Finance, Supply Chain, and Engineering."
+  },
+  {
+    "id": "rutgers-university",
+    "org": "Rutgers University",
+    "program": "DIMACS REU",
+    "url": "https://dimacs.rutgers.edu/reu-main",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Piscataway",
+        "state": "NJ",
+        "lat": 40.1,
+        "lng": -74.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "deadlineNote": "Early February (2026 cycle closed)",
+    "summary": "A summer Research Experience for Undergraduates in discrete mathematics and theoretical computer science at Rutgers' DIMACS center.",
+    "about": "DIMACS runs an NSF-funded summer REU pairing undergraduates with faculty mentors on projects in discrete math and theoretical computer science, with tracks including the DIMACS REU, DIMACS/Charles University REU, and Rutgers Math REU. The program runs roughly late May through late July on the Busch Campus in Piscataway, NJ. The 2026 application cycle is closed."
+  },
+  {
+    "id": "university-of-wisconsin-madison",
+    "org": "University of Wisconsin-Madison",
+    "program": "MRSEC Interdisciplinary Materials REU",
+    "url": "https://mrsec.wisc.edu/reu",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Madison",
+        "state": "WI",
+        "lat": 44.6,
+        "lng": -89.9
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "deadlineNote": "Applications November through mid-February",
+    "summary": "A 10-week interdisciplinary materials research experience for undergraduates at the University of Wisconsin-Madison MRSEC.",
+    "about": "UW-Madison's MRSEC REU places undergraduates in 10 weeks of research across engineering, physics, chemistry, science education, and public policy, plus professional development and social activities. It emphasizes broadening participation of students traditionally underrepresented in science and engineering. Applications are accepted from November through mid-February."
+  },
+  {
+    "id": "the-leadership-alliance",
+    "org": "The Leadership Alliance",
+    "program": "Summer Research Early Identification Program (SR-EIP)",
+    "url": "https://theleadershipalliance.org/summer-research-early-identification-program",
+    "industries": [
+      "science",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend plus travel and housing",
+    "deadlineNote": "February 3, 2026",
+    "summary": "A fully paid summer research and mentoring internship preparing undergraduates for PhD or MD-PhD programs across roughly 20 partner institutions.",
+    "about": "SR-EIP offers 8-10 week mentored research placements in life/physical sciences, social/behavioral sciences, and the humanities, culminating in the Leadership Alliance National Symposium. Participants receive a stipend plus travel and housing from the host institution. It is open to full-time undergraduates at accredited U.S. colleges with a GPA of 3.0 or better who intend to pursue a PhD or MD-PhD.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "woods-hole-oceanographic-institution",
+    "org": "Woods Hole Oceanographic Institution",
+    "program": "Summer Student Fellowship",
+    "url": "https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Woods Hole",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "deadlineNote": "Applications early December through early February (2026 closed)",
+    "summary": "A summer undergraduate fellowship in ocean science and engineering research at the Woods Hole Oceanographic Institution.",
+    "about": "WHOI's Summer Student Fellowship places undergraduates on an ocean science or engineering research project with a sponsor, complemented by talks, seminars, and a research cruise on the R/V Tioga. Projects span WHOI departments and the USGS Woods Hole Coastal and Marine Science Center. Applications typically run early December through early February."
+  },
+  {
+    "id": "cold-spring-harbor-laboratory",
+    "org": "Cold Spring Harbor Laboratory",
+    "program": "Undergraduate Research Program (URP)",
+    "url": "https://www.cshl.edu/education/undergraduate-research-program",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cold Spring Harbor",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend plus room and board",
+    "deadlineNote": "January 15 (2026 cycle closed)",
+    "summary": "A mentored summer research program for undergraduate sophomores and juniors in molecular biology, genetics, neuroscience, and quantitative biology at Cold Spring Harbor Laboratory.",
+    "about": "CSHL's URP places undergraduates in mentored lab research across fields including molecular biology, genetics, neuroscience, plant biology, and quantitative biology, with workshops, seminars, and a closing symposium. Students receive a $7,000 stipend and covered room and board in on-campus housing. It is open to current sophomores and juniors, with applications due January 15."
+  },
+  {
+    "id": "university-of-minnesota",
+    "org": "University of Minnesota",
+    "program": "MRSEC REU",
+    "url": "https://mrsec.umn.edu/ehr/REU",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 stipend plus housing, meals, and travel reimbursement",
+    "deadlineNote": "February 15",
+    "summary": "A 10-week summer materials science and engineering research program for undergraduates at the University of Minnesota MRSEC.",
+    "about": "The University of Minnesota MRSEC REU offers up to 25 full-time summer research positions in science and engineering, running about June through early August. Participants receive a $6,000 stipend plus housing and meals, travel reimbursement up to $500, and a research supply fund. It is open to undergraduate science and engineering majors who are U.S. citizens or permanent residents, with a February 15 deadline."
+  },
+  {
+    "id": "rocky-mountain-biological-laboratory",
+    "org": "Rocky Mountain Biological Laboratory",
+    "program": "REU in Field Biology",
+    "url": "https://www.rmbl.org/education-program-reu",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Crested Butte",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend plus room, board, tuition, and $400 travel",
+    "summary": "A fully immersive 10-week summer field biology research experience for undergraduates at the Rocky Mountain Biological Laboratory.",
+    "about": "RMBL's REU pairs each student with a scientist mentor for an independent field biology project over 10 weeks (June-August), earning the equivalent of 10 college credits. NSF REU awards cover the full program cost (room, board, tuition) plus a $7,000 stipend and $400 toward travel. Awards are limited to U.S. citizens or permanent residents who have not yet earned a bachelor's degree by program's end."
+  },
+  {
+    "id": "mdi-biological-laboratory",
+    "org": "MDI Biological Laboratory",
+    "program": "Summer Undergraduate Research Fellowship (NSF REU)",
+    "url": "https://mdibl.org/education/fellowships-training/undergraduate-and-high-school-programs",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Bar Harbor",
+        "state": "ME",
+        "lat": 45.4,
+        "lng": -69.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid 10-week fellowship (amount contingent on grant funding)",
+    "deadlineNote": "Applications typically open late fall",
+    "summary": "A 10-week residential summer research fellowship for undergraduates in aging and regenerative biology at MDI Biological Laboratory.",
+    "about": "MDIBL's Summer Undergraduate Research Fellowship (one of two SURF programs, including an NSF REU) is a 10-week residential mentored research experience using model systems such as zebrafish, killifish, nematodes, and axolotls, with seminars and professional development. Compensation is contingent on grant funding. Applications typically open in late fall; the lab also runs a separate one-week high school Biomedical Bootcamp."
+  },
+  {
+    "id": "national-radio-astronomy-observatory",
+    "org": "National Radio Astronomy Observatory",
+    "program": "NRAO REU / Summer Student Program",
+    "url": "https://science.nrao.edu/opportunities/student-programs/summerstudents",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend plus travel reimbursement up to $900 and lodging support",
+    "deadlineNote": "February 1 (2026 deadline passed)",
+    "summary": "A 10-12 week summer research assistantship in radio astronomy, instrumentation, and software at NRAO and Green Bank Observatory sites.",
+    "about": "The NRAO Summer Student Research Program, running since 1959, engages undergraduate and graduate students in mentored radio astronomy research, instrumentation, telescope design, site evaluation, and software development over 10-12 weeks from late May to mid-August. Students receive a stipend plus travel reimbursement up to $900 and short-term lodging support. Sub-programs include the NSF REU (U.S. citizens/permanent residents), PING, and West Virginia Space Grant, hosted in Green Bank (WV), Charlottesville (VA), or Socorro (NM)."
+  },
+  {
+    "id": "university-of-washington",
+    "org": "University of Washington",
+    "program": "Friday Harbor Laboratories Summer Research Internships (REU)",
+    "url": "https://fhl.uw.edu/courses/summer-research-internships",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Friday Harbor",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$500/week stipend plus room, board, and round-trip travel",
+    "deadlineNote": "February 15, 2026",
+    "summary": "An eight-week marine science research internship pairing undergraduates one-on-one with mentors at UW's Friday Harbor Laboratories in the San Juan Islands.",
+    "about": "The REU-Blinks Summer Internship combines the NSF REU program and the Anne Hof Blinks Research Fellowship, pairing 8-10 undergraduates one-on-one with scientist mentors on marine science projects at roughly 40 hours per week. Interns attend workshops and seminars, give a talk, and write a scientific paper, receiving a $500/week stipend plus room, board, and round-trip travel. The NSF REU supports U.S. citizens or permanent residents, while the Blinks Endowment supports students who bring diversity, including non-U.S. citizens."
+  },
+  {
+    "id": "bigelow-laboratory-for-ocean-sciences",
+    "org": "Bigelow Laboratory for Ocean Sciences",
+    "program": "REU in Ocean Sciences",
+    "url": "https://www.bigelow.org/education/reu",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "East Boothbay",
+        "state": "ME",
+        "lat": 45.4,
+        "lng": -69.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus free housing and travel funds",
+    "deadlineNote": "Applications open January 1",
+    "summary": "A 10-week NSF-funded independent ocean sciences research program for undergraduates at Bigelow Laboratory in Maine.",
+    "about": "Bigelow Laboratory's REU places undergraduates in 10 weeks of independent research with a scientist mentor, developing a research question, proposal, and poster presented at a symposium. Research areas include marine microbiology, ocean biogeochemistry, optical oceanography, remote sensing, bioinformatics, and phytoplankton ecology. Successful applicants receive a stipend plus free housing and travel funds; applications open January 1."
+  },
+  {
+    "id": "maria-mitchell-association",
+    "org": "Maria Mitchell Association",
+    "program": "NSF REU Internship in Astronomy",
+    "url": "https://www.mariamitchell.org/nsf-reu-internship-in-astronomy",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Nantucket",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,700 stipend",
+    "deadlineNote": "2026 cycle closed; check back November 2026 for 2027",
+    "summary": "A summer NSF-funded astronomy research internship offering six undergraduates individualized astrophysics projects on Nantucket.",
+    "about": "The Maria Mitchell Association's NSF REU offers six undergraduates individualized astronomy and astrophysics research projects mentored by experienced astronomers, plus professional development and community outreach. The total stipend is $7,700, with housing available for $30/week and travel/conference support. It is open to undergraduate astronomy and physics students who are U.S. citizens or permanent residents; the 2026 cycle is closed."
+  },
+  {
+    "id": "green-bank-observatory",
+    "org": "Green Bank Observatory",
+    "program": "REU / Summer Student Program",
+    "url": "https://greenbankobservatory.org/post-secondary-student-opportunities",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Green Bank",
+        "state": "WV",
+        "lat": 38.6,
+        "lng": -80.6
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "A 10-11 week summer research program in radio astronomy, engineering, and computer science run jointly with NRAO at Green Bank Observatory.",
+    "about": "Green Bank Observatory's summer program, run jointly with NRAO since 1959, places undergraduates in 10-11 weeks of research on astronomy, engineering, or computer science projects, including original research, instrumentation, and telescope design, ending with a final talk and report. Undergraduate, PING, and WV Space Grant students receive stipends; the page also lists graduate opportunities such as the Grote Reber Fellowship and Summer Graduate Residency. Applications are submitted through the NRAO Summer Student Program portal."
+  },
+  {
+    "id": "national-high-magnetic-field-laboratory",
+    "org": "National High Magnetic Field Laboratory",
+    "program": "REU (Research Experiences for Undergraduates)",
+    "url": "https://nationalmaglab.org/education/college-students/reu",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Tallahassee",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,500 stipend, housing if needed, and up to $800 travel support",
+    "deadlineNote": "January 9, 2026",
+    "summary": "A summer NSF-funded research program placing undergraduates with MagLab scientists on projects across physics, chemistry, biology, materials science, and magnet engineering.",
+    "about": "Selected students complete an immersive summer research experience working closely with MagLab scientists at Florida State University in Tallahassee and the University of Florida in Gainesville. Participants receive a $6,500 stipend, housing if needed, and up to $800 in travel support, plus weekly seminars and colloquia. Applicants must be U.S. citizens or permanent residents and at least 18 by the program start; the 2026 program runs May 26 to July 31."
+  },
+  {
+    "id": "computing-research-association-cra-wp",
+    "org": "Computing Research Association (CRA-WP)",
+    "program": "Distributed Research Experiences for Undergraduates (DREU)",
+    "url": "https://cra.org/cra-wp/dreu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$9,000 for 10 weeks, plus relocation and conference travel support",
+    "deadlineNote": "January 31, 2026 (general track, closed); April 15, 2026 (AI & Quantum track)",
+    "summary": "A 10-week NSF-funded summer program pairing undergraduates with faculty mentors at institutions nationwide for hands-on computing research.",
+    "about": "Run by CRA's Widening Participation committee, DREU matches undergraduates with faculty mentors at host institutions across the U.S. for a paid 10-week research experience aimed at encouraging graduate study. Students earn $9,000 plus relocation and conference travel support, and no prior research experience is required. For 2026 it adds coordinated AI and Quantum Information Science tracks; open to U.S. citizens, permanent residents, and nationals.",
+    "equityTags": [
+      "women-in-stem",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "texas-a-and-m-university",
+    "org": "Texas A&M University",
+    "program": "Cyclotron Institute REU",
+    "url": "https://cyclotron.tamu.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "College Station",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "An NSF-supported summer REU in nuclear and particle science at the Texas A&M Cyclotron Institute.",
+    "about": "Undergraduates carry out specific research projects under the direct supervision of physics and chemistry faculty at the Cyclotron Institute, a major university-based nuclear facility. The program includes weekly faculty-led discussions and culminates in an oral presentation and virtual poster session. Summer 2026 applications are open through the Apply Now link or the NSF ETAP system."
+  },
+  {
+    "id": "university-of-oklahoma",
+    "org": "University of Oklahoma",
+    "program": "National Weather Center REU",
+    "url": "https://caps.ou.edu/reu",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Norman",
+        "state": "OK",
+        "lat": 35.6,
+        "lng": -97.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Fellowship stipend, furnished housing, and travel allowances",
+    "summary": "A summer NSF-funded research program pairing undergraduates with mentors on atmospheric and geographic science projects at the National Weather Center.",
+    "about": "Hosted at the National Weather Center on the University of Oklahoma research campus in Norman, the program pairs students with research mentors on topics including meteorology, climate, radar engineering, geography, and environmental sustainability. Participants receive a fellowship stipend, furnished campus apartment housing, and travel allowances to Norman and to a professional conference. The program is funded by an NSF grant to the Center for Analysis and Prediction of Storms."
+  },
+  {
+    "id": "kansas-state-university",
+    "org": "Kansas State University",
+    "program": "Physics REU",
+    "url": "https://www.phys.ksu.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Manhattan",
+        "state": "KS",
+        "lat": 38.5,
+        "lng": -98.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Summer fellowship",
+    "deadlineNote": "Summer 2027 applications not yet open; details expected late fall 2026",
+    "summary": "An NSF-funded summer physics research fellowship titled 'Interactions of Matter, Light and Learning' at Kansas State University.",
+    "about": "Undergraduates conduct hands-on research paired with a faculty mentor, with classroom learning, ethics discussions, and a capstone presentation. The program is based in the Department of Physics at Cardwell Hall in Manhattan, Kansas, and is supported by NSF grant 2548403. Applications for the Summer 2027 program are not yet open, with details expected in late fall 2026."
+  },
+  {
+    "id": "florida-state-university",
+    "org": "Florida State University",
+    "program": "Chemistry & Biochemistry REU",
+    "url": "https://www.chem.fsu.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Tallahassee",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "A summer REU in the FSU Department of Chemistry & Biochemistry focused on photochemistry and photophysics.",
+    "about": "The program is dedicated to the study of photochemistry and photophysics, the events that take place when light interacts with matter, across a range of diverse research projects and techniques. Undergraduates conduct research in the Department of Chemistry & Biochemistry at Florida State University in Tallahassee. Questions can be directed to reu@chem.fsu.edu."
+  },
+  {
+    "id": "university-of-notre-dame",
+    "org": "University of Notre Dame",
+    "program": "Physics & Astronomy REU",
+    "url": "https://physics.nd.edu/research/reu-program",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Notre Dame",
+        "state": "IN",
+        "lat": 39.8,
+        "lng": -86.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 stipend plus free on-campus housing and travel allowance",
+    "deadlineNote": "February 16, 2026",
+    "summary": "A 10-week NSF-funded summer research program for undergraduate physics majors at the University of Notre Dame.",
+    "about": "Rising juniors and seniors majoring in physics conduct hands-on research alongside faculty and graduate students, with seminars, courses, and field trips. Participants receive a $6,000 stipend, free on-campus housing, and a round-trip travel allowance over the 10-week appointment beginning May 25, 2026. The program is open to U.S. citizens or permanent residents, with a February 16, 2026 application deadline."
+  },
+  {
+    "id": "university-of-central-florida",
+    "org": "University of Central Florida",
+    "program": "CREOL Optics & Photonics REU",
+    "url": "https://www.creol.ucf.edu/reu",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Orlando",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 for the 10-week program, on-campus housing, up to $600 travel, and meals per diem",
+    "summary": "A 10-week NSF-funded summer research program in lasers, optics, and photonics at UCF's CREOL college.",
+    "about": "The program, themed 'Unleashing the Light, Building the Future of Laser Technologies,' offers ten undergraduates a hands-on research experience with faculty mentors at CREOL, The College of Optics and Photonics in Orlando. Participants receive $7,000 for the 10-week summer, on-campus housing at Lake Claire Apartments, up to $600 in travel, and a meals per diem. Applicants must be U.S. citizens attending an institution other than UCF, and apply through the NSF ETAP system."
+  },
+  {
+    "id": "iot4ag-nsf-engineering-research-center",
+    "org": "IoT4Ag NSF Engineering Research Center",
+    "program": "REU Program (Internet of Things for Precision Agriculture)",
+    "url": "https://iot4ag.us/reu-program",
+    "industries": [
+      "technology",
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend, housing accommodations, and travel allowances (vary by host university)",
+    "deadlineNote": "February 27, 2026 (rolling; 2026 positions listed as filled)",
+    "summary": "A summer research program run by the NSF Engineering Research Center for the Internet of Things for Precision Agriculture, hosted across four partner universities.",
+    "about": "Undergraduates collaborate with graduate students and faculty on agricultural technology research addressing food, energy, and water security, with host sites at Purdue, the University of Florida, the University of Pennsylvania, and UC Merced. Participants earn a stipend plus housing and travel allowances that vary by host university. Applicants must be U.S. citizens, nationals, or permanent residents not enrolled at an IoT4Ag institution and not graduating before August 2026; 2026 positions are currently listed as filled."
+  },
+  {
+    "id": "university-of-utah",
+    "org": "University of Utah",
+    "program": "Summer Program for Undergraduate Research (SPUR)",
+    "url": "https://our.utah.edu/spur",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "lat": 39.3,
+        "lng": -111.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$5,000 stipend, optional housing, and up to $500 travel reimbursement for out-of-state students",
+    "summary": "A competitive, intensive 10-week summer research program pairing undergraduates with University of Utah faculty mentors.",
+    "about": "SPUR offers a hands-on 10-week summer research experience guided by a University of Utah faculty mentor in Salt Lake City, open to matriculated, degree-seeking undergraduates nationwide, including community college students. Students receive a $5,000 stipend, may qualify for up to $500 in travel reimbursement, and can opt into on-campus housing for a $250 cost. No previous college coursework or research experience is required, though some sub-projects have added eligibility rules."
+  },
+  {
+    "id": "university-of-rochester",
+    "org": "University of Rochester",
+    "program": "Physics & Astronomy REU",
+    "url": "https://www.pas.rochester.edu/undergraduate/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Rochester",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend for the 10-week program, plus housing and travel for non-Rochester students",
+    "deadlineNote": "January 30 (application opens December 8, 2025)",
+    "summary": "A 10-week NSF-funded summer research program supporting ten undergraduates in supervised physics and astronomy projects at the University of Rochester.",
+    "about": "Undergraduates who have completed roughly four semesters of college physics and math with a strong GPA carry out supervised research in the Department of Physics and Astronomy. Participants receive a $7,000 stipend for the 10-week program (May 26 to August 1, 2026), with on-campus housing, meal support, and travel expenses provided for non-Rochester students. The program is open to U.S. citizens or permanent residents, with a January 30 application deadline via the NSF ETAP portal."
+  },
+  {
+    "id": "shoals-marine-laboratory",
+    "org": "Shoals Marine Laboratory",
+    "program": "Shoals Undergraduate Research Group (SURG)",
+    "url": "https://www.shoalsmarinelaboratory.org/research/shoals-undergraduate-research-group",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Appledore Island",
+        "state": "ME",
+        "lat": 45.4,
+        "lng": -69.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus room & board and roundtrip boat transportation",
+    "summary": "A 10-week summer research program placing undergraduates with faculty mentors on marine research and long-term monitoring projects on Appledore Island.",
+    "about": "SURG members work with faculty mentors and scientists on marine research projects to build skills for graduate school or careers, based at the Shoals Marine Laboratory on Appledore Island, Maine. The lab provides room and board, a stipend, and roundtrip boat transportation to and from the island for members unless otherwise specified. Students may be considered for only one internship per year; 2026 tracks include seabird ecology, intertidal ecology, marine mammals, gull population biology, physical oceanography, and furbearers."
+  },
+  {
+    "id": "edge-foundation",
+    "org": "EDGE Foundation",
+    "program": "EDGE Program (Enhancing Diversity in Graduate Education)",
+    "url": "https://www.edgeforwomen.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "fellowship",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Program support, mentoring, and research awards (e.g., $5,000 Ruskai research awards)",
+    "summary": "A nonprofit program that prepares women and underrepresented students to succeed in mathematics PhD programs through a residential summer program, fellowships, and long-term mentoring.",
+    "about": "Run by the EDGE Foundation, a 501(c)(3) dedicated to increasing gender and racial equity in mathematics since 1998, EDGE supports women and BIPOC students entering math PhD programs. Its core offering is a 4-week residential summer program that prepares a cohort of graduate students to succeed in their PhD, supplemented by the Karen EDGE Fellowship, a summer symposium, research sessions, and webinars. Ninety percent of Summer Program alumni have earned or are pursuing a graduate degree, and alumnae represent 23% of all Black women who earned U.S. math PhDs from 2003-2018.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "university-of-florida",
+    "org": "University of Florida",
+    "program": "Physics REU",
+    "url": "https://www.phys.ufl.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Gainesville",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 stipend plus housing and travel",
+    "summary": "A 10-week NSF-funded summer REU at the University of Florida focused on experimental and computational methods for materials discovery.",
+    "about": "Undergraduates conduct materials physics research alongside faculty mentors and take part in seminars, graduate/career workshops, and lab field trips. Participants receive a $6,000 stipend plus provided housing and a travel allowance to Gainesville. Open to undergraduates who are U.S. citizens or permanent residents."
+  },
+  {
+    "id": "university-of-chicago",
+    "org": "University of Chicago",
+    "program": "MRSEC REU",
+    "url": "https://mrsec.uchicago.edu/educational-outreach/undergraduate-research-opportunities",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend plus travel",
+    "summary": "A competitive ~9.5-week NSF MRSEC summer REU at the University of Chicago in materials science.",
+    "about": "Undergraduates conduct research in an MRSEC faculty lab, receive safety and ethics training, tour national labs and startups, and present their work. Participants earn a $7,000 stipend plus modest travel reimbursement. Open to U.S. citizen or permanent-resident undergraduates in materials-related fields."
+  },
+  {
+    "id": "university-of-pennsylvania",
+    "org": "University of Pennsylvania",
+    "program": "LRSM Materials Science REU",
+    "url": "https://www.lrsm.upenn.edu/outreach/reu",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend",
+    "deadlineNote": "Applications open in November (February 1 deadline)",
+    "summary": "A 10-week NSF MRSEC summer research fellowship at Penn's Laboratory for Research on the Structure of Matter.",
+    "about": "Up to twenty fellows conduct individual research projects with Penn faculty across chemistry, physics, biophysics, and materials science and engineering. The award is a $7,000 stipend with dormitory housing and travel assistance. The next application cycle opens in November with a February 1 deadline."
+  },
+  {
+    "id": "university-of-california-santa-barbara",
+    "org": "University of California, Santa Barbara",
+    "program": "Materials Research Laboratory REU / PREM",
+    "url": "https://www.mrl.ucsb.edu/education/undergraduate-opportunities/overview",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Santa Barbara",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "An overview of UC Santa Barbara Materials Research Laboratory undergraduate research programs, including the NSF PREM partnership and summer internships.",
+    "about": "The MRL hosts several faculty-supervised research opportunities such as FLAM, RISE, CAMP, CISEI, and the NSF PREM partnership with Jackson State University and UT El Paso. Programs offer summer and academic-year materials research for UCSB and visiting national students. Specific stipend amounts are listed on the individual program pages."
+  },
+  {
+    "id": "harvard-university",
+    "org": "Harvard University",
+    "program": "MRSEC REU",
+    "url": "https://mrsec.harvard.edu/education/reu.php",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "state": "MA",
+        "lat": 42.3736,
+        "lng": -71.1097
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend",
+    "summary": "An NSF MRSEC summer REU at Harvard offering multidisciplinary science and engineering research to undergraduates.",
+    "about": "Students work on research projects with scientific mentors using central instrumentation facilities, and complete a final report and presentation alongside ethics seminars and career workshops. The program welcomes undergraduates nationwide, including those without prior research experience, who are U.S. citizens or permanent residents. It is a paid summer research experience."
+  },
+  {
+    "id": "vanderbilt-university",
+    "org": "Vanderbilt University",
+    "program": "VINSE Nanoscience REU",
+    "url": "https://www.vanderbilt.edu/vinse/research-experience-for-undergraduates",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend plus room and board",
+    "summary": "A 10-week NSF-funded VINSE summer REU at Vanderbilt in nanoscale science and engineering.",
+    "about": "Ten students work with faculty research groups using shared VINSE labs, with weekly meetings on ethics, graduate school, and presentation skills, plus a poster competition and an Oak Ridge National Laboratory field trip. Participants receive a $7,000 stipend plus room and board and a $500 travel allowance. Positions are selected from nearly 30 available projects."
+  },
+  {
+    "id": "university-of-wyoming",
+    "org": "University of Wyoming",
+    "program": "Physics & Astronomy REU",
+    "url": "https://www.uwyo.edu/physics/reu-info.html",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Laramie",
+        "state": "WY",
+        "lat": 43,
+        "lng": -107.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$700/week plus housing and travel",
+    "deadlineNote": "February 15, 2026",
+    "summary": "A 10-week NSF- and UW-funded summer Astronomy REU at the University of Wyoming.",
+    "about": "Students use UW's 2.3-meter telescope to collect and analyze astronomical data, work as a team on a research project, and attend seminars; the 2026 focus is characterizing supermassive black holes. Support includes $700/week, housing, a meal allowance, and travel funds, including to the January AAS meeting. Open to U.S. citizens and permanent residents."
+  },
+  {
+    "id": "oak-ridge-national-laboratory-ornl",
+    "org": "Oak Ridge National Laboratory (ORNL)",
+    "program": "Student Internships & SULI",
+    "url": "https://www.ornl.gov/education",
+    "industries": [
+      "science",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Oak Ridge",
+        "state": "TN",
+        "lat": 35.9,
+        "lng": -86.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "deadlineNote": "SULI terms: fall deadline ~August, spring ~January, summer ~January",
+    "summary": "ORNL's education hub connecting students at all levels to laboratory internships and research experiences, including DOE SULI.",
+    "about": "Oak Ridge National Laboratory offers hands-on, mission-driven research opportunities for K-12 students, undergraduates, recent graduates, graduate students, postdocs, and faculty. Programs include DOE Office of Science internships such as SULI, with stipends provided. The landing page routes each audience to detailed program and eligibility pages."
+  },
+  {
+    "id": "argonne-national-laboratory",
+    "org": "Argonne National Laboratory",
+    "program": "Student Research Internships",
+    "url": "https://www.anl.gov/education",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Lemont",
+        "state": "IL",
+        "lat": 40,
+        "lng": -89.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Argonne National Laboratory's education portal describing student research internships and appointments.",
+    "about": "Argonne offers laboratory research internships and educational programs for high school, undergraduate, and graduate students across science and technology fields. Appointments are typically paid via stipends. Details and eligibility are provided on the lab's education pages."
+  },
+  {
+    "id": "lawrence-berkeley-national-laboratory",
+    "org": "Lawrence Berkeley National Laboratory",
+    "program": "Workforce Development & Education Internships",
+    "url": "https://education.lbl.gov/internships",
+    "industries": [
+      "science",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Berkeley",
+        "state": "CA",
+        "lat": 37.8715,
+        "lng": -122.273
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Berkeley Lab's Workforce Development & Education office listing DOE and Berkeley Lab research internships for students.",
+    "about": "LBNL (now part of the A-LIFT Office) offers undergraduate, postbaccalaureate, graduate, and faculty internships including SULI, CCI, GEM, and SCGSR. Programs place participants in laboratory research with mentors. Compensation is provided as stipends detailed on each program page."
+  },
+  {
+    "id": "national-renewable-energy-laboratory-nrel",
+    "org": "National Renewable Energy Laboratory (NREL)",
+    "program": "Student Internships",
+    "url": "https://www.nrel.gov/careers/internships",
+    "industries": [
+      "science",
+      "environment",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Golden",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "NREL's internships page for students pursuing clean and renewable energy research and technology roles.",
+    "about": "The National Renewable Energy Laboratory offers paid internships for undergraduate and graduate students in science, engineering, and energy fields. Interns work alongside NREL researchers on renewable energy and sustainability projects at the Golden, Colorado campus. Opportunities span multiple technical and business areas."
+  },
+  {
+    "id": "fermi-national-accelerator-laboratory-fermilab",
+    "org": "Fermi National Accelerator Laboratory (Fermilab)",
+    "program": "Student Internships (SULI, CCI, ASPIRE, and more)",
+    "url": "https://internships.fnal.gov",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Batavia",
+        "state": "IL",
+        "lat": 40,
+        "lng": -89.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Fermilab's centralized internships portal listing paid student research programs across physics and engineering.",
+    "about": "Fermi National Accelerator Laboratory offers internships, fellowships, and apprenticeships managed by its Workforce Pathways and Partnerships Office for high school, undergraduate, and graduate students. Current programs include SULI, CCI, ASPIRE, PRISM, and VALOR, several of which are paid. Eligibility, deadlines, and deliverables vary by program."
+  },
+  {
+    "id": "brookhaven-national-laboratory",
+    "org": "Brookhaven National Laboratory",
+    "program": "Office of Educational Programs Internships",
+    "url": "https://www.bnl.gov/education",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Upton",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Brookhaven National Laboratory's Office of Educational Programs offers DOE-sponsored research internships and STEM programs for students from K-12 through the graduate/postdoc level.",
+    "about": "The lab hosts DOE Workforce Development for Teachers and Scientists programs including the Science Undergraduate Laboratory Internship (SULI) and the 10-week Community College Internship (CCI). It also runs K-12 outreach such as science fairs and a Maglev competition, plus faculty and postdoc opportunities. Internships provide authentic mentored research experiences at the Upton, NY campus."
+  },
+  {
+    "id": "pacific-northwest-national-laboratory-pnnl",
+    "org": "Pacific Northwest National Laboratory (PNNL)",
+    "program": "Student Internships",
+    "url": "https://www.pnnl.gov/internships",
+    "industries": [
+      "science",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Richland",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "PNNL offers paid STEM and business internships for students from high school through the graduate level in research and national security fields.",
+    "about": "The program spans high school academic-year and summer internships, undergraduate options such as SULI and the National Security Internship Program, and graduate research including SCGSR. Several tracks, like the NNSA-MSIIP and EEIP, are explicitly described as 10-12 week paid internships. Students must be at least 18 to work in PNNL laboratory spaces."
+  },
+  {
+    "id": "lawrence-livermore-national-laboratory",
+    "org": "Lawrence Livermore National Laboratory",
+    "program": "Student Internships",
+    "url": "https://www.llnl.gov/join-our-team/careers/students",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Livermore",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Lawrence Livermore National Laboratory offers science and engineering internships for community college, undergraduate, and graduate students.",
+    "about": "Programs include internally- and externally-sponsored science and engineering internships, the National GEM Consortium for master's and doctoral students, veteran and military tracks, and the project-based Academic Cooperation Program. Interns must pass a federal background check and drug screen. Summer positions are generally posted September through February."
+  },
+  {
+    "id": "idaho-national-laboratory-inl",
+    "org": "Idaho National Laboratory (INL)",
+    "program": "Student Internships",
+    "url": "https://inl.gov/internships",
+    "industries": [
+      "science",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Idaho Falls",
+        "state": "ID",
+        "lat": 44.1,
+        "lng": -114.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Idaho National Laboratory offers paid internships for undergraduate and graduate students in nuclear energy, environmental, and national security research.",
+    "about": "INL is the U.S. Department of Energy's lead nuclear energy laboratory and hosts students in research and technical roles at its Idaho Falls campus. Internships support work across clean energy, environmental science, and national and homeland security missions."
+  },
+  {
+    "id": "los-alamos-national-laboratory",
+    "org": "Los Alamos National Laboratory",
+    "program": "Student Internships",
+    "url": "https://www.lanl.gov/careers/career-options/student-internships",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Alamos",
+        "state": "NM",
+        "lat": 34.5,
+        "lng": -106.1
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Los Alamos National Laboratory hosts over 1,800 student and post-graduate interns each year across national security science and research.",
+    "about": "The lab's student programs place interns with scientists on projects addressing national security challenges. Additional tracks include the Service Academies and ROTC Research Associates (SARRA) program and summer schools focused on emerging research areas. LANL is managed by Triad National Security, LLC for the DOE's NNSA."
+  },
+  {
+    "id": "princeton-plasma-physics-laboratory-pppl",
+    "org": "Princeton Plasma Physics Laboratory (PPPL)",
+    "program": "Internships (SULI, CCI)",
+    "url": "https://www.pppl.gov/education/internships",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Princeton",
+        "state": "NJ",
+        "lat": 40.3573,
+        "lng": -74.6672
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Princeton Plasma Physics Laboratory offers DOE-sponsored internships including SULI and CCI for students interested in fusion energy and plasma physics research.",
+    "about": "PPPL is a DOE national laboratory dedicated to fusion energy and plasma science research. Its internships include the Science Undergraduate Laboratory Internship (SULI) and Community College Internship (CCI), which provide stipends for mentored research at the Princeton, NJ campus."
+  },
+  {
+    "id": "thomas-jefferson-national-accelerator-facility",
+    "org": "Thomas Jefferson National Accelerator Facility (Jefferson Lab)",
+    "program": "Science Education & Internships",
+    "url": "https://education.jlab.org",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Newport News",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Jefferson Lab's Science Education office runs internships and STEM programs for students from high school through the graduate level in nuclear and accelerator physics.",
+    "about": "The DOE national laboratory offers hands-on research internships and education programs at its Newport News, VA facility. Offerings span K-12 STEM outreach through undergraduate and graduate research experiences, including DOE-sponsored internships that provide stipends."
+  },
+  {
+    "id": "ames-national-laboratory",
+    "org": "Ames National Laboratory",
+    "program": "Education & Internship Programs",
+    "url": "https://www.ameslab.gov/education",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Ames",
+        "state": "IA",
+        "lat": 42,
+        "lng": -93.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Ames National Laboratory offers DOE-sponsored internships and research programs for undergraduate and graduate students in the physical sciences.",
+    "about": "Programs include the Science Undergraduate Laboratory Internship (SULI), Community College Internship (CCI), the Visiting Faculty Program (VFP), and the Office of Science Graduate Student Research (SCGSR) award. The lab also runs the National and Iowa Regional Science Bowl for K-12 students. Ames National Laboratory is operated for the DOE by Iowa State University."
+  },
+  {
+    "id": "u-s-department-of-energy-office-of-science",
+    "org": "U.S. Department of Energy Office of Science",
+    "program": "Science Undergraduate Laboratory Internships (SULI)",
+    "url": "https://science.osti.gov/wdts/suli",
+    "industries": [
+      "science",
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Weekly stipend + travel",
+    "deadlineNote": "Three terms/year; e.g. Spring 2027 applications due September 30, 2026 at 5:00pm ET",
+    "summary": "SULI is a paid DOE Office of Science internship placing undergraduates and recent graduates in mentored research at national laboratories.",
+    "about": "Administered by the Office of Workforce Development for Teachers and Scientists (WDTS), SULI offers a 10-week summer term (May-August) or a semester-long term at one of 17 participating DOE laboratories. Applicants are undergraduates or recent graduates in STEM or science policy fields. The program provides a paid stipend and applications run on a three-term annual cycle."
+  },
+  {
+    "id": "oak-ridge-institute-for-science-and-education",
+    "org": "Oak Ridge Institute for Science and Education (ORISE)",
+    "program": "Internships, Fellowships & Research Participation",
+    "url": "https://orise.orau.gov/internships-fellowships",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare",
+      "government"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "ORISE connects students, recent graduates, postdocs, and faculty with paid internship and fellowship opportunities at national laboratories and federal agencies.",
+    "about": "Managed by ORAU for the U.S. Department of Energy, ORISE organizes opportunities by academic level, from K-12 STEM education through undergraduate, graduate, postdoctoral, and faculty research. Applicants search and apply through the Zintellect database of research and non-research internships and fellowships. Programs provide paid stipends."
+  },
+  {
+    "id": "u-s-geological-survey-usgs",
+    "org": "U.S. Geological Survey (USGS)",
+    "program": "Youth and Education in Science (Students & Interns)",
+    "url": "https://www.usgs.gov/youth-and-education-in-science",
+    "industries": [
+      "science",
+      "environment",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The USGS Youth and Education in Science program offers internships and fellowships for college students, graduate students, and postdoctoral researchers.",
+    "about": "The program connects learners with USGS science through college and STEM internships and fellowships, educational resources, and outreach. Student and intern opportunities focus on college and graduate-level researchers gaining experience toward science careers. It also provides educational materials and informal science outreach for teachers, kids, and the public."
+  },
+  {
+    "id": "u-s-environmental-protection-agency-epa",
+    "org": "U.S. Environmental Protection Agency (EPA)",
+    "program": "Student Opportunities & Internships",
+    "url": "https://www.epa.gov/careers",
+    "industries": [
+      "environment",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The EPA Careers page details agency employment including the Pathways Internship Program for current students and research opportunities for recent graduates and postdocs.",
+    "about": "The page links to student hiring through the Pathways Internship Program for current students, plus tracks for recent graduates and post-doctoral researchers. Opportunities span environmental science, policy, and research roles supporting the agency's mission. A more specific student hiring page is available at epa.gov/careers/students."
+  },
+  {
+    "id": "national-science-foundation-nsf",
+    "org": "National Science Foundation (NSF)",
+    "program": "Research Experiences for Undergraduates (REU)",
+    "url": "https://www.nsf.gov/crssprgm/reu",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend + housing/travel at host sites",
+    "summary": "NSF's Research Experiences for Undergraduates (REU) funds hands-on research placements for undergraduate students across NSF-funded fields.",
+    "about": "REU supports undergraduate research through REU Sites, which are cohort-based projects, and REU Supplements added to existing NSF-funded research. Students apply directly to REU Sites for placements in the U.S. and abroad. Participants receive stipends and in many cases assistance with housing, meals, and travel."
+  },
+  {
+    "id": "centers-for-disease-control-and-prevention-cdc",
+    "org": "Centers for Disease Control and Prevention (CDC)",
+    "program": "Student Internships & Fellowships",
+    "url": "https://www.cdc.gov/careerpaths/students/index.html",
+    "industries": [
+      "healthcare",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "CDC offers paid internships and fellowships for students and recent graduates across public health, science, and administrative fields.",
+    "about": "The CDC student career paths hub gathers internships, fellowships, and training programs for high school, undergraduate, graduate, and postgraduate participants. Opportunities span epidemiology, laboratory science, informatics, and public health practice at CDC locations nationwide. Many positions are paid and can be in-person or remote depending on the program."
+  },
+  {
+    "id": "u-s-food-and-drug-administration-fda",
+    "org": "U.S. Food and Drug Administration (FDA)",
+    "program": "ORISE Research Participation Program",
+    "url": "https://orise.orau.gov/fda",
+    "industries": [
+      "healthcare",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Monthly stipend",
+    "summary": "The FDA ORISE program places students, postgraduates, and faculty in hands-on research appointments supporting FDA's public health mission.",
+    "about": "Administered by ORISE/ORAU, the program offers research participation appointments to students enrolled in accredited U.S. STEM programs and to recent postgraduates. Participants receive a monthly stipend set by educational level, with possible travel, relocation, and health insurance support. Appointments are hosted at FDA facilities."
+  },
+  {
+    "id": "u-s-naval-research-laboratory-nrl",
+    "org": "U.S. Naval Research Laboratory (NRL)",
+    "program": "Student Programs (NREIP)",
+    "url": "https://www.nrl.navy.mil/Careers/Students",
+    "industries": [
+      "science",
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "NRL offers paid student research internships, including participation in the Naval Research Enterprise Internship Program (NREIP).",
+    "about": "The Naval Research Laboratory hosts undergraduate and graduate students for hands-on research alongside Navy scientists and engineers. Programs include NREIP, which places students in Department of Navy laboratories for a summer research experience. Positions are paid and based at NRL facilities."
+  },
+  {
+    "id": "air-force-research-laboratory-afrl",
+    "org": "Air Force Research Laboratory (AFRL)",
+    "program": "AFRL Scholars Program",
+    "url": "https://afrlscholars.usra.edu",
+    "industries": [
+      "science",
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "The AFRL Scholars Program offers paid summer research internships for undergraduate and graduate students at Air Force Research Laboratory sites.",
+    "about": "Managed by the Universities Space Research Association, the program pairs students with AFRL scientists and engineers on STEM research projects. Participants receive a stipend for the summer term at participating AFRL locations. It is open to U.S. citizen college and graduate students."
+  },
+  {
+    "id": "mit-lincoln-laboratory",
+    "org": "MIT Lincoln Laboratory",
+    "program": "Student Opportunities (Internships, Co-ops, Summer Research)",
+    "url": "https://www.ll.mit.edu/careers/student-opportunities",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Lexington",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid (varies by program)",
+    "summary": "MIT Lincoln Laboratory offers internships, co-ops, and summer research programs for undergraduate and graduate students in science and engineering.",
+    "about": "The laboratory hosts a range of student programs including the Summer Research Program, Cooperative Education Program, and MIT UROP/6-A opportunities. Students work on national-security research across scientific, engineering, and operational fields in Lexington, Massachusetts. Some programs are paid internships while others fulfill academic or thesis requirements."
+  },
+  {
+    "id": "jet-propulsion-laboratory-jpl",
+    "org": "Jet Propulsion Laboratory (JPL)",
+    "program": "JPL Internships",
+    "url": "https://www.jpl.nasa.gov/edu/intern",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pasadena",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "JPL's Academic Engagement Office manages STEM internships for undergraduate and graduate students at NASA's Jet Propulsion Laboratory.",
+    "about": "The internships page describes numerous year-round, summer, and visiting student research programs in science, technology, engineering, and mathematics. Programs are open primarily to undergraduate and graduate students, with some doctoral and postdoc opportunities. Internships are hosted at JPL in Pasadena, California."
+  },
+  {
+    "id": "nsf-s-noirlab",
+    "org": "NSF's NOIRLab",
+    "program": "Education & Undergraduate Research (REU)",
+    "url": "https://noirlab.edu/public/education",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Tucson",
+        "state": "AZ",
+        "lat": 34.2,
+        "lng": -111.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "NOIRLab's education program includes NSF-funded REU and undergraduate research opportunities in astronomy.",
+    "about": "NSF's NOIRLab offers education and research experiences, including Research Experiences for Undergraduates, for students in astronomy and related fields. Programs provide mentored summer research at NOIRLab facilities headquartered in Tucson, Arizona. Participants typically receive a stipend."
+  },
+  {
+    "id": "seti-institute",
+    "org": "SETI Institute",
+    "program": "REU Program (Astrobiology & Planetary Science)",
+    "url": "https://www.seti.org/our-scientists/reu-program",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Mountain View",
+        "state": "CA",
+        "lat": 37.422,
+        "lng": -122.0841
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "The SETI Institute REU offers undergraduates a summer research experience in astrobiology and planetary science.",
+    "about": "The NSF-funded Research Experiences for Undergraduates program pairs students with SETI Institute scientists on projects in astrobiology, planetary science, and related fields. Participants receive a stipend for the summer research term based in Mountain View, California. It is aimed at undergraduate students."
+  },
+  {
+    "id": "marine-biological-laboratory-mbl",
+    "org": "Marine Biological Laboratory (MBL)",
+    "program": "Undergraduate Programs & Research",
+    "url": "https://www.mbl.edu/education/undergraduate-programs",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "program",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Woods Hole",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "The Marine Biological Laboratory offers undergraduate research programs and courses in the biological and environmental sciences.",
+    "about": "MBL, affiliated with the University of Chicago, hosts undergraduate programs and mentored research experiences in Woods Hole, Massachusetts. Offerings span marine biology, ecology, and related life sciences. Research participants typically receive a stipend."
+  },
+  {
+    "id": "mitre-corporation",
+    "org": "MITRE Corporation",
+    "program": "Student & Graduate Internships",
+    "url": "https://www.mitre.org/careers/students-and-graduates",
+    "industries": [
+      "technology",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "MITRE offers paid internships for undergraduate and graduate students across technology, science, and public-interest research areas.",
+    "about": "MITRE recruits students and recent graduates for internships supporting its federally funded research and development work. Roles span engineering, computer science, data science, and policy across MITRE sites nationwide. Internships are paid and can be in-person or hybrid."
+  },
+  {
+    "id": "nutanix",
+    "org": "Nutanix",
+    "program": "Nutanix Student Programs",
+    "url": "https://careers.nutanix.com/en/student-programs",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Nutanix Student Programs offers paid internships and new-college-graduate roles across R&D, support, sales, and business operations.",
+    "about": "Nutanix runs internship and new-graduate programs spanning technical and non-technical teams (R&D, Customer Support, Sales, Business Strategy & Operations), offered in-person, hybrid, and remote across the US and other regions. Internships are paid and emphasize hands-on projects, mentorship, and career growth, with many interns converting to full-time roles. Eligibility covers currently enrolled undergraduate/postgraduate students and students who graduated within roughly the last year."
+  },
+  {
+    "id": "confluent",
+    "org": "Confluent",
+    "program": "University Recruiting",
+    "url": "https://careers.confluent.io",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Confluent recruits students for internships and early-career roles through its university recruiting program.",
+    "about": "Confluent, the company behind Apache Kafka and its data-streaming platform, runs university recruiting for interns and new graduates via its official careers site at careers.confluent.io. The recruiting domain was reachable but bot-blocked (HTTP 429) to automated fetches. Roles are paid and span engineering and other functions."
+  },
+  {
+    "id": "gitlab",
+    "org": "GitLab",
+    "program": "Early Talent / Intern Program",
+    "url": "https://about.gitlab.com/jobs",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GitLab hires early-talent interns and new graduates into its all-remote organization.",
+    "about": "GitLab, an all-remote DevSecOps platform company, posts internship and early-career roles on its official jobs page at about.gitlab.com/jobs. The page was reachable but bot-blocked (HTTP 403) to automated fetches. Positions are remote and paid."
+  },
+  {
+    "id": "sentinelone",
+    "org": "SentinelOne",
+    "program": "University / Internship Program",
+    "url": "https://www.sentinelone.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "SentinelOne invites students and recent graduates to apply for internships and early-career opportunities.",
+    "about": "SentinelOne, an AI-driven cybersecurity company, features a 'Your Career Starts Here' section on its official careers page inviting students and recent graduates to pursue internships and early-career opportunities, linking to its job openings. Roles span engineering and other functions and are paid."
+  },
+  {
+    "id": "rapid7",
+    "org": "Rapid7",
+    "program": "Emerging Talent & Interns",
+    "url": "https://careers.rapid7.com/emerging-talent",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rapid7's Emerging Talent programs offer internships and early-career roles for students and recent graduates, including a year-long student placement and a Sales Development Representative track.",
+    "about": "Rapid7's Emerging Talent page describes programs for recent graduates and students, including a year-long Student Placement Programme where students work as full team members primarily in Engineering (with some AI roles) and a Sales Development Representative program for those early in their careers. Participants receive mentorship, networking, and manager feedback, with possible conversion to full-time roles. Postings include US locations such as Boston, MA."
+  },
+  {
+    "id": "arista-networks",
+    "org": "Arista Networks",
+    "program": "University Program",
+    "url": "https://www.arista.com/en/careers/university",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Arista Networks' University program recruits interns and new college graduates for software and hardware engineering roles.",
+    "about": "Arista's University careers program hires 3rd/4th-year students and recent graduates for software and hardware engineering internships and new-graduate roles. Software internships are offered in Santa Clara, Austin, Nashua, and other sites, and hardware internships are in Santa Clara, CA. Interns own real code, receive mentorship, and can convert to full-time roles."
+  },
+  {
+    "id": "analog-devices",
+    "org": "Analog Devices",
+    "program": "Students & Graduates Internships",
+    "url": "https://www.analog.com/en/about-adi/careers.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Analog Devices offers paid internships and early-career roles for students and recent graduates in engineering and science.",
+    "about": "Analog Devices (ADI), a semiconductor and signal-processing company, hosts its careers content on its official domain analog.com, which was unreachable to automated fetches (repeated timeouts consistent with bot mitigation). ADI recruits students and recent graduates into paid internships and new-graduate engineering roles, typically on-site at its facilities."
+  },
+  {
+    "id": "microchip-technology",
+    "org": "Microchip Technology",
+    "program": "University Program",
+    "url": "https://www.microchip.com/en-us/about/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Microchip Technology recruits students and recent graduates into internships and early-career engineering roles.",
+    "about": "Microchip Technology, a semiconductor manufacturer, posts internship and university/new-graduate opportunities on its official careers page at microchip.com. The page was reachable but bot-blocked (HTTP 403) to automated fetches. Roles are paid and typically on-site in engineering and related functions."
+  },
+  {
+    "id": "nxp-semiconductors",
+    "org": "NXP Semiconductors",
+    "program": "Students & Graduates",
+    "url": "https://www.nxp.com/company/about-nxp/careers-at-nxp:CAREERS",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "NXP Semiconductors recruits students and recent graduates into paid internships and early-career roles across its global semiconductor engineering and technology teams.",
+    "about": "NXP Semiconductors is a global semiconductor company serving automotive, industrial, IoT, mobile, and communication-infrastructure markets. Its Students & Graduates track offers internships and entry-level positions for university students and recent graduates in engineering, science, and technology disciplines. Roles are paid and based at NXP's offices and design centers."
+  },
+  {
+    "id": "onsemi",
+    "org": "onsemi",
+    "program": "University Recruiting",
+    "url": "https://www.onsemi.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "onsemi's university recruiting program places students and recent graduates into paid internships and early-career roles in semiconductor engineering and technology.",
+    "about": "onsemi (ON Semiconductor) is a semiconductor company focused on intelligent power and sensing technologies for automotive, industrial, and other markets. Its university recruiting effort offers internships, co-ops, and new-graduate positions across engineering and science functions. Positions are paid and largely on-site at onsemi facilities."
+  },
+  {
+    "id": "western-digital",
+    "org": "Western Digital",
+    "program": "University Program / Internships",
+    "url": "https://www.westerndigital.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Western Digital's Students & Grads program offers paid internships and early-career roles for university students and recent graduates across its data-storage technology teams.",
+    "about": "Western Digital is a data storage company building HDD and flash technologies for the AI-driven data economy. Its careers site includes a dedicated Students & Grads section and a University Recruiting Talent Community for interns and new graduates. Openings span technology, global operations, engineering, and corporate functions."
+  },
+  {
+    "id": "cadence-design-systems",
+    "org": "Cadence Design Systems",
+    "program": "University Program",
+    "url": "https://www.cadence.com/en_US/home/company/careers.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cadence Design Systems' university program offers paid internships and new-graduate roles in electronic design automation and semiconductor software and hardware.",
+    "about": "Cadence Design Systems is a leader in electronic design automation (EDA) software, IP, and system design used to build chips and electronic systems. Its university program recruits students and recent graduates into internships and early-career engineering roles. Positions are paid and offered on a hybrid basis at Cadence sites."
+  },
+  {
+    "id": "synopsys",
+    "org": "Synopsys",
+    "program": "University & New Graduate",
+    "url": "https://careers.synopsys.com",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Synopsys recruits university students and new graduates into paid internships and early-career roles in EDA, silicon IP, and software security.",
+    "about": "Synopsys provides electronic design automation software, semiconductor IP, and application security tools. Its careers site includes an Interns and Early Careers section with internship openings and dedicated early-career pathways for students and new graduates. Roles are paid and offered on a hybrid basis."
+  },
+  {
+    "id": "ansys",
+    "org": "Ansys",
+    "program": "Internships & Early Career",
+    "url": "https://ansys.synopsys.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Ansys (now part of Synopsys) offers paid internships and early-career roles for students and recent graduates in engineering-simulation software.",
+    "about": "Ansys develops engineering-simulation software used across aerospace, automotive, electronics, and other industries, and is now part of Synopsys. Its careers site provides internship and early-career opportunities for students and new graduates. Positions are paid and offered on a hybrid basis."
+  },
+  {
+    "id": "ptc",
+    "org": "PTC",
+    "program": "Early Career / Internships",
+    "url": "https://www.ptc.com/en/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "PTC offers paid internships and early-career roles for students and recent graduates across its industrial and product-lifecycle software teams.",
+    "about": "PTC is a software company building CAD, PLM, IoT, and augmented-reality products for industrial companies. Its careers site includes early-career and internship opportunities for students and new graduates. Roles are paid and offered on a hybrid basis at PTC locations."
+  },
+  {
+    "id": "procore-technologies",
+    "org": "Procore Technologies",
+    "program": "Internships",
+    "url": "https://careers.procore.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Procore Technologies' careers site hosts paid roles, including internships, on its construction-management software teams.",
+    "about": "Procore Technologies builds cloud-based construction-management software. Its official careers site describes company values (Openness, Optimism, Ownership), benefits, and remote/in-office roles across North America, EMEA, and APAC. Internship openings are surfaced through the site's job listings rather than a dedicated program page."
+  },
+  {
+    "id": "smartsheet",
+    "org": "Smartsheet",
+    "program": "Internship Program",
+    "url": "https://www.smartsheet.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Smartsheet's careers site hosts paid roles across engineering, product, and sales teams, including openings suited to interns.",
+    "about": "Smartsheet is an enterprise work-management and collaboration software company. Its official careers site lists offices in the US, UK, Australia, Costa Rica, and India, plus remote roles, and details benefits and a four-stage interview process. Internship roles are surfaced through the job listings rather than a dedicated program page."
+  },
+  {
+    "id": "grammarly",
+    "org": "Grammarly",
+    "program": "Internships / Early Career",
+    "url": "https://www.grammarly.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Grammarly (now part of the Superhuman AI suite) hosts paid roles across its human-centered AI product teams, including opportunities for early-career candidates.",
+    "about": "Grammarly, the AI writing-assistance product, now operates within Superhuman, which unifies Grammarly, Docs, and Mail with 1,500+ employees and 40M+ daily users. Its official careers page describes a hybrid work model, benefits, and hubs across North America and Europe. Open roles are listed via a general job-openings link rather than a dedicated internship program page."
+  },
+  {
+    "id": "fastly",
+    "org": "Fastly",
+    "program": "Internship Program",
+    "url": "https://www.fastly.com/about/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Fastly's careers site hosts paid engineering and technology roles, including openings suited to interns, on its edge-cloud platform teams.",
+    "about": "Fastly operates a global edge cloud platform for delivering and securing modern web applications. Its official careers page highlights company values, benefits, and employee resource groups, and links to current job openings. Internship roles are surfaced through the job listings rather than a dedicated program page."
+  },
+  {
+    "id": "f5",
+    "org": "F5",
+    "program": "University / Internship Program",
+    "url": "https://www.f5.com/company/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "F5's internship and early-career program lets students and new graduates work on projects across its application delivery and security business.",
+    "about": "F5 is an application delivery and security company serving over 80% of the Fortune Global 500. Its careers site includes a dedicated internships section where interns and new graduates develop and apply skills on impactful projects and connect with peers and employees. Roles are paid and offered on a hybrid basis, with a 'Freedom to Flex' work model."
+  },
+  {
+    "id": "motorola-solutions",
+    "org": "Motorola Solutions",
+    "program": "Student Internship & Co-op Program",
+    "url": "https://www.motorolasolutions.com/en_us/about/careers.html",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Motorola Solutions offers paid student internships and co-ops, including 12-week US summer internships and 3-12 month co-ops, across its public-safety and enterprise technology teams.",
+    "about": "Motorola Solutions is a Chicago-headquartered public-safety and enterprise security technology company. Its careers site details student internship and co-op programs across North America, including US summer internships and co-ops in engineering, cybersecurity, and other areas. Most programs are paid, require full-time student enrollment, and some include benefits such as housing."
+  },
+  {
+    "id": "affirm",
+    "org": "Affirm",
+    "program": "Early Career / Internships",
+    "url": "https://www.affirm.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Affirm offers paid internships and early-career roles through its remote-first university recruiting program.",
+    "about": "Affirm is a financial-technology company known for buy-now-pay-later payment products. Its careers page includes a University Recruiting track for students and describes a remote-first workforce where remote roles can be based anywhere in the employee's home country. Compensation follows a remote-first structure."
+  },
+  {
+    "id": "block",
+    "org": "Block",
+    "program": "College Program (Square / Cash App)",
+    "url": "https://block.xyz/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Block runs a paid college internship program across its brands including Square and Cash App.",
+    "about": "Block, Inc. builds financial tools across brands such as Square, Cash App, Afterpay, TIDAL and Bitkey. Its official careers page provides a searchable job portal with filters for team, location, remote status and role type. Internship and early-career postings appear here when open."
+  },
+  {
+    "id": "toast",
+    "org": "Toast",
+    "program": "Internship Program",
+    "url": "https://careers.toasttab.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Toast offers a paid internship and early-career program at its restaurant-technology company.",
+    "about": "Toast is a restaurant-technology company where roughly two-thirds of employees have worked in the industry. Its official careers site features an Early Career section and lists offices across the US, Canada, UK, Ireland, Australia, India and Taiwan. Benefits include paid time off and professional development programs."
+  },
+  {
+    "id": "epic-games",
+    "org": "Epic Games",
+    "program": "Internships",
+    "url": "https://www.epicgames.com/site/en-US/careers",
+    "industries": [
+      "technology",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cary",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Epic Games offers paid internships for students and recent graduates, primarily at its Cary, North Carolina headquarters.",
+    "about": "Epic Games is the developer of Fortnite and the Unreal Engine, headquartered in Cary, North Carolina. It recruits college and graduate students for paid internships across engineering, art and design disciplines. Internship postings are hosted on the official Epic Games careers site."
+  },
+  {
+    "id": "discord",
+    "org": "Discord",
+    "program": "University Program / Internships",
+    "url": "https://discord.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Discord offers paid internships and university-program roles through its official careers portal.",
+    "about": "Discord operates a communication platform for communities and hosts its hiring on the official 'Work at Discord' careers page. Most roles are based in the San Francisco Bay Area, with full-time hiring in the US, parts of Canada and the Netherlands. Internship and early-career postings appear on the portal when open."
+  },
+  {
+    "id": "freshworks",
+    "org": "Freshworks",
+    "program": "Internship Program",
+    "url": "https://www.freshworks.com/company/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Freshworks offers paid internships and early-career roles listed through its official careers portal.",
+    "about": "Freshworks is a business-software company organized around Product & Engineering, Sales & Marketing, Customer Service & Success, and corporate functions. Its official careers page emphasizes company values and routes applicants to its SmartRecruiters job portal for open roles including internships."
+  },
+  {
+    "id": "yelp",
+    "org": "Yelp",
+    "program": "Internships / Early Career",
+    "url": "https://www.yelp.careers/us/en",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Yelp offers paid internships and early-career roles as a remote-first employer.",
+    "about": "Yelp operates as a remote workplace, letting employees live where it suits their lifestyle across North America and Europe. Its official careers page provides job search, company values and benefits information plus a talent community signup. Internship and early-career roles are posted there when open."
+  },
+  {
+    "id": "cloudera",
+    "org": "Cloudera",
+    "program": "University Program / Internships",
+    "url": "https://www.cloudera.com/careers.html",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cloudera offers paid internships and early-career roles for students and graduates via its official careers portal.",
+    "about": "Cloudera is a data and analytics platform company. Its official careers page highlights company culture (#ClouderaLife), workplace awards and corporate social responsibility, and routes applicants to an external job search portal. Internship and university roles are posted there when open."
+  },
+  {
+    "id": "lincoln-international",
+    "org": "Lincoln International",
+    "program": "Summer Analyst Program",
+    "url": "https://www.lincolninternational.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer analyst recruiting typically opens the year before the internship",
+    "summary": "Lincoln International offers a paid summer analyst internship for students through its Campus & Early Careers track.",
+    "about": "Lincoln International is a global investment bank advising on mergers and acquisitions and capital raising. Its careers page features a Campus & Early Careers path with in-depth training in an apprenticeship model. The firm operates offices worldwide, including a major US presence in Chicago."
+  },
+  {
+    "id": "stephens-inc",
+    "org": "Stephens Inc.",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.stephens.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Little Rock",
+        "state": "AR",
+        "lat": 34.9,
+        "lng": -92.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Stephens Inc. offers a paid investment banking summer analyst internship at its Little Rock headquarters.",
+    "about": "Stephens Inc. is a privately held, full-service investment bank headquartered in Little Rock, Arkansas. It recruits college and graduate students for its investment banking summer analyst program. Applications are handled through the official Stephens careers site."
+  },
+  {
+    "id": "cantor-fitzgerald",
+    "org": "Cantor Fitzgerald",
+    "program": "Summer Analyst Program",
+    "url": "https://www.cantor.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cantor Fitzgerald offers a paid summer analyst internship program at its New York headquarters.",
+    "about": "Cantor Fitzgerald is a global financial services firm specializing in investment banking, capital markets and brokerage, headquartered in New York City. It recruits college and graduate students for its summer analyst program. Applications are handled through the official Cantor careers site."
+  },
+  {
+    "id": "needham-and-company",
+    "org": "Needham & Company",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.needhamco.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Needham & Company offers a paid investment banking summer analyst internship for students at its New York office.",
+    "about": "Needham & Company is an independent investment bank focused on technology, growth and emerging-company clients, headquartered in New York City. Its careers page lists Investment Banking, Institutional Sales & Trading, and Equity Research roles and values internal promotion. Open roles, including summer analyst positions, are posted through its applicant tracking system."
+  },
+  {
+    "id": "keybanc-capital-markets",
+    "org": "KeyBanc Capital Markets",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.key.com/about/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "KeyBanc Capital Markets offers a paid investment banking summer analyst internship through KeyBank's careers portal.",
+    "about": "KeyBanc Capital Markets is the corporate and investment banking arm of KeyCorp (KeyBank). It recruits college and graduate students for its investment banking summer analyst program at US offices. Applications and campus recruiting information are hosted on the official KeyBank careers site."
+  },
+  {
+    "id": "truist-securities",
+    "org": "Truist Securities",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.truist.com/commercial-corporate-institutional/investment-banking/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Truist Securities runs an approximately nine-week Summer Internship Program placing undergraduate Analyst interns and graduate-level Associate interns across investment banking, capital markets, and sales, trading & research groups nationwide.",
+    "about": "Truist Securities is the corporate and investment banking arm of Truist, with more than 1,400 professionals across 16 U.S. offices. Analyst internships target undergraduates between their junior and senior years, while Associate internships are for students between their first and second year of business or graduate school. Strong-performing interns may be invited into full-time Analyst and Associate roles."
+  },
+  {
+    "id": "btig",
+    "org": "BTIG",
+    "program": "Summer Internship Program",
+    "url": "https://www.btig.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "BTIG offers an eight-week immersive summer internship giving undergraduates hands-on experience across the global financial services firm.",
+    "about": "BTIG is a global financial services firm providing institutional trading, investment banking, research, and related services. Its summer internship is an eight-week immersive program where students strengthen their skills and learn from experienced industry professionals. A dedicated internship program page provides further application details."
+  },
+  {
+    "id": "b-riley-securities",
+    "org": "B. Riley Securities",
+    "program": "Summer Analyst Program",
+    "url": "https://www.brileysecurities.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "B. Riley Securities offers an eight-week investment banking summer internship (plus research and sales & trading tracks) working alongside senior bankers on live M&A, offerings, SPAC, and restructuring deals.",
+    "about": "B. Riley Securities is a full-service, FINRA-registered investment bank. Its investment banking summer internship is an eight-week, apprenticeship-based program covering financial modeling, valuation, and due diligence, with mentorship from peer and senior bankers. The firm reports a near-100% full-time conversion rate for interns offered permanent analyst positions."
+  },
+  {
+    "id": "roth-capital-partners",
+    "org": "ROTH Capital Partners",
+    "program": "Investment Banking Internship",
+    "url": "https://www.roth.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Newport Beach",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "ROTH Capital Partners, a full-service investment bank, recruits early-career talent including investment banking analysts and interns through its careers portal.",
+    "about": "ROTH Capital Partners is a full-service investment bank whose staff work in equity and debt capital placements, research, equity sales and trading, and M&A advisory. Its careers page emphasizes a culture of independence and directs applicants to an external job portal. Current listings include Investment Banking Analyst and Associate roles in Newport Beach and an Equity Research Intern position."
+  },
+  {
+    "id": "leerink-partners",
+    "org": "Leerink Partners",
+    "program": "Healthcare Investment Banking Summer Analyst",
+    "url": "https://www.leerink.com/careers",
+    "industries": [
+      "business",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Leerink Partners offers a ten-week healthcare-focused Investment Banking Analyst summer internship for undergraduates in their penultimate (junior) year.",
+    "about": "Leerink Partners is a healthcare-focused investment bank offering an entrepreneurial, collaborative environment. Its ten-week summer Investment Banking Analyst Internship Program targets students in their penultimate year of undergrad; the 2027 cycle (for current sophomores) opens applications in December 2025 with interviews in February-March 2026. Recruiting is handled through the firm's Workday portal."
+  },
+  {
+    "id": "union-square-advisors",
+    "org": "Union Square Advisors",
+    "program": "Technology Investment Banking Analyst",
+    "url": "https://www.usadvisors.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Union Square Advisors, a technology-focused investment bank, recruits analysts through its careers page (currently bot-blocked to automated fetches).",
+    "about": "Union Square Advisors is a technology-focused independent investment bank headquartered in San Francisco advising on M&A and capital-raising for tech companies. Its careers page hosts analyst and early-career recruiting. The site is protected by a bot-verification layer that blocks automated retrieval, so the page could not be read programmatically."
+  },
+  {
+    "id": "financial-technology-partners-ft-partners",
+    "org": "Financial Technology Partners (FT Partners)",
+    "program": "Summer Analyst Program",
+    "url": "https://www.ftpartners.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "FT Partners runs an eight-week U.S. summer analyst internship where students work with senior bankers on FinTech M&A and capital-raising deals.",
+    "about": "Financial Technology Partners (FT Partners) is an investment bank founded in 2001 that focuses exclusively on FinTech, headquartered in San Francisco with offices in New York, Miami, and London. Its eight-week summer internship (early June through July) gives Summer Analysts hands-on, client-facing exposure to financial modeling, valuation, and due diligence on live deals. The program uses a multi-step interview process and an apprenticeship-based mentorship model."
+  },
+  {
+    "id": "ducera-partners",
+    "org": "Ducera Partners",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://ducerapartners.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Ducera Partners recruits students through a Campus Hires track offering exposure to high-profile deals and mentorship by industry veterans.",
+    "about": "Ducera Partners is an independent investment bank whose careers page splits opportunities into Campus Hires and Experienced Hires. The Campus Hires track is aimed at students and offers exposure to high-profile deals and mentorship by industry veterans. Open positions, which would include summer analyst roles, are posted through the firm's Greenhouse job boards."
+  },
+  {
+    "id": "foros",
+    "org": "Foros",
+    "program": "Summer Analyst Program",
+    "url": "https://forosgroup.com/join-foros",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Foros, a boutique M&A advisory investment bank, recruits analysts and associates who work closely with senior bankers on high-profile deals.",
+    "about": "Foros (Foros Advisors LLC) is a premier boutique investment bank focused on M&A and strategic advice, based in New York. Its careers page centers on the firm's values and describes hiring analysts and associates with strong academic backgrounds and analytical abilities, developed closely by senior professionals. Applicants are directed to careers@forosgroup.com."
+  },
+  {
+    "id": "mizuho-americas",
+    "org": "Mizuho Americas",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.mizuhogroup.com/americas/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Mizuho Americas offers campus recruitment programs including summer Internship and Full-Time Analyst roles across investment banking, sales and trading, and research.",
+    "about": "Mizuho Americas is the U.S. arm of the global Mizuho franchise, described as its growth engine. Its Campus Recruitment Programs target students for Internship and Full-Time Analyst roles, offering structured training in financial valuation and modeling, transaction experience, client interaction, and networking. Hiring spans investment banking, sales and trading, research, and other functions via the firm's Workday and campus recruiting channels."
+  },
+  {
+    "id": "smbc-group",
+    "org": "SMBC Group",
+    "program": "Americas Summer Analyst Program",
+    "url": "https://www.smbcgroup.com/americas/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "SMBC Group's Americas Emerging Talent track offers summer intern and analyst programs for rising seniors and recent graduates across corporate and investment banking.",
+    "about": "SMBC Group is a global financial institution with Japanese merchant-banking roots spanning more than 400 years. Its Americas careers site describes an Emerging Talent track with summer intern and analyst programs designed for rising seniors and recent graduates, featuring roles across areas such as Latin America Corporate Finance, Leveraged Finance, and Corporate and Investment Banking. Applications are directed to the SMBC careers portal."
+  },
+  {
+    "id": "scotiabank",
+    "org": "Scotiabank",
+    "program": "Global Banking and Markets Summer Analyst",
+    "url": "https://www.scotiabank.com/careers/en/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Scotiabank's Global Banking and Markets Summer Analyst program offers paid summer roles for students exploring investment banking and capital markets careers.",
+    "about": "Scotiabank is a leading Canadian multinational bank with a Global Banking and Markets division operating in New York and other financial centers. Its official careers site hosts a Students & New Grads section covering campus recruiting and summer analyst opportunities across teams including finance, technology, and markets. Specific summer analyst roles are posted through the bank's regional job search and campus pages."
+  },
+  {
+    "id": "cibc-capital-markets",
+    "org": "CIBC Capital Markets",
+    "program": "Summer Analyst Program",
+    "url": "https://cibc.com/en/about-cibc/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "CIBC Capital Markets' Summer Analyst Program provides paid summer internships for students pursuing capital markets and investment banking careers.",
+    "about": "CIBC is a major Canadian bank whose Capital Markets group offers advisory, financing, and trading services across North America. Its official careers site includes a Students and Graduates category and a Commercial, Wealth and Capital Markets career area with remote, on-site, and hybrid roles. Summer analyst positions are recruited through CIBC's campus and Workday job portals."
+  },
+  {
+    "id": "wedbush-securities",
+    "org": "Wedbush Securities",
+    "program": "Investment Banking Summer Internship",
+    "url": "https://www.wedbush.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Wedbush Securities offers an investment banking summer internship out of its Los Angeles headquarters for students interested in capital markets.",
+    "about": "Wedbush Securities is an independent, Los Angeles-based financial services and investment firm with wealth management, capital markets, and clearing divisions. Its official careers page redirects to a live applicant-tracking system where openings, including internships, are posted dynamically. The corporate address confirms its Los Angeles, CA headquarters at 1000 Wilshire Blvd."
+  },
+  {
+    "id": "d-a-davidson-and-co",
+    "org": "D.A. Davidson & Co.",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.dadavidson.com/About-Us/Careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "D.A. Davidson's Investment Banking Summer Analyst program offers paid summer roles for students across its national investment banking practice.",
+    "about": "D.A. Davidson & Co. is an employee-owned, full-service investment firm headquartered in Montana with investment banking offices nationwide. Its careers page hosts campus and early-career opportunities including summer analyst roles. The careers page is live but returns a 403 to automated fetches due to bot protection."
+  },
+  {
+    "id": "janney-montgomery-scott",
+    "org": "Janney Montgomery Scott",
+    "program": "Summer Internship Program",
+    "url": "https://www.janney.com/about-us/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Janney Montgomery Scott runs a paid Summer Internship Program for students at its Philadelphia headquarters and other offices.",
+    "about": "Janney Montgomery Scott is a full-service wealth management, financial services, and investment banking firm headquartered in Philadelphia, PA. Its careers page includes early-career and summer internship opportunities. The page is live but returns a 403 to automated fetches due to bot protection."
+  },
+  {
+    "id": "brown-brothers-harriman",
+    "org": "Brown Brothers Harriman",
+    "program": "Summer Analyst Program",
+    "url": "https://www.bbh.com/us/en/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Brown Brothers Harriman's Summer Analyst Program offers paid summer roles for students within its early-career recruiting track.",
+    "about": "Brown Brothers Harriman is a privately held financial services firm offering investment management, private banking, and investor services, headquartered in New York. Its official careers page organizes opportunities into Students and Early Career, Experienced Professionals, and Technology Professionals. Summer analyst and internship details are provided through the linked Students and Early Career page."
+  },
+  {
+    "id": "petrie-partners",
+    "org": "Petrie Partners",
+    "program": "Energy Investment Banking Analyst",
+    "url": "https://petrie.com/careers",
+    "industries": [
+      "business",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Petrie Partners offers an energy investment banking analyst role in Denver for students and early-career candidates in the oil and gas sector.",
+    "about": "Petrie Partners is a Denver-based investment bank specializing in advisory services for the energy sector, particularly oil and gas. Its careers page lists analyst and early-career opportunities. The page is live but returns a 403 to automated fetches due to bot protection."
+  },
+  {
+    "id": "capstone-partners",
+    "org": "Capstone Partners",
+    "program": "Investment Banking Summer Analyst",
+    "url": "https://www.capstonepartners.com/about/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Capstone Partners runs a summer internship program for students pursuing investment banking and financial advisory careers.",
+    "about": "Capstone Partners is a middle-market investment bank offering M&A advisory, capital raising, and financial advisory services across U.S. offices. Its official careers page describes a Summer Internship Program along with leadership development, mentoring, and corporate development training. At the time of review, the Summer 2027 internship application had closed."
+  },
+  {
+    "id": "cascadia-capital",
+    "org": "Cascadia Capital",
+    "program": "Investment Banking Analyst Program",
+    "url": "https://cascadiacapital.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cascadia Capital's Investment Banking Analyst Program includes a structured analyst training track and student internships at the Seattle-based bank.",
+    "about": "Cascadia Capital is an independent, Seattle-based investment bank serving middle-market clients across technology and other sectors. Its official careers page describes a Structured Analyst Training Program, full-time roles for experienced professionals, and internships and opportunities for students. The page emphasizes early client exposure, mentorship, and competitive total rewards."
+  },
+  {
+    "id": "gp-bullhound",
+    "org": "GP Bullhound",
+    "program": "Technology Investment Banking Analyst",
+    "url": "https://www.gpbullhound.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GP Bullhound offers technology investment banking analyst roles and early-career programs at its technology-focused advisory firm.",
+    "about": "GP Bullhound is a technology-focused investment bank and advisory firm that has advised companies including Klarna, Spotify, and Strava. Its official careers page highlights early-career initiatives such as the Future Stars work experience week and the 10's Programme development track, with analyst roles posted via its jobs page. The firm markets itself as talent-focused with benefits like AI development tools and a wellness stipend."
+  },
+  {
+    "id": "regions-financial",
+    "org": "Regions Financial",
+    "program": "Capital Markets Summer Analyst",
+    "url": "https://careers.regions.com/us/en",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Regions Financial offers a capital markets summer analyst internship within its Emerging Talent early-career programs.",
+    "about": "Regions Financial is a U.S. bank holding company headquartered in Birmingham, Alabama, with a capital markets division. Its official careers site features an Emerging Talent Program and an interns-and-graduates section for early-career candidates. Specific capital markets summer analyst roles are posted through the Regions careers portal."
+  },
+  {
+    "id": "pnc-financial-services",
+    "org": "PNC Financial Services",
+    "program": "Corporate & Institutional Banking Summer Analyst",
+    "url": "https://www.pnc.com/en/about-pnc/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "PNC's official careers site covering its early-career and professional banking opportunities, including Corporate & Institutional Banking summer analyst roles.",
+    "about": "PNC Financial Services is a large U.S. bank that runs campus recruiting and summer analyst programs across its business lines, including Corporate & Institutional Banking. Roles are paid and based at PNC offices in the United States."
+  },
+  {
+    "id": "cassel-salpeter-and-co",
+    "org": "Cassel Salpeter & Co.",
+    "program": "Investment Banking Analyst",
+    "url": "https://www.casselsalpeter.com/overview/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "lat": 25.7617,
+        "lng": -80.1918
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Careers page of Miami middle-market investment bank Cassel Salpeter, inviting candidates to submit resumes for analyst and other roles.",
+    "about": "Cassel Salpeter & Co. is an independent investment banking firm based in Miami, FL, serving the middle market. Its careers page describes the firm's entrepreneurial culture and directs prospective analysts to apply by emailing careers@casselsalpeter.com; no formal structured program is posted."
+  },
+  {
+    "id": "charles-river-associates-cra",
+    "org": "Charles River Associates (CRA)",
+    "program": "Students & Recent Graduates / University Hires",
+    "url": "https://www.crai.com/cra-careers/university-hires",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "CRA's university hires page describing entry-level consultant and internship opportunities for students and recent graduates.",
+    "about": "Charles River Associates (CRA) is a global economic, financial, and management consulting firm. Its university hires track offers project-based analytical work, extensive on-the-job training, and mentorship for entry-level consultants and interns."
+  },
+  {
+    "id": "cornerstone-research",
+    "org": "Cornerstone Research",
+    "program": "Analyst Experience",
+    "url": "https://www.cornerstone.com/careers",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cornerstone Research's careers page describing its Analyst Experience for undergraduate and graduate students.",
+    "about": "Cornerstone Research provides economic and financial consulting and expert testimony for litigation. Its Analyst track is aimed at undergraduate and graduate students, with hybrid work and roles based in the US, UK, and Belgium."
+  },
+  {
+    "id": "the-brattle-group",
+    "org": "The Brattle Group",
+    "program": "Research Analyst Program",
+    "url": "https://www.brattle.com/careers",
+    "industries": [
+      "business",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Brattle Group's careers page describing consulting roles including research analyst positions with links to current openings.",
+    "about": "The Brattle Group is an economic consulting firm advising on litigation, energy, finance, and regulatory matters. Its careers page describes the firm's foundational principles and research analyst roles, with dedicated Roles, Current Openings, and Recruiting Events links."
+  },
+  {
+    "id": "bates-white-economic-consulting",
+    "org": "Bates White Economic Consulting",
+    "program": "Summer Consultant Program / Bachelor's Opportunities",
+    "url": "https://www.bateswhite.com/careers.html",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Bates White's careers page describing its Summer Consultant Program and bachelor's/master's entry-level opportunities.",
+    "about": "Bates White Economic Consulting is a Washington, DC-based firm working on competition, energy, finance, mass torts, and healthcare matters. It offers a Summer Consultant Program and bachelor's/master's tracks with mentorship, training, and hybrid schedules."
+  },
+  {
+    "id": "compass-lexecon",
+    "org": "Compass Lexecon",
+    "program": "Students & Graduates - Analyst",
+    "url": "https://www.compasslexecon.com/careers",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Compass Lexecon's careers page describing its Students & Graduates analyst track across global offices.",
+    "about": "Compass Lexecon is a global economic consulting firm operating across 23 offices. Its Students & Graduates track seeks candidates with strong analytical and quantitative skills for analyst roles, with separate paths for PhD/experienced and business professional hires."
+  },
+  {
+    "id": "nera-economic-consulting",
+    "org": "NERA Economic Consulting",
+    "program": "Analyst / Campus Recruiting",
+    "url": "https://www.nera.com/why-nera.html",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "NERA Economic Consulting's careers overview describing analyst roles and campus recruiting with a dedicated careers section.",
+    "about": "NERA Economic Consulting applies economics, statistics, and finance to complex legal and business matters and is part of Marsh. Its careers area includes Why NERA, Life at NERA, Career Path, Open Roles, and Recruiting Events, with analyst roles and campus/internship recruiting."
+  },
+  {
+    "id": "edgeworth-economics",
+    "org": "Edgeworth Economics",
+    "program": "Students / Analyst",
+    "url": "https://www.edgewortheconomics.com/careers",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Edgeworth Economics' careers page with a dedicated Students section and analyst-track opportunities plus open positions.",
+    "about": "Edgeworth Economics is an economic consulting firm headquartered in Washington, DC. Its careers page includes Working at Edgeworth, Culture & Training, a Prospective Hires Students section, FAQs, and Open Positions, and holds a Vault Top Ranked 2025 and Great Place To Work certification."
+  },
+  {
+    "id": "berkeley-research-group-brg",
+    "org": "Berkeley Research Group (BRG)",
+    "program": "Early Careers / BRG on Campus",
+    "url": "https://www.thinkbrg.com/careers",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "BRG's careers page describing Early Careers and BRG on Campus opportunities including summer associate roles.",
+    "about": "Berkeley Research Group (BRG) is a global consulting firm with 40+ offices and 1,600+ people. Its Early Careers and BRG on Campus tracks cover analyst/summer associate recruiting, and the firm has received RippleMatch's Campus Forward Award for early-career programs."
+  },
+  {
+    "id": "simon-kucher",
+    "org": "Simon-Kucher",
+    "program": "Associate Consultant Internship / Entry-Level",
+    "url": "https://www.simon-kucher.com/en/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Simon-Kucher's careers page describing Associate Consultant internships and student, graduate, and entry-level tracks.",
+    "about": "Simon-Kucher is a global strategy and marketing consultancy with offices in 30+ countries and over 2,200 employees. Its careers include Associate Consultant internships, part-time student worker roles, and graduate consultant positions, with an application process that typically involves case studies."
+  },
+  {
+    "id": "guidehouse",
+    "org": "Guidehouse",
+    "program": "Students & Graduates / Internships",
+    "url": "https://guidehouse.com/careers/students",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Guidehouse's early career and internships page describing student programs with mentorship and full-time conversion options.",
+    "about": "Guidehouse is a consultancy serving commercial and public-sector clients. Its early career and internship program offers real-world projects for students of all backgrounds, mentorship pairing new hires with an evaluator, personalized onboarding, and the option to convert internships to full-time roles."
+  },
+  {
+    "id": "fti-consulting",
+    "org": "FTI Consulting",
+    "program": "Campus & Early Careers",
+    "url": "https://www.fticonsulting.com/careers",
+    "industries": [
+      "business",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "FTI Consulting's careers site offers campus and early-career internships and entry-level programs for students and recent graduates across its consulting practices.",
+    "about": "FTI Consulting is a global business advisory firm serving clients in areas including corporate finance, litigation and disputes, forensic accounting, and technology. Its careers site hosts campus and early-career opportunities such as internships and entry-level analyst roles for undergraduate and graduate students. Positions span multiple U.S. offices and are paid."
+  },
+  {
+    "id": "alixpartners",
+    "org": "AlixPartners",
+    "program": "Students and Recent Graduates",
+    "url": "https://www.alixpartners.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "AlixPartners' careers page features a Students and Recent Graduates track with early-career and internship opportunities in its consulting business.",
+    "about": "AlixPartners is a global consulting firm focused on business performance improvement, corporate turnaround, and restructuring. The careers site includes a dedicated students and recent graduates section describing how it launches early careers and tailors development to individual goals. Roles are paid and based across the firm's offices."
+  },
+  {
+    "id": "alvarez-and-marsal",
+    "org": "Alvarez & Marsal",
+    "program": "Campus Careers",
+    "url": "https://www.alvarezandmarsal.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Alvarez & Marsal's campus careers page offers internships and entry-level consulting programs for students and recent graduates.",
+    "about": "Alvarez & Marsal is a global professional services firm known for turnaround management, performance improvement, and corporate advisory work. Its campus careers area provides internships and entry-level roles for students and graduates across the firm's practices. Positions are paid and located across its U.S. offices."
+  },
+  {
+    "id": "huron-consulting-group",
+    "org": "Huron Consulting Group",
+    "program": "Students and Early Career",
+    "url": "https://www.huronconsultinggroup.com/careers",
+    "industries": [
+      "business",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Huron's careers site includes a Students and Early Career section with entry-level and internship opportunities across healthcare, education, and business consulting.",
+    "about": "Huron is a global consultancy serving healthcare, higher education, and commercial industries. Its careers site has a dedicated students and early-career section offering meaningful client work, mentorship, and learning programs, including a technology track. Roles are paid, with benefits and flexible work options."
+  },
+  {
+    "id": "west-monroe",
+    "org": "West Monroe",
+    "program": "Internships & Students",
+    "url": "https://www.westmonroe.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "West Monroe's careers site features an Internships & Students track offering paid internships and entry-level roles with coaching and mentorship.",
+    "about": "West Monroe is a digital and management consulting firm blending business and technology expertise. Its careers site has a dedicated students hiring track that emphasizes coaching, mentorship, and hands-on work from day one in an AI-native environment. Internships and student roles are paid and offered across U.S. offices with a hybrid model."
+  },
+  {
+    "id": "protiviti",
+    "org": "Protiviti",
+    "program": "Students & Graduates",
+    "url": "https://www.protiviti.com/us-en/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Protiviti's US careers site includes a Students & Graduates section with internships and entry-level consulting roles offering mentorship and project experience.",
+    "about": "Protiviti is a global consulting firm providing risk, technology, internal audit, and business advisory services. Its US careers site features a students and graduates section promising project experience, mentorship, and impact from day one. Roles are paid, with benefits and pay transparency emphasized."
+  },
+  {
+    "id": "slalom",
+    "org": "Slalom",
+    "program": "Careers / Campus",
+    "url": "https://www.slalom.com/us/en/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Slalom's US careers page presents the firm's culture and open roles, routing applicants to its job portal for internships and entry-level opportunities.",
+    "about": "Slalom is a global business and technology consulting firm. Its US careers page highlights company culture and directs candidates to the jobs.slalom.com portal, where internships and early-career roles are listed. Positions are paid and offered across the firm's U.S. locations with a hybrid model."
+  },
+  {
+    "id": "grant-thornton",
+    "org": "Grant Thornton",
+    "program": "Careers for Students / Empower Program",
+    "url": "https://www.grantthornton.com/careers/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Internships offered in Winter, Summer, or Fall sessions; Empower Program (for freshmen/sophomores) 2027 sign-ups available.",
+    "summary": "Grant Thornton's careers-for-students page offers internships in Audit, Tax, and Advisory plus the Empower Program, a one-day virtual growth program for early college students.",
+    "about": "Grant Thornton is a US audit, tax, and advisory firm. Its student careers page describes internships across Audit & Assurance, Tax, and Advisory for undergraduate and graduate students in Winter, Summer, and Fall sessions, with buddies, coaches, and mentors. It also runs the Empower Program, a virtual one-day program for freshmen and sophomores interested in accounting. Roles are paid and offered nationwide."
+  },
+  {
+    "id": "keystone-strategy",
+    "org": "Keystone Strategy",
+    "program": "Analyst / Careers",
+    "url": "https://www.keystone.ai/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Keystone Strategy's careers page offers analyst and early-career roles for students and graduates in economics, technology, and business strategy consulting.",
+    "about": "Keystone Strategy is a consulting firm working at the intersection of economics, technology, and business strategy. Its careers site lists analyst and entry-level opportunities for undergraduate and graduate students. Roles are paid and based across its offices."
+  },
+  {
+    "id": "dean-and-company",
+    "org": "Dean & Company",
+    "program": "Analyst Program",
+    "url": "https://www.dean.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Vienna",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Dean & Company's careers page describes its Analyst Program, an entry-level strategy consulting role based in Vienna, Virginia.",
+    "about": "Dean & Company is a strategy consulting firm headquartered in Vienna, Virginia. Its careers site features an Analyst Program for recent college graduates working on analytical, strategy-focused client engagements. The role is paid and based in-person at the firm's Vienna office."
+  },
+  {
+    "id": "point-b",
+    "org": "Point B",
+    "program": "Students / Internships",
+    "url": "https://www.pointb.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Point B's careers page lists open roles and internship/student opportunities within its management and technology consulting practice.",
+    "about": "Point B is a management consulting firm focused on business transformation, technology, and product development. Its careers site hosts job openings including student and internship opportunities. Roles are paid and offered across U.S. locations with a hybrid work model."
+  },
+  {
+    "id": "north-highland",
+    "org": "North Highland",
+    "program": "Careers / Early Career",
+    "url": "https://careers.northhighland.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "North Highland's official careers site presents its consulting culture and open roles, including entry-level opportunities searchable through its job hub.",
+    "about": "North Highland is a change and transformation consultancy serving industries such as life sciences, financial services, healthcare, and the public sector. Its careers site emphasizes a people-first culture and directs candidates to a job search hub organized by industry, where early-career and entry-level roles are listed. Positions are paid and offered across its locations."
+  },
+  {
+    "id": "the-bridgespan-group",
+    "org": "The Bridgespan Group",
+    "program": "Consulting Careers",
+    "url": "https://www.bridgespan.org/about-us/careers",
+    "industries": [
+      "nonprofit",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Bridgespan Group's careers page offers consulting roles, including early-career opportunities, in nonprofit and philanthropic strategy.",
+    "about": "The Bridgespan Group is a nonprofit consulting firm that advises nonprofits and philanthropists on strategy and social impact. Its careers page describes mission-driven consulting work and early-career opportunities for direct impact on the social sector, with an applicant toolkit and links to open positions. Roles are paid and offered across its offices."
+  },
+  {
+    "id": "abt-global",
+    "org": "Abt Global",
+    "program": "Internships and Emerging Professionals",
+    "url": "https://www.abtglobal.com/careers",
+    "industries": [
+      "government",
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Positions posted early January; interns join in June",
+    "summary": "Abt Global offers internships and an early-career Management Consultant Program for students and emerging professionals in research and consulting.",
+    "about": "The careers page describes internships in research and business, with positions posted at the beginning of January and selected participants joining in June. It also highlights a Management Consultant Program for early-career professionals, emphasizing hands-on experience, professional development, and mentorship. Many U.S. roles are remote-eligible."
+  },
+  {
+    "id": "the-chartis-group",
+    "org": "The Chartis Group",
+    "program": "Careers / Analyst",
+    "url": "https://www.chartis.com/careers",
+    "industries": [
+      "healthcare",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Chartis Group is a healthcare advisory firm hiring across its Chartis, Greeley, HealthScape Advisors, and Jarrard teams, including entry-level analyst roles.",
+    "about": "The live official careers page emphasizes continuous learning, professional growth, and collaboration, and directs candidates to open positions across Greeley, HealthScape Advisors, and Jarrard. Chartis is a healthcare-focused consulting and analytics firm recognized in industry best-places-to-work rankings. Specific analyst role details are posted on the linked open-positions board."
+  },
+  {
+    "id": "trinity-life-sciences",
+    "org": "Trinity Life Sciences",
+    "program": "Early Talent",
+    "url": "https://www.trinitylifesciences.com/careers",
+    "industries": [
+      "healthcare",
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Waltham",
+        "state": "MA",
+        "lat": 42.3765,
+        "lng": -71.2356
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Trinity Life Sciences recruits students and recent graduates through an Early Talent track into its life sciences strategy and consulting work.",
+    "about": "The careers page links to a dedicated Early Talent section and notes that 36% of its client-facing leadership team joined out of an undergraduate or advanced-degree program. Trinity provides a sample case study for candidate interview prep and posts all openings through its Workday portal. The firm is a life sciences commercialization and analytics consultancy based in Waltham, MA."
+  },
+  {
+    "id": "health-advances",
+    "org": "Health Advances",
+    "program": "Analyst / Careers",
+    "url": "https://healthadvances.com/careers",
+    "industries": [
+      "healthcare",
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Newton",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Health Advances is a healthcare and life sciences strategy consulting firm hiring analysts and early-career professionals.",
+    "about": "Health Advances is a global healthcare-focused strategy consultancy serving biopharma, medtech, and diagnostics clients. Its careers page could not be retrieved directly due to bot protection, but resides on the firm's canonical official domain. The firm is headquartered in Newton, MA."
+  },
+  {
+    "id": "cambridge-associates",
+    "org": "Cambridge Associates",
+    "program": "Careers / Investment Analyst",
+    "url": "https://www.cambridgeassociates.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cambridge Associates is a global investment firm hiring across Global Investing, Technology & Operations, and Shared Services, including entry-level and analyst roles.",
+    "about": "The live official careers page describes three career groups (Global Investing; Technology & Operations; Shared Services), a value-based collaborative environment, and a long-term career development plan. Compensation includes a competitive salary plus discretionary annual bonus and region-varying benefits. Open positions are hosted on the firm's Workday portal."
+  },
+  {
+    "id": "bdo-usa",
+    "org": "BDO USA",
+    "program": "Student Internships / Pathway to Success",
+    "url": "https://www.bdo.com/careers/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "BDO USA offers paid student internships with mentorship and CPA support, plus a Pathway to Success program for freshmen and sophomores exploring accounting careers.",
+    "about": "The students careers page confirms BDO offers paid internships only, with real-world client assignments, a mentorship program, and CPA exam support including possible completion bonuses. Its Pathway to Success program targets freshmen and sophomores through live virtual sessions, in-person office visits, and 1:1 mentorship. Internships are predominantly on-site and location-specific, with situational remote and hybrid flexibility."
+  },
+  {
+    "id": "sia-partners",
+    "org": "Sia Partners",
+    "program": "Careers / Internships",
+    "url": "https://www.sia-partners.com/en/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Sia Partners is a management and technology consulting firm posting internship and entry-level roles alongside experienced positions on its careers job board.",
+    "about": "The official careers page presents a filterable job board with an experience filter that includes Intern and Entry-level options across consulting and design roles in the US, Canada, and Europe. Structured student-program specifics are not detailed on this page, which links to Culture, Careers, and Recruitment sections. Sia Partners is a global consultancy spanning business and technology practices."
+  },
+  {
+    "id": "bridgewater-associates",
+    "org": "Bridgewater Associates",
+    "program": "Investment & Technology Internships",
+    "url": "https://www.bridgewater.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Westport",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Bridgewater Associates offers investment internship opportunities and programs giving students exposure to its systematic investment process.",
+    "about": "The careers page describes Investment and Technology career tracks and highlights investment internship opportunities and programs for students. Bridgewater is a global macro investment management firm headquartered at One Nyala Farms Road in Westport, CT. Further internship details are on the linked Students and Job Openings pages."
+  },
+  {
+    "id": "aqr-capital-management",
+    "org": "AQR Capital Management",
+    "program": "Summer Internship Program",
+    "url": "https://www.aqr.com/About-Us/Careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Greenwich",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "AQR Capital Management offers student internships based at its Greenwich, CT headquarters (and Bangalore) to launch careers in quantitative investing.",
+    "about": "The official careers page references student internship offerings in Greenwich and Bangalore, emphasizing meaningful work early in a candidate's career development. AQR is a global quantitative investment management firm headquartered next to the Greenwich train station in Connecticut, with additional offices in Bangalore, Dubai, Hong Kong, London, Munich, and Sydney. Specific internship pay and format are detailed on the linked internships pages."
+  },
+  {
+    "id": "millennium-management",
+    "org": "Millennium Management",
+    "program": "Internship Program",
+    "url": "https://www.mlp.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Millennium Management's official careers site links to a Students section with campus and internship roles across its global investment platform.",
+    "about": "Millennium is a global alternative investment management firm headquartered in New York. Its careers site routes students to a dedicated Students/campus section for internship and early-career roles in investment and technology functions. Positions are paid and primarily in-person."
+  },
+  {
+    "id": "balyasny-asset-management",
+    "org": "Balyasny Asset Management",
+    "program": "Early Career / Internship Program",
+    "url": "https://www.bamfunds.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Balyasny Asset Management's careers page offers hands-on internships and early-career rotational programs for undergraduates, graduate students, and recent graduates.",
+    "about": "Balyasny Asset Management (BAM) is a global multi-strategy investment firm headquartered in Chicago. Its early-career track provides paid internships for undergraduate and graduate students plus rotational programs for technology and data roles. It operates offices across North America, Europe, the Middle East, and Asia."
+  },
+  {
+    "id": "wellington-management",
+    "org": "Wellington Management",
+    "program": "Summer Internship Program",
+    "url": "https://www.wellington.com/en/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Wellington Management's careers site describes global undergraduate and MBA-level internship and co-op opportunities plus an HBCU Scholars Program.",
+    "about": "Wellington Management is a Boston-based global investment management firm. It offers internship and co-op opportunities at both undergraduate and MBA levels, and runs an HBCU Scholars Program pairing a renewable merit scholarship of up to $15,000 with paid summer internships. Roles are based across its global offices.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "capital-group",
+    "org": "Capital Group",
+    "program": "The Associates Program / Internships",
+    "url": "https://www.capitalgroup.com/about-us/careers.html",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Capital Group's careers site links to a Students section covering internships and early-career development programs.",
+    "about": "Capital Group is a Los Angeles-based global investment management firm and home of the American Funds. Its careers site directs students to a Students section describing internships and early-career programs, and the firm was named among Forbes' Best Employers for New Grads (2025). It employs over 9,300 associates in offices worldwide."
+  },
+  {
+    "id": "invesco",
+    "org": "Invesco",
+    "program": "Internship Program",
+    "url": "https://careers.invesco.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Invesco's North America careers site features an Early Careers section covering student internships across its US and Canada offices.",
+    "about": "Invesco is a global independent investment management firm with US operations including an Atlanta office. Its careers site includes an Early Careers section for students and internship candidates and lists numerous North American office locations. Positions are paid and largely in-person."
+  },
+  {
+    "id": "alliancebernstein",
+    "org": "AllianceBernstein",
+    "program": "Summer Internship Program",
+    "url": "https://www.alliancebernstein.com/corporate/en/careers.html",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "AllianceBernstein's careers site covers its summer internship and early-career programs for students.",
+    "about": "AllianceBernstein (AB) is a global asset management firm with a significant corporate presence in Nashville, Tennessee. It runs a summer internship program for students across investment, technology, and business functions. Positions are paid and primarily in-person."
+  },
+  {
+    "id": "franklin-templeton",
+    "org": "Franklin Templeton",
+    "program": "Internship Program",
+    "url": "https://www.franklintempleton.com/about-us/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Mateo",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Franklin Templeton's careers site covers student internships and early-career opportunities across its global offices.",
+    "about": "Franklin Templeton (Franklin Resources) is a global investment management firm headquartered in San Mateo, California. Its careers site covers student internships and early-career programs across investment and business functions. Positions are paid and primarily in-person."
+  },
+  {
+    "id": "northern-trust",
+    "org": "Northern Trust",
+    "program": "Summer Analyst / Internship Program",
+    "url": "https://www.northerntrust.com/united-states/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Northern Trust's US careers site covers campus and early-career opportunities including summer analyst and internship programs.",
+    "about": "Northern Trust is a Chicago-based global financial services and asset management firm. Its US careers site covers campus and early-career opportunities such as summer analyst and internship programs. Positions are paid and primarily in-person."
+  },
+  {
+    "id": "dimensional-fund-advisors",
+    "org": "Dimensional Fund Advisors",
+    "program": "Summer Internship Program",
+    "url": "https://careers.dimensional.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Dimensional Fund Advisors' careers site describes a nine-week summer internship program for college students in investment management.",
+    "about": "Dimensional Fund Advisors is a global investment firm with a major office in Austin, Texas. It runs a nine-week summer internship program for college students featuring hands-on training and structured mentorship, and hiring routes through Workday. It has 15 offices across North America, Europe, and Asia Pacific."
+  },
+  {
+    "id": "janus-henderson-investors",
+    "org": "Janus Henderson Investors",
+    "program": "Internship Program",
+    "url": "https://www.janushenderson.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Janus Henderson's careers site covers early-career programs and internships, with a dedicated early careers contact and links to open roles.",
+    "about": "Janus Henderson Investors is a global asset manager with a major US office in Denver, Colorado. Its careers site highlights early-career opportunities, providing an early careers contact and links to open roles via its jobs portal. Positions are paid and primarily in-person."
+  },
+  {
+    "id": "imc-trading",
+    "org": "IMC Trading",
+    "program": "Student Programs (Internships)",
+    "url": "https://www.imc.com/us/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "IMC Trading's US careers site describes student programs including Launchpad, undergraduate internships, and a graduate traineeship in Chicago.",
+    "about": "IMC Trading is a global proprietary trading firm with its US office in the Willis Tower in Chicago. Its student programs include Launchpad for second-year students, undergraduate internships in fields like computer science and math, and a graduate traineeship for analysts, engineers, traders, and quants. Positions are paid and in-person."
+  },
+  {
+    "id": "tower-research-capital",
+    "org": "Tower Research Capital",
+    "program": "Internship Program",
+    "url": "https://www.tower-research.com/open-positions",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Tower Research Capital's careers site lets candidates explore open roles and a dedicated internships track across its global offices.",
+    "about": "Tower Research Capital is a high-frequency trading and quantitative research firm headquartered in New York. Its careers site invites applicants to explore open roles across departments and links to a dedicated internships page for students. Positions are paid and in-person."
+  },
+  {
+    "id": "worldquant",
+    "org": "WorldQuant",
+    "program": "Internship / Research Consultant Program",
+    "url": "https://www.worldquant.com/career-listing",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Old Greenwich",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "WorldQuant's career listing site features internships and quantitative research roles across its global offices.",
+    "about": "WorldQuant is a global quantitative asset management firm headquartered in Old Greenwich, Connecticut. Its live career listings include internship roles in data science, quantitative research, and software engineering, and the firm separately runs a Research Consultant program. Roles span offices worldwide."
+  },
+  {
+    "id": "wolverine-trading",
+    "org": "Wolverine Trading",
+    "program": "Campus Recruiting / Internships",
+    "url": "https://www.wolve.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Wolverine Trading's careers page for its Chicago-based trading and technology roles, including campus and internship hiring.",
+    "about": "Wolverine Trading is a proprietary trading firm headquartered in Chicago. Its careers site outlines company culture, benefits, and open positions across trading and technology. Campus and internship candidates apply through this site."
+  },
+  {
+    "id": "chicago-trading-company",
+    "org": "Chicago Trading Company",
+    "program": "Campus / Internship Program",
+    "url": "https://www.chicagotrading.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Chicago Trading Company's careers page featuring campus recruiting and a student talent community for trading and technology roles.",
+    "about": "Chicago Trading Company (CTC) is a proprietary trading firm headquartered in Chicago with offices in New York, London, and Amsterdam. Its careers site includes a campus recruiting section and a Student talent community. Internships support the firm's trading and technology teams."
+  },
+  {
+    "id": "belvedere-trading",
+    "org": "Belvedere Trading",
+    "program": "Internship Program",
+    "url": "https://www.belvederetrading.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Belvedere Trading's careers page describing internship and new-graduate roles in quantitative trading and software development.",
+    "about": "Belvedere Trading is a Chicago-based proprietary trading firm. It offers internships and full-time new-graduate roles as Quantitative Traders and Developers, supported by its Belvedere Trading University training and mentorship program. The recruiting process includes a technical challenge and multiple interview rounds."
+  },
+  {
+    "id": "peak6",
+    "org": "PEAK6",
+    "program": "Campus Programs (Trading Internships & Bootcamp)",
+    "url": "https://peak6.com/campus",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; housing and travel covered for internship programs",
+    "summary": "PEAK6's campus page describing trading internships, a trading bootcamp, and a new-graduate Trading Associate program based in Chicago.",
+    "about": "PEAK6 is a Chicago-based financial technology and investment firm. Its campus programs include the nine-week Trading Experience for Women+ for women-identifying college juniors, a one-week Trading Bootcamp, and an 18-month Trading Associate program for new graduates with Series 57 licensure. Housing and travel are covered for the internship programs.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "group-one-trading",
+    "org": "Group One Trading",
+    "program": "Trading Analyst Internship",
+    "url": "https://www.group1.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Group One Trading's careers page listing a Trading Analyst Internship and a spring campus recruiting calendar.",
+    "about": "Group One Trading is a proprietary options trading firm with offices in Chicago and New York. Its careers page posts a Trading Analyst Intern role alongside a Spring 2026 recruiting calendar of campus events at universities nationwide. Applicants must be active students to be considered for an internship."
+  },
+  {
+    "id": "old-mission-capital",
+    "org": "Old Mission Capital",
+    "program": "Internship / Campus Program",
+    "url": "https://oldmissioncapital.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Old Mission Capital's careers page with company benefits and a linked campus recruiting section.",
+    "about": "Old Mission Capital is a global proprietary trading firm headquartered in Chicago. Its careers site covers benefits, values, and culture, with a dedicated Campus section for student and internship recruiting. Openings span trading and technology functions."
+  },
+  {
+    "id": "nasdaq",
+    "org": "Nasdaq",
+    "program": "University / Internship Program",
+    "url": "https://www.nasdaq.com/about/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Nasdaq's official careers page covering its university and early-career opportunities, including internships.",
+    "about": "Nasdaq is a global technology and financial exchange company headquartered in New York. Its careers site covers open roles and early-career/university programs, including internships across technology and business functions."
+  },
+  {
+    "id": "cme-group",
+    "org": "CME Group",
+    "program": "University / Internship Program",
+    "url": "https://www.cmegroup.com/careers.html",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "CME Group's official careers page covering university recruiting and internship opportunities.",
+    "about": "CME Group is the world's leading derivatives marketplace, headquartered in Chicago. Its careers site includes university recruiting and internship programs across technology, business, and operations for students and recent graduates."
+  },
+  {
+    "id": "cboe-global-markets",
+    "org": "Cboe Global Markets",
+    "program": "Student Internship Program",
+    "url": "https://careers.cboe.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cboe Global Markets' careers site describing its June–August student internship program.",
+    "about": "Cboe Global Markets is a Chicago-based exchange operator. Its careers site features a Students section with a summer (June–August) internship program built around developing, learning, and networking in a financial and technical environment."
+  },
+  {
+    "id": "intercontinental-exchange-ice",
+    "org": "Intercontinental Exchange (ICE)",
+    "program": "Internship Program",
+    "url": "https://www.ice.com/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Intercontinental Exchange's careers page describing global roles and an internship program for top students.",
+    "about": "Intercontinental Exchange (ICE) is a global exchange, data, and technology company headquartered in Atlanta. Its careers site spans technology, operations, sales, risk management, and product roles across more than 20 countries, and links to an internship program immersing top students in financial services."
+  },
+  {
+    "id": "factset",
+    "org": "FactSet",
+    "program": "Internship & Early Career Program",
+    "url": "https://www.factset.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Norwalk",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "FactSet's careers page for its internship and early-career opportunities in financial data and technology.",
+    "about": "FactSet is a financial data and analytics company headquartered in Norwalk, Connecticut. Its careers site covers internships and early-career roles across technology, engineering, and business functions."
+  },
+  {
+    "id": "s-and-p-global",
+    "org": "S&P Global",
+    "program": "Internship / Early Careers",
+    "url": "https://www.spglobal.com/en/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "S&P Global's careers site covering internships and early-career opportunities for students and graduates.",
+    "about": "S&P Global is a financial information and analytics company headquartered in New York. Its careers site includes early-career and internship programs across its divisions, such as Market Intelligence, Ratings, and Commodity Insights."
+  },
+  {
+    "id": "msci",
+    "org": "MSCI",
+    "program": "Early Careers / Internship Program",
+    "url": "https://careers.msci.com/early-careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "MSCI's early careers site describing its global internship program for university students and graduates.",
+    "about": "MSCI is an investment analytics and index provider headquartered in New York. Its early careers program offers a globally consistent internship experience with live projects, a dedicated buddy, global orientation, and exposure to senior leaders. It targets university students, recent PhD graduates, and other early-career candidates."
+  },
+  {
+    "id": "morningstar",
+    "org": "Morningstar",
+    "program": "Internship Program",
+    "url": "https://www.morningstar.com/company/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Morningstar offers paid summer internships for college students across its investment-research, data, and technology teams.",
+    "about": "Morningstar is a Chicago-headquartered independent investment research and financial data company. Its careers site hosts early-career and internship opportunities spanning research, data science, engineering, and business functions. Roles are typically hybrid out of its Chicago offices."
+  },
+  {
+    "id": "moody-s",
+    "org": "Moody's",
+    "program": "Students & Graduates Program",
+    "url": "https://about.moodys.io/careers",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Moody's runs paid internships and early-career programs for students and recent graduates in analytics, technology, and finance.",
+    "about": "Moody's is a global integrated risk assessment firm known for credit ratings and analytics. Its students & graduates offerings include summer internships and rotational early-career programs across data, technology, and business teams. Positions are commonly hybrid, including its New York headquarters."
+  },
+  {
+    "id": "interactive-brokers",
+    "org": "Interactive Brokers",
+    "program": "Internship & Co-op Program",
+    "url": "https://www.interactivebrokers.com/en/general/careers.php",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Greenwich",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Interactive Brokers offers paid internships and co-ops for college students in software development, trading, and financial operations.",
+    "about": "Interactive Brokers is an automated global electronic broker headquartered in Greenwich, Connecticut. Its careers program includes internships and co-op placements focused on engineering, quantitative, and business roles. Placements are generally on-site."
+  },
+  {
+    "id": "sofi",
+    "org": "SoFi",
+    "program": "Internship Program",
+    "url": "https://www.sofi.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "SoFi offers paid internships and early-talent roles for college students across engineering, product, and business functions.",
+    "about": "SoFi is a digital personal-finance and fintech company that helps members borrow, save, spend, and invest. Its careers site advertises roles across engineering, marketing, design, and operations, with a university-recruiting / early-talent track covering internships. Roles are hybrid across offices including San Francisco, New York, and Seattle."
+  },
+  {
+    "id": "brex",
+    "org": "Brex",
+    "program": "Internship Program",
+    "url": "https://www.brex.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Brex offers paid internships for college students in engineering, product, and business roles, with remote-friendly work.",
+    "about": "Brex is a financial technology company providing corporate cards, expense management, and banking for businesses. Its careers page emphasizes leadership development, company values, and open roles, and it recruits interns and early-career talent through this portal. The company offers remote work weeks alongside in-office collaboration days."
+  },
+  {
+    "id": "betterment",
+    "org": "Betterment",
+    "program": "Internship Program",
+    "url": "https://www.betterment.com/careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Betterment offers paid internships and early-career roles for college students in engineering, product, and business functions.",
+    "about": "Betterment is an automated investing and wealth-management fintech aiming to help people build wealth with confidence. Its careers page highlights benchmarked pay plus equity, benefits, and an in-person collaborative culture, and it posts open roles including early-career positions. Work is hybrid, centered on its New York office."
+  },
+  {
+    "id": "eli-lilly-and-company",
+    "org": "Eli Lilly and Company",
+    "program": "Student Programs & Internships",
+    "url": "https://careers.lilly.com/us/en",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Eli Lilly offers paid internships, apprenticeships, and student programs for college and graduate students across science, R&D, and technology.",
+    "about": "Eli Lilly and Company is a global pharmaceutical firm headquartered in Indianapolis. Its US careers site hosts early-career opportunities including internships, a craft apprenticeship program, and roles in R&D, manufacturing, and technology. Positions span multiple US locations."
+  },
+  {
+    "id": "abbvie",
+    "org": "AbbVie",
+    "program": "Early Career / Internships",
+    "url": "https://careers.abbvie.com/en",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "AbbVie offers paid internships and early-career roles for college and graduate students across R&D, engineering, and business functions.",
+    "about": "AbbVie is a global biopharmaceutical company with therapeutic focus areas including immunology, neuroscience, and oncology. Its careers site provides Student and Early Career pathways spanning research and development, engineering and technology, finance, and operations. Roles are largely on-site at its facilities."
+  },
+  {
+    "id": "astrazeneca",
+    "org": "AstraZeneca",
+    "program": "Early Talent Programs & Internships",
+    "url": "https://careers.astrazeneca.com/early-talent",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "AstraZeneca offers paid internships and early-talent programs for students and graduates across science, engineering, data, and business.",
+    "about": "AstraZeneca is a global biopharmaceutical company. Its early-talent portal covers internships and student-worker roles, graduate programmes in areas like biometrics, engineering, data science and AI, plus a US 'Leaders in Finance Tomorrow (LIFT)' program and postdoctoral opportunities. Programs run across the US and globally with hands-on experience from day one."
+  },
+  {
+    "id": "gsk",
+    "org": "GSK",
+    "program": "Early Careers (US Internships)",
+    "url": "https://www.gsk.com/en-gb/careers/early-careers",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GSK offers paid internships, placements, and graduate programmes for students, including US early-career opportunities.",
+    "about": "GSK is a global biopharma company focused on vaccines, specialty medicines, and general medicines. Its early-careers programmes span internships, placements, apprenticeships, and graduate programmes, plus PhD and postdoc opportunities, with development support including mentorship and coaching. US opportunities are surfaced through its region-specific early-careers pages."
+  },
+  {
+    "id": "biogen",
+    "org": "Biogen",
+    "program": "Students & Early Career",
+    "url": "https://www.biogen.com/careers.html",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Biogen offers paid internships and student/graduate programs across science, R&D, and technology roles.",
+    "about": "Biogen is a biotechnology company focused on neuroscience and neurological diseases. Its careers site features a Students and Graduates section inviting applicants to join through internship and graduate opportunities, with pathways such as MBA internships leading to full-time and leadership roles. Openings are managed through its Workday portal and are largely on-site."
+  },
+  {
+    "id": "vertex-pharmaceuticals",
+    "org": "Vertex Pharmaceuticals",
+    "program": "Students & Graduates",
+    "url": "https://www.vrtx.com/careers/students-and-graduates",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Vertex Pharmaceuticals offers paid internships and programs for students and graduates in science, R&D, and technology.",
+    "about": "Vertex Pharmaceuticals is a global biotechnology company developing therapies for serious diseases such as cystic fibrosis. Its students-and-graduates careers section hosts internships and early-career programs across research, development, and technical functions. Roles are primarily on-site at its facilities including Boston."
+  },
+  {
+    "id": "takeda",
+    "org": "Takeda",
+    "program": "Early Career & Internships",
+    "url": "https://jobs.takeda.com/early-career-path",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Takeda offers a paid summer internship program plus fellowships and leadership development programs for students and graduates.",
+    "about": "Takeda is a global, values-based biopharmaceutical company. Its early-career page details the Takeda Summer Internship Program, numerous post-doctoral fellowships across medical and scientific functions, and leadership development programs such as the Analytics and Commercial Leadership Development Programs. Opportunities span R&D, manufacturing, quality, and commercial teams."
+  },
+  {
+    "id": "boehringer-ingelheim",
+    "org": "Boehringer Ingelheim",
+    "program": "Students & Graduates",
+    "url": "https://www.boehringer-ingelheim.com/careers/students-and-graduates",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Boehringer Ingelheim's Students & Graduates hub lists internships, working-student roles, and graduate entry programs across the pharmaceutical company.",
+    "about": "Boehringer Ingelheim is a global research-driven pharmaceutical company. Its Students & Graduates careers section is the entry point for internships, thesis and working-student positions, and graduate programs spanning R&D, IT, and business functions. Opportunities are open to current university and graduate students."
+  },
+  {
+    "id": "illumina",
+    "org": "Illumina",
+    "program": "Students & Graduates",
+    "url": "https://www.illumina.com/company/careers.html",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Illumina's official careers page points students and graduates to internships and current university-recruiting opportunities in genomics.",
+    "about": "Illumina is a genomics-technology company working to expand access to genomic sequencing. Its careers page features an Internships section and a 'Looking for internship opportunities?' link to current student opportunities via a university-recruiting portal. Roles span technology, science, engineering, and sales."
+  },
+  {
+    "id": "thermo-fisher-scientific",
+    "org": "Thermo Fisher Scientific",
+    "program": "Students & New Grads (Early Career)",
+    "url": "https://jobs.thermofisher.com/global/en/c/students-internships-jobs",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Thermo Fisher Scientific's Students & New Grads category lists internships and early-career roles for students and recent graduates.",
+    "about": "Thermo Fisher Scientific is a global provider of scientific instruments, reagents, and lab services. Its official careers hub includes a Students & New Grads job category covering internships, co-ops, and entry-level roles across R&D, IT, finance, and other functions. Positions target current students and recent graduates."
+  },
+  {
+    "id": "agilent-technologies",
+    "org": "Agilent Technologies",
+    "program": "Graduates & Students",
+    "url": "https://careers.agilent.com/graduates-students",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid internships (3-12 months)",
+    "summary": "Agilent's Graduates & Students page describes paid 3-12 month internships and a Graduate Hire Program for recent Bachelors, Masters, and PhD graduates.",
+    "about": "Agilent Technologies is a global laboratory and analytical technology company. Its Graduates & Students page offers paid internships lasting three to twelve months with mentorship and leadership exposure, plus a Graduate Hire Program for candidates who completed a Bachelors, Masters, or PhD within 24 months of their start date. Hiring runs year-round rather than on a fixed campus cycle."
+  },
+  {
+    "id": "abbott",
+    "org": "Abbott",
+    "program": "Early Careers (Students & Internships)",
+    "url": "https://www.jobs.abbott/us/en/early-careers",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Abbott's Early Careers page describes high school STEM internships, university and MBA internships, co-ops, and apprenticeships in health science.",
+    "about": "Abbott is a global healthcare company spanning diagnostics, medical devices, nutrition, and pharmaceuticals. Its Early Careers page details High School STEM Internships, University Internships, Research Park Internships (University of Illinois and Ohio State), MBA Internships, Co-ops, and Apprenticeships. Abbott's internship program has been ranked #1 globally in health sciences by external surveys."
+  },
+  {
+    "id": "stryker",
+    "org": "Stryker",
+    "program": "Students and Graduates",
+    "url": "https://careers.stryker.com/students-and-graduates",
+    "industries": [
+      "healthcare",
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Stryker's Students and Graduates page offers paid 12-week US summer internships plus rotational graduate programs in engineering and finance.",
+    "about": "Stryker is a global medical technology company. In North America it offers paid 12-week summer internships and rotational programs in Finance/Accounting and Engineering for recent graduates, alongside internships and graduate roles in other regions. The program has earned Top 100 Internship recognitions."
+  },
+  {
+    "id": "boston-scientific",
+    "org": "Boston Scientific",
+    "program": "Students & Recent Grads",
+    "url": "https://jobs.bostonscientific.com/students-and-recent-grads",
+    "industries": [
+      "healthcare",
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Boston Scientific's official students and recent grads page directs early-career candidates to its current job search for internships and entry-level roles.",
+    "about": "Boston Scientific is a global medical device company. Its students and recent grads page on the official careers domain is a landing page that routes candidates to the company's current Search Jobs platform (Eightfold). It targets students and recent graduates seeking internships and early-career positions."
+  },
+  {
+    "id": "edwards-lifesciences",
+    "org": "Edwards Lifesciences",
+    "program": "University Student & Graduate Programs",
+    "url": "https://www.edwards.com/careers",
+    "industries": [
+      "healthcare",
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Irvine",
+        "state": "CA",
+        "lat": 33.6846,
+        "lng": -117.8265
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Edwards Lifesciences' careers page features University Student & Graduate Programs, including internships and graduate pathways in the US.",
+    "about": "Edwards Lifesciences is a global structural heart innovation company headquartered in Irvine, California. Its careers page includes University Student & Graduate Programs for early-career professionals, with internship and graduate roles listed across multiple countries including the United States. Functions span Clinical Affairs, Engineering & Technology, IT, Manufacturing, Marketing, and Regulatory Affairs."
+  },
+  {
+    "id": "intuitive-surgical",
+    "org": "Intuitive Surgical",
+    "program": "Students & New Grads",
+    "url": "https://www.intuitive.com/en-us/about-us/careers/students-and-new-grads",
+    "industries": [
+      "healthcare",
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Intuitive Surgical's Students & New Grads careers page is the entry point for internships and early-career roles in robotic-assisted surgery.",
+    "about": "Intuitive Surgical is the maker of the da Vinci robotic-assisted surgical systems. Its Students & New Grads careers section is the official landing point for internships and new-graduate opportunities across engineering, science, and technology. The page targets current college and graduate students and recent graduates."
+  },
+  {
+    "id": "ge-healthcare",
+    "org": "GE HealthCare",
+    "program": "Early Careers (Students & Graduates)",
+    "url": "https://careers.gehealthcare.com/global/en/students-graduates",
+    "industries": [
+      "healthcare",
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GE HealthCare's students and graduates page describes internships, co-ops, apprenticeships, and structured development programs for early-career candidates.",
+    "about": "GE HealthCare is a global medical technology, pharmaceutical diagnostics, and digital solutions company. Its early careers page offers internships and co-ops, apprenticeships, entry-level roles, and structured development programs across engineering, IT, and finance. Opportunities target current students and recent graduates."
+  },
+  {
+    "id": "ginkgo-bioworks",
+    "org": "Ginkgo Bioworks",
+    "program": "Internships",
+    "url": "https://job-boards.greenhouse.io/ginkgobioworks",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Ginkgo Bioworks' official Greenhouse job board lists current internships, including software and automation-scientist intern roles.",
+    "about": "Ginkgo Bioworks is a synthetic-biology company headquartered in Boston, Massachusetts that engineers cells for customers across industries. Its official careers destination is a Greenhouse-hosted job board that currently lists intern positions such as Software Intern and Automation Scientist Intern. Roles are based in locations including Boston, Massachusetts and Emeryville, California."
+  },
+  {
+    "id": "mayo-clinic",
+    "org": "Mayo Clinic",
+    "program": "Summer Undergraduate Research Fellowship (SURF)",
+    "url": "https://college.mayo.edu/academics/biomedical-research-training/summer-undergraduate-research-fellowship-surf",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Rochester",
+        "state": "MN",
+        "lat": 46.3,
+        "lng": -94.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend provided",
+    "deadlineNote": "Applications open Nov 1 and are due in early February (Feb 3 for the following summer)",
+    "summary": "Mayo Clinic's 10-week summer biomedical research fellowship pairing undergraduates with faculty mentors across multiple campuses.",
+    "about": "SURF is a 10-week Summer Undergraduate Research Fellowship offered through Mayo Clinic Graduate School of Biomedical Sciences, admitting about 180 undergraduates each year across its three campuses. Students conduct mentored research in areas such as immunology and neuroscience and receive a stipend. Applications typically open November 1 and close in early February."
+  },
+  {
+    "id": "memorial-sloan-kettering-cancer-center",
+    "org": "Memorial Sloan Kettering Cancer Center",
+    "program": "Summer Scientific Undergraduate Programs (SURP)",
+    "url": "https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend provided",
+    "summary": "MSK's umbrella of summer research programs offering college students mentored biomedical research in New York City.",
+    "about": "Memorial Sloan Kettering's Summer Scientific Undergraduate Programs comprise several discipline-specific research experiences for college students, including Chemical Biology, Computational Biology, Engineering and Imaging, Immunology, Mechanistic Biology, and the QSURE quantitative sciences program. Participants complete mentored research with MSK investigators. Stipends are provided; details vary by individual program."
+  },
+  {
+    "id": "st-jude-children-s-research-hospital",
+    "org": "St. Jude Children's Research Hospital",
+    "program": "Pediatric Oncology Education (POE)",
+    "url": "https://www.stjude.org/education-training/research-training/undergraduate/poe.html",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Memphis",
+        "state": "TN",
+        "lat": 35.9,
+        "lng": -86.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend equivalent to $600/week; free group housing for out-of-town participants",
+    "summary": "Funded 10-11 week predoctoral research internship at St. Jude for students pursuing careers in cancer and biomedical research.",
+    "about": "The Pediatric Oncology Education program offers funded predoctoral internships (11 weeks; 10 for medical students) in laboratory or clinical cancer research at St. Jude in Memphis. It is open to undergraduate, graduate, medical, and pharmacy students who are U.S. citizens or permanent residents with a minimum 3.4 GPA and prior research experience. Participants receive a stipend equivalent to $600/week plus free group housing for those from outside Memphis."
+  },
+  {
+    "id": "broad-institute-of-mit-and-harvard",
+    "org": "Broad Institute of MIT and Harvard",
+    "program": "Broad Summer Research Program (BSRP)",
+    "url": "https://www.broadinstitute.org/bsrp",
+    "industries": [
+      "science",
+      "healthcare",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "state": "MA",
+        "lat": 42.3736,
+        "lng": -71.1097
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend provided",
+    "summary": "Broad Institute's summer research program giving undergraduates from underrepresented backgrounds mentored genomics and biomedical research experience.",
+    "about": "The Broad Summer Research Program (BSRP) is a mentored summer research experience at the Broad Institute in Cambridge, MA, focused on genomics and biomedical science. It targets undergraduates from backgrounds underrepresented in the sciences and provides a stipend. Participants work in Broad labs and take part in professional development and scientific enrichment activities.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "dana-farber-cancer-institute",
+    "org": "Dana-Farber Cancer Institute",
+    "program": "CURE Summer Research Program",
+    "url": "https://www.dfhcc.harvard.edu/research/cancer-disparities/students/student-overview",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend provided (paid training)",
+    "summary": "DF/HCC's Continuing Umbrella of Research Experiences (CURE) offers high school and college students paid mentored cancer research aimed at diversifying the research workforce.",
+    "about": "The CURE (Continuing Umbrella of Research Experiences) program, run by Dana-Farber/Harvard Cancer Center, provides cancer research training to high school and undergraduate students from populations underrepresented in the sciences. Offerings include a three-year YES for CURE track, an 8-12 week summer-only experience, and a 1-2 year post-baccalaureate program. It emphasizes workforce equity and offers paid research training.",
+    "equityTags": [
+      "students-of-color",
+      "low-income"
+    ]
+  },
+  {
+    "id": "cleveland-clinic",
+    "org": "Cleveland Clinic",
+    "program": "Lerner Research Institute Undergraduate & High School Research Programs",
+    "url": "https://www.lerner.ccf.org/education/undergraduate-high-school-programs",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cleveland",
+        "state": "OH",
+        "lat": 40.4,
+        "lng": -82.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend provided",
+    "summary": "Lerner Research Institute's undergraduate and high school research programs offering hands-on mentored biomedical lab experience in Cleveland.",
+    "about": "Cleveland Clinic's Lerner Research Institute offers undergraduate and high school students hands-on laboratory research experience to explore biomedical science careers. Students work in institute labs learning research techniques and scientific methodology. Program-specific eligibility, duration, and stipend details are provided on the linked overview and application pages."
+  },
+  {
+    "id": "van-andel-institute",
+    "org": "Van Andel Institute",
+    "program": "Undergraduate Research Fellowship (Research Internships)",
+    "url": "https://www.vai.org/graduate-school/research-internships",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Grand Rapids",
+        "state": "MI",
+        "lat": 44.3,
+        "lng": -85.6
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$16.00 per hour, plus transportation/parking support",
+    "summary": "Van Andel Institute's paid 10-11 week summer research internships for undergraduates and recent high school graduates in Grand Rapids.",
+    "about": "Van Andel Institute hosts 30-35 research interns each year in 10-11 week full-time summer sessions. The Undergraduate Student Research Fellowship is open to enrolled college students in science/research majors with a minimum 3.0 GPA, and a separate High School Graduate Research Program serves recent Grand Rapids-area high school graduates. Interns are paid $16.00 per hour and complete a mentored research project culminating in a final presentation."
+  },
+  {
+    "id": "baylor-college-of-medicine",
+    "org": "Baylor College of Medicine",
+    "program": "SMART Summer Undergraduate Research Program",
+    "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/smart-program",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Approximately $5,400 for nine weeks (may include housing/travel allocation)",
+    "summary": "Baylor's nine-week paid summer research program giving undergraduates mentored biomedical research experience in Houston.",
+    "about": "The SMART (Summer Medical and Research Training) Program at Baylor College of Medicine is a nine-week paid summer research experience open to undergraduates from all majors, including non-science majors with relevant interest. Students conduct mentored biomedical research and take part in seminars and career-development activities, with designated housing available. Participants receive roughly $5,400 for the program."
+  },
+  {
+    "id": "university-of-texas-md-anderson-cancer-center",
+    "org": "University of Texas MD Anderson Cancer Center",
+    "program": "CATALYST Summer Training Programs (Summer Research Programs)",
+    "url": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs.html",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,200 stipend for the 10-week program (prorated at $18/hour for shorter participation)",
+    "summary": "MD Anderson's CATALYST umbrella of 21 summer programs offering students mentored cancer research in Houston.",
+    "about": "MD Anderson's CATALYST Summer Training Programs are an umbrella of 21 summer research programs for students interested in advanced degrees or careers in cancer research, organized by educational stage. The 10-week experience (roughly June to August) pairs trainees with faculty mentors for basic, translational, clinical, or cancer-prevention research and includes a bootcamp, professional development, and a poster symposium. Participants receive a $7,200 stipend, prorated at $18/hour for shorter terms."
+  },
+  {
+    "id": "cincinnati-children-s-hospital-medical-center",
+    "org": "Cincinnati Children's Hospital Medical Center",
+    "program": "Summer Undergraduate Research Fellowship (SURF)",
+    "url": "https://www.cincinnatichildrens.org/education/research/surf",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cincinnati",
+        "state": "OH",
+        "lat": 39.1031,
+        "lng": -84.512
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Salary of $13 per hour (40 hours/week)",
+    "summary": "Cincinnati Children's 10-week paid summer fellowship pairing undergraduates with biomedical research mentors.",
+    "about": "The Summer Undergraduate Research Fellowship (SURF) at Cincinnati Children's is a 10-week, in-person program starting in late May for undergraduates exploring biomedical science careers. Students work full-time with one of 700+ faculty mentors on clinical, translational, or basic research and take part in workshops, a scientific writing class, an ethics seminar, and a closing poster session. Participants are paid $13 per hour; applications typically open in November and close February 1."
+  },
+  {
+    "id": "novartis",
+    "org": "Novartis",
+    "program": "Students & Graduates (US Internships)",
+    "url": "https://www.novartis.com/careers/career-search",
+    "industries": [
+      "healthcare",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Novartis career portal for searching and applying to roles, including US internship and early-career programs for students and graduates.",
+    "about": "Novartis is a global pharmaceutical company whose careers portal lets candidates search openings by function, division, and location, including the United States. Its early-careers offerings include US Biomedical Research internship programs and the Community Exploration and Learning Lab (CELL), alongside dedicated Students and Graduates pages. Internships are paid and offered across research and business functions."
+  },
+  {
+    "id": "harry-s-truman-scholarship-foundation",
+    "org": "Harry S. Truman Scholarship Foundation",
+    "program": "Truman Scholarship",
+    "url": "https://www.truman.gov",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Up to $30,000 for graduate study",
+    "deadlineNote": "Campus deadlines fall/winter; national deadline early February",
+    "summary": "The Truman Scholarship supports college juniors committed to public service leadership with funding for graduate study.",
+    "about": "The Harry S. Truman Scholarship Foundation is the federal memorial to President Harry S. Truman and awards merit-based scholarships to college juniors planning careers in public service. Scholars receive funding toward graduate or professional study along with leadership training and career support. In 2026 the Foundation selected 55 scholars from 48 institutions."
+  },
+  {
+    "id": "charles-b-rangel-international-affairs-program",
+    "org": "Charles B. Rangel International Affairs Program",
+    "program": "Rangel Graduate Fellowship & Summer Enrichment Program",
+    "url": "https://rangelprogram.org",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Full tuition, stipend, and internship funding",
+    "summary": "The Rangel Program prepares outstanding candidates for U.S. Foreign Service careers through a graduate fellowship and an undergraduate summer enrichment program.",
+    "about": "The Charles B. Rangel International Affairs Program is a U.S. State Department program administered with Howard University to attract and prepare people for careers as Foreign Service diplomats. It offers a merit- and need-based Graduate Fellowship funding graduate study, stipends, and internships, plus a six-week Summer Enrichment Program for undergraduates. The 2026 application cycle has been postponed pending updates from the Department of State.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "thomas-r-pickering-foreign-affairs-fellowship",
+    "org": "Thomas R. Pickering Foreign Affairs Fellowship",
+    "program": "Pickering Fellowship",
+    "url": "https://pickeringfellowship.org",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Tuition, stipend, and internship support",
+    "summary": "The Pickering Fellowship funds graduate study and internships to prepare students for U.S. Foreign Service careers.",
+    "about": "The Thomas R. Pickering Foreign Affairs Fellowship, funded by the U.S. Department of State, prepares undergraduate and graduate students for careers in the Foreign Service. Fellows receive funding toward tuition and stipends, along with mentoring and internships in Washington, D.C. and at a U.S. embassy overseas. The program seeks to promote a diverse foreign affairs workforce.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "boren-awards-national-security-education-progr",
+    "org": "Boren Awards (National Security Education Program)",
+    "program": "Boren Scholarships & Fellowships",
+    "url": "https://www.borenawards.org",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Up to $25,000 for language study abroad",
+    "summary": "Boren Awards fund U.S. students to study critical languages and world regions abroad in exchange for a federal service commitment.",
+    "about": "The Boren Awards, administered under the National Security Education Program, provide undergraduate scholarships and graduate fellowships for study of languages and regions critical to U.S. national security, such as Africa, Asia, Eurasia, Latin America, and the Middle East. Awards provide up to $25,000 for longer-term study abroad. Recipients commit to a one-year federal service requirement after graduation."
+  },
+  {
+    "id": "morris-k-udall-foundation",
+    "org": "Morris K. Udall Foundation",
+    "program": "Udall Undergraduate Scholarship",
+    "url": "https://www.udall.gov/OurPrograms/Scholarship/Scholarship.aspx",
+    "industries": [
+      "environment",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Up to $7,500",
+    "summary": "The Udall Undergraduate Scholarship recognizes college students pursuing careers in the environment, Tribal public policy, or Native health care.",
+    "about": "The Morris K. Udall Foundation awards competitive scholarships to college sophomores and juniors committed to careers related to the environment, or to Tribal public policy and Native American health care. For 2026 the Foundation anticipates awarding up to 65 scholarships of $7,500 each. Applicants first compete through their home institutions' internal nomination process."
+  },
+  {
+    "id": "congressional-hispanic-caucus-institute",
+    "org": "Congressional Hispanic Caucus Institute",
+    "program": "CHCI Congressional Internship & Fellowship Programs",
+    "url": "https://chci.org/programs",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid stipend and housing",
+    "summary": "CHCI offers paid congressional internships and public policy fellowships in Washington, D.C. for Latino students and recent graduates.",
+    "about": "The Congressional Hispanic Caucus Institute runs leadership development programs including a paid Congressional Internship (10-12 weeks) for undergraduates and recent graduates, and paid nine-month Public Policy and Postgraduate Fellowships. Interns are placed in congressional offices, and fellows gain hands-on public policy experience. Programs support students committed to Latino community leadership and public service.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "congressional-black-caucus-foundation",
+    "org": "Congressional Black Caucus Foundation",
+    "program": "CBCF Internship & Fellowship Programs",
+    "url": "https://www.cbcfinc.org/programs/fellowships",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Fellowship salary of $60,000-$70,000 plus benefits and interim housing",
+    "summary": "CBCF offers paid year-long congressional and social justice fellowships in Washington, D.C., along with internships and scholarships.",
+    "about": "The Congressional Black Caucus Foundation provides scholarships, internships, and fellowships to develop leaders in public policy. Its 12-month fellowships place participants as legislative aides in CBC member offices and congressional committees, or in research roles with its Center for Policy Analysis and Research. Fellows receive a salary of $60,000-$70,000 plus benefits and interim housing.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "congressional-hunger-center",
+    "org": "Congressional Hunger Center",
+    "program": "Bill Emerson National Hunger Fellows",
+    "url": "https://www.hungercenter.org/fellowships/emerson",
+    "industries": [
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Living stipend, benefits, and end-of-service award",
+    "summary": "The Bill Emerson National Hunger Fellows program places emerging leaders in field and policy placements to fight hunger and poverty.",
+    "about": "The Congressional Hunger Center's Bill Emerson National Hunger Fellowship is a year-long program combining a field placement with a community-based anti-hunger organization and a policy placement in Washington, D.C. Fellows receive a living stipend, benefits, and an end-of-service award. The program develops leaders committed to ending hunger and poverty in the United States."
+  },
+  {
+    "id": "panetta-institute-for-public-policy",
+    "org": "Panetta Institute for Public Policy",
+    "program": "Congressional Internship Program",
+    "url": "https://www.panettainstitute.org/programs/study-with-us",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seaside",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Program costs covered plus twenty units of academic credit",
+    "summary": "The Panetta Institute Congressional Internship Program sends nominated California students to work in Capitol Hill offices after an intensive orientation.",
+    "about": "The Panetta Institute for Public Policy, based in Seaside, California, runs a Congressional Internship Program in which students nominated by California State University campuses and partner colleges intern in the Washington, D.C. offices of U.S. Representatives. Students first receive an intensive orientation course at the Institute before their placement. Program costs are covered by the Institute and interns earn twenty units of academic credit."
+  },
+  {
+    "id": "brookings-institution",
+    "org": "Brookings Institution",
+    "program": "Internship Program",
+    "url": "https://www.brookings.edu/careers/internships",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Brookings offers paid internships to degree-seeking students across its research and business programs in Washington, D.C.",
+    "about": "The Brookings Institution, a nonpartisan public policy research organization, provides paid internships to nearly 150 degree-seeking students each year. Internships run in spring, summer, and fall across research programs such as Governance Studies, Economic Studies, and Foreign Policy, as well as business units. The program is open primarily to current students and occasionally recent graduates."
+  },
+  {
+    "id": "cato-institute",
+    "org": "Cato Institute",
+    "program": "Internships",
+    "url": "https://www.cato.org/students",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Cato Institute offers internships for students interested in public policy and libertarian ideas in Washington, D.C.",
+    "about": "The Cato Institute is a libertarian public policy research organization that offers internships to undergraduate and graduate students and recent graduates. Interns work alongside policy scholars and take part in professional development programming in Washington, D.C. Internships are offered across multiple terms during the year."
+  },
+  {
+    "id": "american-enterprise-institute",
+    "org": "American Enterprise Institute",
+    "program": "Internship Program",
+    "url": "https://www.aei.org/careers/internships",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The American Enterprise Institute offers more than 40 internships across research and business teams in Washington, D.C.",
+    "about": "The American Enterprise Institute, a public policy think tank, has run an internship program since the 1970s, offering more than 40 positions in fall, spring, and summer. Interns support economic, foreign, defense, social, constitutional, and domestic policy research as well as business functions, with scholar-led programming and mentoring. A minimum 3.0 GPA is required, though most successful candidates have at least a 3.5."
+  },
+  {
+    "id": "center-for-strategic-and-international-studies",
+    "org": "Center for Strategic and International Studies (CSIS)",
+    "program": "Internship Program",
+    "url": "https://www.csis.org/about/careers-culture/internships",
+    "industries": [
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "CSIS offers internships for undergraduate, graduate, and recent-graduate students in international policy research in Washington, D.C.",
+    "about": "The Center for Strategic and International Studies is a bipartisan foreign policy think tank that offers internships in fall, spring, and summer for undergraduates, graduate students, and recent graduates. Interns support research, writing, and project development and participate in the Abshire-Inamori Leadership Academy, the in-house leadership development program. Full- and part-time options are available."
+  },
+  {
+    "id": "council-on-foreign-relations",
+    "org": "Council on Foreign Relations",
+    "program": "Internships",
+    "url": "https://www.cfr.org/career-opportunities/internships",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid (competitive hourly wage)",
+    "summary": "Paid part-time internships at the Council on Foreign Relations for undergraduate and graduate students interested in foreign policy.",
+    "about": "The Council on Foreign Relations offers the Blavatnik and Robina Franklin Williams internship programs in its New York and Washington, DC offices, with remote options available. Interns receive a competitive hourly wage and commit roughly 14-18 hours per week. Applicants must have completed at least four semesters of college coursework and have the legal right to work in the US."
+  },
+  {
+    "id": "carnegie-endowment-for-international-peace",
+    "org": "Carnegie Endowment for International Peace",
+    "program": "James C. Gaither Junior Fellows Program",
+    "url": "https://carnegieendowment.org/about/employment",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid full-time one-year position",
+    "summary": "A paid one-year fellowship placing graduating seniors and recent graduates as research assistants to Carnegie's senior scholars.",
+    "about": "The James C. Gaither Junior Fellows Program offers roughly fifteen one-year positions each year to uniquely qualified graduating seniors and individuals who graduated in the past academic year. Fellows work full-time supporting Carnegie's senior researchers in Washington, DC. The competitive program is described on the Endowment's official employment page."
+  },
+  {
+    "id": "urban-institute",
+    "org": "Urban Institute",
+    "program": "Internship Program",
+    "url": "https://www.urban.org/about/careers",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "A structured 10-week summer internship program at the Urban Institute where students work alongside policy researchers.",
+    "about": "The Urban Institute runs a 10-week summer internship program that includes orientation, mentoring, workshops, networking, and end-of-summer lightning talks. Interns collaborate with experts across the organization in Washington, DC, with remote work options available. Open positions are posted on the Institute's careers site."
+  },
+  {
+    "id": "the-aspen-institute",
+    "org": "The Aspen Institute",
+    "program": "Internships",
+    "url": "https://www.aspeninstitute.org/careers",
+    "industries": [
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Internship opportunities across the Aspen Institute's nonprofit policy and leadership programs.",
+    "about": "The Aspen Institute lists internship and career openings on its official careers page across its various policy programs and offices. Positions support the Institute's work convening leaders on public policy and society. Specific role details are posted on the applicant portal."
+  },
+  {
+    "id": "bipartisan-policy-center",
+    "org": "Bipartisan Policy Center",
+    "program": "Internship Program",
+    "url": "https://bipartisanpolicy.org/internships",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid ($3,000 fall/spring; $6,000 summer)",
+    "summary": "Paid part-time (fall/spring) and full-time (summer) policy internships at the Bipartisan Policy Center in Washington, DC.",
+    "about": "The Bipartisan Policy Center offers internships supporting research, events, and writing across areas such as economics, energy, governance, health, and housing. Fall and spring interns work part-time for a $3,000 stipend, and summer interns work full-time for $6,000 over ten weeks at the DC office. It is open to enrolled undergraduates (rising juniors and above), graduate students, and recent graduates, with applications reviewed on a rolling basis."
+  },
+  {
+    "id": "center-for-american-progress",
+    "org": "Center for American Progress",
+    "program": "Internship Program",
+    "url": "https://www.americanprogress.org/internships",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Internships at the Center for American Progress supporting progressive policy research and advocacy in Washington, DC.",
+    "about": "The Center for American Progress offers internships across its policy and operational teams, with program content produced in part by former interns. Positions are based in Washington, DC with hybrid arrangements. Openings are posted on the organization's official internships page."
+  },
+  {
+    "id": "the-heritage-foundation",
+    "org": "The Heritage Foundation",
+    "program": "Young Leaders Program (Internships)",
+    "url": "https://www.heritage.org/young-leaders-program",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Heritage Foundation's Young Leaders Program offers paid internships in conservative public policy in Washington, DC.",
+    "about": "The Young Leaders Program places undergraduate and graduate students in internships across The Heritage Foundation's research and operational departments. Interns receive professional development, lectures, and networking in Washington, DC. Applications are submitted through the Heritage careers portal."
+  },
+  {
+    "id": "public-policy-and-international-affairs-progra",
+    "org": "Public Policy and International Affairs Program (PPIA)",
+    "program": "Junior Summer Institute",
+    "url": "https://www.ppiaprogram.org",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full funding and stipend",
+    "summary": "A fully funded summer program preparing students from underrepresented backgrounds for graduate study and public service careers.",
+    "about": "The PPIA Junior Summer Institute is a six-week program hosted at Harvard, Princeton, or the University of Michigan that builds academic and policy skills for graduate study. It targets emerging leaders committed to broadening participation in public service, including students of color and first-generation and low-income students. Participants receive full funding toward the program.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "american-political-science-association",
+    "org": "American Political Science Association",
+    "program": "Ralph Bunche Summer Institute",
+    "url": "https://www.apsanet.org/rbsi",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Durham",
+        "state": "NC",
+        "lat": 35.994,
+        "lng": -78.8986
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend, travel, room and board",
+    "deadlineNote": "2026 applications are closed; recipients announced February 2026.",
+    "summary": "A five-week summer research institute introducing undergraduates from underrepresented backgrounds to doctoral study in political science.",
+    "about": "The Ralph Bunche Summer Institute, hosted at Duke University, provides rising seniors with two for-credit courses in quantitative analysis and race and American politics, plus research methods and graduate school preparation. Participants receive a stipend along with travel, room, and board, and top students may present at the APSA Annual Meeting. The 2026 program runs May 24 to June 25 and admits a competitive national cohort.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "techcongress",
+    "org": "TechCongress",
+    "program": "Congressional Innovation Fellowship",
+    "url": "https://www.techcongress.io/congressional-innovation-fellowship",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "graduate",
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "~$6,500/month stipend (~$78,000 annualized) plus benefits",
+    "summary": "A paid roughly 10-month fellowship placing early-career technologists in Congressional offices to work on technology policy.",
+    "about": "The Congressional Innovation Fellowship places early-career technologists (two to six years of experience, including recent or upcoming Master's and PhD graduates) with Members of Congress or Congressional committees in Washington, DC. Fellows receive about $6,500 per month (roughly $78,000 annualized) plus health, relocation, and travel allowances. US citizenship is required and DACA recipients are eligible and encouraged to apply."
+  },
+  {
+    "id": "u-s-digital-corps",
+    "org": "U.S. Digital Corps",
+    "program": "Digital Corps Fellowship",
+    "url": "https://digitalcorps.gsa.gov",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid two-year federal fellowship",
+    "summary": "A paid two-year federal fellowship for early-career technologists working on high-impact government technology projects.",
+    "about": "The U.S. Digital Corps is a two-year fellowship run by the GSA for early-career technologists in fields such as software engineering, data science, design, product, and cybersecurity. Fellows work on high-impact projects across federal agencies in areas including public health, customer experience, and artificial intelligence. Fellows receive a competitive salary and benefits."
+  },
+  {
+    "id": "american-association-for-the-advancement-of-sc",
+    "org": "American Association for the Advancement of Science (AAAS)",
+    "program": "Science & Technology Policy Fellowships",
+    "url": "https://www.aaas.org/programs/science-technology-policy-fellowships",
+    "industries": [
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Annual stipend $80,000+",
+    "summary": "Year-long fellowships placing scientists and engineers in federal offices to inform science and technology policy.",
+    "about": "The AAAS Science & Technology Policy Fellowships give accomplished scientists and engineers hands-on experience in federal policymaking, primarily in Washington, DC. Applicants typically must hold a doctoral-level degree (or a master's in engineering with qualifying experience). Fellows receive an annual stipend and benefits."
+  },
+  {
+    "id": "the-national-academies-of-sciences-engineering",
+    "org": "The National Academies of Sciences, Engineering, and Medicine",
+    "program": "Christine Mirzayan Science & Technology Policy Graduate Fellowship",
+    "url": "https://www.nationalacademies.org/our-work/the-christine-mirzayan-science--technology-policy-graduate-fellowship-program",
+    "industries": [
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend provided",
+    "summary": "A 12-week fellowship at the National Academies in Washington, DC introducing early-career scholars to science and technology policy.",
+    "about": "The Christine Mirzayan Science & Technology Policy Graduate Fellowship is a full-time, 12-week program at the National Academies of Sciences, Engineering, and Medicine in Washington, DC. Fellows are paired with a mentor within a National Academies unit and gain hands-on experience in how science and engineering inform national policy. Launched in 1997, the active program serves early-career individuals from around the world."
+  },
+  {
+    "id": "herbert-scoville-jr-peace-fellowship",
+    "org": "Herbert Scoville Jr. Peace Fellowship",
+    "program": "Scoville Peace Fellowship",
+    "url": "https://scoville.org",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Salary/stipend plus professional development fund, benefits, and relocation support",
+    "summary": "A full-time Washington, DC fellowship placing recent college and graduate alumni with think tanks and advocacy groups working on peace and security.",
+    "about": "The Herbert Scoville Jr. Peace Fellowship brings recent college and graduate school alumni to Washington, DC to work with participating public-interest organizations on international peace and security issues. Fellows receive a salary and benefits along with mentoring, networking, and structured programming including monthly check-ins and meetings with DC leaders. The program is active, with the fall 2026 cycle referenced on the official site."
+  },
+  {
+    "id": "james-madison-memorial-fellowship-foundation",
+    "org": "James Madison Memorial Fellowship Foundation",
+    "program": "James Madison Graduate Fellowship",
+    "url": "https://www.jamesmadison.gov",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $24,000 toward a graduate degree",
+    "summary": "A graduate fellowship awarding up to $24,000 to aspiring secondary-school teachers of the American Constitution.",
+    "about": "The James Madison Memorial Fellowship Foundation awards James Madison Graduate Fellowships of up to $24,000 to individuals who intend to become outstanding secondary-school teachers of the U.S. Constitution. The award funds master's-level study in constitutional history and government, with applicants competing within their state of residence. The 2027 application is currently live on the official site."
+  },
+  {
+    "id": "international-city-county-management-associati",
+    "org": "International City/County Management Association (ICMA)",
+    "program": "Local Government Management Fellowship",
+    "url": "https://icma.org/local-government-management-fellowship",
+    "industries": [
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid full-time management-track position (salary set by host city) plus ICMA membership and conference benefits",
+    "summary": "A paid, full-time management-track fellowship placing recent MPA/MPP graduates in local government under senior-leader mentorship.",
+    "about": "ICMA's Local Government Management Fellowship places recent master's graduates (from NASPAA-accredited public administration/policy programs, with no prior local government management experience) into full-time, entry-level management-track roles in host communities nationwide. Fellows serve roughly 12 months under the direct mentorship of a city or county manager, with salary and benefits determined by the host. The 2027-2028 cohort application window opens September 2026."
+  },
+  {
+    "id": "harvard-institute-of-politics",
+    "org": "Harvard Institute of Politics",
+    "program": "Director's Internship Program",
+    "url": "https://iop.harvard.edu/internships-and-careers/directors-internship",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$6,000 stipend for 350 hours (international placements funded at country-level rates of at least $6,000)",
+    "summary": "A funded summer internship placing Harvard undergraduates with leading organizations and public officials in the US and abroad.",
+    "about": "The Harvard Institute of Politics Director's Internship Program, running since 1995, connects Harvard undergraduates with prominent organizations and elected officials in Boston, DC, nationally, and globally. Selected students receive a $6,000 stipend for at least 350 hours over roughly eight weeks between early June and mid-August, with placements that may be in-person, remote, or hybrid. It is open to all students regardless of citizenship status, and the 2026 application cycle is active."
+  },
+  {
+    "id": "sorensen-institute-for-civic-leadership-uva-we",
+    "org": "Sorensen Institute for Civic Leadership (UVA Weldon Cooper Center)",
+    "program": "High School & College Leaders Programs",
+    "url": "https://www.coopercenter.org/sorensen/programs",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Charlottesville",
+        "state": "VA",
+        "lat": 38.0293,
+        "lng": -78.4767
+      }
+    ],
+    "cost": "paid",
+    "summary": "Virginia-focused civic leadership programs for high school students and undergraduates run through UVA's Weldon Cooper Center.",
+    "about": "The Sorensen Institute for Civic Leadership, part of the University of Virginia's Weldon Cooper Center, offers leadership programs including the High School Leaders Program for Virginia high schoolers and the Virginia College Civic Leaders Program for enrolled undergraduates. Participants engage with public policy challenges facing the Commonwealth and prepare for civic leadership. The programs are Virginia-focused; the College Civic Leaders Program is next offered in July 2027."
+  },
+  {
+    "id": "the-borgen-project",
+    "org": "The Borgen Project",
+    "program": "Political Affairs & Advocacy Internships",
+    "url": "https://borgenproject.org/internships",
+    "industries": [
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "volunteering"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Remote and in-office nonprofit internships, including a Political internship focused on advocacy for global poverty reduction.",
+    "about": "The Borgen Project, an anti-poverty advocacy nonprofit, offers internships across roles including a Political internship that involves recruiting volunteers in targeted congressional districts and representing the organization at events. Internships require about 360 hours and are available as both remote/telecommuting and Seattle-based in-office positions. The organization's internship program is active with current in-office and remote categories."
+  },
+  {
+    "id": "u-s-office-of-personnel-management",
+    "org": "U.S. Office of Personnel Management",
+    "program": "Presidential Management Fellows (PMF) Program",
+    "url": "https://www.pmf.gov",
+    "industries": [
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid federal appointment with benefits",
+    "summary": "The federal government's flagship leadership development program for recent advanced-degree graduates entering public service.",
+    "about": "The Presidential Management Fellows Program, administered by the U.S. Office of Personnel Management, is the federal government's premier leadership development program for individuals with recent graduate or professional degrees. Fellows receive a paid federal appointment with benefits and structured leadership development. pmf.gov is OPM's official program domain."
+  },
+  {
+    "id": "teach-for-america",
+    "org": "Teach For America",
+    "program": "Teach For America Corps",
+    "url": "https://www.teachforamerica.org/join-tfa",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Full first-year teacher salary and benefits",
+    "deadlineNote": "Rolling deadlines August through March each cycle",
+    "summary": "A two-year paid teaching placement in under-resourced schools open to graduates of all majors and backgrounds.",
+    "about": "Teach For America recruits college graduates and professionals of all majors to serve as full-time salaried teachers in more than 40 locations nationwide for a two-year commitment. Corps members must have a bachelor's degree by training start, at least a 2.5 GPA, and U.S. work authorization; they receive full teacher salary and benefits. The 2027 corps applications open in August with multiple deadlines running through March."
+  },
+  {
+    "id": "city-year",
+    "org": "City Year",
+    "program": "AmeriCorps Service Program",
+    "url": "https://www.cityyear.org/join-city-year",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps living stipend plus Segal AmeriCorps Education Award",
+    "summary": "A full-time AmeriCorps service year placing young adults as student success coaches in under-resourced schools.",
+    "about": "City Year is a national AmeriCorps program in which young adults serve full time in schools as student success coaches, supporting students with tutoring, mentoring, and social-emotional development. Members receive a living stipend and a Segal AmeriCorps Education Award. City Year is a long-established, active national nonprofit operating in cities across the US."
+  },
+  {
+    "id": "public-allies",
+    "org": "Public Allies",
+    "program": "Apprenticeship (AmeriCorps)",
+    "url": "https://www.publicallies.org/apprenticeship",
+    "industries": [
+      "nonprofit",
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps living stipend plus education award",
+    "summary": "A 10-month, full-time paid AmeriCorps apprenticeship developing emerging community leaders through nonprofit placements and training.",
+    "about": "Public Allies, operating since 1994, runs a 10-month full-time AmeriCorps apprenticeship that combines a paid nonprofit placement with leadership training, cohort-based community, and mentoring. Allies serve organizations addressing needs such as youth development, education, workforce development, and community health. The program is active per the official page (2026 copyright and open application links)."
+  },
+  {
+    "id": "avodah",
+    "org": "Avodah",
+    "program": "Jewish Service Corps",
+    "url": "https://avodah.net/jewish-service-corps",
+    "industries": [
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Furnished housing, monthly living stipend, health insurance, exit stipend, and travel allowance",
+    "summary": "A year-long service corps placing young adults with social justice organizations while living in a communal Jewish community.",
+    "about": "Avodah's Jewish Service Corps is a year-long immersive program for emerging changemakers ages 21-26 who serve at justice-focused organizations in Chicago, New Orleans, New York City, and Washington, DC. Corps members live communally and receive furnished housing, a monthly living stipend, health insurance, an exit stipend, and a travel allowance. The 2027-2028 application opens November 2026."
+  },
+  {
+    "id": "repair-the-world",
+    "org": "Repair the World",
+    "program": "Service Corps",
+    "url": "https://werepair.org/get-involved/service-corps",
+    "industries": [
+      "nonprofit",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "volunteering",
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend up to $1,000 per cohort, paid in installments; Economic Access Fund available",
+    "summary": "An immersive part-time service corps that pairs regular volunteering with a local nonprofit alongside cohort-based Jewish learning and reflection.",
+    "about": "Repair the World's Service Corps places participants ages 18-39 in staffed cohorts running fall, spring, and summer, each lasting at least six weeks with service at least once a week. It operates in hub communities including Atlanta, Bay Area, Boston, Chicago, Detroit, Los Angeles, Miami, New York, and Orange County. Participants receive a stipend of up to $1,000 depending on the cohort and are treated as independent contractors."
+  },
+  {
+    "id": "human-rights-watch",
+    "org": "Human Rights Watch",
+    "program": "Internships",
+    "url": "https://www.hrw.org/jobs",
+    "industries": [
+      "law",
+      "nonprofit",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Varies by role; some paid, some for academic credit",
+    "summary": "Human Rights Watch posts internship and volunteer openings across its research, advocacy, and operations teams through its official jobs board.",
+    "about": "Human Rights Watch is an international nonprofit that investigates and reports on human rights abuses worldwide. Its careers/jobs page lists open roles filterable by type, including an Internship/Volunteer category alongside professional and fellowship positions. Specific internship terms, pay, and credit arrangements vary by the individual posting."
+  },
+  {
+    "id": "american-civil-liberties-union-aclu",
+    "org": "American Civil Liberties Union (ACLU)",
+    "program": "Internship Program",
+    "url": "https://www.aclu.org/careers/internships",
+    "industries": [
+      "law",
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend for a full-time 10-week or part-time 12-week internship (may be offset by outside funding)",
+    "summary": "The ACLU offers year-round remote and hybrid internships across its national office departments with a stipend, mentorship, and hands-on civil liberties work.",
+    "about": "The ACLU's national office runs internships giving participants exposure to major civil liberties and civil rights issues, hands-on departmental experience, and staff mentorship. Openings span Legal, Communications, Development, Digital/Tech & Analytics, Advocacy, and Operations, plus state affiliate positions. Interns receive a stipend for a full-time 10-week or part-time 12-week term."
+  },
+  {
+    "id": "southern-poverty-law-center",
+    "org": "Southern Poverty Law Center",
+    "program": "Student Programs (Internships & Externships)",
+    "url": "https://www.splcenter.org/careers/student-programs",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid internships; externships offered for academic credit",
+    "summary": "SPLC's student programs offer paid legal and programmatic/operations internships plus academic-credit externships across summer, fall, and spring cycles.",
+    "about": "The Southern Poverty Law Center offers legal internships for enrolled law students, programmatic and operations internships for students in two-year, four-year, or post-graduate programs, and externships for academic credit. Programs run in summer, fall, and spring cycles, with remote opportunities available and technology and stipends provided for summer. Internships are paid while externships are offered for credit, and enrollment in a post-secondary program is required."
+  },
+  {
+    "id": "innocence-project",
+    "org": "Innocence Project",
+    "program": "Internships",
+    "url": "https://innocenceproject.org/internships",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Innocence Project posts internship opportunities supporting its work to exonerate the wrongfully convicted and reform the criminal legal system.",
+    "about": "The Innocence Project is a New York-based nonprofit that works to free innocent people through DNA and other evidence and to reform the criminal legal system. Its internships page hosts current openings, though no positions are listed at this time. The organization is headquartered at 40 Worth Street in New York, NY."
+  },
+  {
+    "id": "equal-justice-initiative",
+    "org": "Equal Justice Initiative",
+    "program": "Internships & Fellowships",
+    "url": "https://eji.org/employment",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Montgomery",
+        "state": "AL",
+        "lat": 32.8,
+        "lng": -86.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Equal Justice Initiative posts legal fellowships and other roles supporting its criminal justice reform and racial justice work in Montgomery, Alabama.",
+    "about": "The Equal Justice Initiative is a nationally recognized nonprofit legal reform organization based in Montgomery, Alabama. Its employment page lists openings including a Legal Fellowship, litigation and staff attorney roles, and program positions. Individual listings carry the details on eligibility and terms."
+  },
+  {
+    "id": "hispanic-association-of-colleges-and-universit",
+    "org": "Hispanic Association of Colleges and Universities (HACU)",
+    "program": "National Internship Program (HNIP)",
+    "url": "https://hacu.net/programs/national-internship-program",
+    "industries": [
+      "government",
+      "business",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid federal internship",
+    "deadlineNote": "Priority deadline November 20, 2026 (Spring 2027); applications reviewed until positions filled",
+    "summary": "HACU's National Internship Program has connected college students to paid federal internships across government agencies since 1992.",
+    "about": "The HACU National Internship Program (HNIP) places college students in paid federal internships offered by term, including Summer and Spring cycles. Interns gain insight into government processes and connections with public-service mentors. The program has run since 1992 and reviews applications until all positions are filled.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "international-rescue-committee",
+    "org": "International Rescue Committee",
+    "program": "Internships",
+    "url": "https://careers.rescue.org",
+    "industries": [
+      "nonprofit",
+      "healthcare",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies by role; many offered for academic credit",
+    "summary": "The International Rescue Committee posts internships supporting its humanitarian relief and refugee resettlement work through its official careers portal.",
+    "about": "The International Rescue Committee is a global humanitarian nonprofit responding to crises and helping people rebuild their lives, including refugee resettlement across the United States. Its official careers portal at rescue.org hosts open internship and job listings. Internship terms and whether roles are paid or for academic credit vary by posting."
+  },
+  {
+    "id": "unicef-usa",
+    "org": "UNICEF USA",
+    "program": "Internships",
+    "url": "https://www.unicefusa.org/about/careers",
+    "industries": [
+      "nonprofit",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies; some for academic credit",
+    "summary": "UNICEF USA posts internships and career opportunities supporting its fundraising and advocacy work for children worldwide.",
+    "about": "UNICEF USA is the U.S. nonprofit that supports UNICEF's global work for children through fundraising, advocacy, and education. Its careers page hosts job and internship openings. Internship terms and whether positions carry pay or academic credit vary by role."
+  },
+  {
+    "id": "the-trevor-project",
+    "org": "The Trevor Project",
+    "program": "Internships & Volunteer Programs",
+    "url": "https://www.thetrevorproject.org/careers",
+    "industries": [
+      "healthcare",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "volunteering"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid internships; volunteer counselor roles are unpaid",
+    "summary": "The Trevor Project offers remote career opportunities and internships plus volunteer crisis-counselor roles supporting LGBTQ+ youth suicide prevention.",
+    "about": "The Trevor Project is a national nonprofit focused on suicide prevention and crisis intervention for LGBTQ+ young people. Its careers page notes many remote career opportunities and internships across areas such as crisis services, advocacy, clinical operations, and community affairs. It also recruits and trains volunteers to serve as counselors supporting youth 24/7."
+  },
+  {
+    "id": "human-rights-campaign",
+    "org": "Human Rights Campaign",
+    "program": "Internships",
+    "url": "https://www.hrc.org/careers/internships",
+    "industries": [
+      "law",
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "In-person (Washington, DC) and remote (anywhere in the U.S.); 12 weeks (spring/fall), 10 weeks (summer)",
+    "summary": "The Human Rights Campaign offers in-person and remote internships across its political, fundraising, communications, and community programs advancing LGBTQ+ equality.",
+    "about": "The Human Rights Campaign, the nation's largest LGBTQ+ equality organization, runs an internship program spanning political work, fundraising, communications, and community programs. It accepts in-person interns at its Washington, DC office and remote interns from anywhere in the United States, running 12 weeks in spring and fall and 10 weeks in summer. Eligible applicants include enrolled undergraduates with at least three completed semesters, graduate students, and recent graduates who are U.S. persons over 18."
+  },
+  {
+    "id": "vera-institute-of-justice",
+    "org": "Vera Institute of Justice",
+    "program": "Internships",
+    "url": "https://www.vera.org/careers",
+    "industries": [
+      "law",
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Vera Institute of Justice offers paid internships across its justice-reform work, posted seasonally through its careers job board.",
+    "about": "Vera is a national nonprofit that works to end mass incarceration and reform criminal-legal and immigration systems. Internships support research and program teams and have historically been remote or hybrid. Openings are listed on Vera's careers page and applied to through its Greenhouse job board."
+  },
+  {
+    "id": "unidosus",
+    "org": "UnidosUS",
+    "program": "Internships & Fellowships",
+    "url": "https://unidosus.org/about/jobs",
+    "industries": [
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "UnidosUS posts paid internships and fellowships supporting its Latino civil rights and advocacy work through its careers page.",
+    "about": "UnidosUS is the largest Latino nonprofit advocacy organization in the United States, headquartered in Washington, DC. It offers paid internship and fellowship opportunities across its research, policy, and program teams. Positions are posted on the organization's official careers openings page.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "partners-in-health",
+    "org": "Partners In Health",
+    "program": "Employment & Internships",
+    "url": "https://www.pih.org/pages/employment",
+    "industries": [
+      "healthcare",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Partners In Health lists employment and internship opportunities supporting its global health equity work through its official employment page.",
+    "about": "Partners In Health is a Boston-based nonprofit that delivers health care in underserved communities worldwide. Its employment page is the central hub where all open positions, including internships, are posted to its employment site. The page also carries a warning about recruitment scams falsely using the PIH name."
+  },
+  {
+    "id": "roosevelt-institute",
+    "org": "Roosevelt Institute",
+    "program": "Undergraduate Fellowships (Roosevelt Network)",
+    "url": "https://rooseveltinstitute.org/roosevelt-network/undergraduate-fellowships",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$2,000-$3,000 stipend",
+    "deadlineNote": "2026 cohort admission decisions no later than March 16, 2026",
+    "summary": "The Roosevelt Network offers three stipended undergraduate fellowships developing students into progressive policy leaders.",
+    "about": "The Roosevelt Institute's network runs the Forge Fellowship ($2,000, for high school seniors/college first-years), the Roosevelt in Washington Fellowship ($3,000, for first-years/sophomores), and the Emerging Fellowship ($3,000, for sophomores/juniors). Programs are primarily virtual, with one including an in-person summer component, and focus on policy skills, career exploration, and published research. All are supported by intergenerational mentorship."
+  },
+  {
+    "id": "corella-and-bertram-f-bonner-foundation",
+    "org": "Corella & Bertram F. Bonner Foundation",
+    "program": "Bonner Scholars / Bonner Leaders Program",
+    "url": "https://www.bonner.org/the-bonner-program",
+    "industries": [
+      "nonprofit",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Service-based scholarship/stipend",
+    "summary": "The Bonner Program is a four-year service-based scholarship engaging low-income college students in sustained community service.",
+    "about": "Run by the Corella & Bertram F. Bonner Foundation, the Bonner Scholars/Bonner Leaders Program is a four-year developmental model that combines a service-based scholarship with community engagement. It primarily serves diverse, predominantly low-income students and supports more than 3,000 students annually. The program operates across a consortium of 65 colleges and universities in 24 states.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "campus-compact",
+    "org": "Campus Compact",
+    "program": "Newman Civic Fellowship",
+    "url": "https://compact.org/programs/newman-civic-fellowship",
+    "industries": [
+      "nonprofit",
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Training, networking, and learning opportunities (nominated by campus president)",
+    "summary": "The Newman Civic Fellowship recognizes community-committed college students nominated by their campus presidents for a year of training and networking.",
+    "about": "Campus Compact's Newman Civic Fellowship is a one-year program for students at member campuses who demonstrate a commitment to creating positive community change. Fellows are nominated by their college or university president or chancellor. The fellowship provides training, resources, and networking opportunities rather than a monetary award."
+  },
+  {
+    "id": "donald-m-payne-international-development-fello",
+    "org": "Donald M. Payne International Development Fellowship Program",
+    "program": "Payne Fellowship",
+    "url": "https://www.paynefellows.org",
+    "industries": [
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Up to ~$52,000/yr for graduate study plus paid summer internships",
+    "summary": "The Payne Fellowship funds graduate study and internships for students pursuing USAID Foreign Service careers in international development.",
+    "about": "The Donald M. Payne International Development Fellowship, funded by USAID and administered on behalf of the U.S. government, prepares students for careers in the USAID Foreign Service. It provides funding toward a two-year graduate degree along with paid internships on Capitol Hill and at a USAID mission overseas. Fellows commit to service in the USAID Foreign Service upon completing the program."
+  },
+  {
+    "id": "jumpstart",
+    "org": "Jumpstart",
+    "program": "AmeriCorps Early Education Corps",
+    "url": "https://www.jstart.org/join-us",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "volunteering",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Hourly wage plus Segal AmeriCorps Education Award",
+    "summary": "Jumpstart places college students as AmeriCorps members supporting early childhood education in under-resourced preschools.",
+    "about": "Jumpstart is a national early education nonprofit that recruits and trains college students to work with preschool children in low-income communities. Members serve as AmeriCorps participants delivering language, literacy, and social-emotional programming in classrooms. Participants earn an hourly wage and are eligible for a Segal AmeriCorps Education Award."
+  },
+  {
+    "id": "the-new-york-times",
+    "org": "The New York Times",
+    "program": "Newsroom Internships & Fellowships",
+    "url": "https://www.nytco.com/careers",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Newsroom internship applications typically open in the fall for the following summer",
+    "summary": "The New York Times offers paid newsroom internships and fellowships in journalism through its official careers site.",
+    "about": "The New York Times Company hires paid interns and fellows across its newsroom in reporting, editing, visuals, and related roles, primarily based in New York. Programs are competitive and geared toward college students, recent graduates, and early-career journalists. Opportunities are posted on the company's official careers site, with newsroom internship cycles generally opening in the fall for the following summer."
+  },
+  {
+    "id": "the-washington-post",
+    "org": "The Washington Post",
+    "program": "Summer Internship Program",
+    "url": "https://www.washingtonpost.com/careers",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Applications generally due in the fall for the following summer",
+    "summary": "The Washington Post runs a paid summer internship program for aspiring journalists across its newsroom and other departments.",
+    "about": "The Washington Post's Summer Internship Program places college students, recent graduates, and graduate students in paid roles across reporting, editing, multimedia, and business functions, primarily in Washington, DC. Internships are competitive and full-time during the summer. Applications are posted on the Post's official careers page and generally close in the fall preceding the summer term."
+  },
+  {
+    "id": "pbs-newshour",
+    "org": "PBS NewsHour",
+    "program": "Student Reporting Labs",
+    "url": "https://studentreportinglabs.org",
+    "industries": [
+      "media",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "PBS News Student Reporting Labs is a free youth journalism program teaching students video reporting and storytelling through schools and a summer academy.",
+    "about": "Student Reporting Labs (SRL) is PBS NewsHour's youth media initiative that trains young people in local reporting and video production so their voices are included in news coverage. It offers a free curriculum and learning platform (StoryMaker), student reporting featured on the NewsHour, an intensive Summer Academy, a podcast, and a Teacher Ambassador Fellows program. It operates through a national network of schools and classrooms with mentorship from educators and journalists."
+  },
+  {
+    "id": "propublica",
+    "org": "ProPublica",
+    "program": "Internships & Emerging Reporters Program",
+    "url": "https://www.propublica.org/jobs",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "ProPublica offers paid investigative journalism internships, fellowships, and the diversity-focused Emerging Reporters Program, posted through its jobs page.",
+    "about": "ProPublica is a nonprofit investigative newsroom that hires paid interns and fellows across reporting, data, and multimedia roles, with positions listed on its official jobs page and Greenhouse board. Its Emerging Reporters Program supports college students from underrepresented backgrounds pursuing investigative journalism. Roles are competitive and offered on remote or hybrid arrangements depending on the position and cycle."
+  },
+  {
+    "id": "the-associated-press",
+    "org": "The Associated Press",
+    "program": "AP Internships",
+    "url": "https://www.ap.org/about/careers/internships",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Associated Press offers paid internships for college and graduate students across news, multimedia, and business roles.",
+    "about": "The Associated Press is a global not-for-profit news cooperative. Its internship program places students in AP newsrooms and business units for hands-on journalism and media experience. Positions are paid."
+  },
+  {
+    "id": "the-texas-tribune",
+    "org": "The Texas Tribune",
+    "program": "Editorial Fellowships & Internships",
+    "url": "https://www.texastribune.org/about/jobs",
+    "industries": [
+      "media",
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Texas Tribune offers paid editorial fellowships and internships for students at its nonprofit newsroom in Austin.",
+    "about": "The Texas Tribune is a nonprofit, nonpartisan digital news organization covering Texas politics and public policy. It hires editorial fellows and interns to work alongside its reporting staff. Positions are paid and based in Austin."
+  },
+  {
+    "id": "politico",
+    "org": "POLITICO",
+    "program": "POLITICO Journalism Institute & Internships",
+    "url": "https://www.politico.com/careers",
+    "industries": [
+      "media",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Arlington",
+        "state": "VA",
+        "lat": 38.8799,
+        "lng": -77.1068
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "POLITICO offers paid internships and the POLITICO Journalism Institute training program for college students interested in political journalism.",
+    "about": "POLITICO is a news organization covering politics and policy in Washington and beyond. It runs paid internships and the POLITICO Journalism Institute, an intensive training program for aspiring journalists. Programs are based at its Arlington, VA headquarters."
+  },
+  {
+    "id": "national-association-of-black-journalists",
+    "org": "National Association of Black Journalists",
+    "program": "Scholarships & Internships",
+    "url": "https://nabj.org",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "The National Association of Black Journalists offers scholarships and internship opportunities for Black college and graduate journalism students.",
+    "about": "NABJ is the largest organization of journalists of color in the United States. It provides scholarships, internships, and career development for Black students pursuing journalism. Awards and opportunities are offered nationally.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "national-association-of-hispanic-journalists",
+    "org": "National Association of Hispanic Journalists",
+    "program": "NAHJ Scholarships",
+    "url": "https://nahj.org",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "The National Association of Hispanic Journalists offers scholarships, student grants, and development programs for Latino journalism students.",
+    "about": "NAHJ is dedicated to the recognition and professional advancement of Hispanic journalists. It offers student scholarships, grants, internships, and hands-on programs such as The Latino Reporter and the Student Summit. Opportunities are offered nationally.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "online-news-association",
+    "org": "Online News Association",
+    "program": "MJ Bear Fellowship & HBCU Digital Media Fellowship",
+    "url": "https://journalists.org/programs",
+    "industries": [
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Online News Association runs digital journalism fellowships including the MJ Bear Fellowship and the HBCU Digital Media Fellowship.",
+    "about": "The Online News Association is a professional membership organization for digital journalists. Its programs include the MJ Bear Fellowship for journalists under 30 and the HBCU Digital Media Fellowship bringing students to its annual conference. Its former Student Newsroom program ran from 2003 to 2023."
+  },
+  {
+    "id": "society-of-professional-journalists",
+    "org": "Society of Professional Journalists",
+    "program": "SPJ Scholarships",
+    "url": "https://www.spj.org/scholarships.asp",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "The Society of Professional Journalists offers a range of scholarships for undergraduate and graduate journalism students.",
+    "about": "SPJ is one of the largest broad-based journalism organizations in the United States. It awards scholarships to undergraduate and graduate students pursuing careers in journalism. Awards are offered nationally and vary by program."
+  },
+  {
+    "id": "investigative-reporters-and-editors",
+    "org": "Investigative Reporters and Editors",
+    "program": "Fellowships & Scholarships",
+    "url": "https://www.ire.org/training/fellowships-and-scholarships",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Conference travel/registration support",
+    "summary": "Investigative Reporters and Editors offers scholarships and fellowships covering conference attendance for journalism students and early-career journalists.",
+    "about": "IRE is a nonprofit dedicated to improving the quality of investigative reporting. Its scholarships and fellowships cover registration and travel to the IRE, NICAR, and AccessFest conferences, plus a one-year membership. Several awards target students, women, and journalists of color."
+  },
+  {
+    "id": "pulitzer-center",
+    "org": "Pulitzer Center",
+    "program": "Campus Consortium Reporting Fellowships",
+    "url": "https://pulitzercenter.org/campus-consortium",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Reporting grant/stipend",
+    "summary": "The Pulitzer Center's Campus Consortium offers reporting fellowships and grants for students at member colleges and universities to pursue underreported global stories.",
+    "about": "The Pulitzer Center is a nonprofit that supports in-depth journalism on underreported global issues. Through its Campus Consortium, students at partner institutions receive reporting fellowships and grants to travel and report. Awards are provided as reporting stipends/grants."
+  },
+  {
+    "id": "report-for-america",
+    "org": "Report for America",
+    "program": "Corps Member Program",
+    "url": "https://www.reportforamerica.org",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid (salary supported)",
+    "deadlineNote": "Corps applications typically close in the fall/winter",
+    "summary": "Report for America is a national fellowship that places emerging journalists into local newsrooms to cover under-reported communities and topics.",
+    "about": "Report for America is a national service program that recruits and places journalists into local newsrooms across the country. Corps members cover critical, under-reported beats for one to two years. The program pays roughly half of a corps member's salary, with the host newsroom covering the rest."
+  },
+  {
+    "id": "the-groundtruth-project-now-report-local",
+    "org": "The GroundTruth Project (now Report Local)",
+    "program": "Report for the World / Fellowships",
+    "url": "https://reportlocal.org",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Report Local (formerly The GroundTruth Project) supports local journalism worldwide through fellowship programs including Report for the World and Report for America.",
+    "about": "The GroundTruth Project rebranded as Report Local in 2025 and refocused on scaling its programs rather than editorial content. It is the home of Report for America and Report for the World, which place journalists into newsrooms. It has supported nearly 1,000 journalists across hundreds of newsrooms globally."
+  },
+  {
+    "id": "scripps-howard-fund",
+    "org": "Scripps Howard Fund",
+    "program": "Journalism Fellowships, Internships & Grants",
+    "url": "https://scripps.com/foundation/journalism",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship",
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship/grant awards vary",
+    "summary": "The Scripps Howard Fund runs journalism education programs including fellowships, internships, and grants connecting students to newsrooms.",
+    "about": "The Scripps Howard Fund supports nationally recognized journalism education programs that bridge the classroom and the newsroom. Offerings include fellowships and internships, the Howard Centers for Investigative Journalism, university partnerships, and journalism grants. It gave more than $11 million in charitable gifts in 2025."
+  },
+  {
+    "id": "the-atlantic",
+    "org": "The Atlantic",
+    "program": "Editorial Internships & Fellowships",
+    "url": "https://www.theatlantic.com/careers",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Atlantic offers paid editorial internships and fellowships for students and early-career journalists.",
+    "about": "The Atlantic is a long-standing American magazine and multiplatform publisher covering news, politics, culture, and ideas. It hires editorial interns and fellows to work with its editorial teams. Positions are paid."
+  },
+  {
+    "id": "mother-jones",
+    "org": "Mother Jones",
+    "program": "Editorial Fellowships",
+    "url": "https://www.motherjones.com/about/fellowships",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Mother Jones offers paid editorial fellowships for early-career journalists to work alongside its investigative newsroom.",
+    "about": "Mother Jones is a nonprofit investigative news organization covering politics, the environment, and social justice. Its editorial fellowship program places emerging journalists in reporting, research, and production roles. Fellowships are paid and typically full-time with hybrid work arrangements."
+  },
+  {
+    "id": "high-country-news",
+    "org": "High Country News",
+    "program": "Editorial Internships & Fellowships",
+    "url": "https://www.hcn.org/about/internships",
+    "industries": [
+      "media",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "High Country News offers paid editorial internships and fellowships covering the American West and its environment.",
+    "about": "High Country News is a nonprofit news magazine covering the Western United States, its environment, public lands, and communities. It runs paid editorial internships and fellowships for emerging journalists in reporting, editing, and multimedia roles. Positions are generally remote."
+  },
+  {
+    "id": "c-span",
+    "org": "C-SPAN",
+    "program": "C-SPAN Internships",
+    "url": "https://www.c-span.org/about/internships",
+    "industries": [
+      "media",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "C-SPAN offers paid internships in Washington, D.C. for college students interested in public affairs media and production.",
+    "about": "C-SPAN is a public affairs network covering U.S. government proceedings and policy. Its internship program places college students in editorial, production, digital, and marketing roles at its Washington, D.C. headquarters. Internships are paid and offered across academic terms."
+  },
+  {
+    "id": "craig-newmark-graduate-school-of-journalism-at",
+    "org": "Craig Newmark Graduate School of Journalism at CUNY",
+    "program": "Graduate Journalism Programs",
+    "url": "https://www.journalism.cuny.edu",
+    "industries": [
+      "media",
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "summary": "The Craig Newmark Graduate School of Journalism at CUNY offers master's degree programs in journalism in New York City.",
+    "about": "The Craig Newmark Graduate School of Journalism is CUNY's public graduate journalism school in New York City. It offers Master of Arts and Master of Science journalism degrees along with specialized programs and certificates. As a public institution, it emphasizes affordable, hands-on professional training."
+  },
+  {
+    "id": "nlgja-the-association-of-lgbtq-journalists",
+    "org": "NLGJA: The Association of LGBTQ+ Journalists",
+    "program": "Scholarships & Student Programs",
+    "url": "https://www.nlgja.org",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "NLGJA: The Association of LGBTQ+ Journalists offers scholarships, student programs, and mentorship for aspiring journalists.",
+    "about": "NLGJA: The Association of LGBTQ+ Journalists, founded in 1990, is a professional association supporting LGBTQ+ journalists and fair coverage. It offers student scholarships (including the Leroy F. Aarons and Kay Longcope scholarships), a student conference, the CONNECT training project, and a mentorship program. It also hosts a national convention and professional development resources."
+  },
+  {
+    "id": "indigenous-journalists-association",
+    "org": "Indigenous Journalists Association",
+    "program": "Scholarships & Student Programs",
+    "url": "https://indigenousjournalists.org",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "The Indigenous Journalists Association offers scholarships and student programs supporting Native and Indigenous journalists.",
+    "about": "The Indigenous Journalists Association (formerly the Native American Journalists Association) supports and empowers Indigenous journalists and advocates for fair coverage of Indigenous communities. It offers student scholarships, a national conference, and student and mentorship programming. It provides professional development for emerging Native journalists.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "the-19th",
+    "org": "The 19th",
+    "program": "Fellowships & Internships",
+    "url": "https://19thnews.org/careers",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The 19th offers paid fellowships and internships for emerging journalists covering gender, politics, and policy.",
+    "about": "The 19th is a nonprofit, nonpartisan newsroom reporting at the intersection of gender, politics, and policy. It offers paid fellowships and internships for early-career journalists across reporting and other newsroom functions. Positions are generally remote."
+  },
+  {
+    "id": "freedom-forum",
+    "org": "Freedom Forum",
+    "program": "Al Neuharth Free Spirit and Journalism Conference",
+    "url": "https://www.freedomforum.org/free-spirit",
+    "industries": [
+      "media",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "All-expenses-paid conference plus scholarship",
+    "summary": "The Al Neuharth Free Spirit and Journalism Conference is an all-expenses-paid Washington, D.C. program with a scholarship for graduating high school journalists.",
+    "about": "Run by the Freedom Forum, the Al Neuharth Free Spirit and Journalism Conference brings graduating high school students interested in journalism to Washington, D.C. for an all-expenses-paid conference. Selected students also receive a college scholarship. The program emphasizes First Amendment freedoms and careers in journalism."
+  },
+  {
+    "id": "radio-television-digital-news-association",
+    "org": "Radio Television Digital News Association",
+    "program": "RTDNA Scholarships",
+    "url": "https://www.rtdna.org",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "The Radio Television Digital News Association offers scholarships and fellowships for students pursuing broadcast and digital journalism.",
+    "about": "RTDNA, founded in 1946, is a professional organization for broadcast and digital journalists, known for the Edward R. Murrow Awards. Through its foundation it offers student scholarships and fellowships supporting future broadcast and digital journalists. It also promotes journalism ethics, safety, and professional development."
+  },
+  {
+    "id": "national-press-photographers-association",
+    "org": "National Press Photographers Association",
+    "program": "NPPA Student Scholarships",
+    "url": "https://nppa.org",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards vary",
+    "summary": "The National Press Photographers Association offers student scholarships for aspiring photojournalists and visual journalists.",
+    "about": "The National Press Photographers Association is a professional association for visual journalists, including photographers and videographers. It offers student scholarships and grants supporting emerging photojournalists, along with training, advocacy, and professional resources. Its membership includes students, freelancers, and staff visual journalists."
+  },
+  {
+    "id": "solutions-journalism-network",
+    "org": "Solutions Journalism Network",
+    "program": "Student & Educator Programs",
+    "url": "https://www.solutionsjournalism.org",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Solutions Journalism Network offers student media challenges, educator academies, and fellowships focused on rigorous reporting about responses to social problems.",
+    "about": "Solutions Journalism Network, founded in 2013, trains journalists and educators to report rigorously on responses to social problems. Its student and educator offerings include the Student Media Challenge, Educators Academies, University Hubs, and classroom teaching resources, alongside fellowship programs. It is a nonprofit with a broad network of trained journalists and educators."
+  },
+  {
+    "id": "nyu-school-of-professional-studies",
+    "org": "NYU School of Professional Studies",
+    "program": "Summer Publishing Institute",
+    "url": "https://www.sps.nyu.edu/certificates/summer-publishing-institute.html",
+    "industries": [
+      "media",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition $4,900 for 3 graduate credits",
+    "deadlineNote": "Priority application Feb 13, 2026; final application March 13, 2026 (dates recur annually)",
+    "summary": "A four-week summer intensive introducing book publishing and digital/magazine media, taught by working professionals with graduate credit.",
+    "about": "The NYU SPS Summer Publishing Institute has run for over 45 years and covers editorial, marketing, sales, and audience development through hands-on projects and 150+ guest speakers. It is held onsite full-time on the NYU campus in New York City and awards three graduate credits, with the option to matriculate into the MS in Publishing with advanced standing. It is designed for recent college graduates, rising college seniors, and young professionals starting in the field."
+  },
+  {
+    "id": "the-marshall-project",
+    "org": "The Marshall Project",
+    "program": "Fellowships & Internships",
+    "url": "https://www.themarshallproject.org/jobs",
+    "industries": [
+      "media",
+      "nonprofit",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications open seasonally; no spring, winter, or fall internships offered",
+    "summary": "The nonprofit criminal-justice newsroom's careers page listing paid internships and fellowship opportunities in journalism.",
+    "about": "The Marshall Project is a nonprofit newsroom covering the U.S. criminal justice system. Its jobs page posts summer internships and staff roles, and it is an equal opportunity employer that explicitly welcomes applicants who have been previously incarcerated. Fellowship and internship availability varies by season."
+  },
+  {
+    "id": "the-center-for-investigative-reporting-reveal",
+    "org": "The Center for Investigative Reporting (Reveal)",
+    "program": "Internships & Fellowships",
+    "url": "https://revealnews.org",
+    "industries": [
+      "media",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The nonprofit investigative newsroom Reveal, which offers paid internships and investigative fellowships in journalism.",
+    "about": "The Center for Investigative Reporting produces the Reveal brand of investigative journalism and podcasting. It merged with Mother Jones in 2024 and continues to publish under the Reveal name. It has historically offered paid internships and fellowships for emerging journalists."
+  },
+  {
+    "id": "american-film-institute",
+    "org": "American Film Institute",
+    "program": "AFI Conservatory",
+    "url": "https://conservatory.afi.com",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based MFA program; merit- and need-based scholarships available",
+    "deadlineNote": "Applications open September 4, 2026",
+    "summary": "A tuition-based MFA graduate film program training Fellows across six filmmaking disciplines in Los Angeles.",
+    "about": "The AFI Conservatory offers a Master of Fine Arts in Cinematography, Directing, Editing, Producing, Production Design, and Screenwriting. Fellows collectively produce up to 175 films a year at the Los Angeles campus, with James L. Brooks as Artistic Director. It is a graduate-level program that offers merit- and need-based scholarships."
+  },
+  {
+    "id": "sundance-institute",
+    "org": "Sundance Institute",
+    "program": "Sundance Institute Internships",
+    "url": "https://www.sundance.org/jobs",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "free",
+    "compensation": "Unpaid internships",
+    "summary": "The nonprofit's careers page listing unpaid internships and seasonal/festival roles supporting independent film and artists.",
+    "about": "Sundance Institute is a nonprofit supporting independent artists in film, theatre, and media. Its careers page lists year-round, seasonal/program, and festival positions plus internships, with staff working primarily hybrid across hubs in Los Angeles, Boulder, New York, and Salt Lake City. Internships are unpaid and do not require U.S. work authorization."
+  },
+  {
+    "id": "film-independent",
+    "org": "Film Independent",
+    "program": "Project Involve",
+    "url": "https://www.filmindependent.org/programs/project-involve",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Cash production grant; LAIKA Animation Track adds a cash stipend",
+    "summary": "A Los Angeles fellowship supporting emerging filmmakers from underrepresented communities with mentorship, production grants, and industry access.",
+    "about": "Project Involve is Film Independent's 30-plus-year diversity fellowship supporting emerging filmmakers from communities underrepresented in film and entertainment. Roughly 30 fellows per cohort work across writing, directing, producing, cinematography, editing, programming, animation, or executive tracks from January through October and must reside in Los Angeles. Fellows receive a cash production grant, and Film Independent membership is required.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "pixar-animation-studios",
+    "org": "Pixar Animation Studios",
+    "program": "Pixar Internships",
+    "url": "https://www.pixar.com/careers",
+    "industries": [
+      "arts",
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Emeryville",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The animation studio's careers page describing internships offering hands-on filmmaking experience for students and new graduates.",
+    "about": "Pixar Animation Studios is a Disney-owned computer animation studio based in Emeryville, California. Its careers page directs students and new graduates to a dedicated internships program offering hands-on filmmaking experience within its creative community. Open positions are posted through Pixar's Workday career site."
+  },
+  {
+    "id": "dreamworks-animation",
+    "org": "DreamWorks Animation",
+    "program": "DreamWorks Internship Program",
+    "url": "https://www.dreamworks.com/careers",
+    "industries": [
+      "arts",
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Glendale",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The animation studio's careers page describing its Internship Program and other early-career pathways in creative and technical roles.",
+    "about": "DreamWorks Animation is an animation studio based in Glendale, California. Its careers page describes four early-career programs: the Internship Program, Trainee Program, LAUNCH Fellowship Program, and Apprentice Program. Hiring spans creative and technical areas such as animation, story, lighting, effects, modeling, and production management."
+  },
+  {
+    "id": "industrial-light-and-magic",
+    "org": "Industrial Light & Magic",
+    "program": "ILM Internships",
+    "url": "https://www.ilm.com/careers",
+    "industries": [
+      "arts",
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; benefits vary by studio location",
+    "summary": "The Lucasfilm visual-effects company's careers page offering internships via its Jedi Academy Training Program.",
+    "about": "Industrial Light & Magic is Lucasfilm's visual-effects and animation company with studios in San Francisco, Vancouver, London, Mumbai, and Sydney. Its careers page covers roles from animators and editors to engineers and offers internships through the Jedi Academy Training Program. Job listings route to the Disney Careers portal, and benefits vary by studio location."
+  },
+  {
+    "id": "academy-of-motion-picture-arts-and-sciences",
+    "org": "Academy of Motion Picture Arts and Sciences",
+    "program": "Academy Gold Rising",
+    "url": "https://www.oscars.org/academy-gold-rising",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend plus mentorship",
+    "summary": "The Academy's paid internship and mentorship program connecting emerging talent with industry professionals.",
+    "about": "Academy Gold Rising is a diversity and inclusion initiative of the Academy of Motion Picture Arts and Sciences. It pairs interns with industry mentors and programming to build pathways into film and entertainment careers. Participants receive a stipend alongside mentorship."
+  },
+  {
+    "id": "television-academy-foundation",
+    "org": "Television Academy Foundation",
+    "program": "Television Academy Foundation Internship Program",
+    "url": "https://www.televisionacademy.com/foundation/internships",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "deadlineNote": "Offered in Spring, Summer, and Fall cycles",
+    "summary": "A 45-year-old program placing students in year-round experiential internships across the television and entertainment industry.",
+    "about": "The Television Academy Foundation Internship Program has run for 45 years, offering year-round experiential learning in Spring, Summer, and Fall. Interns are placed at studios, networks, and production companies with direct mentorship across scripted and unscripted tracks. Specialized tracks include the Bob Bennett Future Leaders, Dick Wolf Foster Youth Internship, and Getting Real: Unscripted programs."
+  },
+  {
+    "id": "the-one-club-for-creativity",
+    "org": "The One Club for Creativity",
+    "program": "One Club Education Programs",
+    "url": "https://www.oneclub.org/education",
+    "industries": [
+      "arts",
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The nonprofit advertising and design organization's education programs including student competitions, scholarships, and portfolio initiatives.",
+    "about": "The One Club for Creativity is a nonprofit supporting the global advertising and design community. Its education programs offer student competitions, scholarships, portfolio reviews, and creative development initiatives. Programs serve students and emerging creatives pursuing careers in advertising, design, and related fields."
+  },
+  {
+    "id": "american-advertising-federation",
+    "org": "American Advertising Federation",
+    "program": "Most Promising Multicultural Students",
+    "url": "https://www.aaf.org",
+    "industries": [
+      "arts",
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The AAF Most Promising Multicultural Students program recognizes top multicultural college seniors and connects them with advertising and media industry recruiters.",
+    "about": "Run by the American Advertising Federation, the Most Promising Multicultural Students (MPMS) program identifies high-achieving multicultural undergraduate students pursuing advertising, marketing, and communications careers. Selected students participate in a national recognition program that includes industry networking and recruitment events. It is free to selected participants.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "american-association-of-advertising-agencies-4",
+    "org": "American Association of Advertising Agencies (4A's)",
+    "program": "Multicultural Advertising Intern Program (MAIP)",
+    "url": "https://www.aaaa.org/4as-foundation/maip",
+    "industries": [
+      "arts",
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid fellowship",
+    "deadlineNote": "Applications typically open in fall",
+    "summary": "MAIP is the 4A's Foundation's paid fellowship that prepares historically underrepresented emerging talent for careers in advertising, marketing, media, and creative fields.",
+    "about": "The Multicultural Advertising Intern Program (MAIP), run by the 4A's Foundation, offers mentorship, training, and paid fellowship opportunities to students from historically underrepresented communities in advertising. Fellows receive industry mentorship and placement support. The program is national, with eligibility and deadline details provided through its FAQ.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "the-lagrant-foundation",
+    "org": "The LAGRANT Foundation",
+    "program": "TLF Scholarships",
+    "url": "https://www.lagrantfoundation.org",
+    "industries": [
+      "business",
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500-$10,000 awards",
+    "summary": "The LAGRANT Foundation awards scholarships to undergraduate and graduate students of color pursuing careers in advertising, marketing, and public relations.",
+    "about": "The LAGRANT Foundation (TLF) provides scholarships ranging from $2,500 to $10,000 to ethnic-minority students studying advertising, marketing, or public relations. In its most recent cycle it awarded $150,000 to 50 college and university students nationwide. Recipients also receive professional development and mentorship.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "adcolor",
+    "org": "ADCOLOR",
+    "program": "ADCOLOR FUTURES",
+    "url": "https://adcolor.org/futures",
+    "industries": [
+      "media",
+      "arts",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "ADCOLOR FUTURES is a professional development and mentorship program for emerging multicultural talent in the advertising, marketing, and media industries.",
+    "about": "FUTURES, run by the nonprofit ADCOLOR, supports early-career and student talent from underrepresented backgrounds through mentorship, leadership training, and networking in the creative and media industries. Participants typically engage with the annual ADCOLOR Conference and Awards. The program is national in scope.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "marcus-graham-project",
+    "org": "Marcus Graham Project",
+    "program": "iCR8 Boot Camp",
+    "url": "https://marcusgrahamproject.org",
+    "industries": [
+      "media",
+      "arts",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Dallas",
+        "state": "TX",
+        "lat": 32.7767,
+        "lng": -96.797
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "The Marcus Graham Project's iCR8 Boot Camp is a cohort-based program that develops underrepresented emerging talent for advertising, marketing, and media careers through a live pop-up agency experience.",
+    "about": "The Marcus Graham Project (MGP) is a Dallas-based nonprofit that runs the iCR8 Boot Camp, a 10-12 week immersive program where fellows operate a functioning pop-up agency and execute a full campaign for a real brand. The current boot camp is hosted in Los Angeles while MGP is headquartered in Dallas, TX, and it also runs shorter workshops in multiple cities. Fellows receive stipends.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "school-of-visual-arts",
+    "org": "School of Visual Arts",
+    "program": "SVA Pre-College & Summer Programs",
+    "url": "https://www.sva.edu/academics/pre-college",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "SVA's Pre-College program offers high school students immersive summer courses to explore art and design fields and build a portfolio.",
+    "about": "The School of Visual Arts (SVA) in New York offers a Pre-College program for high school students who want to enhance their creative skills, explore a specific art discipline, and develop a college portfolio. Courses are held in person in New York City. The programs are tuition-based."
+  },
+  {
+    "id": "parsons-school-of-design-the-new-school",
+    "org": "Parsons School of Design (The New School)",
+    "program": "Parsons Summer Intensive Studies",
+    "url": "https://www.newschool.edu/parsons/summer-programs",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "Parsons offers summer intensive art and design programs for high school, college, and adult learners, both online and on campus.",
+    "about": "Parsons School of Design at The New School runs summer programs spanning youth/pre-college through college and professional levels, in disciplines such as fashion, graphic design, fine arts, and animation. Programs are offered both online and on campus in New York and international locations. They are tuition-based and can help students build portfolios or earn college credit."
+  },
+  {
+    "id": "savannah-college-of-art-and-design",
+    "org": "Savannah College of Art and Design",
+    "program": "SCAD Summer Seminars",
+    "url": "https://www.scad.edu/academics/pre-college-and-early-college-programs",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Savannah",
+        "state": "GA",
+        "lat": 32.9,
+        "lng": -83.6
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "SCAD's Summer Seminars are pre-college programs where high school students explore art and design disciplines on SCAD's campuses.",
+    "about": "Savannah College of Art and Design (SCAD) offers pre-college and early-college summer programs, including Summer Seminars, that let high school students experience college-level art and design courses. Programs are held in person on SCAD campuses. They are tuition-based."
+  },
+  {
+    "id": "ringling-college-of-art-and-design",
+    "org": "Ringling College of Art and Design",
+    "program": "PreCollege Perspective",
+    "url": "https://www.ringling.edu/precollege",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Sarasota",
+        "state": "FL",
+        "lat": 27.3364,
+        "lng": -82.5307
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "Ringling College's PreCollege program is a residential summer experience where high school students earn college credit in art and design disciplines.",
+    "about": "Ringling College of Art and Design in Sarasota, FL offers a PreCollege summer program for high school students to take intensive, college-level courses in their chosen art and design major. Students live on campus and can earn college credit. The program is tuition-based."
+  },
+  {
+    "id": "artcenter-college-of-design",
+    "org": "ArtCenter College of Design",
+    "program": "ArtCenter for Teens / Summer",
+    "url": "https://www.artcenter.edu/pathways/artcenter-for-teens.html",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pasadena",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "ArtCenter for Teens offers art and design courses, including summer programs, for high school students at ArtCenter College of Design.",
+    "about": "ArtCenter College of Design in Pasadena, CA runs ArtCenter for Teens, including Saturday High and summer offerings, where high school students take college-level art and design courses. Classes are held in person on campus. The programs are tuition-based."
+  },
+  {
+    "id": "california-institute-of-the-arts",
+    "org": "California Institute of the Arts",
+    "program": "CalArts Extended Studies (Pre-College & Summer Intensives)",
+    "url": "https://calarts.edu/extended-studies",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Valencia",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "CalArts Extended Studies offers Pre-College and Summer Intensive art programs for high school students and other learners across disciplines like animation, film, and visual art.",
+    "about": "California Institute of the Arts (CalArts) offers Extended Studies programs, including Pre-College and Summer Intensives, spanning animation, film and video, game design, graphic design, and visual art. Programs run in the summer on campus in Valencia, CA, with some online options, and are tuition-based. CalArts separately runs the tuition-free Community Arts Partnership for LA-area youth."
+  },
+  {
+    "id": "pratt-institute",
+    "org": "Pratt Institute",
+    "program": "Pratt PreCollege",
+    "url": "https://www.pratt.edu/continuing-and-professional-studies/precollege",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Brooklyn",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "A summer pre-college program where high school students take college-level art and design classes taught by Pratt faculty and earn college credit.",
+    "about": "Pratt PreCollege offers courses mirroring undergraduate majors such as fine art, fashion, graphic design, architecture, animation, and creative writing. The flagship credit-bearing Intensive runs four weeks on the Brooklyn campus for students ages 15.5-18, with additional Explore, online, and workshop options for grades 9-12. Students build portfolios and receive a Pratt transcript; no prior experience is required."
+  },
+  {
+    "id": "otis-college-of-art-and-design",
+    "org": "Otis College of Art and Design",
+    "program": "Otis Summer of Art",
+    "url": "https://www.otis.edu/extension/youth-programs/summer-art",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "An immersive four-week pre-college program for high school students and young creatives to build portfolios and preview art-school life at Otis College.",
+    "about": "Summer of Art is a four-week studio-based pre-college experience for students ages 14.5 to 19, from beginners to experienced artists. Full-day participants can earn three transferable college credits while developing a portfolio. Residential housing is available at the Otis College Residence Hall in Los Angeles."
+  },
+  {
+    "id": "maryland-institute-college-of-art",
+    "org": "Maryland Institute College of Art",
+    "program": "MICA Pre-College",
+    "url": "https://www.mica.edu/academics/youth-and-teen-programs/programs-for-teens",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Baltimore",
+        "state": "MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "A summer intensive where teens study art and design with MICA faculty, build a college application portfolio, and can earn college credit.",
+    "about": "The MICA Pre-College Summer Intensive serves students ages 15-17 on MICA's Baltimore campus. Students can earn up to three college credits while working alongside faculty and visiting professionals. Related teen offerings include Pre-College Saturday & Summer Studios (grades 9-12) and the Art and Design College Accelerator Program."
+  },
+  {
+    "id": "berklee-college-of-music",
+    "org": "Berklee College of Music",
+    "program": "Berklee Summer Programs",
+    "url": "https://summer.berklee.edu",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "Summer programs at Berklee where teens and older students study contemporary music and performing arts with the college's faculty, on campus or online.",
+    "about": "Berklee Summer Programs span music performance, production, songwriting and composition, music business, and dance/theater. Programs are offered in Boston and Los Angeles as well as fully online, with minimum ages typically 14-15 and up. Online summer courses can earn college credit; many on-campus programs require no audition."
+  },
+  {
+    "id": "new-york-film-academy",
+    "org": "New York Film Academy",
+    "program": "NYFA Summer Camps & Workshops",
+    "url": "https://www.nyfa.edu/teen-summer-camps-and-workshops",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based",
+    "summary": "Hands-on summer, weekend, and online camps and workshops where students study filmmaking, acting, and other media arts with industry professionals.",
+    "about": "NYFA's teen camps and workshops (ages 14-17) cover filmmaking, acting for film, screenwriting, broadcast journalism, photography, musical theatre, game design, documentary, and 3D animation, with additional short-term workshops for older students. Programs run at NYFA campuses including New York City, Los Angeles, and Harvard/Cambridge, plus international sites and online. Residential housing is available during summer camps."
+  },
+  {
+    "id": "bavc-media",
+    "org": "BAVC Media",
+    "program": "BAVC Youth / Youth Media Programs",
+    "url": "https://bavc.org",
+    "industries": [
+      "arts",
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "free",
+    "summary": "A San Francisco media arts nonprofit offering youth media programs, media training, apprenticeships, and internships for emerging creators.",
+    "about": "BAVC Media is a 501(c)3 nonprofit supporting independent makers and community creators through training, fellowships, and workforce development. Youth-focused offerings include BAVC Youth and Reel Stories (audio and video production for people ages 13+), plus apprenticeships and internships. It also provides production services and free video preservation for San Francisco residents."
+  },
+  {
+    "id": "society-of-illustrators",
+    "org": "Society of Illustrators",
+    "program": "Student Scholarship Competition",
+    "url": "https://societyillustrators.org/student-scholarship-competition",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "A national juried competition awarding scholarships to college-level illustration students across the United States.",
+    "about": "The Society of Illustrators Student Scholarship Competition is an annual national competition open to full-time college and university students. Selected works are recognized and cash scholarship awards are granted to winning students. Winning pieces are exhibited by the Society of Illustrators."
+  },
+  {
+    "id": "bmi-foundation",
+    "org": "BMI Foundation",
+    "program": "BMI Foundation Music Awards",
+    "url": "https://bmifoundation.org",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Cash awards",
+    "summary": "A nonprofit foundation offering national music awards, scholarships, and grants to encourage the creation, performance, and study of music.",
+    "about": "The BMI Foundation, founded in 1985, is an independent 501(c)3 that supports music creators through individual awards by application, awards by invitation, and organizational grants. Recent recognized recipients span genres including jazz and Latin music. Programs are open to composers, songwriters, and music students at various levels nationwide."
+  },
+  {
+    "id": "the-john-f-kennedy-center-for-the-performing-a",
+    "org": "The John F. Kennedy Center for the Performing Arts",
+    "program": "Kennedy Center Internships",
+    "url": "https://www.kennedy-center.org/education/opportunities-for-artists/internships-and-fellowships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Paid internships and fellowships at the Kennedy Center for college students and recent graduates pursuing careers in the performing arts and arts administration.",
+    "about": "The Kennedy Center offers internships and fellowships across arts management areas at its Washington, DC campus. Positions provide hands-on experience in areas such as education, production, marketing, and development. Interns receive a stipend during their placement."
+  },
+  {
+    "id": "american-indian-science-and-engineering-societ",
+    "org": "American Indian Science and Engineering Society",
+    "program": "AISES Scholarships",
+    "url": "https://www.aises.org/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "National scholarships supporting Native American and Indigenous students pursuing STEM education from high school through graduate school.",
+    "about": "The American Indian Science and Engineering Society (AISES) administers multiple scholarships for Indigenous students in science, technology, engineering, and math. Awards support students at high school, undergraduate, and graduate levels. AISES also connects recipients to broader mentorship and professional development programming.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "great-minds-in-stem",
+    "org": "Great Minds in STEM",
+    "program": "Scholarship Program",
+    "url": "https://greatmindsinstem.org/gmis-scholarship-application/gmis-scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "National scholarships for college students pursuing STEM degrees, with specialized health sciences and medical tracks.",
+    "about": "Great Minds in STEM (GMiS) offers scholarships to college students in science, technology, engineering, and math fields, including the GMiS STEM Scholarships, Artemio G. Navarro Scholarship, and California Health Sciences and Medical Scholarships. The organization has awarded over $5.8 million to more than 2,200 college students since 2001. Its mission emphasizes empowering underrepresented students to pursue STEM careers.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "national-action-council-for-minorities-in-engi",
+    "org": "National Action Council for Minorities in Engineering",
+    "program": "NACME Scholars Program",
+    "url": "https://www.nacme.org/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards (many block/corporate scholarships are $5,000; some include a paid internship)",
+    "summary": "NACME offers merit- and need-based scholarships to underrepresented minority students pursuing engineering and computer science degrees.",
+    "about": "NACME partners with universities and corporations to award scholarships (many $5,000) to Black, Latinx, and Native American students in engineering and computer science. Applicants use a Common Application to be considered across NACME's scholarships, and several corporate scholar awards include a paid internship. Most awards require a minimum 3.0 GPA.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "out-in-stem-ostem",
+    "org": "Out in STEM (oSTEM)",
+    "program": "Student Chapters & Programs",
+    "url": "https://ostem.org",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "oSTEM is a national nonprofit supporting LGBTQ+ students in STEM through student chapters, mentorship, and professional programs.",
+    "about": "Out in STEM (oSTEM) empowers LGBTQ+ people in science, technology, engineering, and mathematics via campus chapters, community, and career development. It offers mentorship, an annual conference, and networking for college and graduate students. Membership and chapter participation are free."
+  },
+  {
+    "id": "society-of-asian-scientists-and-engineers",
+    "org": "Society of Asian Scientists and Engineers",
+    "program": "SASE Scholarships & Student Programs",
+    "url": "https://www.saseconnect.org",
+    "industries": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "SASE is a national nonprofit supporting Asian and Pacific Islander heritage students in STEM through scholarships, collegiate chapters, and mentorship.",
+    "about": "The Society of Asian Scientists and Engineers (SASE) runs a collegiate scholarship program plus student programs like STEM Equip and professional development cohorts with peers and mentors. It supports 106 collegiate chapters and hosts regional conferences and a national convention. SASE is a 501(c)(3) focused on strengthening the STEM workforce.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "institute-of-electrical-and-electronics-engine",
+    "org": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "program": "IEEE Student Membership & Programs",
+    "url": "https://students.ieee.org",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "scholarship",
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "IEEE offers student and graduate membership with access to student branches, competitions like IEEEXtreme, awards, and professional resources.",
+    "about": "IEEE's student portal provides membership to a global community of technology and engineering professionals, with student branches, funding for professional-awareness events, and a Virtual Speakers Bureau. It runs competitions such as the IEEEXtreme global coding contest and offers student activity awards. Student and graduate memberships require a paid fee."
+  },
+  {
+    "id": "american-society-of-mechanical-engineers",
+    "org": "American Society of Mechanical Engineers",
+    "program": "ASME Scholarships",
+    "url": "https://www.asme.org/asme-programs/students-and-faculty/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "ASME awards scholarships to mechanical engineering and mechanical engineering technology students at high school, undergraduate, and graduate levels.",
+    "about": "ASME offers scholarships to ME/MET students via a single annual application covering all awards, with categories for high school seniors, community/2-year students, and 4-year baccalaureate and graduate students at ABET-accredited programs. An ASME student membership is required to apply, and students must reapply each year. Awards aim to help students facing financial difficulty complete their degrees."
+  },
+  {
+    "id": "american-society-of-civil-engineers",
+    "org": "American Society of Civil Engineers",
+    "program": "ASCE Scholarships & Awards",
+    "url": "https://www.asce.org/career-growth/awards-and-honors/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards generally $2,500-$5,000",
+    "summary": "ASCE offers scholarships to undergraduate civil engineering students who are ASCE Student Members in good standing.",
+    "about": "ASCE awards multiple named scholarships (generally $2,500-$5,000) to undergraduate civil engineering students continuing their studies. Applicants must be ASCE Student Members; applications require an essay, budget, recommendations, transcript, and resume and are due January 15. Graduate students are supported through separate ASCE fellowships."
+  },
+  {
+    "id": "american-institute-of-chemical-engineers",
+    "org": "American Institute of Chemical Engineers",
+    "program": "AIChE Awards & Scholarships",
+    "url": "https://www.aiche.org/community/students/awards-scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "AIChE offers awards and scholarships to chemical engineering students at the undergraduate and graduate levels.",
+    "about": "The American Institute of Chemical Engineers provides scholarships and student awards recognizing academic achievement in chemical engineering. Programs serve undergraduate and graduate members through AIChE's student community. Participation is tied to AIChE student membership."
+  },
+  {
+    "id": "american-institute-of-aeronautics-and-astronau",
+    "org": "American Institute of Aeronautics and Astronautics",
+    "program": "AIAA Scholarships & Graduate Awards",
+    "url": "https://www.aiaa.org/get-involved/university-students/undergraduate-scholarships-graduate-awards",
+    "industries": [
+      "technology",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Undergraduate scholarships $500-$10,000; graduate awards $1,000-$10,000",
+    "summary": "The AIAA Foundation awards scholarships to undergraduates and research awards to graduate students in aerospace and related fields.",
+    "about": "The AIAA Foundation offers undergraduate scholarships (for sophomores through seniors, $500-$10,000) and graduate awards for aerospace research ($1,000-$10,000). Applicants must be AIAA Student Members and may apply for up to two awards. Applications open October 15 and close January 31."
+  },
+  {
+    "id": "association-for-computing-machinery",
+    "org": "Association for Computing Machinery",
+    "program": "ACM Student Membership & Programs",
+    "url": "https://www.acm.org/membership/student",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "ACM offers student membership with access to computing resources, competitions, scholarships, and professional development.",
+    "about": "The Association for Computing Machinery provides discounted student memberships giving access to the Digital Library resources, chapters, competitions, and career development. It serves undergraduate and graduate computing students worldwide. Student membership requires a paid fee."
+  },
+  {
+    "id": "tau-beta-pi",
+    "org": "Tau Beta Pi",
+    "program": "Scholarships & Fellowships",
+    "url": "https://www.tbp.org/scholarships.cfm",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarships $1,000-$2,000 (senior year); separate graduate fellowships",
+    "summary": "Tau Beta Pi awards scholarships for the senior year of engineering study to its initiated members, plus fellowships for graduate work.",
+    "about": "The Tau Beta Pi engineering honor society awards scholarships ($1,000-$2,000) to full-time senior undergraduate engineering members for their final year of study. Selection weighs scholarship, promise of achievement, and leadership/service; applications are due April 1. Members pursuing graduate study may instead apply for a separate Tau Beta Pi Fellowship."
+  },
+  {
+    "id": "national-society-of-professional-engineers",
+    "org": "National Society of Professional Engineers",
+    "program": "NSPE Scholarships",
+    "url": "https://www.nspe.org/resources/students/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "NSPE offers scholarships to high school seniors and college students pursuing engineering degrees.",
+    "about": "The National Society of Professional Engineers provides scholarships for students entering and progressing through ABET-accredited engineering programs. Awards support both graduating high school seniors and current college engineering students. Scholarship resources are offered through NSPE's student programs."
+  },
+  {
+    "id": "sae-international",
+    "org": "SAE International",
+    "program": "Collegiate Design Series & Student Events",
+    "url": "https://www.sae.org/attend/student-events",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition",
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "SAE International runs student engineering competitions including the Collegiate Design Series (Formula SAE, Baja SAE, Aero Design) and related programs.",
+    "about": "SAE International hosts hands-on student engineering competitions, most notably the Collegiate Design Series such as Formula SAE, Baja SAE, and Aero Design, where teams design and build vehicles. Events serve high school and collegiate students and involve registration/participation fees. SAE also offers scholarships and educational programs for students."
+  },
+  {
+    "id": "biomedical-engineering-society",
+    "org": "Biomedical Engineering Society",
+    "program": "BMES Student Programs",
+    "url": "https://www.bmes.org/students",
+    "industries": [
+      "technology",
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "BMES offers student membership with access to its annual meeting, journals, design/research competitions, awards, and student chapters.",
+    "about": "The Biomedical Engineering Society (BMES) provides student membership benefits including the BMES Annual Meeting, four journals, special interest groups, and monthly webinars. It runs competitions and awards such as the Rita Schaffer Young Investigator Award and the Medtronic/BMES Student Design Competition. Membership serves college and graduate students and requires a paid fee."
+  },
+  {
+    "id": "spie-the-international-society-for-optics-and",
+    "org": "SPIE, the international society for optics and photonics",
+    "program": "SPIE Scholarships",
+    "url": "https://www.spie.org/scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards, roughly $2,500-$11,000",
+    "summary": "SPIE awards more than 80 scholarships annually to student members in optics, photonics, and related fields.",
+    "about": "SPIE, the international society for optics and photonics, awards over 80 scholarships each year to student members pursuing optics and photonics education. Named awards include the D.J. Lovell Scholarship ($11,000), the John Kiel Scholarship ($10,000), and awards for undergraduate, graduate, and technician students. Applicants generally must hold an active SPIE Student Membership."
+  },
+  {
+    "id": "optica-formerly-osa",
+    "org": "Optica (formerly OSA)",
+    "program": "Optica Student Programs",
+    "url": "https://www.optica.org/get_involved/students",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "mentorship",
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards up to about $10,000, plus travel grants",
+    "summary": "Optica offers scholarships, travel grants, paper competitions, and immersion schools for students in optics and photonics.",
+    "about": "Optica (formerly OSA) supports students through scholarships such as the Optica Women Scholars ($10,000) and the Amplify Scholarship ($7,500), plus travel grants, paper competitions, and training schools. Additional offerings include student chapters and the Mentor Match program. Eligibility varies by program and spans undergraduate through graduate levels."
+  },
+  {
+    "id": "american-nuclear-society",
+    "org": "American Nuclear Society",
+    "program": "ANS Scholarships",
+    "url": "https://www.ans.org/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards, roughly $1,000-$5,000",
+    "summary": "The American Nuclear Society awards scholarships to student members pursuing nuclear science and engineering degrees.",
+    "about": "Since 1979 ANS has distributed over $7 million in scholarships to incoming freshmen, undergraduate, and graduate student members studying nuclear science or engineering at accredited U.S. universities. Awards range from about $1,000 for freshmen to $5,000 for graduate and need-based scholarships. Applications open November 1 with a general deadline of February 1."
+  },
+  {
+    "id": "american-society-for-engineering-education",
+    "org": "American Society for Engineering Education",
+    "program": "ASEE Fellowships & Programs",
+    "url": "https://www.asee.org/students-outreach",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend (fellowships)",
+    "summary": "ASEE administers fellowships, research programs, and student outreach initiatives across engineering education.",
+    "about": "The American Society for Engineering Education runs fellowship and research programs, including federally sponsored graduate fellowships and postdoctoral opportunities, alongside K-12 and undergraduate outreach. Programs serve undergraduate and graduate engineering students. Program details are listed on the ASEE students and outreach page."
+  },
+  {
+    "id": "women-in-cybersecurity-wicys",
+    "org": "Women in CyberSecurity (WiCyS)",
+    "program": "WiCyS Student Programs & Scholarships",
+    "url": "https://www.wicys.org",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "WiCyS offers student chapters, scholarships, mentorship, and training to recruit, retain, and advance women in cybersecurity.",
+    "about": "Women in CyberSecurity (WiCyS) is a national nonprofit supporting women in the cybersecurity field. Students can access student chapters, Security Training Scholarships, Capture the Flag competitions, and mentorship programs. It also hosts an annual conference, career fair, and job board.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "national-center-for-women-and-information-tech",
+    "org": "National Center for Women & Information Technology",
+    "program": "Aspirations in Computing (AiC)",
+    "url": "https://www.aspirations.org",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "NCWIT Aspirations in Computing recognizes and supports high school and collegiate students who identify as women, genderqueer, or nonbinary in technology.",
+    "about": "The National Center for Women & Information Technology (NCWIT) runs Aspirations in Computing (AiC), a talent development program for high school and collegiate students in technology. It offers recognition awards, a supportive community, mentorship, and scholarship connections. Participants gain access to internship and educational opportunities.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "sacnas-society-for-advancement-of-chicanos-his",
+    "org": "SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science)",
+    "program": "SACNAS Student Programs",
+    "url": "https://www.sacnas.org/student_programs",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "SACNAS offers research presentations, travel scholarships, SACRED mentoring, and community college programming to advance underrepresented students in STEM.",
+    "about": "SACNAS equips student members from community college through graduate school with mentoring, research presentation opportunities, and funded conference travel. The six-month SACRED Mentoring program pairs students with mentors, and Community College Day is a pre-conference event for students exploring STEM careers. Programs serve Chicano/Hispanic, Native American, and other underrepresented students in STEM.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "the-national-gem-consortium",
+    "org": "The National GEM Consortium",
+    "program": "GEM Fellowship",
+    "url": "https://www.gemfellowship.org",
+    "industries": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend + tuition + paid internship",
+    "summary": "The GEM Fellowship funds underrepresented students pursuing master's and doctoral STEM degrees with paid internships plus tuition and stipend support.",
+    "about": "The National GEM Consortium provides fellowships that pair graduate STEM students with paid internships at sponsoring employers and financial support (tuition plus stipend) at member universities. It focuses on increasing underrepresented minorities in engineering and science. More than 4,000 GEM Fellowships have been awarded since 1976, and over 80% of fellows accept full-time offers from sponsors.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "association-for-women-in-science",
+    "org": "Association for Women in Science",
+    "program": "AWIS Student Programs",
+    "url": "https://awis.org",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "The Association for Women in Science offers student programs, mentorship, and professional development to advance women across STEM disciplines.",
+    "about": "AWIS is a national organization championing the interests of women in science across all disciplines and career stages. It provides mentorship, leadership development, awards, and educational programs for students and professionals. Membership includes student tiers.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "association-for-women-in-mathematics",
+    "org": "Association for Women in Mathematics",
+    "program": "AWM Student Programs & Scholarships",
+    "url": "https://awm-math.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "mentorship",
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Association for Women in Mathematics offers prizes, travel grants, mentoring networks, student chapters, and an essay contest for women in mathematics.",
+    "about": "AWM supports women and girls in mathematics from K-12 through graduate and professional levels. Offerings include the Alice T. Schafer Prize for undergraduates, travel grants, research networks, over 100 student chapters, a Mentor Network, and a student essay contest. The organization works to build a community where women and girls thrive in mathematics.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "national-society-of-black-physicists",
+    "org": "National Society of Black Physicists",
+    "program": "NSBP Student Programs",
+    "url": "https://nsbp.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The National Society of Black Physicists offers student programs, scholarships, and mentorship to support Black students in physics.",
+    "about": "NSBP promotes the professional well-being of African American physicists and physics students. It provides scholarships, mentorship, conferences, and networking for undergraduate and graduate students. The society works to increase representation of students of color in physics and astronomy.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "society-of-petroleum-engineers",
+    "org": "Society of Petroleum Engineers",
+    "program": "SPE Scholarships & Fellowships",
+    "url": "https://www.spe.org/en/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship and fellowship awards",
+    "summary": "The Society of Petroleum Engineers offers scholarships and fellowships for undergraduate and graduate students pursuing oil and gas-related degrees.",
+    "about": "SPE provides named awards including the Gus Archie Scholarship (undergraduate), the Donald G. Russell Scholarship, the Nico van Wingen Graduate Fellowship, and the Henry DeWitt Smith Fellowship. Recipients are selected by an international panel, and local SPE Sections offer additional scholarships. Programs serve petroleum engineering and related students worldwide."
+  },
+  {
+    "id": "institute-of-industrial-and-systems-engineers",
+    "org": "Institute of Industrial and Systems Engineers",
+    "program": "IISE Scholarships & Awards",
+    "url": "https://www.iise.org/details.aspx?id=955",
+    "industries": [
+      "technology",
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship and award funds",
+    "summary": "IISE recognizes students and practitioners with a variety of scholarships, fellowships, and awards presented at its annual awards ceremony.",
+    "about": "The Institute of Industrial and Systems Engineers annually recognizes prominent practitioners and students with scholarships, fellowships, and awards in industrial and systems engineering. Winners are honored at a high-profile annual awards presentation. Nominations for Institute awards are generally due December 1 unless otherwise noted."
+  },
+  {
+    "id": "the-minerals-metals-and-materials-society-tms",
+    "org": "The Minerals, Metals & Materials Society (TMS)",
+    "program": "TMS Student Programs & Scholarships",
+    "url": "https://www.tms.org/portal/MEMBERSHIP/Students.aspx",
+    "industries": [
+      "science",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "TMS offers materials science and engineering students scholarships, chapters, and program opportunities in minerals, metals, and materials.",
+    "about": "The Minerals, Metals & Materials Society is a professional organization for materials science and engineering. It supports undergraduate and graduate students through scholarships, student chapters, technical programming, and research and networking opportunities. Programs span the minerals, metals, and materials fields."
+  },
+  {
+    "id": "latinas-in-tech",
+    "org": "Latinas in Tech",
+    "program": "Latinas in Tech Programs",
+    "url": "https://latinasintech.org",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Latinas in Tech connects, supports, and empowers Latina women in the technology industry through community, programs, and mentorship.",
+    "about": "Latinas in Tech is a nonprofit dedicated to connecting, supporting, and empowering Latina women working in tech. It offers community, mentorship, and professional development programming across local chapters. Students and early-career members can participate in its networks and events.",
+    "equityTags": [
+      "women-in-stem",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "techqueria",
+    "org": "Techqueria",
+    "program": "Techqueria Programs",
+    "url": "https://techqueria.org",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Techqueria is a nonprofit that serves Latinx professionals and students in tech through community, mentorship, and career programming.",
+    "about": "Techqueria is a nonprofit organization that empowers Latinx professionals in the technology industry. It provides community, mentorship, events, and career resources to members, including students and early-career technologists. It operates nationally with local chapters.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "dev-color",
+    "org": "/dev/color",
+    "program": "/dev/color Programs",
+    "url": "https://devcolor.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "/dev/color is a community of Black software engineers, technologists, and executives offering programs and mentorship to advance careers in tech.",
+    "about": "/dev/color describes itself as a powerful community of Black software engineers, technologists, and executives. It runs programs such as A* along with a job board, community events, and career-advancement support. Members reportedly outpace the industry in pay equity and career advancement.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "engineers-without-borders-usa",
+    "org": "Engineers Without Borders USA",
+    "program": "Student Chapters",
+    "url": "https://www.ewb-usa.org",
+    "industries": [
+      "technology",
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "volunteering",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Engineers Without Borders USA engages student volunteers through chapters to design and build sustainable engineering projects with communities worldwide.",
+    "about": "Engineers Without Borders USA is a humanitarian nonprofit that partners with communities to design and implement sustainable infrastructure projects in water, sanitation, energy, agriculture, and structures. Student and professional volunteers work through local chapters on international and U.S. community programs. It reports over 11,000 volunteers and more than 1,276 completed projects."
+  },
+  {
+    "id": "elks-national-foundation",
+    "org": "Elks National Foundation",
+    "program": "Most Valuable Student Scholarship",
+    "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000-$7,500 per year; top awards up to $30,000 over four years",
+    "deadlineNote": "Applications due mid-November (Nov. 12, 2026 for the 2027 cycle)",
+    "summary": "The Elks National Foundation awards 500 four-year Most Valuable Student scholarships to U.S. high school seniors based on scholarship, leadership, and financial need.",
+    "about": "The Most Valuable Student scholarship contest is open to U.S. high school seniors who are U.S. citizens, with no requirement to be related to an Elks member. The Foundation awards 500 four-year scholarships totaling over $2.5 million: 20 top scholars receive $30,000 each and 480 runners-up receive $4,000 each, ranging from $1,000 to $7,500 per year. Applicants are judged on scholarship, leadership, and financial need."
+  },
+  {
+    "id": "horatio-alger-association",
+    "org": "Horatio Alger Association",
+    "program": "Horatio Alger National Scholarship",
+    "url": "https://scholars.horatioalger.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$25,000",
+    "summary": "The Horatio Alger National Scholarship provides $25,000 awards to high school seniors who have faced significant adversity and demonstrate financial need.",
+    "about": "The Horatio Alger Association awards National Scholarships to high school seniors who have overcome significant adversity while demonstrating integrity, perseverance, and academic promise. Recipients must show critical financial need. The national award is $25,000 and supports students pursuing a bachelor's degree at accredited U.S. institutions.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "davidson-institute",
+    "org": "Davidson Institute",
+    "program": "Davidson Fellows Scholarship",
+    "url": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship",
+    "industries": [
+      "science",
+      "technology",
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$25,000, $50,000, or $100,000",
+    "deadlineNote": "Application typically due in February; 2027 application opens Fall 2026",
+    "summary": "The Davidson Fellows Scholarship awards $25,000, $50,000, or $100,000 to students 18 and under for significant original work in STEM, literature, music, philosophy, or 'Outside the Box.'",
+    "about": "The Davidson Fellows Scholarship recognizes students aged 18 or under who complete a significant piece of original work in science, technology, engineering, mathematics, literature, music, philosophy, or an 'Outside the Box' category. Applicants must be U.S. citizens or permanent residents, and two-person teams are eligible. Awards are $25,000, $50,000, or $100,000, and recipients attend an award ceremony."
+  },
+  {
+    "id": "barry-goldwater-scholarship-and-excellence-in",
+    "org": "Barry Goldwater Scholarship and Excellence in Education Foundation",
+    "program": "Goldwater Scholarship",
+    "url": "https://goldwaterscholarship.gov",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $7,500 per year",
+    "deadlineNote": "Institutional nomination deadline is the last Friday in January",
+    "summary": "The Goldwater Scholarship supports college sophomores and juniors pursuing research careers in the natural sciences, mathematics, and engineering.",
+    "about": "Established by Congress in 1986 to honor Senator Barry Goldwater, the Foundation awards the preeminent undergraduate scholarship for STEM research fields. College sophomores and juniors are nominated by their institutions (up to four per campus) and judged on academics, research experience, and career goals. Awards cover up to $7,500 per year, and many scholars go on to NSF Graduate Research Fellowships and other prestigious awards."
+  },
+  {
+    "id": "astronaut-scholarship-foundation",
+    "org": "Astronaut Scholarship Foundation",
+    "program": "Astronaut Scholarship",
+    "url": "https://www.astronautscholarship.org/programs/astronaut-scholarship",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $15,000",
+    "deadlineNote": "Nominations due in late March (March 30, 2026 for the 2026 cycle)",
+    "summary": "The Astronaut Scholarship awards up to $15,000 to top college STEM students nominated by affiliated universities to pursue research and advance their fields.",
+    "about": "Created by the original Mercury 7 astronauts, the Astronaut Scholarship Foundation supports the best and brightest STEM students. Applicants must be U.S. citizens enrolled at an affiliated university, at least a sophomore applying for junior year or a junior applying for senior year, with strong academics and substantial research or hands-on work. It is merit-based, requires faculty nomination, and awards more than 70 scholarships of up to $15,000 annually."
+  },
+  {
+    "id": "fannie-and-john-hertz-foundation",
+    "org": "Fannie and John Hertz Foundation",
+    "program": "Hertz Fellowship",
+    "url": "https://www.hertzfoundation.org/the-fellowship",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Up to ~$250,000 over five years",
+    "summary": "The Hertz Fellowship funds top PhD students in the applied sciences, engineering, and mathematics with up to five years of support valued up to $250,000.",
+    "about": "The Hertz Fellowship supports the nation's most promising doctoral students in the applied sciences, engineering, and mathematics. It provides up to five years of funding valued at up to $250,000, plus lifelong mentorship and access to a community of scientists. Fellows gain the 'Freedom to Innovate,' choosing advisors and pursuing independent, high-risk research free from financial constraints."
+  },
+  {
+    "id": "paul-and-daisy-soros-fellowships-for-new-ameri",
+    "org": "Paul & Daisy Soros Fellowships for New Americans",
+    "program": "Fellowship for New Americans",
+    "url": "https://www.pdsoros.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Up to $90,000 over two years",
+    "summary": "The Paul & Daisy Soros Fellowships fund graduate education for immigrants and children of immigrants with up to $90,000 over two years.",
+    "about": "The Paul & Daisy Soros Fellowships for New Americans is a merit-based program supporting the graduate education of immigrants and children of immigrants. Each year 30 Fellows are selected through a free process emphasizing creativity, originality, and sustained accomplishment. Each Fellow receives up to $90,000 over two years plus a lifelong community, with Fellows pursuing careers across medicine, science, law, policy, technology, business, government, the arts, and academia."
+  },
+  {
+    "id": "institute-of-international-education-iie",
+    "org": "Institute of International Education (IIE)",
+    "program": "Benjamin A. Gilman International Scholarship",
+    "url": "https://www.gilmanscholarship.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $5,000 (plus supplemental STEM and critical-need language awards)",
+    "deadlineNote": "Two cycles annually; fall cycle deadline around October 1",
+    "summary": "Merit-based scholarship for U.S. undergraduates with high financial need to study or intern abroad.",
+    "about": "The Benjamin A. Gilman International Scholarship, funded by the U.S. Department of State and administered by IIE since 2001, provides up to $5,000 to Pell-eligible American undergraduates for study or internship abroad. Supplemental STEM and Critical Need Language awards are also available. Over 50,000 students have received the award across 170+ countries.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "the-rhodes-trust",
+    "org": "The Rhodes Trust",
+    "program": "Rhodes Scholarship (US)",
+    "url": "https://www.rhodeshouse.ox.ac.uk/office-of-the-american-secretary",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full funding for graduate study at the University of Oxford",
+    "deadlineNote": "Applications due early October",
+    "summary": "Fully funded postgraduate scholarship sending 32 U.S. students each year to study at the University of Oxford.",
+    "about": "The Rhodes Scholarship, established in 1902, is among the oldest and most prestigious international fellowships. Each year 32 U.S. Scholars are selected through a decentralized district process and receive full support for a degree at the University of Oxford. The U.S. competition is run by the Office of the American Secretary within the Rhodes Trust."
+  },
+  {
+    "id": "marshall-aid-commemoration-commission",
+    "org": "Marshall Aid Commemoration Commission",
+    "program": "Marshall Scholarship",
+    "url": "https://www.marshallscholarship.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full funding for graduate study in the UK",
+    "summary": "Fully funded scholarship for high-achieving young Americans to pursue graduate study at any university in the United Kingdom.",
+    "about": "The Marshall Scholarship, financed by the British government, funds up to two years of graduate study in the UK for outstanding American college graduates. It commemorates the humane ideals of the Marshall Plan and aims to strengthen the enduring US-UK relationship. Scholars may attend any UK university."
+  },
+  {
+    "id": "winston-churchill-foundation-of-the-united-sta",
+    "org": "Winston Churchill Foundation of the United States",
+    "program": "Churchill Scholarship",
+    "url": "https://www.churchillscholarship.org",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full funding for a year of study at the University of Cambridge",
+    "deadlineNote": "Nomination deadline in early November",
+    "summary": "Fully funded scholarship for a year of graduate STEM study and research at Churchill College, University of Cambridge.",
+    "about": "The Churchill Scholarship, administered by the Winston Churchill Foundation of the United States, funds a year of master's-level study and research in science, mathematics, and engineering at the University of Cambridge. Scholars are based at Churchill College and integrated into Cambridge research labs. Nominations are made by participating U.S. institutions."
+  },
+  {
+    "id": "knight-hennessy-scholars",
+    "org": "Knight-Hennessy Scholars",
+    "program": "Knight-Hennessy Scholars (Stanford)",
+    "url": "https://knight-hennessy.stanford.edu",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full funding for a Stanford graduate degree",
+    "summary": "Fully funded fellowship supporting graduate study across any of Stanford University's schools plus a leadership development program.",
+    "about": "Knight-Hennessy Scholars provides full funding for up to three years toward a graduate degree in any of Stanford's seven schools. Beyond financial support, scholars join the King Global Leadership Program focused on developing leaders who address complex global challenges. The program admits students from around the world, including U.S. applicants."
+  },
+  {
+    "id": "schwarzman-scholars",
+    "org": "Schwarzman Scholars",
+    "program": "Schwarzman Scholars Master's Program",
+    "url": "https://www.schwarzmanscholars.org",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full scholarship for a master's at Tsinghua University",
+    "summary": "Fully funded one-year master's program in global affairs at Tsinghua University in Beijing focused on leadership development.",
+    "about": "Schwarzman Scholars is a one-year, fully funded master's program in global affairs based at Tsinghua University in Beijing. The program develops future leaders' understanding of China's role in global trends through a purpose-built curriculum and immersive experience. It builds a global network bridging China and the world."
+  },
+  {
+    "id": "dr-pepper",
+    "org": "Dr Pepper",
+    "program": "Tuition Giveaway",
+    "url": "https://www.drpeppertuition.com",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $100,000 in tuition",
+    "deadlineNote": "Submissions during fall college football season",
+    "summary": "Annual contest awarding tuition prizes up to $100,000, culminating in on-field throwing challenges during college football championship games.",
+    "about": "The Dr Pepper Tuition Giveaway is a nationwide contest for students aged 18-24 who submit videos or essays for a chance to compete. Finalists participate in an on-field football-throwing challenge at college football conference championship games. Top prizes reach up to $100,000 in tuition."
+  },
+  {
+    "id": "thedream-us",
+    "org": "TheDream.US",
+    "program": "National Scholarship",
+    "url": "https://www.thedream.us/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $16,500 (associate) or $33,000 (bachelor's)",
+    "summary": "Scholarship for undocumented immigrant students to attend one of roughly 80 Partner Colleges toward an associate or bachelor's degree.",
+    "about": "TheDream.US National Scholarship supports highly motivated undocumented students, with or without DACA or TPS, who came to the U.S. before age 16 and before November 1, 2020. Awards cover up to $16,500 for an associate's degree and $33,000 for a bachelor's degree at partner colleges. Recipients must qualify for in-state tuition at a Partner College.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "golden-door-scholars",
+    "org": "Golden Door Scholars",
+    "program": "Golden Door Scholarship",
+    "url": "https://roadtohire.org/golden-door-scholars",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Full-tuition scholarship plus mentorship and career support",
+    "summary": "Full scholarship plus mentorship and career readiness for high-need students often excluded from federal aid, delivered through Road to Hire.",
+    "about": "Golden Door Scholars, a program of Road to Hire, provides financial aid alongside career readiness programming, a dedicated student career coach, and mentorship. It serves students with high financial need and limited opportunity, including many excluded from federal aid, loans, and work-study. Scholars attend one of about 20 partner colleges and universities, with continued alumni support after graduation.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "thurgood-marshall-college-fund",
+    "org": "Thurgood Marshall College Fund",
+    "program": "TMCF Scholarships",
+    "url": "https://www.tmcf.org/students-alumni/scholarship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies by award (gap, access, and programmatic scholarships)",
+    "summary": "Competitive scholarships for students primarily at TMCF member (HBCU/PBI) schools, covering gap needs, tuition, fees, and housing.",
+    "about": "The Thurgood Marshall College Fund awarded over $20M to more than 2,000 students in 2023-2024 through Gap Completion, Access, and Programmatic scholarships. Awards support students primarily at TMCF member schools and other eligible accredited institutions, with amounts varying by program. Applicants apply through the TMCF Scholarship Portal via a general application and matched opportunities.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "apia-scholars",
+    "org": "APIA Scholars",
+    "program": "APIA Scholarship",
+    "url": "https://apiascholars.org/scholarship/apia-scholarship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500 (one-year) to $20,000 (multi-year)",
+    "summary": "Scholarships of $2,500 to $20,000 for Asian and Pacific Islander American undergraduates, prioritizing first-generation and low-income students.",
+    "about": "APIA Scholars offers one-year ($2,500) and multi-year (up to $20,000) awards to degree-seeking undergraduates attending U.S. accredited two- or four-year colleges. Applicants must be U.S. citizens, nationals, or permanent residents, or citizens of the Marshall Islands, Micronesia, or Palau, and hold no prior bachelor's degree. The program prioritizes applicants with significant financial need, especially first-generation and low-income students.",
+    "equityTags": [
+      "students-of-color",
+      "low-income",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "american-indian-college-fund",
+    "org": "American Indian College Fund",
+    "program": "Full Circle Scholarships",
+    "url": "https://collegefund.org/students/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies (TCU awards average $2,000-$3,000)",
+    "summary": "Merit-based scholarships for American Indian and Alaska Native students at tribal colleges and accredited nonprofit institutions.",
+    "about": "The American Indian College Fund provides scholarships to American Indian and Alaska Native students enrolled in certificate, undergraduate, or graduate programs at tribal colleges/universities or accredited nonprofit schools. Its Full Circle program is the primary scholarship, with a single annual application opening February 1 and priority deadline of May 31. TCU awards average $2,000-$3,000, with amounts varying by program.",
+    "equityTags": [
+      "students-of-color",
+      "low-income"
+    ]
+  },
+  {
+    "id": "american-chemical-society",
+    "org": "American Chemical Society",
+    "program": "ACS Scholars Program",
+    "url": "https://www.acs.org/education/students/college/scholars.html",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $5,000 per year",
+    "summary": "The ACS Scholars Program awards renewable scholarships to underrepresented minority students pursuing undergraduate degrees in chemistry-related fields.",
+    "about": "The American Chemical Society's Scholars Program supports African American, Hispanic/Latino, and American Indian students majoring in the chemical sciences. Awards are up to $5,000 per year and are renewable. Recipients also receive mentoring and community support.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "american-institute-of-cpas-aicpa",
+    "org": "American Institute of CPAs (AICPA)",
+    "program": "AICPA Foundation Legacy Scholarships",
+    "url": "https://thiswaytocpa.com/education/aicpa-legacy-scholarships",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000 to $10,000",
+    "summary": "The AICPA Foundation's Legacy Scholarships award funds to undergraduate and graduate accounting students pursuing CPA licensure.",
+    "about": "The AICPA Foundation Legacy Scholarships include the Scholarship for Future CPAs, the AICPA/PCPS George Willie Scholarship for first-generation students with financial need, and a Two-Year Transfer Scholarship. Awards range from $5,000 to $10,000. Applicants complete a single application to be considered for all scholarships they qualify for.",
+    "equityTags": [
+      "first-gen"
+    ]
+  },
+  {
+    "id": "the-actuarial-foundation",
+    "org": "The Actuarial Foundation",
+    "program": "The Actuarial Foundation Scholarships",
+    "url": "https://www.actuarialfoundation.org/scholarships",
+    "industries": [
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 to $20,000",
+    "summary": "The Actuarial Foundation and its partners offer scholarships to high school and undergraduate students pursuing actuarial and STEM careers.",
+    "about": "The Actuarial Foundation administers scholarships including the STEM Stars Actuarial Scholars Program ($20,000 over four years), the Stuart A. Robertson Memorial Scholarship, and the UWI McLaughlin Scholarship. It also links to affinity partner programs such as IABA, OLA, SANA, and SAGAA. Awards range from roughly $1,000 to $20,000.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "soroptimist",
+    "org": "Soroptimist",
+    "program": "Live Your Dream Awards",
+    "url": "https://www.soroptimist.org/our-work/live-your-dream-awards/index.html",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $16,000",
+    "deadlineNote": "Applications accepted August 1 through November 15 each year.",
+    "summary": "Soroptimist's Live Your Dream Awards give education-focused cash grants to women who are the primary financial support for their families.",
+    "about": "The Live Your Dream Awards provide cash awards (up to $16,000) to women pursuing higher education or vocational training who provide the primary financial support for their families. Many recipients have overcome hardships such as domestic violence, poverty, or trafficking. The funds may be used for any education-related costs, including tuition, books, childcare, and transportation.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "p-e-o-international",
+    "org": "P.E.O. International",
+    "program": "STAR Scholarship",
+    "url": "https://www.peointernational.org/educational-support/star-scholarship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500",
+    "summary": "The P.E.O. STAR Scholarship awards $2,500 to high school senior women pursuing higher education, based on merit and leadership.",
+    "about": "The P.E.O. STAR Scholarship supports women in their final year of high school who demonstrate excellence in leadership, academics, extracurriculars, and community service. Recipients receive a one-time $2,500 award and must be recommended by a local P.E.O. chapter. Awardees plan to attend an accredited postsecondary institution in the U.S. or Canada."
+  },
+  {
+    "id": "daughters-of-the-american-revolution-dar",
+    "org": "Daughters of the American Revolution (DAR)",
+    "program": "DAR Scholarships",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies by award",
+    "summary": "The Daughters of the American Revolution offer a range of merit- and need-based scholarships to students across many fields of study.",
+    "about": "The DAR administers numerous scholarships for high school and college students in fields including nursing, history, law, and general study. Award amounts vary by scholarship. Most awards are open to U.S. citizens regardless of any DAR affiliation."
+  },
+  {
+    "id": "pat-tillman-foundation",
+    "org": "Pat Tillman Foundation",
+    "program": "Tillman Scholars",
+    "url": "https://pattillmanfoundation.org/apply-to-be-a-scholar",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Varies (average ~$10,000 per year)",
+    "summary": "The Tillman Scholars program funds military service members, veterans, and their spouses pursuing higher education, along with leadership development.",
+    "about": "The Pat Tillman Foundation selects up to 60 Tillman Scholars annually from military service members, veterans, and military spouses enrolled full-time in bachelor's, master's, or professional programs. Scholarships cover tuition, books, and living expenses, averaging about $10,000 per academic year. Scholars also receive mentorship, leadership development, and access to a lifelong network."
+  },
+  {
+    "id": "davis-putter-scholarship-fund",
+    "org": "Davis-Putter Scholarship Fund",
+    "program": "Davis-Putter Scholarship",
+    "url": "https://www.davisputter.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $15,000",
+    "summary": "The Davis-Putter Scholarship Fund provides need-based scholarships to student activists in progressive social justice movements.",
+    "about": "Founded in 1961, the Davis-Putter Scholarship Fund awards need-based scholarships of up to $15,000 to students enrolled in a college, university, or trade program who are active organizers in movements for peace and justice. Recipients must demonstrate both financial need and involvement in progressive organizing. The Fund has awarded roughly $4.9 million across more than 1,600 scholarships.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "duke-energy",
+    "org": "Duke Energy",
+    "program": "Students & Graduates / University Recruiting",
+    "url": "https://www.duke-energy.com/our-company/careers/students-and-graduates",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Duke Energy's Students & Graduates program offers internships and university recruiting across engineering, technology, and business roles.",
+    "about": "Duke Energy recruits college students and recent graduates into internships and entry-level opportunities spanning engineering, technology, and business functions. Roles support the utility's electric and natural gas operations. Positions are paid."
+  },
+  {
+    "id": "southern-company",
+    "org": "Southern Company",
+    "program": "Co-ops & Interns (Campus Recruiting)",
+    "url": "https://southerncompany-campus.jobs",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Southern Company's campus program offers paid co-ops and internships in engineering, business, finance, and computer science, primarily in the Southeast.",
+    "about": "Southern Company recruits students into cooperative education (three alternating rotations) and internships offered in spring, summer, and fall across engineering, business, finance, and computer science. Both programs often serve as pipelines to full-time roles supporting the company's power generation, transmission, distribution, and natural gas operations. Recruiting is concentrated in the Southeastern United States."
+  },
+  {
+    "id": "nextera-energy",
+    "org": "NextEra Energy",
+    "program": "Internships & Co-ops",
+    "url": "https://www.nexteraenergy.com/careers/join-our-team/internships.html",
+    "industries": [
+      "environment",
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Juno Beach",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; competitive pay with occasional stipends, paid summer holidays, and travel reimbursement",
+    "deadlineNote": "Roles posted September through November for the following summer.",
+    "summary": "NextEra Energy offers paid summer internships and co-ops across the U.S. in business, technical field, and MBA roles.",
+    "about": "Most internships run 10 to 12 weeks during the summer and span multiple business areas, including technical roles at generation sites and MBA internships. Applicants must be full-time students in a bachelor's degree or higher with a 3.0+ GPA and U.S. work eligibility. Positions are typically posted September through November for the following summer."
+  },
+  {
+    "id": "dominion-energy",
+    "org": "Dominion Energy",
+    "program": "Students & Graduates",
+    "url": "https://careers.dominionenergy.com/students-graduates",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Richmond",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Competitive pay with an available housing stipend (subject to qualification)",
+    "summary": "Dominion Energy provides paid student internships across engineering, IT, business, and science, plus a Careers in Energy student conference.",
+    "about": "The program offers competitive pay, an available housing stipend, and professional networking, and Dominion has been named a Top Employer for Interns since 2022. Internships span fields such as Engineering, IT, Business, and Science & Environmental. Dominion also hosts a two-day Careers in Energy Student Conference in Richmond for undergraduate freshmen, sophomores, and juniors."
+  },
+  {
+    "id": "american-electric-power-aep",
+    "org": "American Electric Power (AEP)",
+    "program": "Student Programs",
+    "url": "https://www.aep.com/careers/students",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Competitive salary plus paid holidays, 401k, and a housing stipend for eligible interns",
+    "summary": "AEP offers paid summer internships that provide real-world experience and a strong path to full-time employment.",
+    "about": "Interns receive a competitive salary, paid holidays, flex-time, a 401k plan, and a housing stipend if eligible, typically over a summer rotation. The program is open to full-time college students who have completed their freshman year and are at least 18; engineering applicants must be in ABET-accredited programs with a 3.0+ GPA. AEP reports it extended full-time offers to 95% of its graduating interns in 2025."
+  },
+  {
+    "id": "tennessee-valley-authority-tva",
+    "org": "Tennessee Valley Authority (TVA)",
+    "program": "University Recruiting / Internships",
+    "url": "https://www.tva.com/careers/university-recruiting",
+    "industries": [
+      "government",
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Knoxville",
+        "state": "TN",
+        "lat": 35.9,
+        "lng": -86.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "TVA's university recruiting program offers paid internships for college students in the energy and utility sector.",
+    "about": "The Tennessee Valley Authority is a federally owned utility that recruits students through its university recruiting program for internships and early-career roles. Opportunities span engineering, environmental, and science-related fields at TVA sites across the Tennessee Valley region."
+  },
+  {
+    "id": "pacific-gas-and-electric-pg-and-e",
+    "org": "Pacific Gas and Electric (PG&E)",
+    "program": "University Programs",
+    "url": "https://jobs.pge.com/university-programs",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Oakland",
+        "state": "CA",
+        "lat": 37.8044,
+        "lng": -122.2712
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid summer internships; rotation programs are full-time salaried roles",
+    "deadlineNote": "Recruiting is primarily in the fall, sometimes extending into spring.",
+    "summary": "PG&E's University Programs offer paid summer internships and 12-to-18-month recent-graduate rotation development programs.",
+    "about": "Summer internships are open to enrolled bachelor's and master's students, with engineering/IT roles posted in fall and business roles from January to March. Recent Graduate Rotation Development Programs run 12 to 18 months across Gas Operations, Electric Operations, and IT, including Engineer RDP (Gas and Electric) and IT RDP tracks. Recruiting generally occurs in the fall."
+  },
+  {
+    "id": "fermilab-fermi-national-accelerator-laboratory",
+    "org": "Fermilab (Fermi National Accelerator Laboratory)",
+    "program": "Fermilab Internships (SULI, CCI, ASPIRE)",
+    "url": "https://internships.fnal.gov",
+    "industries": [
+      "science",
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Batavia",
+        "state": "IL",
+        "lat": 40,
+        "lng": -89.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend; many programs are paid and some (e.g., SCGSR) provide thesis-research funding",
+    "summary": "Fermilab offers a portfolio of internships, fellowships, and apprenticeships in particle physics and accelerator research for high school, undergraduate, and graduate participants.",
+    "about": "Programs are managed by the Workforce Pathways and Partnerships Office and let participants work alongside professionals advancing particle physics and accelerator research. Offerings include SULI and CCI (DOE-sponsored undergraduate programs), ASPIRE (accelerator engineering), high school programs like PRISM and VALOR JROTC, and graduate options such as FCSI and SCGSR. Eligibility, compensation, and dates vary by program.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "globalfoundries",
+    "org": "GlobalFoundries",
+    "program": "Early Careers / University Recruiting",
+    "url": "https://gf.com/about-us/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GlobalFoundries recruits students and recent graduates through an Early Career program offering hands-on experience and mentorship in semiconductor manufacturing.",
+    "about": "The Early Career section highlights hands-on experience, mentorship, and growth opportunities for the next generation of innovators, and links to a dedicated early career page. GlobalFoundries recruits at campus and student-focused events such as the SHPE National Convention and the Society of Women Engineers WE26 Conference. Opportunities support the company's semiconductor technology and manufacturing operations."
+  },
+  {
+    "id": "kla-corporation",
+    "org": "KLA Corporation",
+    "program": "University Recruiting",
+    "url": "https://www.kla.com/careers/university-recruiting",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "KLA's University Recruiting program offers internships and early-career roles for students and graduates in semiconductor process control technology.",
+    "about": "KLA Corporation recruits college and graduate students through its University Recruiting program for internships and full-time early-career positions. Roles span engineering, software, and science disciplines supporting KLA's semiconductor process control and inspection products."
+  },
+  {
+    "id": "borgwarner",
+    "org": "BorgWarner",
+    "program": "Students & Graduates",
+    "url": "https://www.borgwarner.com/careers/students-and-graduates",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "BorgWarner offers internships and early-career programs for students and graduates in automotive and mobility technology.",
+    "about": "BorgWarner recruits students and recent graduates for internships and entry-level roles across its propulsion and mobility technology business. Opportunities focus on engineering and technical disciplines at BorgWarner's U.S. and global locations."
+  },
+  {
+    "id": "aptiv",
+    "org": "Aptiv",
+    "program": "Students & Graduates (Early Talent Program)",
+    "url": "https://www.aptiv.com/en/jobs/students",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Aptiv's Early Talent Program offers 12-to-16-week internships and early-career roles for students and recent graduates in mobility technology.",
+    "about": "The signature immersive experience runs 12 to 16 weeks and has participants tackle real-world mobility challenges using technologies like advanced radar, cybersecurity, neural networks, and AI/ML. Roles span engineering plus finance, operations, and business functions, with mentorship and real-time feedback. The program has been recognized among the Top 100 Internship Programs by Yello and WayUp."
+  },
+  {
+    "id": "paccar",
+    "org": "PACCAR",
+    "program": "Internships & College Recruiting",
+    "url": "https://www.paccar.com/careers/internships-and-college",
+    "industries": [
+      "technology",
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "PACCAR offers internships and college recruiting for students pursuing careers in truck manufacturing and related technologies.",
+    "about": "PACCAR recruits college students for internships and early-career roles across engineering, business, and technical disciplines. Opportunities support PACCAR's global truck manufacturing brands, including Kenworth, Peterbilt, and DAF, at its U.S. facilities."
+  },
+  {
+    "id": "magna-international",
+    "org": "Magna International",
+    "program": "Students & New Graduates",
+    "url": "https://www.magna.com/careers/students",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Magna offers apprenticeships, co-ops, internships, and entry-level graduate roles for students pursuing automotive technology careers.",
+    "about": "Opportunities include apprenticeships toward journeyperson certification, university-partnered co-ops, short-term internships tied to educational goals, and full-time entry-level graduate roles. The programs target students and recent graduates interested in helping create the future of mobility. Magna also invites candidates to join its talent community for future openings."
+  },
+  {
+    "id": "general-atomics",
+    "org": "General Atomics",
+    "program": "Internships & Early Careers",
+    "url": "https://www.ga.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7157,
+        "lng": -117.1611
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; includes health/dental/vision, 401k and pension, and tuition reimbursement",
+    "summary": "General Atomics offers summer internships and early-career opportunities in advanced technology fields including fusion, electromagnetic systems, and aircraft systems.",
+    "about": "The careers site links to Early Careers, Energy Group Internships, and Summer Internship search for students and recent graduates. Work spans advanced technology areas such as fusion, electromagnetic systems, aircraft systems, sensors, lasers, and space. As a privately owned company of roughly 12,000 employees, it emphasizes benefits including insurance, retirement plans, and tuition reimbursement."
+  },
+  {
+    "id": "blue-origin",
+    "org": "Blue Origin",
+    "program": "Internships",
+    "url": "https://www.blueorigin.com/careers/internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kent",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships at Blue Origin for undergraduate and graduate students supporting spaceflight programs across engineering, manufacturing, and business functions.",
+    "about": "Blue Origin offers paid internships to college and graduate students, primarily at its Kent, WA headquarters and other US sites. Interns work alongside engineers and scientists on real spaceflight hardware and mission projects. Roles span engineering, manufacturing, operations, and business."
+  },
+  {
+    "id": "rocket-lab",
+    "org": "Rocket Lab",
+    "program": "Careers / Internships",
+    "url": "https://rocketlabcorp.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Long Beach",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rocket Lab's careers site lists internships and early-career roles for students in aerospace engineering, manufacturing, and mission operations.",
+    "about": "Rocket Lab is an end-to-end space company headquartered in Long Beach, CA. Its careers site posts internships and early-career openings for college and graduate students across engineering and operations. Roles are primarily on-site at US and New Zealand facilities."
+  },
+  {
+    "id": "sierra-nevada-corporation-snc",
+    "org": "Sierra Nevada Corporation (SNC)",
+    "program": "Students & Interns",
+    "url": "https://www.sncorp.com/careers/students",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Sparks",
+        "state": "NV",
+        "lat": 38.8,
+        "lng": -116.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "SNC offers paid 10-12 week summer internships and co-ops for students in aerospace and defense, with co-op sites including Sparks, NV.",
+    "about": "Sierra Nevada Corporation offers paid internships and co-op programs where students work on real-world aerospace and defense assignments alongside industry experts. Summer internships run 10-12 weeks; co-ops are offered at Centennial CO, Hagerstown MD, Sparks NV, Plano TX, and Herndon VA. Applicants must be enrolled the following fall, and those continuing to master's or PhD programs are eligible."
+  },
+  {
+    "id": "leidos",
+    "org": "Leidos",
+    "program": "Students & Recent Graduates",
+    "url": "https://careers.leidos.com",
+    "industries": [
+      "technology",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Leidos posts internships and early-career programs for students and recent graduates across technology, engineering, and government-services roles.",
+    "about": "Leidos is a large science and technology company serving government and commercial customers. Its careers site posts internships and programs for students and recent graduates nationwide. Roles span IT, engineering, and defense and civil mission support."
+  },
+  {
+    "id": "3m",
+    "org": "3M",
+    "program": "Students Program (Internships & Co-ops)",
+    "url": "https://www.3m.com/3M/en_US/careers-us/students",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "3M's student careers page describes internships and co-op opportunities for college and graduate students in science, engineering, and business.",
+    "about": "3M offers internships and co-ops that give students hands-on experience across its science and technology businesses. Programs are open to college and graduate students at US locations. Interns contribute to real projects in R&D, engineering, manufacturing, and corporate functions."
+  },
+  {
+    "id": "eaton",
+    "org": "Eaton",
+    "program": "Students & Graduates",
+    "url": "https://www.eaton.com/us/en-us/company/careers/students---graduates.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Eaton's students and graduates page describes internships and early-career opportunities in engineering and technology for college students.",
+    "about": "Eaton is a global power-management company. Its students and graduates careers page covers internships and entry-level programs across engineering, manufacturing, and business functions. Opportunities are available at US sites nationwide."
+  },
+  {
+    "id": "rockwell-automation",
+    "org": "Rockwell Automation",
+    "program": "EDGE Students & Early Career",
+    "url": "https://www.rockwellautomation.com/en-us/company/careers/edge-student-early-career.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rockwell Automation's EDGE program offers student internships, co-ops, and early-career rotational programs in industrial automation.",
+    "about": "Rockwell Automation's EDGE early-career framework includes student internships and co-ops plus rotational early-career programs for new graduates. Internships offer hands-on, real-world project work, while early-career programs blend classroom and on-the-job learning with mentorship. Roles are at US locations across engineering, technology, and business."
+  },
+  {
+    "id": "parker-hannifin",
+    "org": "Parker Hannifin",
+    "program": "Students & Graduates",
+    "url": "https://www.parker.com/us/en/careers/students-and-graduates.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Parker Hannifin's students and graduates page lists internships and early-career roles in engineering and motion and control technologies.",
+    "about": "Parker Hannifin is a global motion and control technologies company. Its students and graduates careers page covers internships and entry-level opportunities across engineering and technical functions. Positions are offered at US facilities nationwide."
+  },
+  {
+    "id": "air-products",
+    "org": "Air Products",
+    "program": "Careers (Students & Graduates)",
+    "url": "https://www.airproducts.com/careers",
+    "industries": [
+      "science",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Air Products' official careers site covers opportunities including student and graduate hiring in chemical and process engineering and the industrial gases industry.",
+    "about": "Air Products is a global industrial gases company. Its official careers site presents opportunities across engineering, operations, and business, including student and graduate hiring. Roles are available at US locations nationwide."
+  },
+  {
+    "id": "textron",
+    "org": "Textron",
+    "program": "Interns & Entry Level",
+    "url": "https://careers.textron.com",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Textron's careers site includes an Interns & Entry Level track with internships and a leadership development program across its aviation and defense businesses.",
+    "about": "Textron is a Fortune 500 company spanning Bell, Textron Aviation, Textron Systems, Kautex, and Textron Specialized Vehicles. Its careers site features an Interns & Entry Level section with internships, entry-level roles, and a Leadership Development Program. Opportunities are at US locations across its business units."
+  },
+  {
+    "id": "oshkosh-corporation",
+    "org": "Oshkosh Corporation",
+    "program": "Students & Grads",
+    "url": "https://careers.oshkoshcorp.com/en/students-and-grads",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Oshkosh",
+        "state": "WI",
+        "lat": 44.6,
+        "lng": -89.9
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Oshkosh Corporation's students and grads page covers internships and co-op opportunities for college students across its vehicle and equipment businesses.",
+    "about": "Oshkosh Corporation designs and builds specialty vehicles and equipment. Its students-and-grads careers section covers internships and co-ops for college students. Opportunities include roles at its Oshkosh, WI headquarters and other US sites."
+  },
+  {
+    "id": "environmental-defense-fund",
+    "org": "Environmental Defense Fund",
+    "program": "EDF Climate Corps",
+    "url": "https://business.edf.org/categories/climate-corps",
+    "industries": [
+      "environment",
+      "business"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid summer fellowship",
+    "deadlineNote": "Applications typically open in winter for summer placements",
+    "summary": "EDF Climate Corps is a summer fellowship that places graduate students with companies and public institutions to advance clean-energy and emissions-reduction projects.",
+    "about": "EDF Climate Corps trains graduate students and matches them with organizations to design tools and recommendations for meeting climate and energy goals. In its 17-year history it has worked with over 800 organizations, including 40% of the Fortune 100. Fellows work over the summer on projects such as climate roadmaps, energy efficiency, fleet electrification, and sustainable finance."
+  },
+  {
+    "id": "cary-institute-of-ecosystem-studies",
+    "org": "Cary Institute of Ecosystem Studies",
+    "program": "Undergraduate Internships",
+    "url": "https://www.caryinstitute.org/education/internships",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Millbrook",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$2,500 stipend for select internships; others credit-only",
+    "summary": "Cary Institute offers undergraduate ecology internships, including a paid summer field-research mentoring role and a credit-based deer-ecology internship.",
+    "about": "Cary Institute of Ecosystem Studies in Millbrook, NY offers undergraduate internships providing training and professional development in ecology and environmental science. Current listings include a paid Mid-Hudson YES undergraduate intern role (a four-week, $2,500 summer position mentoring high-school field researchers) and an unpaid, credit-bearing White-tailed Deer Ecology and Management internship. Students may also propose their own research projects under a Cary mentor."
+  },
+  {
+    "id": "california-academy-of-sciences",
+    "org": "California Academy of Sciences",
+    "program": "Careers in Science (CiS) Internship",
+    "url": "https://www.calacademy.org/youth-programs",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid multi-year youth internship (interns are paid Academy employees)",
+    "deadlineNote": "Must apply in grade 9 or 10; 2-3 year commitment",
+    "summary": "A multi-year, year-round paid internship and youth development program for San Francisco high schoolers from communities underrepresented in STEM.",
+    "about": "Careers in Science (CiS) is the California Academy of Sciences' flagship youth program, employing high school students as paid Academy interns across the school year and summer. Students must apply in 9th or 10th grade and commit for 2-3 years. The program targets youth typically underrepresented in science, technology, engineering, and math.",
+    "equityTags": [
+      "low-income",
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "archbold-biological-station",
+    "org": "Archbold Biological Station",
+    "program": "Internships & Research Programs",
+    "url": "https://www.archbold-station.org/internships",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Venus",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend; housing may be available for some positions",
+    "summary": "Hands-on research, education, and conservation internships at a Florida biological station for recent graduates exploring careers or graduate study.",
+    "about": "Archbold Biological Station offers research internships, environmental education internships, conservation internships, and cattle ranch operations internships. It is described as one of few U.S. programs letting recent graduates gain research experience before committing to graduate school or a career. Interns are trained across scientific research; the education internship runs roughly October through July."
+  },
+  {
+    "id": "u-s-fish-and-wildlife-service",
+    "org": "U.S. Fish and Wildlife Service",
+    "program": "Internships and Fellowships",
+    "url": "https://www.fws.gov/about-us/work-us/internships-and-fellowships",
+    "industries": [
+      "environment",
+      "government",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Federal internships (non-permanent employees); some partner internships confer Public Land Corps hiring authority",
+    "summary": "Federal and partner-organization internships and fellowships giving students and recent graduates hands-on wildlife conservation experience.",
+    "about": "The U.S. Fish and Wildlife Service offers federal internships through the Pathways Program (Internship and Recent Graduates tracks) plus internships run with nongovernmental partner organizations. The Internship Program targets students enrolled at least half time in high school, college, or technical school, and the Recent Graduates Program targets those within two years of graduation. Some partner internships can earn Public Land Corps hiring authority."
+  },
+  {
+    "id": "sea-education-association",
+    "org": "Sea Education Association",
+    "program": "SEA Semester",
+    "url": "https://www.sea.edu/programs/undergraduate-programs",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Woods Hole",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based; financial aid available",
+    "summary": "Study-abroad-style undergraduate programs combining coursework at Woods Hole with a research voyage at sea.",
+    "about": "SEA Semester offers undergraduate (and some gap-year) programs focused on ocean science, environmental issues, culture, and history. Recent offerings include Climate Change & Coastal Resilience, Plastics & Biodiversity in the Sargasso Sea, Coral Reef Conservation, and a whaling history program, running in fall, spring, and summer. Programs are tuition-based with financial aid available."
+  },
+  {
+    "id": "point-blue-conservation-science",
+    "org": "Point Blue Conservation Science",
+    "program": "Internships & Apprenticeships",
+    "url": "https://www.pointblue.org/about-us/careers",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Petaluma",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend varies by field/apprenticeship position",
+    "summary": "Field-based apprenticeships and internships in bird monitoring and habitat restoration with a California conservation science nonprofit.",
+    "about": "Point Blue Conservation Science lists apprenticeships and internships including Palomarin Field Station apprenticeships, STRAW apprenticeship and community-college conservation internships, and a scientific illustration apprenticeship. It also welcomes graduate students and postdoctoral researchers to partner using its long-term monitoring datasets. Point Blue seeks applicants from all backgrounds and encourages those underrepresented in conservation."
+  },
+  {
+    "id": "cornell-lab-of-ornithology",
+    "org": "Cornell Lab of Ornithology",
+    "program": "Internships & Student Opportunities",
+    "url": "https://www.birds.cornell.edu/home/join-our-team",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Ithaca",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "Internships and student research opportunities in ornithology and conservation at Cornell University's Lab of Ornithology.",
+    "about": "The Cornell Lab of Ornithology's join-our-team page hosts its jobs, internships, and student opportunities in bird science, conservation, and technology. Positions are based at the Lab in Ithaca, New York. The Lab is a leading center for the study and conservation of birds."
+  },
+  {
+    "id": "hawk-mountain-sanctuary",
+    "org": "Hawk Mountain Sanctuary",
+    "program": "Conservation Science Trainee Program",
+    "url": "https://www.hawkmountain.org/conservation-science",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kempton",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend + housing",
+    "summary": "A traineeship in raptor conservation science and field research at Pennsylvania's Hawk Mountain Sanctuary.",
+    "about": "Hawk Mountain Sanctuary runs a conservation science trainee program engaging students and early-career researchers in raptor migration monitoring and field research. Trainees typically receive a stipend and housing. The sanctuary in Kempton, Pennsylvania is a longstanding center for raptor conservation."
+  },
+  {
+    "id": "new-england-aquarium",
+    "org": "New England Aquarium",
+    "program": "Teen Programs",
+    "url": "https://www.neaq.org/teen-programs",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "volunteering",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "free",
+    "compensation": "Free to participate; Summer Teen Internships are paid (ages 14+)",
+    "summary": "Teen programs connecting Boston-area youth to ocean conservation and marine biology through paid summer internships and a climate-action group.",
+    "about": "The New England Aquarium's teen programs include paid Summer Teen Internships for youth ages 14 and up and ClimaTeens, a climate-change advocacy group for teens 13 and up. Programs connect young people to learning and careers in ocean conservation, marine biology, and civic engagement. ClimaTeens applications open in late August for the next cohort."
+  },
+  {
+    "id": "duke-university-marine-lab",
+    "org": "Duke University Marine Lab",
+    "program": "Research Experiences for Undergraduates (REU)",
+    "url": "https://nicholas.duke.edu/marinelab/education/reu",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Beaufort",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "NSF stipend + housing",
+    "summary": "An NSF-funded summer research program placing undergraduates in marine science projects at Duke's Marine Lab in Beaufort, NC.",
+    "about": "The Duke University Marine Lab's Research Experiences for Undergraduates (REU) is an NSF-funded summer program for undergraduates. Students conduct mentored marine science research at the Beaufort, North Carolina campus. Participants typically receive an NSF stipend plus housing."
+  },
+  {
+    "id": "rocky-mountain-institute-rmi",
+    "org": "Rocky Mountain Institute (RMI)",
+    "program": "Internships",
+    "url": "https://rmi.org/careers",
+    "industries": [
+      "environment",
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "Internships at a clean-energy think tank, with interns arriving as students and leaving as early-career professionals.",
+    "about": "Rocky Mountain Institute (RMI) offers an internship program described on its careers page, where interns \"arrive as students and leave as early career professionals.\" RMI is a remote-ready organization allowing team members to work anywhere in the continental US, with offices in New York City, Washington DC, Oakland, Boulder, and Basalt. RMI works globally on clean energy across regions including China, India, Africa, and the Caribbean; it does not sponsor employment visas."
+  },
+  {
+    "id": "ocean-conservancy",
+    "org": "Ocean Conservancy",
+    "program": "Internships & Career Opportunities",
+    "url": "https://oceanconservancy.org/our-people/career-opportunities",
+    "industries": [
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Competitive salary plus benefits; paid internships",
+    "summary": "Ocean Conservancy posts career and internship openings for people who want to work on ocean and coastal conservation.",
+    "about": "The page presents Ocean Conservancy's team and mission and links to current openings. It advertises a competitive salary commensurate with experience plus an excellent benefits package, and it is an equal opportunity employer that encourages diverse applicants."
+  },
+  {
+    "id": "national-audubon-society",
+    "org": "National Audubon Society",
+    "program": "Fellowships",
+    "url": "https://www.audubon.org/work-us/fellowships-audubon",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid fellowships/apprenticeships; some cover travel and living expenses",
+    "summary": "Audubon runs several fellowships that train early-career people as conservation leaders across policy, science, communications, and education.",
+    "about": "Programs include the Schneider Fellowship for climate and clean-energy policy, the Fund II Apprenticeship, the Dangermond Fellowship in conservation science and geospatial mapping, and the Herz International Seabird Fellowship. Eligibility ranges from current students to early-career graduates depending on the program, and some provide travel and living expenses."
+  },
+  {
+    "id": "aquarium-of-the-pacific",
+    "org": "Aquarium of the Pacific",
+    "program": "Student & Youth Programs",
+    "url": "https://www.aquariumofpacific.org/education/students",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "volunteering",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Long Beach",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "free",
+    "summary": "The Aquarium of the Pacific offers student and youth education programs, volunteering, and internships in Long Beach, California.",
+    "about": "The page is the aquarium's education hub for student programs at its Long Beach facility. Offerings target high school and college-age participants through hands-on learning, volunteer, and internship opportunities."
+  },
+  {
+    "id": "natural-resources-defense-council",
+    "org": "Natural Resources Defense Council",
+    "program": "Internships",
+    "url": "https://www.nrdc.org/careers",
+    "industries": [
+      "environment",
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "NRDC posts careers and internship opportunities for people working on environmental law, policy, and advocacy.",
+    "about": "NRDC is a national environmental nonprofit that recruits staff and interns across law, science, policy, and advocacy. Internships and jobs are listed on the organization's official careers portal."
+  },
+  {
+    "id": "wildlife-conservation-society",
+    "org": "Wildlife Conservation Society",
+    "program": "Internships",
+    "url": "https://www.wcs.org/about-us/careers",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Wildlife Conservation Society lists careers, internships, and field opportunities spanning field science, conservation policy, and park operations.",
+    "about": "WCS employs nearly 4,000 staff and offers roles including NYC full-time and part-time positions, opportunities in the field, and internships through the Bronx Zoo. The organization is headquartered in the Bronx, New York, with programs internationally."
+  },
+  {
+    "id": "university-of-virginia-mountain-lake-biologica",
+    "org": "University of Virginia — Mountain Lake Biological Station",
+    "program": "REU Program",
+    "url": "https://mlbs.virginia.edu/reuprogram",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pembroke",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend plus full room and board",
+    "deadlineNote": "2026 application deadline February 27, 2026 (program runs May 25–July 31, 2026)",
+    "summary": "Mountain Lake Biological Station runs a 10-week NSF-funded REU summer program in ecology, evolution, and behavior in Pembroke, Virginia.",
+    "about": "Ten undergraduates per summer design and conduct independent field research with faculty mentors under NSF award DBI-2349462. Participants receive a $7,000 stipend, full room and board, and project and travel budgets, and pay no fees or tuition. Applicants must be U.S. citizens, nationals, or permanent residents returning to an undergraduate program."
+  },
+  {
+    "id": "organization-for-tropical-studies",
+    "org": "Organization for Tropical Studies",
+    "program": "REU in Tropical Ecology",
+    "url": "https://tropicalstudies.org/reu",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "NSF stipend plus travel",
+    "summary": "The Organization for Tropical Studies runs an NSF Research Experiences for Undergraduates program in tropical ecology.",
+    "about": "The Organization for Tropical Studies is a consortium focused on tropical research and education. Its REU program gives undergraduates mentored, hands-on research experience in tropical ecology, with applications submitted through this official page."
+  },
+  {
+    "id": "the-xerces-society-for-invertebrate-conservati",
+    "org": "The Xerces Society for Invertebrate Conservation",
+    "program": "Internships & Job Opportunities",
+    "url": "https://xerces.org/job-opportunities",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid roles; internship pay varies by posting",
+    "summary": "The Xerces Society posts job and internship openings for conservation professionals focused on invertebrate conservation.",
+    "about": "Founded in 1971 and based in Portland, Oregon, the Xerces Society has staff across 16 states. Current openings and internships are listed via its Paylocity job portal, and visitors can sign up for career-opportunity emails."
+  },
+  {
+    "id": "surfrider-foundation",
+    "org": "Surfrider Foundation",
+    "program": "Internships",
+    "url": "https://www.surfrider.org/careers",
+    "industries": [
+      "environment",
+      "nonprofit",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Varies by role",
+    "summary": "Surfrider Foundation lists careers and internships, including its summer and semester-based legal internship programs.",
+    "about": "Surfrider is an ocean and coastal conservation nonprofit with a flexible, hybrid work environment and a stated commitment to justice, equity, diversity, and inclusion. Current internship postings include the Summer 2027 Legal Internship Program and a summer/semester-based legal internship program."
+  },
+  {
+    "id": "world-resources-institute",
+    "org": "World Resources Institute",
+    "program": "Internships",
+    "url": "https://www.wri.org/internships",
+    "industries": [
+      "environment",
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid and unpaid internships depending on role",
+    "summary": "World Resources Institute offers year-round paid and unpaid internships across its Washington, DC and international offices.",
+    "about": "WRI runs a variety of internships throughout the year, hosting more than 20 interns year-round and up to 60 in summer. The program is open to current students, recent graduates, and others seeking knowledge in a specific area, and interns contribute to real projects, with about 62% holding master's degrees."
+  },
+  {
+    "id": "appalachian-mountain-club",
+    "org": "Appalachian Mountain Club",
+    "program": "Internships & Seasonal Positions",
+    "url": "https://www.outdoors.org/get-involved/careers",
+    "industries": [
+      "environment",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Seasonal pay plus perks (free AMC facility stays, membership, 30% store discount)",
+    "summary": "The Appalachian Mountain Club lists full-time, part-time, seasonal, and internship opportunities across the Northeast.",
+    "about": "AMC recruits people who want to turn a love of the outdoors into a career, working from the Mid-Atlantic to Maine. Seasonal staff receive perks including free AMC facility stays, a 30% store discount, free membership, and health eligibility when scheduled 30+ hours per week for six months or longer."
+  },
+  {
+    "id": "conservation-international",
+    "org": "Conservation International",
+    "program": "Internships",
+    "url": "https://www.conservation.org/careers",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Varies by role",
+    "summary": "Conservation International posts jobs and internships across its global network for people working to protect nature.",
+    "about": "Conservation International employs more than 1,400 staff and lets applicants browse job listings and internships by country, region, and keyword through its Taleo portal. The organization emphasizes core values, equal opportunity, and career development including training, certifications, and mentoring."
+  },
+  {
+    "id": "j-paul-getty-trust",
+    "org": "J. Paul Getty Trust",
+    "program": "Getty Marrow Undergraduate Internships",
+    "url": "https://www.getty.edu/projects/getty-marrow-undergraduate-internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,500 stipend",
+    "deadlineNote": "Applications typically due in spring (March)",
+    "summary": "The Getty Marrow Undergraduate Internships place students from underrepresented groups in paid summer internships at Los Angeles-area arts organizations.",
+    "about": "Administered by the Getty, these summer internships support undergraduates in careers in museums and visual arts, with a focus on students from communities underrepresented in arts professions. Interns work at Getty and partner cultural institutions across Los Angeles and receive a stipend.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "whitney-museum-of-american-art",
+    "org": "Whitney Museum of American Art",
+    "program": "Internship Program",
+    "url": "https://whitney.org/about/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,500 summer / $3,000 academic year",
+    "summary": "Paid summer and academic-year internships at the Whitney Museum for undergraduate and graduate students across curatorial, education, and administrative areas.",
+    "about": "The Whitney offers a nine-week full-time summer internship (Hearst) with a $6,500 stipend for rising and graduating undergraduates, and an academic-year internship (Ostrover) with a $3,000 stipend for 200 hours, open to undergraduate and graduate students. Both follow a hybrid model requiring on-site work in New York. International applicants must hold valid U.S. work authorization."
+  },
+  {
+    "id": "solomon-r-guggenheim-museum",
+    "org": "Solomon R. Guggenheim Museum",
+    "program": "Internship Program",
+    "url": "https://www.guggenheim.org/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "summary": "Internships and academic programs at the Guggenheim Museum in New York for undergraduate and graduate students.",
+    "about": "The Solomon R. Guggenheim Museum runs an internship program supporting students interested in museum careers across curatorial, education, and administrative departments. Positions are based on-site in New York City."
+  },
+  {
+    "id": "newberry-library",
+    "org": "Newberry Library",
+    "program": "Fellowships",
+    "url": "https://www.newberry.org/research/fellowships",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "stipend",
+    "deadlineNote": "Long-term fellowships due Nov 20",
+    "summary": "Residential research fellowships at Chicago's Newberry Library for scholars, writers, and artists working in the humanities.",
+    "about": "The Newberry awards dozens of fellowships annually, including long-term (four to nine months) and short-term awards, plus artist-in-residence programs. Eligibility spans PhD candidates through senior academics, as well as writers, artists, and representatives of Tribal Nations. Long-term fellowship applications for the 2027-28 cycle are due November 20."
+  },
+  {
+    "id": "isabella-stewart-gardner-museum",
+    "org": "Isabella Stewart Gardner Museum",
+    "program": "Gardner Ambassadors Paid Internships",
+    "url": "https://www.gardnermuseum.org/about/employment",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; for Bunker Hill CC and UMass Boston students",
+    "summary": "Paid internships at Boston's Isabella Stewart Gardner Museum through the Gardner Ambassadors Program for local community-college and university students.",
+    "about": "The Gardner Ambassadors Program offers paid internship opportunities to students at Bunker Hill Community College and the University of Massachusetts Boston. Interns work on-site at the museum at 25 Evans Way in Boston."
+  },
+  {
+    "id": "winterthur-museum-garden-and-library",
+    "org": "Winterthur Museum, Garden & Library",
+    "program": "Research Fellowships",
+    "url": "https://www.winterthur.org/research/research-fellowships",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Winterthur",
+        "state": "DE",
+        "lat": 39,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "deadlineNote": "Due January 15",
+    "summary": "Short-term, long-term, remote, and Maker-Creator research fellowships at Winterthur for scholars and creators using its material-culture collections.",
+    "about": "Winterthur provides fellows access to its library, museum, and garden collections for material-culture research, with in-residence and remote options. Eligibility spans academics, museum professionals, and creative practitioners at all career stages, and the museum particularly encourages applicants from underrepresented communities. Applications are due January 15."
+  },
+  {
+    "id": "folger-shakespeare-library",
+    "org": "Folger Shakespeare Library",
+    "program": "Fellowships",
+    "url": "https://www.folger.edu/fellowships",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "summary": "Folger Institute fellowships supporting scholarly and artistic research on the early modern world in Washington, DC.",
+    "about": "The Folger offers multiple fellowship modules supporting individual scholarly and artistic research drawing on its early modern collections. Researchers come from fields including history, literature, art, performance, philosophy, religion, and politics. The program emphasizes equitable access by removing barriers to participation."
+  },
+  {
+    "id": "american-antiquarian-society",
+    "org": "American Antiquarian Society",
+    "program": "Fellowships",
+    "url": "https://www.americanantiquarian.org/fellowships",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Worcester",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Over 40 fellowships awarded annually",
+    "summary": "In-residence research fellowships at the American Antiquarian Society in Worcester for scholars, writers, and artists.",
+    "about": "AAS awards over forty fellowships annually, with tenures ranging from four weeks to twelve months of in-residence research at its library. Eligibility includes postdoctoral academics, advanced graduate students, independent scholars, and creative and performing artists and writers."
+  },
+  {
+    "id": "poetry-foundation",
+    "org": "Poetry Foundation",
+    "program": "Internships",
+    "url": "https://www.poetryfoundation.org/foundation/internships",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "summary": "Paid internships at the Poetry Foundation in Chicago for college students interested in publishing and literary programming.",
+    "about": "The Poetry Foundation offers paid internships supporting its editorial, programming, and administrative work. Positions are based at its Chicago headquarters."
+  },
+  {
+    "id": "library-of-congress",
+    "org": "Library of Congress",
+    "program": "Junior Fellows Summer Internship Program",
+    "url": "https://www.loc.gov/programs/of-the-people/represent/internships-and-fellowships/junior-fellows-summer-internship-program",
+    "industries": [
+      "government",
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend (~$4,000+)",
+    "deadlineNote": "Applications typically due in spring",
+    "summary": "A stipended summer internship at the Library of Congress in Washington, DC for undergraduate and graduate students working with its collections.",
+    "about": "The Junior Fellows Summer Internship Program gives undergraduate and graduate students hands-on experience with the Library's collections and resources. Fellows receive a stipend for the summer term, with applications typically due in spring."
+  },
+  {
+    "id": "art-institute-of-chicago",
+    "org": "Art Institute of Chicago",
+    "program": "Internships",
+    "url": "https://www.artic.edu/careers/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "summary": "Paid internships at the Art Institute of Chicago for undergraduate and graduate students across museum departments.",
+    "about": "The Art Institute of Chicago offers internships supporting curatorial, conservation, education, and administrative functions. Positions are based on-site at the museum in Chicago."
+  },
+  {
+    "id": "carnegie-hall",
+    "org": "Carnegie Hall",
+    "program": "Internships",
+    "url": "https://www.carnegiehall.org/About/Career-Opportunities/Internships",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "summary": "Paid internships at Carnegie Hall in New York for undergraduate and graduate students across artistic, education, and administrative departments.",
+    "about": "Carnegie Hall's internship program provides students experience in areas such as artistic planning, education programs, marketing, and development. Internships are based on-site in New York City."
+  },
+  {
+    "id": "jacob-s-pillow",
+    "org": "Jacob's Pillow",
+    "program": "Internship Program",
+    "url": "https://www.jacobspillow.org/education/internship-program",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Becket",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "stipend",
+    "summary": "A stipended summer internship at Jacob's Pillow dance festival in Becket, Massachusetts for college students pursuing arts careers.",
+    "about": "Jacob's Pillow offers seasonal internships supporting its summer dance festival across production, education, marketing, and administrative areas. Interns receive a stipend and work on-site at the Becket, Massachusetts campus."
+  },
+  {
+    "id": "wolf-trap-foundation-for-the-performing-arts",
+    "org": "Wolf Trap Foundation for the Performing Arts",
+    "program": "Internships",
+    "url": "https://www.wolftrap.org/education/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Vienna",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "Wolf Trap offers paid internships across performing-arts administration and production at its Virginia campus for college students.",
+    "about": "The Wolf Trap Foundation for the Performing Arts runs an internship program at its Vienna, Virginia venues supporting areas such as arts education, production, marketing, and development. Internships are paid and generally aimed at current college students seeking hands-on experience in the performing-arts field."
+  },
+  {
+    "id": "denver-art-museum",
+    "org": "Denver Art Museum",
+    "program": "Internships",
+    "url": "https://www.denverartmuseum.org/en/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Denver Art Museum offers paid internships giving college students experience across curatorial, education, and museum-operations departments.",
+    "about": "The Denver Art Museum's internship program places college students in departments such as curatorial, education, conservation, and administration. Internships are paid and based in-person at the museum in Denver, Colorado."
+  },
+  {
+    "id": "the-museum-of-fine-arts-houston",
+    "org": "The Museum of Fine Arts, Houston",
+    "program": "Internships",
+    "url": "https://www.mfah.org/about/careers/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Museum of Fine Arts, Houston offers paid internships for college and graduate students across curatorial, education, and museum-operations areas.",
+    "about": "The Museum of Fine Arts, Houston runs internships that provide undergraduate and graduate students hands-on experience in a major art museum, spanning curatorial, conservation, education, and administrative departments. Internships are paid and based in-person in Houston, Texas."
+  },
+  {
+    "id": "seattle-art-museum",
+    "org": "Seattle Art Museum",
+    "program": "Careers & Internships",
+    "url": "https://www.seattleartmuseum.org/about-sam/careers-and-internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Seattle Art Museum offers paid internships for college students across curatorial, education, and administrative departments.",
+    "about": "The Seattle Art Museum's careers and internships page lists internship opportunities that give college students experience in museum operations, curatorial work, and education. Internships are paid and based in-person in Seattle, Washington."
+  },
+  {
+    "id": "detroit-institute-of-arts",
+    "org": "Detroit Institute of Arts",
+    "program": "Internships",
+    "url": "https://www.dia.org/get-involved/internships",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Detroit Institute of Arts offers paid internships giving college students experience across curatorial, education, and museum-operations departments.",
+    "about": "The Detroit Institute of Arts runs an internship program for college students across areas such as curatorial, education, conservation, and administration. Internships are paid and based in-person at the museum in Detroit, Michigan."
+  },
+  {
+    "id": "the-public-theater",
+    "org": "The Public Theater",
+    "program": "Fellowships & Internships",
+    "url": "https://publictheater.org/about/careers",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid fellowships and internships",
+    "summary": "The Public Theater offers paid fellowships and internships for college and graduate students across artistic, production, and administrative areas of theater-making.",
+    "about": "The Public Theater in New York City posts fellowships and internships on its careers page, offering emerging theater professionals experience in artistic, production, literary, and administrative work. Positions are paid and based in-person at the theater in Manhattan."
+  },
+  {
+    "id": "mystic-seaport-museum",
+    "org": "Mystic Seaport Museum",
+    "program": "Internships",
+    "url": "https://mysticseaport.org/about/employment/internships",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Mystic",
+        "state": "CT",
+        "lat": 41.3543,
+        "lng": -71.9665
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid via stipend; onsite housing available for a small monthly fee for select programs",
+    "summary": "Mystic Seaport Museum offers paid, stipend-supported summer internships for upper-level undergraduates in maritime history, archives, and science.",
+    "about": "Mystic Seaport Museum hosts full-time (35 hours/week) summer internships for rising-sophomore-through-senior undergraduates, all paid via stipend. For summer 2026 the museum is hosting partner-funded roles, including SNEC-funded Historic Archival and Summer Science interns open to undergraduates in Rhode Island or southeastern Connecticut, with SNEC applications due March 30, 2026. Benefits include research-facility access and a year-long membership after completion."
+  },
+  {
+    "id": "colonial-williamsburg-foundation",
+    "org": "Colonial Williamsburg Foundation",
+    "program": "Internships",
+    "url": "https://www.colonialwilliamsburg.org/foundation/careers/internships",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Williamsburg",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Colonial Williamsburg Foundation offers paid summer internships for college students in history interpretation, museum work, and related fields.",
+    "about": "The Colonial Williamsburg Foundation runs internships, including summer programs, that give college students experience in living-history interpretation, museums, education, and cultural-heritage operations. Internships are paid and based in-person in Williamsburg, Virginia."
+  },
+  {
+    "id": "the-morgan-library-and-museum",
+    "org": "The Morgan Library & Museum",
+    "program": "Internship Program",
+    "url": "https://www.themorgan.org/about/internship-program",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Morgan Library & Museum offers paid internships for college and graduate students in curatorial, library, conservation, and administrative work.",
+    "about": "The Morgan Library & Museum's internship program provides undergraduate and graduate students experience across curatorial departments, the library, conservation, and museum administration. Internships are paid and based in-person in New York City."
+  },
+  {
+    "id": "american-council-of-learned-societies",
+    "org": "American Council of Learned Societies",
+    "program": "Fellowships",
+    "url": "https://www.acls.org/programs/fellowships",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend-based research fellowships (award amounts vary by program)",
+    "summary": "The American Council of Learned Societies offers stipend-based national research fellowships supporting scholars in the humanities and related social sciences.",
+    "about": "The American Council of Learned Societies (ACLS) administers a range of competitive research fellowships for scholars in the humanities and interpretive social sciences, typically at the graduate, postdoctoral, and faculty levels. Fellowships provide stipends to support independent research and are national in scope, with recipients pursuing their work at their home or chosen institutions."
+  },
+  {
+    "id": "tenement-museum",
+    "org": "Tenement Museum",
+    "program": "Internships",
+    "url": "https://tenement.org/about/careers",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The Tenement Museum offers paid internships for college students in education, interpretation, and museum operations focused on immigration history.",
+    "about": "New York City's Tenement Museum posts internships on its careers page, giving college students experience in visitor education, historical interpretation, and museum operations centered on American immigrant history. Internships are paid and based in-person on the Lower East Side."
+  },
+  {
+    "id": "ross-mathematics-program",
+    "org": "Ross Mathematics Program",
+    "program": "Ross Mathematics Program",
+    "url": "https://rossprogram.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition-based with financial aid available",
+    "deadlineNote": "Applications for Summer 2026 are closed; the program typically opens applications in winter and closes in late March/spring.",
+    "summary": "The Ross Mathematics Program is a six-week intensive residential summer program in number theory for motivated pre-college students.",
+    "about": "The Ross Mathematics Program is a six-week immersive summer experience where talented high school students explore mathematics through independent discovery, centered on number theory. Summer 2026 runs June 14 through July 24 at two sites, Otterbein University in Columbus, Ohio and Rose-Hulman Institute of Technology in Terre Haute, Indiana. It is supported by partners including the American Mathematical Society, Jane Street, and Citadel, and offers financial aid."
+  },
+  {
+    "id": "hampshire-college-summer-studies-in-mathematic",
+    "org": "Hampshire College Summer Studies in Mathematics (HCSSiM)",
+    "program": "HCSSiM",
+    "url": "https://www.hcssim.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Amherst",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "$7,208 for the 2026 session; financial aid available",
+    "deadlineNote": "Applications for the 2026 session close April 17, 2026 (11:59pm EST); Interesting Test work due April 25, 2026.",
+    "summary": "HCSSiM is an intensive six-week residential summer program immersing talented high school students in college-level mathematics through active problem-solving.",
+    "about": "Hampshire College Summer Studies in Mathematics (HCSSiM) is a six-week residential encounter with college-level mathematics for motivated high school students, who live in dorms and do mathematics rather than passively learn results. The 54th session runs June 28 through August 8, 2026 on the Hampshire College campus in Massachusetts; tuition is $7,208 with financial aid available. Though Hampshire College announced a December 2026 closure, HCSSiM is a separate entity that will continue, with a new campus expected for 2027."
+  },
+  {
+    "id": "canada-usa-mathcamp",
+    "org": "Canada/USA Mathcamp",
+    "program": "Mathcamp",
+    "url": "https://www.mathcamp.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "deadlineNote": "Application (with Qualifying Quiz) due mid-March; details for the next summer announced in December",
+    "summary": "An intensive residential summer program for mathematically talented students ages 13-18 from around the world.",
+    "about": "Canada/USA Mathcamp is an immersive summer program that brings mathematically talented teens (ages 13-18) together on a college campus for about five weeks of advanced, discovery-based mathematics. The 2026 session ran June 28 to August 2 at Champlain College in Burlington, VT. Admission requires solving a Qualifying Quiz, and need-based financial aid is available."
+  },
+  {
+    "id": "mathily",
+    "org": "MathILy",
+    "program": "MathILy",
+    "url": "https://www.mathily.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Bryn Mawr",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "paid",
+    "summary": "A five-week residential summer program of discovery-based advanced mathematics for high-achieving secondary students.",
+    "about": "MathILy, run by Mathematical Staircase, Inc., is a five-week intensive residential summer program for mathematically excellent secondary students. Instructors provide a framework and students make and prove their own conjectures through inquiry-based learning. It is held at Bryn Mawr College near Philadelphia, PA (Summer 2026: June 28 to August 1)."
+  },
+  {
+    "id": "yale-university",
+    "org": "Yale University",
+    "program": "Yale Young Global Scholars (YYGS)",
+    "url": "https://globalscholars.yale.edu",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "government",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New Haven",
+        "state": "CT",
+        "lat": 41.3083,
+        "lng": -72.9279
+      }
+    ],
+    "cost": "paid",
+    "deadlineNote": "Need-based financial aid available; application expected to open by end of September for the following summer",
+    "summary": "A two-week interdisciplinary academic enrichment program for outstanding high school students held on Yale's campus.",
+    "about": "Yale Young Global Scholars is a residential academic enrichment program in which outstanding high school students from over 150 countries and all 50 U.S. states attend one two-week session on Yale's New Haven campus. Students choose among interdisciplinary tracks (IST, PLE, SGC). Need-based financial aid and scholarships are offered; online sessions are not currently offered."
+  },
+  {
+    "id": "cornell-university",
+    "org": "Cornell University",
+    "program": "Cornell Precollege Studies (Summer)",
+    "url": "https://sce.cornell.edu/audience/precollege-studies",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Ithaca",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "paid",
+    "summary": "Precollege program letting high schoolers take credit-bearing Cornell courses online, on campus, or as commuters.",
+    "about": "Cornell Precollege Studies, run by the School of Continuing Education, lets high school students entering their junior or senior year enroll in real Cornell University courses alongside undergraduates and earn an official transcript and transferable credit. Formats include an online program (summer and winter), a three-to-six-week residential summer program, and a commuter program for local students. Tuition and financial-assistance details are provided on the site."
+  },
+  {
+    "id": "columbia-university",
+    "org": "Columbia University",
+    "program": "Columbia Pre-College Summer Programs",
+    "url": "https://precollege.sps.columbia.edu/programs/summer-programs",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "summary": "Columbia's summer pre-college programs offering high schoolers residential, commuter, and online academic tracks.",
+    "about": "Columbia University's Pre-College Programs offer high school students summer study across several tracks, including NYC Residential, NYC Commuter, Online, College Edge (for-credit), and the CSPA Summer Journalism Workshop. Students study alongside peers from around the world; residential participants live on the Morningside campus. Program requirements, deadlines, and costs are listed via linked admissions pages."
+  },
+  {
+    "id": "university-of-california-davis",
+    "org": "University of California, Davis",
+    "program": "Young Scholars Program",
+    "url": "https://education.ucdavis.edu/young-scholars-program",
+    "industries": [
+      "science",
+      "environment",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Davis",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "deadlineNote": "Applications open Jan 1 and close in the spring; decisions by mid-April",
+    "summary": "A summer residential research program introducing about 40 high-achieving high schoolers to original science research at UC Davis.",
+    "about": "The UC Davis Young Scholars Program is a summer residential program in which roughly 40 high-achieving high school students conduct original research in the biological, agricultural, environmental, and natural sciences alongside UC Davis researchers in campus labs. Participants live on campus and take part in a faculty lecture series and Northern California field trips (Summer 2026: June 21 to August 1). There is a program cost, and financial support is available for students who cannot afford it."
+  },
+  {
+    "id": "telluride-association",
+    "org": "Telluride Association",
+    "program": "Telluride Association Summer Seminar (TASS)",
+    "url": "https://www.tellurideassociation.org/our-programs/high-school-students",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Full cost covered (tuition, books, room, board, field trips, facilities; travel/financial aid available)",
+    "deadlineNote": "Applications open mid-October and close in early December",
+    "summary": "A free, fully funded five-week residential humanities and social-sciences seminar for high school sophomores and juniors.",
+    "about": "The Telluride Association Summer Seminar (TASS) is a five-week residential program for high school sophomores and juniors (ages 15-17) centered on college-level humanities and social sciences, with daily discussion-based classes and community activities. Two study areas are offered, TASS-CBS and TASS-AOS. Telluride Association covers all program costs, no grades are assigned, and needing financial aid does not affect admission."
+  },
+  {
+    "id": "worcester-polytechnic-institute",
+    "org": "Worcester Polytechnic Institute",
+    "program": "Frontiers",
+    "url": "https://www.wpi.edu/academics/pre-collegiate/summer/frontiers",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Worcester",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "summary": "WPI's residential summer STEM program immersing high school students in hands-on science, technology, and engineering.",
+    "about": "Frontiers is Worcester Polytechnic Institute's pre-collegiate residential summer program giving high school students immersive, hands-on experience in STEM disciplines on WPI's campus in Worcester, MA. Students engage in academic workshops and lab-based projects with WPI faculty and staff."
+  },
+  {
+    "id": "rice-university",
+    "org": "Rice University",
+    "program": "Rice Precollege Programs",
+    "url": "https://precollege.rice.edu",
+    "industries": [
+      "education",
+      "science",
+      "technology",
+      "law"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Fully online, self-paced Rice University precollege courses for students ages 13 and up.",
+    "about": "Rice Precollege Programs offer 100% online, self-paced courses for students ages 13 and up across subjects such as AI, engineering, medicine, law, economics, and genome engineering. Each course includes 20-30 hours of instruction, mentorship, and a capstone project, earning a Certificate of Completion from Rice University. Courses run throughout the year at $1,795 each, with need-based scholarships available."
+  },
+  {
+    "id": "city-of-hope",
+    "org": "City of Hope",
+    "program": "Eugene and Ruth Roberts Summer Student Academy",
+    "url": "https://www.cityofhope.org/eugene-and-ruth-roberts-summer-student-academy",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Duarte",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (stipend)",
+    "summary": "A paid summer biomedical research academy for high school and college students at City of Hope.",
+    "about": "The Eugene and Ruth Roberts Summer Student Academy at City of Hope is a summer program in which high school and undergraduate students conduct hands-on biomedical research alongside faculty mentors at the Duarte, CA campus. Students carry out an independent laboratory project and present their findings, and participants receive a stipend."
+  },
+  {
+    "id": "ut-southwestern-medical-center",
+    "org": "UT Southwestern Medical Center",
+    "program": "STARS Summer Research Program",
+    "url": "https://www.utsouthwestern.edu/education/nondegree-programs/stars/programs/summer-research-opportunities.html",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Dallas",
+        "state": "TX",
+        "lat": 32.7767,
+        "lng": -96.797
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (stipend)",
+    "deadlineNote": "Applications available November 21 to January 20 (dates subject to change)",
+    "summary": "A paid eight-week non-residential summer research program placing North Texas high school juniors in UT Southwestern biomedical labs.",
+    "about": "The STARS Summer Research Opportunities program at UT Southwestern Medical Center places North Texas high school juniors (at least 16 by June 1) in biomedical research laboratories to work side by side with a faculty host for eight weeks. The non-residential program is based in Dallas, TX, does not include clinical or shadowing work, and requires an end-of-summer research presentation. Participants are paid a stipend."
+  },
+  {
+    "id": "georgetown-university",
+    "org": "Georgetown University",
+    "program": "Hoya Summer High School Sessions",
+    "url": "https://summer.georgetown.edu",
+    "industries": [
+      "education",
+      "government",
+      "law",
+      "business",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "summary": "Georgetown's summer high school sessions offering in-person academies, credit courses, and online programs in Washington, DC.",
+    "about": "Hoya Summer High School Sessions, run by Georgetown's School of Continuing Studies, give high school students summer study options including 1-to-3-week Academies, a five-week College Prep program, Summer College credit courses, and self-paced Online Programs. In-person offerings include collaborative simulations, group discussions, and Washington, DC field trips. Costs and scholarships are detailed via linked pages."
+  },
+  {
+    "id": "pioneer-academics",
+    "org": "Pioneer Academics",
+    "program": "Pioneer Research Program",
+    "url": "https://pioneeracademics.com",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A fully online, accredited research program pairing high school students one-on-one with professors to produce college-level research papers.",
+    "about": "Pioneer is described as the world's first and only fully accredited online research program for high school students in grades 9-12, with scholars from over 90 countries. Participants work one-on-one with professors on original research and can earn transferable college credits through a partnership with Oberlin College. Need-based scholarships are available."
+  },
+  {
+    "id": "lumiere-education",
+    "org": "Lumiere Education",
+    "program": "Lumiere Research Scholar Program",
+    "url": "https://www.lumiere-education.com",
+    "industries": [
+      "education",
+      "science",
+      "business"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A remote research mentorship program where high school students work one-on-one with PhD mentors to complete an independent research project.",
+    "about": "Founded by Harvard and Oxford researchers, the Lumiere Research Scholar Program pairs high school students with PhD mentors from top universities to produce an independent research paper. Completing a program can make students eligible for post-baccalaureate credit through UC San Diego Extended Studies. Financial aid is available for low-income students."
+  },
+  {
+    "id": "polygence",
+    "org": "Polygence",
+    "program": "Polygence Research Program",
+    "url": "https://www.polygence.org",
+    "industries": [
+      "education",
+      "science",
+      "technology",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "An online research mentorship program pairing students one-on-one with PhD-level mentors to create original projects across 150+ subject areas.",
+    "about": "Founded in 2019, Polygence connects middle and high school students with expert mentors for mentored research over 3-12 months, producing outcomes like papers, prototypes, apps, or podcasts. Options include Core Projects, Scholar Pathways, group Pods, and Work Lab internships, with add-ons for transferable UC Irvine credit. It reports over 10,000 alumni."
+  },
+  {
+    "id": "stanford-university-mathematics-camp-sumac",
+    "org": "Stanford University Mathematics Camp (SUMaC)",
+    "program": "SUMaC",
+    "url": "https://sumac.spcs.stanford.edu",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Stanford",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "deadlineNote": "Applications due in winter/early spring",
+    "summary": "An intensive advanced-mathematics summer program for rising high school juniors and seniors, offered online (3 weeks) or residentially at Stanford (4 weeks).",
+    "about": "SUMaC guides a select group of rising high school juniors and seniors through advanced topics like abstract algebra, number theory, and algebraic topology via lectures, guided research, and group problem solving. Both online and residential sessions offer equal academic rigor and culminate in a final research project. The program is enrichment-only, not for credit or grade, and tuition with financial aid is detailed on its site."
+  },
+  {
+    "id": "university-of-california-los-angeles",
+    "org": "University of California, Los Angeles",
+    "program": "UCLA Summer Sessions – High School Programs",
+    "url": "https://summer.ucla.edu/student-types/high-school-students",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "summary": "A suite of UCLA summer programs letting high school students earn college credit through in-person, hybrid, and online courses and immersion tracks.",
+    "about": "UCLA Summer Sessions offers high schoolers options including Summer Courses alongside UCLA students, three-week Summer Intensives, the Summer College Immersion Program (SCIP), Precollege Focus Series, and the online BASE scholarship program for under-resourced California students. Formats span in-person, hybrid, and online. Need- and merit-based scholarships are available."
+  },
+  {
+    "id": "emory-university",
+    "org": "Emory University",
+    "program": "Emory Pre-College Program",
+    "url": "https://precollege.emory.edu",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "paid",
+    "summary": "A residential summer program giving high school sophomores and juniors a preview of academic and residential life at Emory University.",
+    "about": "The Emory Pre-College Program offers current high school sophomores and juniors 100+ courses taught by Emory faculty, split between noncredit Pre-College and credit-bearing Summer College options. It is a primarily in-person, residential experience on Emory's Atlanta campus. Costs and scholarships are detailed on a separate page."
+  },
+  {
+    "id": "northwestern-university-center-for-talent-deve",
+    "org": "Northwestern University Center for Talent Development",
+    "program": "CTD Summer Program (Grades 9–12)",
+    "url": "https://www.ctd.northwestern.edu/programs-grade-9-grade-12",
+    "industries": [
+      "education",
+      "science",
+      "business"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Evanston",
+        "state": "IL",
+        "lat": 42.0451,
+        "lng": -87.6877
+      }
+    ],
+    "cost": "paid",
+    "summary": "Northwestern CTD offers accelerated honors, AP, and college-level summer day and residential camps for high school students in grades 9-12.",
+    "about": "The Center for Talent Development offers grades 9-12 rigorous summer academic day and residential camps on Northwestern's Evanston campus, alongside social activities. Course options also include online, weekend, and leadership/service-learning formats. Need-based financial aid is available for most CTD programs."
+  },
+  {
+    "id": "california-state-summer-school-for-the-arts",
+    "org": "California State Summer School for the Arts",
+    "program": "CSSSA (Inner Spark)",
+    "url": "https://www.csssa.ca.gov",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pomona",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "deadlineNote": "Applications due late winter; scholarships available",
+    "summary": "A state-run residential summer arts school for high school students across eight arts disciplines.",
+    "about": "The California State Summer School for the Arts (CSSSA) is an official State of California program offering intensive residential summer training in Animation, Architecture & Environmental Design, Dance, Film, Music, Theater, Visual Art, and Writing. Admission is application-based, with residential life on campus in Pomona. Tuition and financial aid details are provided on the site."
+  },
+  {
+    "id": "boston-leadership-institute",
+    "org": "Boston Leadership Institute",
+    "program": "Summer STEM Research Programs",
+    "url": "https://www.bostonleadershipinstitute.com",
+    "industries": [
+      "science",
+      "technology",
+      "healthcare",
+      "business"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "research",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Wellesley",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Three-week tuition $2,500; one-week tuition $699",
+    "summary": "Award-winning three-week and one-week summer STEM research programs for teens, with in-person and remote options culminating in an independent project.",
+    "about": "Boston Leadership Institute offers high school students college-level STEM programs in science, engineering/technology, medicine, and business, combining classroom learning, lab work, and mentorship. Three-week programs culminate in an independent research project and final presentation, with field trips to Boston-area research institutions. In-person programs are headquartered in Wellesley, MA, and remote programs are open to students worldwide."
   }
 ];
