@@ -12222,5 +12222,1593 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "compensation": "Paid",
     "summary": "MGM Resorts International recruits interns and early-career talent through its official careers site for its hospitality, gaming, and entertainment business.",
     "about": "MGM Resorts International is a global hospitality and entertainment company operating casino resorts and destinations, headquartered in Las Vegas. Its official careers domain, mgmresortscareers.com, hosts job search and early-career opportunities across hospitality, gaming, and corporate functions. The site could not be fetched directly due to a CDN certificate configuration that blocks automated access."
+  },
+  {
+    "id": "nuro",
+    "org": "Nuro",
+    "url": "https://www.nuro.ai/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Mountain View",
+        "state": "CA",
+        "lat": 37.422,
+        "lng": -122.0841
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Nuro offers paid early-career internships for college students working on its autonomous driving technology and business operations.",
+    "about": "Nuro is an autonomous vehicle technology company building self-driving systems, headquartered in Mountain View, California. Its careers page features an Early Career track with internships open to students from varied backgrounds and majors, plus a community-college Career Pathways program for the autonomous and electric vehicle field."
+  },
+  {
+    "id": "quantcast",
+    "org": "Quantcast",
+    "url": "https://www.quantcast.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Quantcast recruits interns and early-career talent through its official careers page, which links to current open roles.",
+    "about": "Quantcast is an advertising technology and audience-measurement company headquartered in San Francisco. Its careers page highlights a global mentorship program, career pathing, and a hybrid work model, and points candidates to its open-roles listings where internship positions are posted."
+  },
+  {
+    "id": "rippling",
+    "org": "Rippling",
+    "url": "https://www.rippling.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rippling posts internship and early-career roles through its official careers page and open-roles listings.",
+    "about": "Rippling is a workforce-management software company headquartered in San Francisco that unifies HR, IT, and finance systems. Its official careers page details company growth and culture and links to its open-roles board where internship positions are listed."
+  },
+  {
+    "id": "kensho-technologies",
+    "org": "Kensho Technologies",
+    "url": "https://www.kensho.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "state": "MA",
+        "lat": 42.3736,
+        "lng": -71.1097
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Kensho lists Summer 2026 internships in machine learning, product design, and research on its official careers page.",
+    "about": "Kensho Technologies is an applied-AI and machine-learning company, a subsidiary of S&P Global, based in Cambridge, Massachusetts. Its careers page advertises Summer 2026 internships including Machine Learning Intern, Product Design Intern, and Research Scientist Summer Intern roles across New York and Cambridge."
+  },
+  {
+    "id": "twitch",
+    "org": "Twitch",
+    "url": "https://careers.twitch.com/en",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Twitch offers internships, apprenticeships, and new-graduate roles through its official early-career careers site.",
+    "about": "Twitch is a live-streaming platform focused on gaming, entertainment, and creator communities, owned by Amazon and headquartered in San Francisco. Its official careers site invites candidates to browse internships, apprenticeships, and new-graduate opportunities, including recently opened Software and Security Engineering internships."
+  },
+  {
+    "id": "waymo",
+    "org": "Waymo",
+    "url": "https://careers.withwaymo.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Mountain View",
+        "state": "CA",
+        "lat": 37.422,
+        "lng": -122.0841
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Waymo runs an internship program for Bachelors through PhD candidates across engineering and business teams.",
+    "about": "Waymo is an autonomous driving technology company, a subsidiary of Alphabet, headquartered in Mountain View, California. Its official careers site describes an Early Careers internship program open to Bachelors, Masters, MBA, and PhD candidates on both business and engineering teams, used as a pipeline for full-time offers."
+  },
+  {
+    "id": "benchling",
+    "org": "Benchling",
+    "url": "https://www.benchling.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Benchling recruits student interns through the University Recruiting section of its official careers page.",
+    "about": "Benchling is a life-sciences software company providing an R&D cloud platform for biotech research, headquartered in San Francisco. Its official careers page includes a University Recruiting section for students, with internship openings posted seasonally."
+  },
+  {
+    "id": "riot-games",
+    "org": "Riot Games",
+    "url": "https://www.riotgames.com/en/work-with-us",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Riot Games runs Emerging Talent internship programs advertised on its official careers page.",
+    "about": "Riot Games is a video game developer and publisher, best known for League of Legends and VALORANT, headquartered in Los Angeles. Its careers page features Emerging Talent Programs and an Internships category, with intern roles spanning undergraduate through graduate candidates."
+  },
+  {
+    "id": "gusto",
+    "org": "Gusto",
+    "url": "https://gusto.com/about/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Gusto recruits interns and early-career talent through its official corporate careers page.",
+    "about": "Gusto is a payroll, benefits, and HR software company serving small and medium businesses, headquartered in San Francisco. Its official careers page hosts open roles including internships; automated fetching was bot-blocked, which is typical for its corporate site."
+  },
+  {
+    "id": "bytedance",
+    "org": "ByteDance",
+    "url": "https://joinbytedance.com",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "ByteDance offers Early Careers internships for undergraduate, masters, and PhD students via its official careers site.",
+    "about": "ByteDance is a global technology company that operates content and social platforms including TikTok and CapCut. Its official careers site features an Early Careers and Internships section with opportunities for undergraduate, masters, and PhD students across its worldwide offices."
+  },
+  {
+    "id": "aurora-innovation",
+    "org": "Aurora Innovation",
+    "url": "https://aurora.tech/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Aurora Innovation posts internship and early-career roles through the open-roles search on its official careers page.",
+    "about": "Aurora Innovation is a self-driving technology company developing the Aurora Driver for trucking and ride-hailing, headquartered in Pittsburgh. Its official careers page offers a searchable openings board with company benefits and culture information where internship roles are listed."
+  },
+  {
+    "id": "roblox",
+    "org": "Roblox",
+    "url": "https://careers.roblox.com",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Mateo",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Roblox recruits interns and early-career talent through its official careers site.",
+    "about": "Roblox is a technology company operating an online platform where users create and play immersive 3D experiences, headquartered in San Mateo, California. Its official careers site hosts open roles including internship positions; automated fetching timed out, which is typical of the site's heavy client-side rendering."
+  },
+  {
+    "id": "braze",
+    "org": "Braze",
+    "url": "https://www.braze.com/company/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Braze recruits interns and early-career talent through the careers section of its official corporate site.",
+    "about": "Braze is a customer engagement platform for cross-channel messaging and marketing, headquartered in New York City. Its official corporate site hosts a careers section with job openings, including internship and early-career roles."
+  },
+  {
+    "id": "niantic",
+    "org": "Niantic",
+    "url": "https://nianticspatial.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Niantic Spatial's careers page lists hybrid roles at the geospatial/AR technology company that continued after Niantic's games business was acquired by Scopely in 2025.",
+    "about": "Niantic Spatial is the geospatial and AR technology company that carried on after Niantic's games division (Pokemon GO and others) was acquired by Scopely in 2025. Its careers page describes a hybrid work model, offices in San Francisco, Sunnyvale, Bellevue, London, and Tokyo, and a mission to build a 'living model of the world.' The original Niantic Labs site now redirects to Scopely."
+  },
+  {
+    "id": "vmware",
+    "org": "VMware",
+    "program": "Broadcom Careers (VMware now part of Broadcom)",
+    "url": "https://www.broadcom.com/company/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Palo Alto",
+        "state": "CA",
+        "lat": 37.4419,
+        "lng": -122.143
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Broadcom, which now includes VMware, recruits undergraduate interns through its official corporate careers portal.",
+    "about": "VMware is a virtualization, cloud and enterprise software company that became part of Broadcom in 2023. Its internship and early-career openings are now hosted on Broadcom's official careers site. Roles span software engineering and other technical and business functions and are recruited nationally."
+  },
+  {
+    "id": "bny-mellon",
+    "org": "BNY Mellon",
+    "program": "Early Career / Internship Program",
+    "url": "https://www.bny.com/corporate/global/en/about-us/careers/work-with-us.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "BNY offers early-career internships and analyst programs for students across its global financial services business.",
+    "about": "BNY (Bank of New York Mellon) is a global financial services and investment company. Its Early Career track spans pre-internships, apprenticeships, summer internships and full-time analyst programs referencing recent analyst cohorts. Internships feed into full-time analyst opportunities across the firm."
+  },
+  {
+    "id": "nomura",
+    "org": "Nomura",
+    "program": "Early Careers",
+    "url": "https://www.nomura.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Nomura runs an Early Careers track for students and recent graduates, including US campus internship programs.",
+    "about": "Nomura is a global investment bank headquartered in Asia (Japan) with substantial US operations. Its careers site has a dedicated Early Careers section for students and recent graduates alongside experienced-professional roles. In the US, Nomura offers campus internship and analyst programs that can lead to full-time positions."
+  },
+  {
+    "id": "expedia-group",
+    "org": "Expedia Group",
+    "program": "Emerging Talent - Internship",
+    "url": "https://careers.expediagroup.com/emerging-talent-and-careers",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Expedia Group's Emerging Talent program offers 8-14 week summer internships across engineering, data science, product, and business functions.",
+    "about": "Expedia Group is a global travel technology company. Its Emerging Talent & Careers program includes Internship (8-14 weeks, starting May/June), Graduate, Apprenticeship, and Military Placement tracks. Career areas span Software Engineering, Data Science/Analytics, Machine Learning, Product and Program Management, Finance, Marketing, and Design, with US locations including Seattle, Austin, and Chicago."
+  },
+  {
+    "id": "okta",
+    "org": "Okta",
+    "program": "Early Careers / Intern Program",
+    "url": "https://www.okta.com/company/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Okta's Early Careers track includes an intern program working on identity and cybersecurity challenges alongside experienced mentors.",
+    "about": "Okta is an identity and access management technology company. Its careers site features an Early Careers section with a dedicated intern program (okta.com/company/careers/intern-program). Interns work on cybersecurity and identity challenges with world-class mentors across teams like Engineering, Security, and Product."
+  },
+  {
+    "id": "societe-generale",
+    "org": "Societe Generale",
+    "program": "Students & Graduates - Internships",
+    "url": "https://careers.societegenerale.com/en",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Societe Generale's Students & Graduates section offers internships, an international VIE program, and graduate programmes across its banking businesses.",
+    "about": "Societe Generale is a France-based global banking and financial services group with US operations. Its official careers site has a dedicated Students & Graduates area offering internships, the V.I.E international internship program, and graduate programmes. The firm cites its Happy Trainees survey noting 87.4% of interns, work-study participants and VIEs recommend the company."
+  },
+  {
+    "id": "x-formerly-twitter",
+    "org": "X (formerly Twitter)",
+    "url": "https://careers.x.com/en",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "X (formerly Twitter) recruits interns and early-career talent through its official careers site.",
+    "about": "X, formerly Twitter, is a technology and social media company based in San Francisco. Its careers are hosted at the official careers.x.com domain. The site was bot-blocked during verification, so specific internship program details could not be confirmed on-page."
+  },
+  {
+    "id": "susquehanna-international-group-sig",
+    "org": "Susquehanna International Group (SIG)",
+    "program": "Campus / Internships",
+    "url": "https://careers.sig.com/campus",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Bala Cynwyd",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "SIG's campus program offers internships in trading, technology, and quantitative research for students.",
+    "about": "Susquehanna International Group (SIG) is a global quantitative trading firm headquartered in Bala Cynwyd, PA. Its official campus careers page hosts internship and early-career opportunities. SIG recruits students nationally for trading, technology, and quantitative research roles."
+  },
+  {
+    "id": "mongodb",
+    "org": "MongoDB",
+    "program": "Students & Graduates / Campus",
+    "url": "https://www.mongodb.com/careers/departments/campus",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "MongoDB's campus program provides student internships and graduate roles with career development and world-class mentors.",
+    "about": "MongoDB is a database technology company headquartered in New York. Its official careers site features a Students & Graduates campus program offering intern and graduate opportunities. Participants get career development support and mentorship across engineering and other functions."
+  },
+  {
+    "id": "td-bank",
+    "org": "TD Bank",
+    "program": "Students & New Grads - Internship/Co-op",
+    "url": "https://careers.td.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cherry Hill",
+        "state": "NJ",
+        "lat": 40.1,
+        "lng": -74.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "TD's Students & new grads programs include undergraduate and graduate internships and co-ops across its banking businesses.",
+    "about": "TD Bank is the US arm of TD, one of North America's largest banks. Its official careers site has a dedicated Students & new grads section covering Early Talent Programs, regional programs (including the USA), Graduate Leadership Programs, and an Internship/Co-op category for undergraduate and graduate students."
+  },
+  {
+    "id": "stifel",
+    "org": "Stifel",
+    "url": "https://www.stifel.com/about/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "St. Louis",
+        "state": "MO",
+        "lat": 38.4,
+        "lng": -92.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Stifel offers internship and early-career opportunities in financial services through its official careers site.",
+    "about": "Stifel is a financial services and investment banking firm headquartered in St. Louis, MO. Its careers are hosted on the official stifel.com domain. The page was bot-blocked (403) during verification, so specific internship details could not be read on-page."
+  },
+  {
+    "id": "docusign",
+    "org": "DocuSign",
+    "program": "Global Intern Experience",
+    "url": "https://careers.docusign.com/students",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "DocuSign's Global Intern Experience is a 12-week summer program for university students with mentorship and full-time conversion pathways.",
+    "about": "DocuSign is an agreement-management technology company. Its Global Intern Experience is a 12-week summer program for university students, running twice yearly starting late May/early June. Interns get coaching, workshops, a leadership speaker series, ERG access, and opportunities to convert to full-time; internships are hybrid with a minimum of 2 days per week in-office."
+  },
+  {
+    "id": "roku",
+    "org": "Roku",
+    "program": "Rising Streamers Internship",
+    "url": "https://www.weareroku.com/early-career",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Jose",
+        "state": "CA",
+        "lat": 37.3382,
+        "lng": -121.8863
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Roku's Rising Streamers internship program and university engagements give students hands-on experience in streaming TV technology.",
+    "about": "Roku is a streaming television technology and media company headquartered in San Jose, CA. Its official careers site (weareroku.com) has an Early Career section featuring university engagements and an internship program called Rising Streamers. The program aims to empower aspiring individuals to help shape the future of TV."
+  },
+  {
+    "id": "state-street",
+    "org": "State Street",
+    "program": "Early Career / Students & Graduates",
+    "url": "https://careers.statestreet.com/global/en",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "State Street offers early-career internships and entry-level programs in financial services through its official careers site.",
+    "about": "State Street is a financial services and asset management company headquartered in Boston, MA. Its official careers site features an early-career area for those just beginning their job search. State Street recruits students and graduates nationally for internships and entry-level roles."
+  },
+  {
+    "id": "chewy",
+    "org": "Chewy",
+    "program": "Campus & Early Career Programs",
+    "url": "https://careers.chewy.com/us/en/student-programs-jobs",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Plantation",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Chewy's Campus & Early Career Programs offer hands-on internships at a fast-growing e-commerce company.",
+    "about": "Chewy is an e-commerce company focused on pet products and services, headquartered in Plantation, FL. Its official careers site includes a Campus & Early Career Programs section inviting students to gain real-world, hands-on experience. Career categories span Corporate, Customer Care, Veterinary, Fulfillment, Pharmacy, and campus/early-career roles."
+  },
+  {
+    "id": "vista-equity-partners",
+    "org": "Vista Equity Partners",
+    "url": "https://www.vistaequitypartners.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Vista Equity Partners recruits early-career talent into its enterprise-software-focused private equity firm through its careers portal.",
+    "about": "Vista Equity Partners is a leading global investment firm focused on enterprise software, data, and technology-enabled businesses. Its careers page links to open roles at both the firm and its portfolio companies, and highlights benefits, values, and professional development. Corporate roles, including intern positions, are typically based out of hub offices such as Austin, San Francisco, Chicago, and New York."
+  },
+  {
+    "id": "lyft",
+    "org": "Lyft",
+    "url": "https://www.lyft.com/careers/university",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Lyft's Early Talent Programs place college students into internships and new graduates into entry-level roles across its transportation-technology teams.",
+    "about": "Lyft is a rideshare and transportation-technology company that runs Early Talent Programs for students and new graduates. Interns work in small cohorts on real projects with assigned mentors plus lunch-and-learns with interns and executives, while new grads are trusted with critical projects. The program spans engineering and other functions."
+  },
+  {
+    "id": "godaddy",
+    "org": "GoDaddy",
+    "url": "https://careers.godaddy/emergingtalent",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Tempe",
+        "state": "AZ",
+        "lat": 34.2,
+        "lng": -111.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GoDaddy's Emerging Talent program brings on interns and early-career hires who make an impact from day one with mentor-driven guidance.",
+    "about": "GoDaddy is a web hosting, domain registration, and small-business technology company. Its Emerging Talent program hires interns and full-time early-career employees, providing mentorship and hands-on work from the start. Roles span engineering and other functions across GoDaddy's US and global offices."
+  },
+  {
+    "id": "warburg-pincus",
+    "org": "Warburg Pincus",
+    "url": "https://www.warburgpincus.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Warburg Pincus recruits talent into its global growth-investing firm across investing and operating functions via its official careers page.",
+    "about": "Warburg Pincus is a global private equity firm and pioneer of growth investing with over $105 billion in assets under management. Its careers page describes investing careers spanning sectors and regions plus operating functions such as fundraising, finance, and legal/compliance. Corporate and intern roles are typically based at its New York headquarters and other offices."
+  },
+  {
+    "id": "lenovo",
+    "org": "Lenovo",
+    "url": "https://jobs.lenovo.com/en_US/careers/University",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Morrisville",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Lenovo's University program offers internships and full-time early-career roles for current students and recent graduates.",
+    "about": "Lenovo is a global technology company producing PCs, servers, and smart devices. Its University careers area, branded 'Smarter Takes You,' targets students and recent graduates with internships, full-time early-career opportunities, and an FAQ. Roles span hardware and software engineering, sales, IT, and product management with region-specific job searches."
+  },
+  {
+    "id": "neuberger-berman",
+    "org": "Neuberger Berman",
+    "url": "https://www.nb.com/en/us/careers/campus-recruiting",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Neuberger Berman runs campus recruiting that includes internships for college students entering asset and wealth management.",
+    "about": "Neuberger Berman is an employee-owned global investment management firm. Its campus recruiting program brings students into internships and analyst roles across investment, client, and operating functions. Positions are primarily based at its New York headquarters and other offices."
+  },
+  {
+    "id": "citrix",
+    "org": "Citrix",
+    "url": "https://careers.cloud.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Citrix, now part of Cloud Software Group, recruits early-career and other talent through the official Cloud Software Group careers site.",
+    "about": "Citrix is a digital workspace and virtualization software company now operating under Cloud Software Group, one of the world's largest cloud solution providers serving more than 100 million users. Its careers site highlights product development, sales, and customer success roles along with benefits and the hiring process. Corporate roles are recruited across US and global offices."
+  },
+  {
+    "id": "hashicorp",
+    "org": "HashiCorp",
+    "url": "https://www.hashicorp.com/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "HashiCorp, now an IBM company, hires talent through its official careers page with open roles routed to IBM's careers portal.",
+    "about": "HashiCorp builds multi-cloud infrastructure automation products such as Terraform, Vault, and Consul, and is now part of IBM. Its careers page emphasizes community, growth, flexible/hybrid/remote work, and its guiding principles. Open positions, including early-career and intern opportunities, are listed through IBM's careers search."
+  },
+  {
+    "id": "ford-foundation",
+    "org": "Ford Foundation",
+    "url": "https://www.fordfoundation.org/about/careers/the-ford-foundation-internship-program",
+    "industries": [
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Ford Foundation offers an internship program for students seeking experience in philanthropy and social justice work.",
+    "about": "The Ford Foundation is a global philanthropic organization focused on reducing inequality and advancing a fair and just world. It runs an internship program linked from its careers page, guided by core values of openness, equity, collaboration, accountability, trust, and urgency. Interns work across its programs primarily out of its New York headquarters and among its 11 global offices."
+  },
+  {
+    "id": "asana",
+    "org": "Asana",
+    "url": "https://asana.com/jobs/university",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Asana's AsanaUP program offers a 12-16 week internship for enrolled college students plus apprenticeships and new-grad tracks.",
+    "about": "Asana is a work management software company. Its AsanaUP Emerging Talent programs include a 12-16 week internship for currently enrolled students in engineering, data science, and product design, along with apprenticeships and new-graduate tracks. Interns receive mentorship and technical bootcamps, with offices in San Francisco, New York, Chicago, and internationally."
+  },
+  {
+    "id": "ge-general-electric",
+    "org": "GE (General Electric)",
+    "url": "https://careers.geaerospace.com/global/en/global-students-new-graduates",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "GE Aerospace (successor to General Electric) recruits students and new graduates into internships and early-career programs across its aviation business.",
+    "about": "Following the breakup of General Electric, GE Aerospace is the successor company operating GE's aviation and propulsion business. Its official careers site has a dedicated Students and New Graduates section for internships and entry-level roles and has earned early-talent recruiting recognition such as the 2026 Handshake Early Talent Award. Roles span engineering and other functions nationwide."
+  },
+  {
+    "id": "robinhood",
+    "org": "Robinhood",
+    "url": "https://robinhood.com/us/en/careers/early-talent",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Menlo Park",
+        "state": "CA",
+        "lat": 37.453,
+        "lng": -122.1817
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Robinhood's Early Talent program hires interns and early-career employees into its fintech teams.",
+    "about": "Robinhood is a financial-technology company whose mission is to democratize finance for all. Its careers site describes a fast-paced, high-performance culture and links an Early Talent section covering internships and university hiring. Roles are largely office-based across US cities plus international sites."
+  },
+  {
+    "id": "samsara",
+    "org": "Samsara",
+    "url": "https://www.samsara.com/company/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Samsara's Emerging Talent program offers internships and new-grad roles building technology for physical operations.",
+    "about": "Samsara is a connected-operations technology company serving frontline and physical-operations industries. Its careers page features an Emerging Talent section for interns and new graduates, emphasizing a hands-on, fast-paced 'build for the real world' culture. Roles span engineering and other departments across its offices."
+  },
+  {
+    "id": "lumen-technologies",
+    "org": "Lumen Technologies",
+    "url": "https://jobs.lumen.com/global/en/university-relations",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Monroe",
+        "state": "LA",
+        "lat": 31,
+        "lng": -92
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Lumen Technologies' Early-in-Career/University Relations program hires students and new graduates into internships and entry-level roles.",
+    "about": "Lumen Technologies is a telecommunications and networking company. Its careers site includes an 'Early in Career' / University Relations track for students and new graduates to build skills and impact with mentorship from day one. Opportunities span technology, network operations, enterprise, security, and other functions."
+  },
+  {
+    "id": "anheuser-busch-inbev",
+    "org": "Anheuser-Busch InBev",
+    "program": "Early Careers / Graduate Management Trainee",
+    "url": "https://www.ab-inbev.com/working-with-us",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "St. Louis",
+        "state": "MO",
+        "lat": 38.4,
+        "lng": -92.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Anheuser-Busch InBev recruits students and recent graduates into early-career and internship roles across its global brewing and business operations.",
+    "about": "Anheuser-Busch InBev is the world's largest brewer, with a portfolio of globally recognized beer brands. Its 'Working With Us' careers area highlights early-career pathways including the 10-month Graduate Management Trainee (GMT) program with front-line rotations and leadership development. The company hires nationally for internships and entry-level roles across commercial, supply, and corporate functions."
+  },
+  {
+    "id": "6sense",
+    "org": "6sense",
+    "url": "https://6sense.com/about-us/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "6sense is a revenue-technology software company that posts open roles, including early-career opportunities, through its official careers page.",
+    "about": "6sense builds an AI-driven revenue platform used by B2B companies to identify and engage buyers. Its careers page emphasizes a 'One Team' culture, professional development benefits, and a hybrid/HUB work model. Open roles, including any internship or early-career positions, are listed on its job board."
+  },
+  {
+    "id": "lincoln-financial-group",
+    "org": "Lincoln Financial Group",
+    "url": "https://www.lincolnfinancial.com/public/aboutus/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Radnor",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Lincoln Financial Group offers internships and early-career opportunities in insurance, retirement, and financial services through its official careers site.",
+    "about": "Lincoln Financial Group is a diversified financial services company providing life insurance, annuities, retirement plans, and group protection products. Its careers site advertises openings across finance, technology, actuarial, and operations functions. The firm recruits interns and entry-level talent nationally."
+  },
+  {
+    "id": "akamai-technologies",
+    "org": "Akamai Technologies",
+    "program": "Emerging Talent (Internships, Co-ops, Rotational Programs)",
+    "url": "https://www.akamai.com/careers/students-and-recent-graduates",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "state": "MA",
+        "lat": 42.3736,
+        "lng": -71.1097
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Akamai offers paid internships, co-ops, apprenticeships, and rotational programs for students and recent graduates across security, cloud, and engineering teams.",
+    "about": "Akamai Technologies is a cloud computing, security, and content delivery company with more than 11,500 employees worldwide. Its Emerging Talent programs include internships, co-ops, apprenticeships, and rotational programs, and the page confirms all internships are paid. Opportunities span security, cloud, engineering, marketing/sales, and services across the Americas, EMEA, and APJ."
+  },
+  {
+    "id": "garmin",
+    "org": "Garmin",
+    "program": "Early Careers",
+    "url": "https://www.garmin.com/en-US/careers",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Olathe",
+        "state": "KS",
+        "lat": 38.5,
+        "lng": -98.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Garmin recruits students into internships and entry-level roles through its Early Careers program on its official careers site.",
+    "about": "Garmin is a technology company that designs GPS navigation and wearable devices for the automotive, aviation, marine, outdoor, and fitness markets. Its official careers site includes an 'Early Careers' section covering student and internship opportunities. The company hires interns nationally across engineering and business functions."
+  },
+  {
+    "id": "five-rings",
+    "org": "Five Rings",
+    "program": "Summer Internship / LINK Software Development Intensive",
+    "url": "https://www.fiverings.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Five Rings offers summer internships and campus roles for quantitative traders, researchers, and software developers, based in its New York office.",
+    "about": "Five Rings is a proprietary trading firm applying quantitative research and technology to financial markets. Its careers page lists Summer Intern 2027 roles (Quantitative Researcher, Quantitative Trader, Software Developer) plus campus-hire and early-engagement programs like 'LINK: Software Development Intensive.' Internship roles are primarily based in New York City."
+  },
+  {
+    "id": "akuna-capital",
+    "org": "Akuna Capital",
+    "program": "Internships / Early Careers",
+    "url": "https://akunacapital.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Akuna Capital offers internships and early-career roles in trading, quant, technology, and operations, primarily out of its Chicago office.",
+    "about": "Akuna Capital is a proprietary trading firm specializing in options market making. Its careers page features dedicated 'Internships' and 'Early Careers' paths across Technology, Trading, Quant, and Operations, along with an 'Options 101' learning resource. Roles are centered in Chicago with a 'day one impact' pitch to candidates."
+  },
+  {
+    "id": "jump-trading",
+    "org": "Jump Trading",
+    "url": "https://www.jumptrading.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Jump Trading recruits students into internships and early-career roles in quantitative research, trading, and software engineering.",
+    "about": "Jump Trading is a proprietary trading firm known for high-performance quantitative and algorithmic trading and research. Its careers page (bot-protected) advertises internships and full-time roles for engineers, researchers, and traders. The firm is headquartered in Chicago."
+  },
+  {
+    "id": "schonfeld-strategic-advisors",
+    "org": "Schonfeld Strategic Advisors",
+    "url": "https://www.schonfeld.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Schonfeld Strategic Advisors offers internships and early-career opportunities in quantitative and discretionary investment strategies.",
+    "about": "Schonfeld Strategic Advisors is a multi-strategy investment management firm running quantitative and fundamental trading strategies. Its careers page (bot-protected) lists internship and full-time roles in research, trading, and technology. The firm is headquartered in New York City."
+  },
+  {
+    "id": "drw",
+    "org": "DRW",
+    "program": "Interns / Graduates",
+    "url": "https://drw.com/work-at-drw",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "DRW offers internships and graduate-track roles across trading, research, and technology from its Chicago headquarters.",
+    "about": "DRW is a diversified principal trading firm operating across asset classes and markets. Its 'Work at DRW' careers page has dedicated sections for Interns, Graduates, and Experienced Hires, and emphasizes a low-ego, continuous-learning culture. The firm is headquartered in Chicago."
+  },
+  {
+    "id": "stonex-group",
+    "org": "StoneX Group",
+    "program": "Students and Graduates",
+    "url": "https://www.stonex.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "StoneX Group offers internships and graduate programs for students seeking real-world experience across its global financial services businesses.",
+    "about": "StoneX Group is a Fortune 50-ranked global financial services firm serving institutional, commercial, retail, and payments clients. Its careers page includes a dedicated 'Opportunities for Students and Graduates' section covering internships and graduate programs. The firm hires across multiple countries and business segments."
+  },
+  {
+    "id": "honeywell",
+    "org": "Honeywell",
+    "url": "https://careers.honeywell.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Honeywell recruits students nationally into internships and early-career roles across its industrial technology and engineering businesses.",
+    "about": "Honeywell is a diversified technology and manufacturing company operating in aerospace, building technologies, performance materials, and safety and productivity solutions. Its official careers site hosts internship and early-career opportunities, though the specific students landing page has moved. The company hires interns nationally across engineering, technology, and business functions."
+  },
+  {
+    "id": "mondelez-international",
+    "org": "Mondelez International",
+    "program": "Early Careers",
+    "url": "https://www.mondelezinternational.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Mondelez International offers internships and early-career programs for students across marketing, supply chain, finance, and other functions.",
+    "about": "Mondelez International is one of the world's largest snacking companies, with brands such as Oreo, Cadbury, and Ritz. Its careers site features 'Early Careers' sections with regional links (including the US) covering student and entry-level programs. The company recruits interns nationally across functions like Marketing, Sales, Finance, Supply Chain, and Engineering."
   }
 ];
