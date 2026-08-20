@@ -27598,5 +27598,15877 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "compensation": "Three-week tuition $2,500; one-week tuition $699",
     "summary": "Award-winning three-week and one-week summer STEM research programs for teens, with in-person and remote options culminating in an independent project.",
     "about": "Boston Leadership Institute offers high school students college-level STEM programs in science, engineering/technology, medicine, and business, combining classroom learning, lab work, and mentorship. Three-week programs culminate in an independent research project and final presentation, with field trips to Boston-area research institutions. In-person programs are headquartered in Wellesley, MA, and remote programs are open to students worldwide."
+  },
+  {
+    "id": "university-of-maryland-baltimore-county-umbc",
+    "org": "University of Maryland, Baltimore County (UMBC)",
+    "program": "Big Data REU Site",
+    "url": "https://bigdatareu.umbc.edu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$5,600 stipend + optional conference travel support",
+    "deadlineNote": "Apply via NSF ETAP; deadline March 1, 2026",
+    "summary": "A fully online NSF-funded summer REU where undergraduates apply big data analytics and high-performance computing to real research problems across science and engineering.",
+    "about": "UMBC's 'Online Interdisciplinary Big Data Analytics in Science and Engineering' REU Site places students on interdisciplinary teams supported by a graduate assistant and faculty mentor, using big data clusters, CPU/GPU clusters, and distributed machine/deep learning. For 2026 the program runs June 1 to July 24 and is conducted entirely online. Participants have gone on to publish and present at conferences including IEEE Big Data and ICMLA."
+  },
+  {
+    "id": "iowa-state-university",
+    "org": "Iowa State University",
+    "program": "SPIRE-EIT REU (Virtual Reality Applications Center)",
+    "url": "https://www.vrac.iastate.edu/reu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Ames",
+        "state": "IA",
+        "lat": 42,
+        "lng": -93.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend + housing + meal plan + travel contribution",
+    "deadlineNote": "Recent cycle deadline mid-March; 2026 renewal proposal under NSF review at time of check",
+    "summary": "A 10-week in-person REU at Iowa State's Virtual Reality Applications Center where undergraduates conduct interdisciplinary research in human-computer interaction and emerging interface technologies.",
+    "about": "SPIRE-EIT places interns on three-person teams led by a VRAC faculty member and supported by a graduate student mentor, culminating in the ISU Summer Research Symposium. Selected students receive housing, a meal plan, a stipend, and a travel contribution. Eligibility requires U.S. citizenship or permanent residency and current undergraduate enrollment."
+  },
+  {
+    "id": "university-of-north-carolina-at-charlotte",
+    "org": "University of North Carolina at Charlotte",
+    "program": "Smart and Secure Future Computing REU (cybersecurity & AI)",
+    "url": "https://reu.charlotte.edu",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "deadlineNote": "Priority review begins February 1, continues until positions filled",
+    "summary": "A 9-week in-person NSF REU at UNC Charlotte engaging undergraduates in cybersecurity and artificial intelligence research.",
+    "about": "The 'Smart and Secure Future Computing' REU (NSF #2244424) places students in a collaborative research community with faculty, graduate students, and peers, learning research skills through training and hands-on projects. The Summer 2026 program runs May 26 to July 24. It particularly encourages students from institutions where research opportunities may be limited."
+  },
+  {
+    "id": "university-of-pittsburgh",
+    "org": "University of Pittsburgh",
+    "program": "iSchool Inclusion Institute (i3)",
+    "url": "https://ischool-inclusion.org",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend + travel + housing + dining support",
+    "summary": "A summer institute headquartered at the University of Pittsburgh that introduces underrepresented undergraduates to research and careers in the information sciences.",
+    "about": "The iSchool Inclusion Institute (i3), supported by the Andrew W. Mellon Foundation, runs summer institutes and team research projects aimed at building the next generation of diverse leaders in the information sciences. It is a partnership among the University of Pittsburgh, Drexel University, and Pennsylvania State University. Participant logistics include travel, stipend, housing, and dining support.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "computing-alliance-of-hispanic-serving-institu",
+    "org": "Computing Alliance of Hispanic-Serving Institutions (CAHSI)",
+    "program": "Undergraduate Research / REU opportunities",
+    "url": "https://cahsi.utep.edu",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "program",
+      "mentorship",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Varies by research placement and award",
+    "summary": "A national alliance of Hispanic-Serving Institutions offering undergraduate research experiences, mentorship, and scholarships to recruit and advance students in computing.",
+    "about": "CAHSI is a networked community of four-year and two-year HSIs and public/private partners focused on recruiting, retaining, and accelerating students in computing. Student efforts include Research Experiences for Undergraduates, Affinity Research Groups, Student Advocates, and scholarship programs such as the Google-CAHSI Dissertation Award and the Doctoral Scholars Network. It also supports faculty development and evidence-based inclusive practices.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "university-of-wisconsin-eau-claire",
+    "org": "University of Wisconsin-Eau Claire",
+    "program": "Blugold Center for HPC NSF REU",
+    "url": "https://hpc.uwec.edu/explore-opportunities/nsf-reu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Eau Claire",
+        "state": "WI",
+        "lat": 44.6,
+        "lng": -89.9
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,300 stipend + $600 travel + housing + food",
+    "deadlineNote": "March 2, 2026 (applications closed for 2026; program continues through 2027)",
+    "summary": "A 9-week in-person NSF REU at UW-Eau Claire's Blugold Center for High-Performance Computing where undergraduates conduct HPC-driven research across STEM fields.",
+    "about": "The program hosts 10 students each summer (2025-2027) doing research in areas such as bioinformatics, computer science, chemistry, geography, and materials science, with workshops, seminars, and field trips. Participants receive a $6,300 stipend, a $600 travel allowance, and free food and housing; the 2026 session runs June 8 to August 7. Eligibility requires full-time STEM enrollment, U.S. citizenship or permanent residency, and a 2.5+ GPA."
+  },
+  {
+    "id": "washington-state-university-vancouver",
+    "org": "Washington State University Vancouver",
+    "program": "Data-Intensive Scientific Workflows REU",
+    "url": "https://reu.encs.vancouver.wsu.edu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Vancouver",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (NSF REU stipend)",
+    "summary": "A 10-week in-person NSF REU at WSU Vancouver where undergraduates build data-intensive scientific workflows coupling computational simulations and experiments.",
+    "about": "The 'Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments' REU (NSF #2243980) is hosted by WSU Vancouver's School of Engineering and Computer Science in partnership with the University of Houston Clear Lake. Undergraduates receive mentoring from WSU and UHCL faculty over the 10-week program. The 2026 session runs June 8 to August 14."
+  },
+  {
+    "id": "university-of-louisville",
+    "org": "University of Louisville",
+    "program": "Computer Systems Research REU",
+    "url": "https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Louisville",
+        "state": "KY",
+        "lat": 37.5,
+        "lng": -85.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,200 stipend + housing + meal allowance + $492 travel",
+    "deadlineNote": "March 1, 2026",
+    "summary": "A 9-week in-person NSF REU at the University of Louisville where undergraduates conduct computer systems research alongside CSE faculty.",
+    "about": "Funded by NSF (Grant #2349076), the program hosts 8 students per summer over three years in areas such as operating systems, embedded systems, machine learning, computer vision, and computer architecture, ending with a poster competition. Participants receive a $7,200 stipend, free on-campus housing or allowance, a meal allowance, and $492 travel; the 2026 session runs May 18 to July 17. Eligibility requires U.S. citizenship/residency, age 18+, undergraduate enrollment in a computing field, and a 3.0+ GPA."
+  },
+  {
+    "id": "portland-state-university",
+    "org": "Portland State University",
+    "program": "Computational Modeling Serving the City REU",
+    "url": "https://www.teuscher-lab.com/reucomputing",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid (NSF REU stipend)",
+    "deadlineNote": "March 29, 2026",
+    "summary": "A 10-week virtual NSF REU at Portland State University where undergraduates use computational modeling to address challenges facing the city of Portland and its region.",
+    "about": "The 'Virtual NSF REU Site on Computational Modeling Serving Portland' is conducted entirely online, requiring only computer access. It is structured as a 2-week training period followed by an 8-week faculty-mentored research project with a community partner, running June 8 to August 14, 2026. Applicants are notified of selection April 19, 2026."
+  },
+  {
+    "id": "wright-state-university",
+    "org": "Wright State University",
+    "program": "TRUST REU (trusted microelectronics & cybersecurity)",
+    "url": "https://engineering-computer-science.wright.edu/research/nsf-research-experiences-for-undergraduates",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Dayton",
+        "state": "OH",
+        "lat": 40.4,
+        "lng": -82.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,500 stipend + housing + food allowance + up to $600 travel",
+    "deadlineNote": "Deadline ~March 1 (page showed 2025 cycle dates at time of check)",
+    "summary": "A 10-week in-person NSF REU at Wright State University focused on cybersecurity in trusted microelectronics and hardware security.",
+    "about": "The program, 'Cybersecurity in Trusted Microelectronics: Addressing Challenges in Hardware Security and Resilient Supply Chains,' covers IoT, embedded AI, side-channel attacks, and firmware, with students working in the Wright State College of Engineering and Computer Science and Air Force Institute of Technology lab. Participants receive a $6,500 stipend, on-campus housing, a food allowance, and travel reimbursement up to $600. Eligibility requires U.S. citizenship/residency, sophomore-senior standing in a computing/engineering field, and a 3.0+ GPA."
+  },
+  {
+    "id": "university-of-nevada-reno",
+    "org": "University of Nevada, Reno",
+    "program": "Collaborative Human-Robot Interaction REU",
+    "url": "https://www.unr.edu/cse/research/intelligent-systems/reu",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Reno",
+        "state": "NV",
+        "lat": 38.8,
+        "lng": -116.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 for 10 weeks + housing + food allowance + travel up to $800",
+    "summary": "A 10-week in-person NSF REU at the University of Nevada, Reno where undergraduates research collaborative human-robot interaction for real-world environments.",
+    "about": "Supported by NSF grants (IIS-1757929, IIS-2150394), the program develops autonomous robot capabilities and supporting network and data science for settings like hospitals, homes, and infrastructure. It includes an orientation week, workshops on graduate school and the NSF GRFP, a research project, and a symposium presentation. It welcomes applicants from computer science, engineering, and related fields such as psychology, neuroscience, and anthropology."
+  },
+  {
+    "id": "oregon-state-university",
+    "org": "Oregon State University",
+    "program": "Robots in the Real World REU (CoRIS Institute)",
+    "url": "https://engineering.oregonstate.edu/research/CoRIS/reu-robots-real-world",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Corvallis",
+        "state": "OR",
+        "lat": 43.8,
+        "lng": -120.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend + $600 travel + housing/meal support",
+    "deadlineNote": "February 10, 2026 (11:59pm ET)",
+    "summary": "A 10-week in-person NSF REU at Oregon State University's CoRIS Institute where undergraduates work on real-world robotics research with faculty and graduate students.",
+    "about": "Funded by NSF (award CNS 2349747), the program includes a weekly seminar, workshops on graduate school and fellowships like the NSF GRFP, and three research presentation opportunities, running June 22 to August 28, 2026. Participants receive a $7,000 stipend paid in three installments, a $600 travel stipend, and housing/meal support. It is open to U.S. citizens and permanent residents enrolled as undergraduates in Fall 2026 with a 3.0+ GPA."
+  },
+  {
+    "id": "university-of-denver-ritchie-school",
+    "org": "University of Denver (Ritchie School)",
+    "program": "Power & Energy Systems for Smart Cities REU",
+    "url": "https://ritchieschool.du.edu/research-innovation/reu",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$700/week stipend + free housing + travel up to $500",
+    "deadlineNote": "Priority deadline early March 2026; apply via NSF ETAP",
+    "summary": "A 9-week in-person NSF REU at the University of Denver's Ritchie School focused on power and energy systems research for smart cities.",
+    "about": "The program recruits a cohort of 10 students each summer for full-time (40 hrs/week) faculty-mentored research, professional and ethics workshops, technical tours, and social activities, plus a one-week virtual pre-program, running early June to mid-August 2026. Participants receive a $700 weekly stipend, free on-campus housing, and travel assistance up to $500. Eligibility requires U.S. citizenship/residency and undergraduate standing in electrical/computer engineering or related fields, with a recommended 3.0+ GPA; applications go through the NSF ETAP portal."
+  },
+  {
+    "id": "university-of-illinois-urbana-champaign-ncsa",
+    "org": "University of Illinois Urbana-Champaign (NCSA)",
+    "program": "FoDOMMaT REU (open-source machine learning)",
+    "url": "https://reu.ncsa.illinois.edu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Urbana",
+        "state": "IL",
+        "lat": 40,
+        "lng": -89.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$700/week + paid housing + meal plan + one round trip",
+    "deadlineNote": "Applications Jan 20 - Mar 25, 2026 (rolling offers)",
+    "summary": "A 10-week NSF-funded summer research program at NCSA where undergraduates build and openly share machine learning models and tools alongside dual research and ML mentors.",
+    "about": "FoDOMMaT places 10 undergraduates at the National Center for Supercomputing Applications on the UIUC campus for a week of ML/DL training followed by nine weeks of mentored research. Participants receive a $700/week stipend, program-arranged housing, a meal plan, and one round trip. Open to U.S. citizens or permanent residents with some Python and machine learning exposure; 2026 program runs May 27 - July 31."
+  },
+  {
+    "id": "university-of-southern-california",
+    "org": "University of Southern California",
+    "program": "Robotics & Autonomous Systems REU (Thomas Lord Dept. of CS)",
+    "url": "https://www.cs.usc.edu/reu",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,100 + housing + meals",
+    "deadlineNote": "~January 11, 2026 (applications open Nov 24, 2025)",
+    "summary": "A 10-week NSF-funded summer REU in USC's Thomas Lord Department of Computer Science where undergraduates conduct hands-on robotics and autonomous systems research with faculty mentors.",
+    "about": "Students work in labs spanning socially assistive robotics, aerial autonomy, bimanual manipulation, robot learning, humanoid vision-language-action, and haptics, with possible visits to ISI, ICT, and NASA JPL. Compensation is $6,100 plus housing and meals; the program runs May 26 - July 31, 2026. Open to enrolled undergraduates who are U.S. citizens or permanent residents, from CS, engineering, and related fields."
+  },
+  {
+    "id": "university-of-alabama",
+    "org": "University of Alabama",
+    "program": "Cybersecurity for Emerging Networks REU (ISSR)",
+    "url": "https://issr.ua.edu/projects/nsf-reu-site-cybersecurity-for-emerging-networks-in-energy-and-intelligent-transportation-systems",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "lat": 32.8,
+        "lng": -86.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "A 10-week NSF REU site at the University of Alabama's Institute for Social Science Research focused on cybersecurity for emerging networks in energy and intelligent transportation systems.",
+    "about": "The program hosts eight students annually for mentored cybersecurity research led by PI Ahmad Alsharif and Co-PI Mizanur Rahman, based at the ISSR in Tuscaloosa. It prioritizes recruiting students from schools with limited research opportunities and boosting participation of women and underrepresented minorities. The three-year grant ends in 2026.",
+    "equityTags": [
+      "women-in-stem",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "tennessee-technological-university",
+    "org": "Tennessee Technological University",
+    "program": "Cybersecurity in Cyber-Physical Systems REU",
+    "url": "https://www.tntech.edu/engineering/research/cmr/reu/index.php",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cookeville",
+        "state": "TN",
+        "lat": 35.9,
+        "lng": -86.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 + housing + meals + up to $600 travel",
+    "summary": "A 10-week NSF REU at Tennessee Tech focused on cybersecurity challenges in future cyber-physical systems such as smart cities, self-driving cars, industrial IoT, and smart power grids.",
+    "about": "Participants receive a $6,000 stipend plus on-campus housing, meals, materials, and up to $600 travel, working with faculty including Dr. Mahmoud and Dr. Hasan in Cookeville, TN. Open to U.S. citizens or permanent residents majoring in EE, computer/software engineering, CS, or related fields with a 3.0+ GPA."
+  },
+  {
+    "id": "california-state-university-northridge",
+    "org": "California State University, Northridge",
+    "program": "Data Science / Energy-Efficient Computing REU",
+    "url": "https://www.csun.edu/reu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Northridge",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$700/week + subsistence allowance",
+    "summary": "An 8-week NSF REU at CSUN titled 'Applying Data Science on Energy-efficient Cluster Systems and Applications,' where undergraduates learn data collection, visualization, and parallel/distributed computing.",
+    "about": "Hosted by CSUN's Department of Computer Science, the program pays $700/week plus a subsistence allowance for boarding and meals, led by Dr. Xunfei Jiang. Open to enrolled undergraduates with at least one year remaining, a 3.0+ GPA, and majors in CS, CIS, or computer engineering, who are U.S. citizens, nationals, or permanent residents."
+  },
+  {
+    "id": "san-jose-state-university",
+    "org": "San Jose State University",
+    "program": "Machine Learning-based Cybersecurity REU",
+    "url": "https://www.youngaisecuritylab.com/nsf-reu",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Jose",
+        "state": "CA",
+        "lat": 37.3382,
+        "lng": -121.8863
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend + $1,000 food + optional dorm (~$2,500 value)",
+    "summary": "A 10-week NSF REU at San Jose State University applying machine learning and deep learning to cybersecurity problems like malware detection, intrusion detection, and LLM-based security.",
+    "about": "Participants receive a $7,000 stipend, $1,000 for food, and an optional SJSU dorm valued around $2,500, working roughly 40 hours/week and concluding with a poster presentation. No prior research experience is required, but reliable Python skills and a preferred 3.0+ GPA are expected. Open only to U.S. citizens, nationals, or permanent residents; the 2026 program ran May 26 - August 1."
+  },
+  {
+    "id": "montana-state-university",
+    "org": "Montana State University",
+    "program": "Sustainable Future REU (remote sensing, smart systems, ML)",
+    "url": "https://ece.montana.edu/research/ece_reu/index.html",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Bozeman",
+        "state": "MT",
+        "lat": 46.9,
+        "lng": -110.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 + residence hall lodging + $1,000 meals + travel",
+    "deadlineNote": "~February 18, 2026 via NSF ETAP (rolling offers from early March)",
+    "summary": "A 10-week NSF REU in Montana State University's Electrical & Computer Engineering department titled 'Our sustainable future: Remote sensing, smart systems, and innovative devices.'",
+    "about": "The program offers 8-12 positions with a $7,000 stipend, residence hall lodging, $1,000 for meals, and travel to Bozeman, running May 25 - July 31, 2026. Sample projects include satellite-image ML for fire effects, underwater machine vision, autonomous tractor guidance, and atmospheric optical sensing. Open to full-time undergraduates with a term remaining who are U.S. citizens or permanent residents; apply via NSF ETAP."
+  },
+  {
+    "id": "university-of-north-texas",
+    "org": "University of North Texas",
+    "program": "Beyond Language: Vector Embeddings AI REU (College of Information)",
+    "url": "https://ci.unt.edu/reu/index.html",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Denton",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (stipend; amount not specified)",
+    "deadlineNote": "~March 21 via NSF ETAP",
+    "summary": "A 10-week NSF-funded AI REU at UNT's College of Information titled 'Beyond Language: Training to Create and Share Vector Embeddings across Applications.'",
+    "about": "Ten undergraduates spend five weeks learning embedding strategies and ML applications, then five weeks on individual research building and validating vector representations to improve prediction models. Open to rising sophomores, juniors, and seniors who are U.S. citizens or permanent residents, with underrepresented students encouraged. Applications are submitted through the NSF ETAP portal."
+  },
+  {
+    "id": "temple-university",
+    "org": "Temple University",
+    "program": "HPC Tools & Techniques Across the Physical Sciences REU",
+    "url": "https://icmshpc.com/nsf",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend + free housing",
+    "deadlineNote": "~March 7, 2026 via NSF ETAP (final decisions Mar 17, 2026)",
+    "summary": "A 10-week NSF REU site at Temple University focused on high-performance computing tools, techniques, and research across the physical sciences.",
+    "about": "Participants receive a $7,000 stipend and free Temple-provided housing, building a compute cluster and completing independent research in areas like protein folding, ferroelectric materials, and Potts simulations, led by PI Michael L. Klein. The program runs May 28 - July 30, 2026 and targets students from institutions with limited research opportunities, including community college students. Open to U.S. citizens or permanent residents in any STEM major with intro programming and a 3.0 GPA; apply via NSF ETAP."
+  },
+  {
+    "id": "university-at-buffalo-suny",
+    "org": "University at Buffalo (SUNY)",
+    "program": "NSF REU (incl. Biometrics & Authentication / cybersecurity)",
+    "url": "https://www.buffalo.edu/reu.html",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Buffalo",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "University at Buffalo's hub for NSF Research Experiences for Undergraduates, including 'Frontier Technologies in Biometrics and Authentication,' a cybersecurity-focused REU.",
+    "about": "The page lists UB's NSF-funded REU programs supporting active undergraduate research participation, with the biometrics and authentication site developing skills tied to cybersecurity curriculum. Other listed programs include PRACTICE-REU on plastic pollution. Links are provided for current programs, eligibility, and how to apply."
+  },
+  {
+    "id": "rochester-institute-of-technology",
+    "org": "Rochester Institute of Technology",
+    "program": "Computational Sensing for Human-centered AI REU",
+    "url": "https://www.rit.edu/computing/reu",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Rochester",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (stipend; amount not specified on page)",
+    "deadlineNote": "Applications open December 1, 2025 via NSF ETAP",
+    "summary": "An NSF REU at RIT in Computational Sensing for Human-centered AI, immersing undergraduates in transdisciplinary research early in their academic journey.",
+    "about": "The site welcomes nine undergraduates each summer over a three-year period and will operate in-person at RIT in Rochester, NY for summer 2026, led by Reynold Bailey and Cecilia Alm. Applications open December 1, 2025 through an NSF ETAP link. Stipend amounts are not listed on the main page."
+  },
+  {
+    "id": "university-of-houston",
+    "org": "University of Houston",
+    "program": "Frontiers in Data-Driven Computing REU",
+    "url": "https://sites.google.com/cougarnet.uh.edu/reu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "All-expenses-paid (stipend + housing/travel)",
+    "summary": "A 10-week, all-expenses-paid NSF REU in the University of Houston's Computer Science Department focused on data science, machine learning, AI, and big data.",
+    "about": "Undergraduates from diverse institutions nationwide work alongside CS faculty on active research projects, with the goal of encouraging graduate education and research careers. The Summer 2025 cycle ran May 27 - August 1. Sponsored by NSF under grant CCF-2244279; specific stipend figures are not listed on the page."
+  },
+  {
+    "id": "texas-advanced-computing-center-ut-austin",
+    "org": "Texas Advanced Computing Center (UT Austin)",
+    "program": "TACC Research Experiences for Undergraduates",
+    "url": "https://tacc.utexas.edu/education/undergraduates-graduates/reu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The Texas Advanced Computing Center at UT Austin hosts NSF Research Experiences for Undergraduates in advanced computing, data science, and computational research.",
+    "about": "TACC runs summer REU opportunities giving undergraduates hands-on research with world-class supercomputing resources at UT Austin in Austin, TX. Programs pair students with faculty and staff mentors on computational and data-driven projects. Full details are on the official TACC education page."
+  },
+  {
+    "id": "west-virginia-university",
+    "org": "West Virginia University",
+    "program": "Robotics NSF REU Site",
+    "url": "https://robotics.wvu.edu/nsf-reu-site",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Morgantown",
+        "state": "WV",
+        "lat": 38.6,
+        "lng": -80.6
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (NSF REU stipend)",
+    "summary": "An NSF-funded Research Experience for Undergraduates (REU) Site in robotics hosted at West Virginia University.",
+    "about": "The Robotics NSF REU Site at West Virginia University offers undergraduate students a paid summer research experience working with faculty mentors on robotics projects. Participants receive an NSF REU stipend and conduct research in person in Morgantown, WV."
+  },
+  {
+    "id": "salk-institute-for-biological-studies",
+    "org": "Salk Institute for Biological Studies",
+    "program": "Heithoff-Brody High School Summer Scholars",
+    "url": "https://www.salk.edu/community/education-outreach",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "free",
+    "compensation": "Free (no cost to students)",
+    "deadlineNote": "Applications typically due in spring",
+    "summary": "A mentored summer research program at the Salk Institute for local high school students, offered at no cost.",
+    "about": "The Heithoff-Brody High School Summer Scholars program is one of the Salk Institute's core education and outreach offerings, giving high school students hands-on research and mentorship experience. Programs are offered at no cost to students, teachers, and schools. It takes place in person at the Salk Institute in La Jolla, CA."
+  },
+  {
+    "id": "gladstone-institutes",
+    "org": "Gladstone Institutes",
+    "program": "PUMAS Summer Internship Program",
+    "url": "https://gladstone.org/training/pumas-summer-internship-program",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (minimum wage, ~$19.18/hour, part-time)",
+    "summary": "A nine-week paid summer biomedical research internship at Gladstone Institutes for community college students planning to transfer to a four-year STEM program.",
+    "about": "The PUMAS Summer Internship Program (funded by the NIH/NHLBI) offers community college students hands-on biomedical research, working one-on-one with a scientific mentor on an independent project. Interns attend weekly professional development meetings and present at a poster session, and are paid minimum wage for part-time work. The 2026 program runs June 8 to August 7 in person in San Francisco."
+  },
+  {
+    "id": "stowers-institute-for-medical-research",
+    "org": "Stowers Institute for Medical Research",
+    "program": "Summer Scholars Program",
+    "url": "https://www.stowers.org/education-outreach",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kansas City",
+        "state": "MO",
+        "lat": 38.4,
+        "lng": -92.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "An immersive, hands-on summer research experience at the Stowers Institute for undergraduates and recent graduates.",
+    "about": "The Summer Scholars Program gives highly motivated undergraduates and recent graduates an immersive, hands-on summer research experience in a Stowers Institute laboratory. It is conducted in person at the institute in Kansas City, MO."
+  },
+  {
+    "id": "buck-institute-for-research-on-aging",
+    "org": "Buck Institute for Research on Aging",
+    "program": "Summer Scholars Program",
+    "url": "https://www.buckinstitute.org/education-training",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Novato",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "A summer research opportunity at the Buck Institute for Research on Aging for undergraduate students.",
+    "about": "The Summer Scholars Program provides undergraduate students with summer research opportunities as part of the Buck Institute's mission to train the next generation of aging-science researchers. Training emphasizes communication skills and personalized career development. It takes place in person at the institute in Novato, CA."
+  },
+  {
+    "id": "boyce-thompson-institute",
+    "org": "Boyce Thompson Institute",
+    "program": "Plant Genome Research Program REU",
+    "url": "https://btiscience.org/education-outreach/reu",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Ithaca",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (NSF REU stipend)",
+    "deadlineNote": "Applications open in Fall via the NSF ETAP portal (etap.nsf.gov)",
+    "summary": "An NSF/USDA-funded Research Experience for Undergraduates in plant genome science at the Boyce Thompson Institute and Cornell University.",
+    "about": "The Plant Genome Research Program REU covers a wide variety of plant science research, including bioinformatics, and is open to undergraduates of any major. Research takes place in labs at the Boyce Thompson Institute and Cornell University in Ithaca, NY. Applications are submitted through the NSF ETAP portal."
+  },
+  {
+    "id": "the-wistar-institute",
+    "org": "The Wistar Institute",
+    "program": "Biomedical Research Undergraduate Programs",
+    "url": "https://www.wistar.org/education-training/undergraduate-programs",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "A set of undergraduate biomedical research and training programs at The Wistar Institute in Philadelphia.",
+    "about": "The Wistar Institute offers several undergraduate STEM programs, including a Research Experiences for Undergraduates (REU), a Wistar & Cheyney University collaboration, a Life Science Innovation course, and the NIIMBL eXperience summer program. Students receive hands-on training in molecular and cellular biology and in shared research facilities such as genomics, proteomics, and imaging. Programs are held in person at the institute in Philadelphia, PA."
+  },
+  {
+    "id": "max-planck-florida-institute-for-neuroscience",
+    "org": "Max Planck Florida Institute for Neuroscience",
+    "program": "Undergraduate Research Program (FAU Max Planck Honors Program)",
+    "url": "https://www.mpfi.org/training/undergrad",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Jupiter",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "MPFI's undergraduate neuroscience research offering, run as the FAU Max Planck Honors Program with a summer research component.",
+    "about": "MPFI's undergraduate research program is delivered through the FAU Max Planck Honors Program, a joint honors-in-the-major program with Florida Atlantic University that includes a summer research component, directed independent research, and an honors thesis. Students gain hands-on lab experience across systems, cognitive, computational, and cellular/molecular neuroscience. Research is conducted in person at MPFI in Jupiter, FL."
+  },
+  {
+    "id": "university-of-california-san-francisco",
+    "org": "University of California, San Francisco",
+    "program": "Summer Research Training Program (SRTP)",
+    "url": "https://graduate.ucsf.edu/srtp",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Package worth over $15,000 (stipend, housing, travel, and health insurance)",
+    "deadlineNote": "2026 program runs May 31-Aug 7; application due early February 2026",
+    "summary": "A 10-week paid summer research program at UCSF for undergraduates interested in pursuing a PhD in the life or health sciences.",
+    "about": "The Summer Research Training Program (SRTP) places undergraduates with UCSF faculty for up to 10 weeks of biomedical research, plus seminars, workshops, and a closing symposium. Participants receive a package worth over $15,000 including a stipend, provided housing in San Francisco, roundtrip travel, and health insurance. Open to currently enrolled undergraduates who are U.S. citizens or permanent residents (DACA/AB540 may be eligible; international students are not)."
+  },
+  {
+    "id": "washington-university-in-st-louis",
+    "org": "Washington University in St. Louis",
+    "program": "DBBS Summer Undergraduate Research Programs",
+    "url": "https://dbbs.wustl.edu/admissions/summer-undergraduate-research-programs",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "St. Louis",
+        "state": "MO",
+        "lat": 38.4,
+        "lng": -92.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$5,000 stipend plus housing and meal card",
+    "deadlineNote": "2026 programs run May 17-July 24",
+    "summary": "WashU DBBS 10-week paid summer research programs (Amgen Scholars and Vagelos Fellowship) for undergraduates interested in PhD or MD/PhD study.",
+    "about": "The Division of Biology and Biomedical Sciences hosts the Amgen Scholars Program (open to undergraduates at accredited U.S. four-year institutions) and the Vagelos Undergraduate Research Fellowship (for current WashU undergraduates), each a 10-week mentored laboratory research experience. Both provide a $5,000 stipend, summer housing on the Danforth Campus, and a meal card, and the 2026 programs run May 17 to July 24. Amgen Scholars also attend a national symposium in California."
+  },
+  {
+    "id": "the-ohio-state-university",
+    "org": "The Ohio State University",
+    "program": "Summer Research Opportunities Program (SROP)",
+    "url": "https://gradsch.osu.edu/faculty-and-staff/graduate-student-access-and-fairness/summer-research-opportunities-program-srop",
+    "industries": [
+      "science",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 stipend plus housing, meal plan, travel, and rec-center membership",
+    "deadlineNote": "8-week program runs late May to late July",
+    "summary": "An 8-week paid summer research program at Ohio State pairing undergraduates with faculty mentors to prepare them for PhD study.",
+    "about": "The Summer Research Opportunities Program (SROP) places undergraduates in intensive one-on-one research with OSU faculty over eight weeks, with weekly enrichment workshops and a closing research symposium. It is housed under Graduate Student Access and Fairness and serves as a gateway to graduate education for students planning to pursue a PhD. Participants receive a $6,000 stipend, housing, a meal plan, roundtrip travel to Columbus, and a recreation-center membership."
+  },
+  {
+    "id": "university-of-north-carolina-at-chapel-hill",
+    "org": "University of North Carolina at Chapel Hill",
+    "program": "Summer Undergraduate Research Fellowship (SURF)",
+    "url": "https://our.unc.edu/fund/surf",
+    "industries": [
+      "science",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chapel Hill",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$4,000 award (some special funds up to $5,000)",
+    "deadlineNote": "2026 application deadline extended to February 4, 2026; decisions by April 10",
+    "summary": "A summer research fellowship from UNC's Office for Undergraduate Research providing a stipend to UNC-Chapel Hill undergraduates to conduct faculty-mentored research.",
+    "about": "The Summer Undergraduate Research Fellowship (SURF) supports UNC-Chapel Hill undergraduates across all majors to complete at least nine weeks of faculty-mentored research at a minimum of 20 hours per week. The typical award is a $4,000 stipend for living expenses, travel, or supplies, with about 60 awards granted annually. It is open only to currently enrolled UNC-Chapel Hill students in good academic standing."
+  },
+  {
+    "id": "university-of-iowa",
+    "org": "University of Iowa",
+    "program": "Office of Undergraduate Research (formerly ICRU) - Summer Undergraduate Research",
+    "url": "https://our.research.uiowa.edu",
+    "industries": [
+      "science",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Iowa City",
+        "state": "IA",
+        "lat": 42,
+        "lng": -93.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (research fellowships/stipends available)",
+    "summary": "The University of Iowa's Office of Undergraduate Research (formerly ICRU) supports undergraduate research including summer opportunities and paid research fellowships.",
+    "about": "Formerly the Iowa Center for Research by Undergraduates (ICRU), the office now operates as the Office of Undergraduate Research at the University of Iowa. It offers summer research programming such as the Summer Undergraduate Research Festival (SURF) plus ICRU and GCRU fellowships. The site includes guidance on compensation for student research."
+  },
+  {
+    "id": "coriell-institute-for-medical-research",
+    "org": "Coriell Institute for Medical Research",
+    "program": "Research Program Internship",
+    "url": "https://www.coriell.org/1/About-Us/Education/Research-Program-Internship",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Camden",
+        "state": "NJ",
+        "lat": 40.1,
+        "lng": -74.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Part-time paid internship (NJ Career Accelerator Internship Grant); non-NJ applicants may apply for unpaid roles",
+    "summary": "Coriell Institute offers part-time paid internships for college students across laboratory research, bioinformatics, quality assurance, and business development.",
+    "about": "The Coriell Institute for Medical Research in Camden, NJ places current or recently graduated college students in research and professional roles to gain career experience. Paid positions are supported by the NJ Career Accelerator Internship Grant and require New Jersey residency or enrollment at a NJ college/university. All tracks are currently listed as closed."
+  },
+  {
+    "id": "weill-cornell-medicine",
+    "org": "Weill Cornell Medicine",
+    "program": "Undergraduate Summer Research Programs (ACCESS / High School Catalyst / BMRI Summer Diversity Scholars)",
+    "url": "https://gradschool.weill.cornell.edu/academics/undergraduate-summer-research-programs",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (e.g., BMRI 9-week paid internship)",
+    "summary": "Weill Cornell Medicine offers summer biomedical research programs for high school and college students, including the ACCESS Summer Internship and diversity-focused programs.",
+    "about": "The Weill Cornell Graduate School hosts several summer research programs rather than 'Travelers/Gateways.' The ACCESS Summer Internship Program gives college students a nine-week mentored lab experience, the High School Catalyst Program serves New York high schoolers, and the BMRI Summer Diversity Scholars Program is a paid nine-week neurodegeneration research internship for NYC-area students. Programs emphasize access, belonging, and professional development.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "feinstein-institutes-for-medical-research",
+    "org": "Feinstein Institutes for Medical Research",
+    "program": "Summer Student Intern Program",
+    "url": "https://feinstein.northwell.edu/education",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Manhasset",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid/stipend not specified on landing page",
+    "summary": "The Feinstein Institutes offer a mentored Summer Student Intern Program giving high school, college, and graduate students hands-on disease-oriented research experience.",
+    "about": "The Feinstein Institutes for Medical Research, the research arm of Northwell Health, hosts education programs including the Summer Student Intern Program for high school, college, and graduate students. Additional offerings include Medical Marvels for Long Island high schoolers, Visiting Scientists & Scholars, and graduate schools. Compensation details are provided on individual program pages rather than the education landing page."
+  },
+  {
+    "id": "la-jolla-institute-for-immunology",
+    "org": "La Jolla Institute for Immunology",
+    "program": "LJIdea Summer Internship Program",
+    "url": "https://www.lji.org/careers/internships",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid hourly plus daily meal stipend; 6-8 weeks",
+    "summary": "LJIdea is La Jolla Institute for Immunology's 6-8 week paid summer internship pairing local high school and undergraduate students with immunology research labs.",
+    "about": "LJIdea is LJI's flagship internship and mentorship initiative, connecting San Diego County high school and undergraduate students to LJI research labs each summer. Interns receive hourly pay plus a daily meal stipend, with lab supplies and educational visits covered by philanthropic donors. The program prioritizes first-generation college-bound students and those attending Title I schools.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "texas-biomedical-research-institute",
+    "org": "Texas Biomedical Research Institute",
+    "program": "Higher Education Summer Research Program",
+    "url": "https://www.txbiomed.org/education-outreach/higher-education",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Antonio",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Texas Biomed and the Southwest National Primate Research Center offer paid summer research internships for undergraduate and graduate students.",
+    "about": "The Higher Education program at Texas Biomedical Research Institute provides paid, hands-on experience in cutting-edge research, primate care, and administrative research support, supported through partnerships with San Antonio-area colleges and universities. A separate Post-Bacc Fellowship Program with the American Cancer Society targets recent STEM/health graduates pursuing cancer research. Trainees are supported by the Texas Biomed Association of Trainees."
+  },
+  {
+    "id": "seattle-children-s-research-institute",
+    "org": "Seattle Children's Research Institute",
+    "program": "Summer Scholars Program",
+    "url": "https://www.seattlechildrens.org/research/research-institute/careers",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (nine-week internship)",
+    "summary": "Seattle Children's Research Institute offers a nine-week paid Summer Scholars Program for undergraduates, plus K-12 science education access to research.",
+    "about": "The Research Institute's Summer Scholars Program is a nine-week paid summer internship for undergraduate and post-baccalaureate students, mentored by experienced researchers. The institute's Science Education Department also provides research experiences for K-12 students. Additional programs support postdoctoral scholars and early-career faculty."
+  },
+  {
+    "id": "children-s-hospital-of-philadelphia",
+    "org": "Children's Hospital of Philadelphia",
+    "program": "CHOP Research Institute Summer Scholars Program (CRISSP)",
+    "url": "https://www.research.chop.edu/education-and-training",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The Children's Hospital of Philadelphia Research Institute offers summer research training, including the CHOP Research Institute Summer Scholars Program (CRISSP) for high school and college students.",
+    "about": "CHOP's Research Institute hosts education and training programs including the Summer Scholars Program (CRISSP) for high school and undergraduate students. Participants complete mentored pediatric biomedical research projects. The official page was inaccessible to automated fetching (HTTP 403) but resides on CHOP's canonical research domain."
+  },
+  {
+    "id": "roswell-park-comprehensive-cancer-center",
+    "org": "Roswell Park Comprehensive Cancer Center",
+    "program": "Summer Research Experience in Cancer (SURE-CAN)",
+    "url": "https://www.roswellpark.org/education/summer-programs",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Buffalo",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid/stipend not specified on landing page",
+    "summary": "Roswell Park Comprehensive Cancer Center offers the Summer Research Experience in Cancer (SURE-CAN) for both high school and college students.",
+    "about": "Roswell Park runs summer research programs including High School SURE-CAN and College SURE-CAN, the Saint Regis Mohawk Scholars Program through its Center for Indigenous Cancer Research, and internships for U.S. medical students. Programs give students hands-on cancer research experience in Buffalo, NY. As of listing, 2026 internships were filled with new openings expected for 2027."
+  },
+  {
+    "id": "moffitt-cancer-center",
+    "org": "Moffitt Cancer Center",
+    "program": "High School and Undergraduate Summer Research Programs",
+    "url": "https://www.moffitt.org/education-and-training",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Tampa",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Moffitt Cancer Center offers summer research programs for high school and undergraduate students through its education and training programs.",
+    "about": "Moffitt Cancer Center in Tampa, FL provides education and training programs including summer research experiences for high school and undergraduate students in cancer research. The official page was inaccessible to automated fetching (HTTP 403) but resides on Moffitt's canonical domain."
+  },
+  {
+    "id": "fox-chase-cancer-center",
+    "org": "Fox Chase Cancer Center",
+    "program": "Summer Cancer Research Institute (SCRI)",
+    "url": "https://www.foxchase.org/research-training/education/research/undergraduate/summer-cancer-research-institute",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend of at least $4,000",
+    "deadlineNote": "Applications open 11/1/2026; 2027 dates TBD",
+    "summary": "The Summer Cancer Research Institute is an 8-week paid mentored cancer research program at Fox Chase Cancer Center for Temple University and Hunter College students.",
+    "about": "The Summer Cancer Research Institute (SCRI) is an 8-week intensive program run through the Temple University/Fox Chase Cancer Center and Hunter College partnership, funded by National Cancer Institute grants. Sophomore-and-above undergraduate and graduate students enrolled at Temple or Hunter conduct mentored biomedical, clinical, or population-based cancer research with seminars and skill-building workshops. Participants receive a stipend of at least $4,000."
+  },
+  {
+    "id": "sanford-research",
+    "org": "Sanford Research",
+    "program": "Sanford Program for Undergraduate Research (SPUR)",
+    "url": "https://research.sanfordhealth.org/academic-programs/undergraduates/spur",
+    "industries": [
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Sioux Falls",
+        "state": "SD",
+        "lat": 44.4,
+        "lng": -100.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 educational stipend plus free housing",
+    "deadlineNote": "Applications open November 2026; deadline January 31, 2027",
+    "summary": "SPUR is a 10-week paid summer research program at Sanford Research where undergraduates conduct mentored lab research in cellular, molecular, and pediatric biomedical science.",
+    "about": "The Sanford Program for Undergraduate Research (SPUR) is a 10-week summer program in Sioux Falls, SD for college freshmen, sophomores, and juniors in life sciences or STEM fields. It includes an NSF-funded REU Site in Cellular and Molecular Biology and an NIH-funded pediatric biomedical research track, with a methods boot camp, workshops, and community outreach. Students receive a $6,000 stipend and free campus housing; federally funded positions require U.S. citizenship or permanent residency."
+  },
+  {
+    "id": "university-of-colorado-boulder",
+    "org": "University of Colorado Boulder",
+    "program": "Boulder Solar Alliance REU (LASP)",
+    "url": "https://lasp.colorado.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boulder",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (stipend); historically includes housing and travel support",
+    "deadlineNote": "2027 application opens mid-November; applications typically due in early February",
+    "summary": "The Boulder Solar Alliance REU at CU Boulder's LASP is a paid 10-week summer research experience in solar and space physics for undergraduates.",
+    "about": "Hosted by the Laboratory for Atmospheric and Space Physics (LASP) at the University of Colorado Boulder, this NSF Research Experience for Undergraduates has run since 2007. Selected undergraduates are paired with a mentor for a paid 10-week project spanning instrument hardware, data analysis, and modeling of the Sun and Sun-Earth system, beginning with a week-long summer school and ending with student research presentations. The 2027 application opens in mid-November."
+  },
+  {
+    "id": "mathematical-sciences-research-institute-slmat",
+    "org": "Mathematical Sciences Research Institute (SLMath)",
+    "program": "MSRI-UP Undergraduate Program",
+    "url": "https://legacy.slmath.org/web/msri/education/for-undergraduates/msri-up",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Berkeley",
+        "state": "CA",
+        "lat": 37.8715,
+        "lng": -122.273
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$3,600 stipend plus lodging, meals, and round-trip travel to Berkeley",
+    "deadlineNote": "Applications receive full consideration if submitted by mid-February (around Feb 15)",
+    "summary": "A summer research program in the mathematical sciences for undergraduates, with emphasis on students from underrepresented groups.",
+    "about": "MSRI-UP, run by SLMath in Berkeley, CA, brings 18 undergraduates who have completed two years of university mathematics together for a mentored summer research experience on a rotating theme. Participants receive a $3,600 stipend plus lodging, meals, and round-trip travel to Berkeley. Only U.S. citizens, permanent residents, and DACA students are eligible.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "grand-valley-state-university",
+    "org": "Grand Valley State University",
+    "program": "Mathematics REU",
+    "url": "https://www.gvsu.edu/mathreu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Allendale",
+        "state": "MI",
+        "lat": 44.3,
+        "lng": -85.6
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$5,400 stipend plus $800 food allowance, on-campus housing, and up to $300 travel reimbursement",
+    "deadlineNote": "Applications typically due in February; program runs subject to annual funding",
+    "summary": "A summer mathematics research program at Grand Valley State University for undergraduates in faculty-mentored teams.",
+    "about": "Each summer GVSU's mathematics department invites about eight undergraduates from across the country to conduct team research with faculty mentors, present their work, and disseminate results at conferences. Recent participants received a $5,400 stipend, an $800 food allowance, air-conditioned on-campus apartment housing, and up to $300 in travel reimbursement. Funding has come from the NSF, NSA, and GVSU."
+  },
+  {
+    "id": "williams-college",
+    "org": "Williams College",
+    "program": "SMALL Undergraduate Research Project (Mathematics REU)",
+    "url": "https://math.williams.edu/small",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Williamstown",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due early February",
+    "summary": "A nine-week NSF-funded summer mathematics research program at Williams College.",
+    "about": "The SMALL Undergraduate Research Project is one of the largest and best-known mathematics REUs, hosting undergraduates each summer at Williams College to work in small groups with faculty on open research problems. Participants receive a stipend and housing over roughly nine weeks. It is a long-running NSF-funded program."
+  },
+  {
+    "id": "university-of-hawaii-at-manoa",
+    "org": "University of Hawaii at Manoa",
+    "program": "Institute for Astronomy REU",
+    "url": "https://www.ifa.hawaii.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Honolulu",
+        "state": "HI",
+        "lat": 20.8,
+        "lng": -156.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus travel and housing",
+    "deadlineNote": "Applications typically due in February",
+    "summary": "A summer astronomy research program at the University of Hawaii Institute for Astronomy.",
+    "about": "The University of Hawaii Institute for Astronomy hosts undergraduates each summer for research in astronomy and astrophysics, working with IfA faculty. Participants receive a stipend along with travel and housing support. It is a long-running NSF-funded REU."
+  },
+  {
+    "id": "indiana-university-bloomington",
+    "org": "Indiana University Bloomington",
+    "program": "Physics REU",
+    "url": "https://physics.indiana.edu/outreach/reu-program/index.html",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Bloomington",
+        "state": "IN",
+        "lat": 39.8,
+        "lng": -86.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due in February; department notes it is between funding cycles",
+    "summary": "A 10-week summer physics research program at Indiana University Bloomington.",
+    "about": "The IU Bloomington Department of Physics hosts undergraduate physics majors for a 10-week summer REU spanning atomic/optical, biophysics, condensed matter, high energy, nuclear physics, and nuclear chemistry. Participants receive a stipend and housing. The department has applied to continue the program for summer 2026."
+  },
+  {
+    "id": "new-mexico-state-university",
+    "org": "New Mexico State University",
+    "program": "Astronomy REU",
+    "url": "https://astronomy.nmsu.edu/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Las Cruces",
+        "state": "NM",
+        "lat": 34.5,
+        "lng": -106.1
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due in February",
+    "summary": "A summer astronomy research program at New Mexico State University.",
+    "about": "New Mexico State University's Department of Astronomy hosts undergraduates for a summer REU working with faculty on astronomical research, with access to observing facilities. Participants receive a stipend plus housing. It is an NSF-funded program."
+  },
+  {
+    "id": "texas-christian-university",
+    "org": "Texas Christian University",
+    "program": "Physics & Astronomy REU",
+    "url": "https://cse.tcu.edu/physics-astronomy/research/reu.php",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Fort Worth",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$5,400 stipend plus free on-campus housing and travel support",
+    "deadlineNote": "Applications due late February (Feb 20, 2026)",
+    "summary": "A nine-week NSF-funded summer physics and astronomy research program at Texas Christian University.",
+    "about": "TCU's Department of Physics & Astronomy hosts undergraduates for a nine-week summer REU spanning biophysics, chemical physics, observational astronomy, planetary science, materials science, and theoretical modeling. Participants receive a $5,400 stipend, free on-campus housing, and travel support to and from Fort Worth. Eligibility is limited to U.S. citizens and permanent residents, with applications submitted via the NSF ETAP portal."
+  },
+  {
+    "id": "university-of-nebraska-lincoln",
+    "org": "University of Nebraska-Lincoln",
+    "program": "Physics & Astronomy REU",
+    "url": "https://physics.unl.edu/student-research",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Lincoln",
+        "state": "NE",
+        "lat": 41.5,
+        "lng": -99.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend and other benefits (amount varies by program)",
+    "deadlineNote": "REU deadlines typically in February and March",
+    "summary": "Summer REU research opportunities in physics and astronomy at the University of Nebraska-Lincoln.",
+    "about": "The UNL Department of Physics & Astronomy offers summer research opportunities for undergraduates from around the country, who work one-on-one with faculty and receive a stipend and other benefits. The department directs applicants to NSF-funded REU sites, including the campus MRSEC materials research and nanoscience REUs, rather than a single departmental program. Specific stipend and deadline details are listed on individual program pages."
+  },
+  {
+    "id": "michigan-state-university",
+    "org": "Michigan State University",
+    "program": "Physics & Astronomy REU (FRIB/NSCL)",
+    "url": "https://www.pa.msu.edu/undergraduate/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "East Lansing",
+        "state": "MI",
+        "lat": 44.3,
+        "lng": -85.6
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due in February",
+    "summary": "A summer physics and astronomy research program at Michigan State University, including nuclear science research at FRIB.",
+    "about": "Michigan State University's Department of Physics & Astronomy hosts undergraduates for a summer REU that includes nuclear astrophysics and nuclear science research at the Facility for Rare Isotope Beams (FRIB, formerly NSCL). Participants receive a stipend and housing. It is an NSF-funded program."
+  },
+  {
+    "id": "north-carolina-state-university",
+    "org": "North Carolina State University",
+    "program": "DRUMS Mathematics REU (Directed Research for Undergraduates in Math and Statistics)",
+    "url": "https://math.sciences.ncsu.edu/undergraduate/drums",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$7,000 stipend for 10 weeks, plus housing and travel support",
+    "deadlineNote": "Application screening begins February 15 and continues until slots are filled",
+    "summary": "NC State's DRUMS is a 10-week summer REU pairing undergraduates for interdisciplinary mathematics and statistics research.",
+    "about": "Run by the NC State Department of Mathematics, DRUMS (Directed Research for Undergraduates in Math and Statistics) pairs undergraduates on faculty-mentored interdisciplinary research spanning areas such as precision medicine, climate, and materials science. Participants receive a $7,000 stipend for the 10 weeks plus housing and travel support, and the program is open to U.S. citizens and permanent residents. Screening of applications begins February 15."
+  },
+  {
+    "id": "university-of-connecticut",
+    "org": "University of Connecticut",
+    "program": "Markov Chains Mathematics REU",
+    "url": "http://markov-chains-reu.math.uconn.edu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Storrs",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due in early spring",
+    "summary": "An NSA-funded summer REU at UConn focused on Markov chains and probability research.",
+    "about": "Run by Professor Iddo Ben-Ari in the UConn Department of Mathematics, this REU brings a group of about eight undergraduates together for roughly eight weeks of research on Markov chains and related probability topics, working toward publication. It is primarily funded by the NSA Mathematical Sciences Program. Applications are typically due in early spring."
+  },
+  {
+    "id": "university-of-oregon",
+    "org": "University of Oregon",
+    "program": "Materials Science Institute REU",
+    "url": "https://reu.uoregon.edu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Eugene",
+        "state": "OR",
+        "lat": 44.0521,
+        "lng": -123.0868
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due in February",
+    "summary": "A 10-week NSF-funded summer REU through the University of Oregon Materials Science Institute for physics and chemistry majors.",
+    "about": "The Materials Science Institute at the University of Oregon partners with the NSF to sponsor a ten-week summer undergraduate research program for physics and chemistry majors. Students join faculty research groups for hands-on laboratory experience in materials science and related fields. Application details are provided on the program's application page."
+  },
+  {
+    "id": "university-of-akron",
+    "org": "University of Akron",
+    "program": "Polymer Science & Engineering REU",
+    "url": "https://www.uakron.edu/cpspe/reu",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Akron",
+        "state": "OH",
+        "lat": 40.4,
+        "lng": -82.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing",
+    "deadlineNote": "Applications typically due in February",
+    "summary": "Summer NSF-style Research Experience for Undergraduates in polymer science and engineering at the University of Akron.",
+    "about": "The University of Akron's College of Polymer Science and Polymer Engineering hosts a summer REU giving undergraduates hands-on research with faculty in polymer science and engineering. Participants typically receive a stipend plus housing. Applications are generally due in February."
+  },
+  {
+    "id": "university-of-south-carolina",
+    "org": "University of South Carolina",
+    "program": "Mathematics REU (Mathematical Foundations of Data Analysis)",
+    "url": "https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/rtg/reu.php",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Columbia",
+        "state": "SC",
+        "lat": 33.9,
+        "lng": -80.9
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "NSF RTG-supported (stipend typical for NSF REUs)",
+    "deadlineNote": "Next session begins June 1, 2026; registration reopens with the posted 2026 program",
+    "summary": "A summer Research Experience for Undergraduates in the mathematical foundations of data analysis at the University of South Carolina.",
+    "about": "The University of South Carolina Department of Mathematics runs an REU on the Mathematical Foundations of Data Analysis, supported by an NSF Research Training Group (RTG) grant. Students learn background material, then work in groups on research projects with guest speakers, presenting findings on the final day. The next session is scheduled to begin June 1, 2026."
+  },
+  {
+    "id": "northeastern-university",
+    "org": "Northeastern University",
+    "program": "Cooperative Education (Co-op)",
+    "url": "https://careers.northeastern.edu/cooperative-education",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Typically paid (a few opportunities are unpaid)",
+    "summary": "Northeastern's signature cooperative education program alternating full-time paid work experiences with academic study.",
+    "about": "Co-op is the cornerstone of Northeastern's experiential learning model, placing undergraduate and graduate students in roughly six-month (4-8 month) full-time work experiences related to their field. Positions are typically paid, with students searching via NUworks, which lists thousands of employers and postings. Undergraduates can complete up to two co-ops; most grad students do one."
+  },
+  {
+    "id": "drexel-university",
+    "org": "Drexel University",
+    "program": "Cooperative Education (Co-op)",
+    "url": "https://drexel.edu/scdc/co-op",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Drexel's cooperative education program blending classroom study with extended full-time work experience before graduation.",
+    "about": "Drexel University's Steinbright Career Development Center runs its Co-op program, through which undergraduates can gain up to 18 months of hands-on work experience and graduate students up to six months. An International Co-op option offers undergraduates global work experience. The program includes a co-op curriculum, peer mentoring, and annual Cooperative Education Awards."
+  },
+  {
+    "id": "kettering-university",
+    "org": "Kettering University",
+    "program": "Co-op & Career Design",
+    "url": "https://www.kettering.edu/co-op-career-design",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Flint",
+        "state": "MI",
+        "lat": 44.3,
+        "lng": -85.6
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; students can earn up to about $70,000 over nine co-op terms",
+    "summary": "Kettering's 50/50 model alternating academics with paid co-op work terms throughout all four years.",
+    "about": "Kettering University's Co-op & Career Design program combines rigorous academics with paid co-op work in an alternating model, with students completing 11-week co-op terms twice a year across all four years (about 2.5 years of paid experience). Students can earn up to roughly $70,000 over nine terms, supported by coaches and employer liaisons. Employer partners include Ford, General Motors, Bosch, Dow, and BASF."
+  },
+  {
+    "id": "university-of-cincinnati",
+    "org": "University of Cincinnati",
+    "program": "CEAS Cooperative Education (Co-op) Program",
+    "url": "https://www.ceas.uc.edu/real-world-learning/co-op.html",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cincinnati",
+        "state": "OH",
+        "lat": 39.1031,
+        "lng": -84.512
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; students earn about $61,000 on average across co-op semesters",
+    "summary": "The College of Engineering and Applied Science co-op program alternating academic semesters with full-time paid engineering work.",
+    "about": "The University of Cincinnati, which pioneered cooperative education over 100 years ago, runs the CEAS Co-op program where engineering and applied science students complete three to five paid co-op semesters (about 1.5 years of experience). Students work 35+ hours per week over 15-18 week terms, on site, remotely, or on campus, and earn roughly $61,000 on average. Each student is assigned a co-op advisor, with placements at employers such as Apple, GE Aviation, Procter & Gamble, and Tesla."
+  },
+  {
+    "id": "university-of-massachusetts-lowell",
+    "org": "University of Massachusetts Lowell",
+    "program": "Professional Co-op Program",
+    "url": "https://career.uml.edu/channels/undergraduate-coop",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Lowell",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "UMass Lowell's voluntary, structured co-op placing undergraduates in full-time paid work related to their major.",
+    "about": "UMass Lowell's Professional Co-op Program complements formal education with full-time paid work, usually a six-month placement with an industry partner. It is delivered as a three-phase course series (preparation, work experience, and reflection seminar) for full-time undergraduates in majors including engineering, sciences, business, economics, pharmaceutical sciences, and applied biomedical sciences. Students have collectively earned over $86 million through the program."
+  },
+  {
+    "id": "mecop-inc",
+    "org": "MECOP Inc.",
+    "program": "MECOP Engineering Internship Program",
+    "url": "https://www.mecopinc.org",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Corvallis",
+        "state": "OR",
+        "lat": 43.8,
+        "lng": -120.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "An Oregon-based industry consortium providing college students two six-month paid engineering internships.",
+    "about": "MECOP Inc., founded in 1978 as a collaboration between Oregon State University and Oregon manufacturers, offers student-focused, industry-driven paid internships. Students complete two six-month internships tied to their coursework to bridge academic theory with industrial practice. It partners with universities including Oregon State, Oregon Tech, Portland State, and University of Portland, alongside over 120 industry members."
+  },
+  {
+    "id": "wentworth-institute-of-technology",
+    "org": "Wentworth Institute of Technology",
+    "program": "Cooperative Education (Co-op)",
+    "url": "https://wit.edu/co-ops-careers/co-ops",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Majority paid; students average about $10,000 per co-op",
+    "summary": "Wentworth guarantees two full-time co-op semesters of supervised, mostly paid work experience for undergraduates.",
+    "about": "Wentworth Institute of Technology guarantees students at least two full-time co-op semesters supervised by industry professionals, across fields including engineering, design, computing, management, and sciences. The majority of co-ops are paid, with students averaging about $10,000 per co-op, and students have worked at employers such as Amazon, Apple, NASA, and the Boston Red Sox. The institution reports strong outcomes, including 60% of students receiving a post-graduation offer from their co-op employer."
+  },
+  {
+    "id": "virginia-tech",
+    "org": "Virginia Tech",
+    "program": "MAOP Undergraduate Summer Research Internship",
+    "url": "https://maop.vt.edu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Blacksburg",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "deadlineNote": "10-week summer research; scholarship/application window opens Dec 15-Feb 15",
+    "summary": "Virginia Tech's MAOP offers eligible undergraduates a 10-week summer research internship paired with a faculty mentor.",
+    "about": "Virginia Tech's Mentorship & Academic Outreach Programs (MAOP), part of Undergraduate Academic Affairs, supports students committed to academic excellence. Its Summer Research Internship gives eligible undergraduates a 10-week research experience with a Virginia Tech faculty mentor. Related application windows (for the MAOP scholarship program) open December 15 through February 15.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "penn-state-university",
+    "org": "Penn State University",
+    "program": "Summer Research Opportunities Program (SROP)",
+    "url": "https://gradschool.psu.edu/engagement/summer-research-opportunities",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "University Park",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing, meals, and travel to/from University Park",
+    "deadlineNote": "Eight-week summer program; applications accepted Nov 1 - Feb 10",
+    "summary": "An eight-week summer research program that prepares undergraduates from underrepresented backgrounds for doctoral study through faculty-mentored research at Penn State.",
+    "about": "SROP is a gateway to graduate education across Big Ten Academic Alliance universities, offering intensive faculty-mentored research plus enrichment activities. Eligible students have a 3.0+ GPA, are U.S. citizens or permanent residents currently enrolled in a U.S. degree program, and have a strong interest in pursuing a Ph.D. Participants receive a stipend along with housing, meals, and travel.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "colorado-school-of-mines",
+    "org": "Colorado School of Mines",
+    "program": "Undergraduate Research (SURF/MURF Fellowships)",
+    "url": "https://undergraduateresearch.mines.edu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Golden",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Fellowship funding (stipend)",
+    "summary": "Colorado School of Mines connects undergraduates with faculty-mentored research through fellowships including SURF and MURF.",
+    "about": "The Office of Undergraduate Research offers faculty-mentored research via fellowships, assistantships, and for-credit options. MURF supports innovative faculty-led research for all undergraduates, while SURF provides the same experience over the summer; FIRST targets first-year students. Programs are based at the Mines campus in Golden, Colorado."
+  },
+  {
+    "id": "university-of-detroit-mercy",
+    "org": "University of Detroit Mercy",
+    "program": "Engineering Cooperative Education",
+    "url": "https://eng-sci.udmercy.edu/co-op/index.php",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; students can earn up to $30 per hour",
+    "summary": "A structured four-year co-op model in which engineering and science students alternate coursework with paid professional work assignments.",
+    "about": "The College of Engineering & Science co-op program has students complete three required co-op assignments while partnering with 150+ employers. Students can graduate in four years with a year of professional experience and earn up to $30 per hour. It serves engineering and science majors including robotics, mechatronics, and mechanical engineering."
+  },
+  {
+    "id": "clemson-university",
+    "org": "Clemson University",
+    "program": "Cooperative Education Program",
+    "url": "https://career.clemson.edu/channels/cooperative-education-program",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Clemson",
+        "state": "SC",
+        "lat": 34.6834,
+        "lng": -82.8374
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; all co-op assignments are paid",
+    "summary": "Clemson's Cooperative Education Program lets students gain paid professional work experience before graduation.",
+    "about": "Run by Clemson's Center for Career and Professional Development, the Co-op Program is described as one of the top in the country and helps students develop professional skills before graduation. All co-op assignments are paid. It serves current and prospective students alongside employer co-op teaching partners."
+  },
+  {
+    "id": "university-of-tennessee-knoxville",
+    "org": "University of Tennessee, Knoxville",
+    "program": "Tickle College of Engineering Career Prep (Co-op & Internships)",
+    "url": "https://tickle.utk.edu/academics/undergraduate-programs/career-prep",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Knoxville",
+        "state": "TN",
+        "lat": 35.9,
+        "lng": -86.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; competitive salary, often with relocation and housing stipends",
+    "summary": "Career preparation pathways for engineering undergraduates including paid co-ops and internships with over 200 recruiting employers.",
+    "about": "The Tickle College of Engineering offers Engineering Professional Practice co-ops and internships plus entrepreneurship, integrated business-engineering, and senior design programs. Co-ops let sophomores alternate academic and full-time work terms with typically three placements by graduation. Students are encouraged toward paid placements, which often include competitive salary and relocation or housing stipends."
+  },
+  {
+    "id": "rensselaer-polytechnic-institute",
+    "org": "Rensselaer Polytechnic Institute",
+    "program": "Undergraduate Research Program (URP)",
+    "url": "https://undergrad.rpi.edu/undergraduate-research",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Troy",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid research assistantship; minimum $16.00/hour (or 1-4 academic credits)",
+    "summary": "RPI's Undergraduate Research Program lets undergraduates do faculty research during the academic year or summer, for pay or academic credit.",
+    "about": "URP is open to undergraduates across all five RPI schools, who may participate for 1-4 academic credits or as a paid research assistant limited to one project per semester. Faculty or departments fund the research, with the Office of Undergraduate Education matching up to $500 per semester and a minimum rate of $16.00/hour. It is administered from Walker Lab in Troy, NY."
+  },
+  {
+    "id": "mississippi-state-university",
+    "org": "Mississippi State University",
+    "program": "Co-op & Internship Program (Career Center)",
+    "url": "https://www.career.msstate.edu/channels/co-op-program",
+    "industries": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Mississippi State",
+        "state": "MS",
+        "lat": 32.7,
+        "lng": -89.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid experiential work terms",
+    "summary": "Mississippi State's Career Center connects students of all majors with co-op and internship work experiences.",
+    "about": "Operating since 1955 and ACCI-accredited, the university-wide Career Center program offers a three-term co-op with one employer or one-term internships. Options include full-time co-ops (16-week minimum), part-time internships, and full-time internships. Co-ops require a 2.5 GPA and internships require 24 completed hours; it is open to all majors."
+  },
+  {
+    "id": "louisiana-state-university",
+    "org": "Louisiana State University",
+    "program": "College of Engineering Internships & Co-Ops",
+    "url": "https://www.lsu.edu/eng/current/internships/index.php",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Baton Rouge",
+        "state": "LA",
+        "lat": 31,
+        "lng": -92
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; typically a percentage of a starting engineer's salary",
+    "summary": "LSU College of Engineering helps students pursue paid summer internships and semester-long co-ops with employers.",
+    "about": "The page distinguishes an internship (roughly a three-month summer job) from a co-op (a four-month fall or spring work term), both working on real engineering problems. Positions are paid, typically a respectable percentage of a starting full-time engineer's salary. Students are supported through the LSU Olinde Career Center."
+  },
+  {
+    "id": "university-of-south-florida",
+    "org": "University of South Florida",
+    "program": "Engineering Career Services (Co-ops & Internships)",
+    "url": "https://www.usf.edu/engineering/about/eng-career-services.aspx",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Tampa",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship and co-op positions",
+    "summary": "USF College of Engineering's career services connects students with internships, co-ops, and jobs through career fairs and Handshake.",
+    "about": "Engineering Career Services prepares students for engineering careers via professional development, industry connections, career fairs, and information sessions. Students use Handshake to search and apply for internships, co-ops, and part-time and full-time jobs. It serves students, employers, and alumni across USF's Tampa and St. Petersburg campuses."
+  },
+  {
+    "id": "university-of-kansas",
+    "org": "University of Kansas",
+    "program": "Engineering Career Center (Co-ops & Internships)",
+    "url": "https://ecc.ku.edu",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Lawrence",
+        "state": "KS",
+        "lat": 38.5,
+        "lng": -98.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid internship and co-op positions",
+    "summary": "KU's Engineering Career Center guides students in finding internships, co-ops, and jobs and preparing for careers or grad school.",
+    "about": "The Engineering Career Center is KU's engineering-focused career services hub, offering help with career exploration, resumes and CVs, interviewing, evaluating offers, and grad school. It links students to jobs and internships and publishes salary statistics and reports. It serves students, employers, and alumni from LEEP2 on the Lawrence campus."
+  },
+  {
+    "id": "georgia-southern-university",
+    "org": "Georgia Southern University",
+    "program": "Engineering & Computing Co-Ops and Internships",
+    "url": "https://www.georgiasouthern.edu/colleges/engineering-computing/students/co-ops-and-internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Statesboro",
+        "state": "GA",
+        "lat": 32.9,
+        "lng": -83.6
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Full-time discipline-related paid employment",
+    "summary": "The Allen E. Paulson College offers engineering and computing students co-ops and internships that alternate study with discipline-related work.",
+    "about": "Co-ops alternate full-time study terms with full-time discipline-related work terms, recommended after sophomore year with at least two work terms; internships are typically a single semester. A formal employer agreement outlines responsibilities with periodic supervisor evaluations. Support comes through the Office of Career & Professional Development and Handshake across Georgia Southern's campuses."
+  },
+  {
+    "id": "american-economic-association",
+    "org": "American Economic Association",
+    "program": "AEA Summer Program (AEASP)",
+    "url": "https://www.aeaweb.org/about-aea/committees/aeasp",
+    "industries": [
+      "business",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "summer-program",
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend, scholarship, and up to 12 college credits",
+    "deadlineNote": "Two-month residential summer program; applications due ~Jan 31",
+    "summary": "A two-month residential summer program preparing undergraduates for doctoral study in economics through intensive technical training.",
+    "about": "Running since 1974 and affiliated with the AEA Committee on the Status of Minority Groups in the Economics Profession, AEASP builds undergraduates' technical skills for graduate-level work at Foundations and Advanced levels. Instruction covers microeconomics, math, econometrics, and research methods, and participants can earn 12 college credits. The program is hosted by American University's Department of Economics in Washington, D.C.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "board-of-governors-of-the-federal-reserve-syst",
+    "org": "Board of Governors of the Federal Reserve System",
+    "program": "Research Assistant Program",
+    "url": "https://www.federalreserve.gov/careers-research-assistants.htm",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid (two-year full-time program) with benefits, tuition assistance, and relocation aid",
+    "deadlineNote": "Fall applications accepted Aug 17 – Oct 15",
+    "summary": "A two-year paid program in Washington, DC where college graduates assist Federal Reserve Board PhD economists with economic research and policy analysis.",
+    "about": "Research Assistants work with the Board's economists for two years on economic research and policy analysis, typically before pursuing graduate school. Qualifications include a bachelor's or master's degree in economics, statistics, math, finance, data science, computer science, public policy, or a related field, and U.S. citizenship is required. The role offers benefits, tuition assistance, and relocation assistance."
+  },
+  {
+    "id": "federal-reserve-bank-of-new-york",
+    "org": "Federal Reserve Bank of New York",
+    "program": "Research Analyst Program",
+    "url": "https://www.newyorkfed.org/careers",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid (two-year full-time program)",
+    "summary": "A two-year paid program in New York where college graduates support Federal Reserve Bank of New York economists with research and policy analysis.",
+    "about": "The Research Analyst program places recent college graduates alongside economists at the Federal Reserve Bank of New York for roughly two years of full-time research and data analysis. It is a common stepping stone to graduate study in economics and related fields. Page access was bot-blocked at verification time, so specific current details could not be captured."
+  },
+  {
+    "id": "federal-reserve-bank-of-san-francisco",
+    "org": "Federal Reserve Bank of San Francisco",
+    "program": "Student Programs & Internships",
+    "url": "https://www.frbsf.org/careers",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Student programs and internships at the Federal Reserve Bank of San Francisco across roles including economics, supervision, and technology.",
+    "about": "The San Francisco Fed offers student programs and internships within its Twelfth District, hiring for roles ranging from economists to cloud engineers and bank supervisors. The bank provides benefits and a tuition assistance program spanning undergraduate and graduate study. Applicants are advised to apply only through the official portal to avoid fraudulent postings."
+  },
+  {
+    "id": "abdul-latif-jameel-poverty-action-lab-j-pal",
+    "org": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+    "program": "Research & Predoctoral Positions",
+    "url": "https://www.povertyactionlab.org/careers",
+    "industries": [
+      "business",
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Research associate, policy, internship, and predoctoral positions at J-PAL supporting randomized evaluations and evidence-based policy worldwide.",
+    "about": "J-PAL recruits for hundreds of positions across universities, research centers, and nonprofits, spanning field research, project management, data analysis, policy outreach, and administration. Listings target a range of backgrounds from bachelor's to PhD, including field-based research associate and intern roles. Specific compensation and format vary by individual posting."
+  },
+  {
+    "id": "innovations-for-poverty-action",
+    "org": "Innovations for Poverty Action",
+    "program": "Research & Field Careers",
+    "url": "https://poverty-action.org/careers",
+    "industries": [
+      "business",
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Research and field careers at Innovations for Poverty Action turning evidence into policy impact, with remote and hybrid options.",
+    "about": "IPA hires for research and field roles focused on generating and applying rigorous evidence to reduce poverty. The organization supports fully remote and hybrid work and offers a benefits package. Specific positions, eligibility, and pay appear on the linked current opportunities page."
+  },
+  {
+    "id": "peterson-institute-for-international-economics",
+    "org": "Peterson Institute for International Economics",
+    "program": "Research Analyst",
+    "url": "https://www.piie.com/employment",
+    "industries": [
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid (research analyst role)",
+    "summary": "Research Analyst positions at the Peterson Institute for International Economics supporting scholars' work on international economic policy in Washington, DC.",
+    "about": "PIIE hires Research Analysts to support its scholars on international economic policy research; a current opening covers international trade law and policy. The institute is based at 1750 Massachusetts Avenue, NW in Washington, DC and is an equal opportunity employer. PIIE explicitly states it does not offer internships."
+  },
+  {
+    "id": "resources-for-the-future",
+    "org": "Resources for the Future",
+    "program": "Summer Research Internships",
+    "url": "https://www.rff.org/about/careers",
+    "industries": [
+      "environment",
+      "business",
+      "government",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Summer research internships at Resources for the Future giving students and recent graduates experience at an environmental and energy research center.",
+    "about": "RFF's Summer Research Internships offer students and recent graduates the opportunity to work at a research center focused on environmental and energy economics. The careers page links to a dedicated 2026 Summer Research Internships listing with full details. Specific pay and format are provided on that program page."
+  },
+  {
+    "id": "washington-center-for-equitable-growth",
+    "org": "Washington Center for Equitable Growth",
+    "program": "Academic Grants & Research Funding",
+    "url": "https://equitablegrowth.org/engage/funding-opportunities",
+    "industries": [
+      "business",
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Early career grants: $15,000/1 yr (students & postdocs) or $30,000/1–2 yrs (faculty); AEA Summer Economics Fellows receive a prorated $30,000 stipend",
+    "deadlineNote": "Awarded through periodic Requests for Proposals on specific topics",
+    "summary": "Academic research grants from the Washington Center for Equitable Growth funding scholars studying how inequality affects economic growth.",
+    "about": "Equitable Growth funds policy-relevant research on how economic inequality affects growth through early career grants of $15,000 (students and postdocs) or $30,000 (early career faculty), plus support for AEA Summer Economics Fellows. Eligible applicants are enrolled in a U.S. Ph.D. program, in a U.S. postdoctoral position, or within eight years of their Ph.D.; tenured faculty are not eligible. Funding is awarded via periodic Requests for Proposals on specific topics."
+  },
+  {
+    "id": "economic-policy-institute",
+    "org": "Economic Policy Institute",
+    "program": "Internships",
+    "url": "https://www.epi.org/about/jobs",
+    "industries": [
+      "business",
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Internships at the Economic Policy Institute supporting economic research on labor, wages, and inequality in Washington, DC.",
+    "about": "The Economic Policy Institute offers internships supporting its research on labor markets, wages, and economic policy. Opportunities are based in Washington, DC. The official jobs page was bot-blocked at verification time, so current internship specifics could not be confirmed."
+  },
+  {
+    "id": "center-on-budget-and-policy-priorities",
+    "org": "Center on Budget and Policy Priorities",
+    "program": "Internships",
+    "url": "https://www.cbpp.org/careers/internships",
+    "industries": [
+      "business",
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Internships at the Center on Budget and Policy Priorities supporting research and analysis on federal and state budget and tax policy.",
+    "about": "The Center on Budget and Policy Priorities offers internships supporting its analysis of budget, tax, and low-income policy. Opportunities are based in Washington, DC. The official internships page was bot-blocked at verification time, so current details could not be captured."
+  },
+  {
+    "id": "mercatus-center-george-mason-university",
+    "org": "Mercatus Center (George Mason University)",
+    "program": "Student Fellowships",
+    "url": "https://www.mercatus.org/students",
+    "industries": [
+      "business",
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "research",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Fellowship stipend",
+    "summary": "The Mercatus Center offers fellowships providing political economy training and support to students pursuing careers in academia, government, and public policy.",
+    "about": "The Mercatus Center at George Mason University recruits, trains, and supports student fellows in political economy, with programs open to students at Mason and universities worldwide. Fellowships provide training, mentorship, and financial support. Applications for the 2026-2027 academic year are open."
+  },
+  {
+    "id": "hoover-institution-stanford-university",
+    "org": "Hoover Institution (Stanford University)",
+    "program": "Summer Policy Boot Camp",
+    "url": "https://www.hoover.org/hoover-institution-summer-policy-boot-camp",
+    "industries": [
+      "government",
+      "business",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Stanford",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "free",
+    "compensation": "Free to accepted participants (program fees, food, and lodging covered; travel not included)",
+    "deadlineNote": "Applications typically open in fall with a spring deadline; 2026 program held August 10-14.",
+    "summary": "The Hoover Institution's Summer Policy Boot Camp is an intensive residential program at Stanford introducing undergraduates and recent graduates to U.S. domestic and international policy.",
+    "about": "Hosted on Stanford's campus, the four-day boot camp is taught by Hoover fellows through lectures, discussions, and collaborative study groups. It is open to students who have completed at least two years of undergraduate study, plus recent graduates and some graduate and international applicants. Accepted participants attend free of charge."
+  },
+  {
+    "id": "manhattan-institute",
+    "org": "Manhattan Institute",
+    "program": "Internships",
+    "url": "https://manhattan.institute/careers",
+    "industries": [
+      "government",
+      "business",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Manhattan Institute offers paid internships in public policy research at its New York City office.",
+    "about": "The Manhattan Institute is a public policy think tank whose internships give students research experience across areas such as economics, education, and urban policy. Positions are based in New York City and are paid. Openings are posted on the Institute's careers page."
+  },
+  {
+    "id": "congressional-budget-office",
+    "org": "Congressional Budget Office",
+    "program": "Internships",
+    "url": "https://www.cbo.gov/about/careers/internships",
+    "industries": [
+      "government",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Congressional Budget Office offers paid internships in Washington, D.C., for students interested in federal budget and economic analysis.",
+    "about": "CBO provides nonpartisan budgetary and economic analysis to the U.S. Congress. Its paid internship program gives undergraduate and graduate students hands-on experience supporting analysts on federal budget and policy work. Internships are based in Washington, D.C."
+  },
+  {
+    "id": "u-s-census-bureau",
+    "org": "U.S. Census Bureau",
+    "program": "Internships & Fellowships",
+    "url": "https://www.census.gov/about/census-careers.html",
+    "industries": [
+      "government",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The U.S. Census Bureau offers internships and fellowships for students and recent graduates across statistics, data science, and operations.",
+    "about": "The Census Bureau provides internships and fellowships, along with Pathways recent-graduate roles, for students and recent graduates. Opportunities span headquarters in Suitland, Maryland, national processing centers, and six regional offices nationwide. Roles include analytical, IT, and administrative positions."
+  },
+  {
+    "id": "u-s-government-accountability-office",
+    "org": "U.S. Government Accountability Office",
+    "program": "Paid Internships & Summer Associates",
+    "url": "https://www.gao.gov/careers",
+    "industries": [
+      "government",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid internships",
+    "summary": "The U.S. Government Accountability Office offers paid internships and student volunteer positions supporting its nonpartisan work for Congress.",
+    "about": "GAO provides objective, fact-based information to help Congress and federal agencies improve government. It offers paid internships and student volunteer positions across analyst, specialist, legal, and operations tracks. Vacancies and application details are posted on USAJobs.gov."
+  },
+  {
+    "id": "american-institutes-for-research",
+    "org": "American Institutes for Research",
+    "program": "Internship Program",
+    "url": "https://www.air.org/careers",
+    "industries": [
+      "education",
+      "government",
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "American Institutes for Research offers internships supporting its research, evaluation, and technical assistance work in education, health, and social policy.",
+    "about": "AIR is a nonpartisan behavioral and social science research organization. Its internships give students hands-on experience across research, evaluation, and technical assistance projects. Openings are posted through the AIR careers portal."
+  },
+  {
+    "id": "rti-international",
+    "org": "RTI International",
+    "program": "Internship Program",
+    "url": "https://www.rti.org/careers/internships",
+    "industries": [
+      "science",
+      "government",
+      "healthcare",
+      "environment"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Research Triangle Park",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid and academic (stipend-supported) internships",
+    "summary": "RTI International offers year-round paid and academic (stipend-supported) internships in research and business across scientific disciplines.",
+    "about": "RTI International is an independent nonprofit research institute. Its internship program provides research and business learning opportunities to high school students (16+), undergraduates, graduate students, and recent graduates. Internships run year-round, and each posting is designated as either paid or academic (stipend-supported)."
+  },
+  {
+    "id": "the-sadie-collective",
+    "org": "The Sadie Collective",
+    "program": "Annual Conference & Research Symposium",
+    "url": "https://www.sadiecollective.org",
+    "industries": [
+      "business",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "research",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Free (scholarships available)",
+    "summary": "The Sadie Collective supports Black women and other underrepresented students in economics and related fields through its annual conference, research symposium, and community programs.",
+    "about": "Named for Dr. Sadie T.M. Alexander, the first Black American to earn a Ph.D. in economics, the Collective develops the next generation of leaders in economics and quantitative fields. Its programming includes an annual conference, a research symposium, workshops, and networking through advocacy, education, and community pillars.",
+    "equityTags": [
+      "students-of-color",
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "big-ten-academic-alliance",
+    "org": "Big Ten Academic Alliance",
+    "program": "Summer Research Opportunities Program (SROP)",
+    "url": "https://www.btaa.org/students/srop",
+    "industries": [
+      "education",
+      "science",
+      "business",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "summer-program",
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend plus housing and travel",
+    "deadlineNote": "Applications typically due February",
+    "summary": "The Big Ten Academic Alliance's Summer Research Opportunities Program (SROP) is a summer research experience preparing undergraduates for graduate study.",
+    "about": "Now in its 40th year, SROP pairs undergraduates with faculty mentors for intensive summer research at Big Ten Academic Alliance universities. The program includes enrichment workshops on graduate admissions, funding, and research presentation, culminating in a symposium or poster session. More than 600 alumni have earned Ph.D. degrees.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "u-s-department-of-education",
+    "org": "U.S. Department of Education",
+    "program": "Ronald E. McNair Postbaccalaureate Achievement Program",
+    "url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/ronald-e-mcnair-postbaccalaureate-achievement-program-84217a",
+    "industries": [
+      "education",
+      "government",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Research stipend",
+    "summary": "The federal Ronald E. McNair Postbaccalaureate Achievement Program (a TRIO program) prepares low-income and first-generation undergraduates for doctoral study through research and scholarly activities.",
+    "about": "Administered by the U.S. Department of Education's Office of Postsecondary Education, McNair funds institutions of higher education to provide research opportunities, seminars, tutoring, and graduate admissions support. At least two-thirds of participants must be low-income and potential first-generation college students, with the remainder from groups underrepresented in graduate education. Grants flow to participating institutions, which support students including through research stipends.",
+    "equityTags": [
+      "first-gen",
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "milken-institute",
+    "org": "Milken Institute",
+    "program": "Internships",
+    "url": "https://milkeninstitute.org/about/careers",
+    "industries": [
+      "business",
+      "government",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Santa Monica",
+        "state": "CA",
+        "lat": 34.0195,
+        "lng": -118.4912
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Milken Institute offers internships supporting its economic research and programming, including Global Conference, project-based, and summer roles.",
+    "about": "The Milken Institute is a nonpartisan economic think tank. It hosts interns throughout the year, including Global Conference interns, project-specific interns, and summer interns, for terms ranging from a couple of months to a year. Positions are based across its offices, including Santa Monica and Washington, D.C."
+  },
+  {
+    "id": "center-for-global-development",
+    "org": "Center for Global Development",
+    "program": "Research & Careers",
+    "url": "https://www.cgdev.org/careers",
+    "industries": [
+      "government",
+      "business",
+      "nonprofit",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Center for Global Development offers research careers and fellowships focused on global development and international economic policy.",
+    "about": "CGD is an independent think tank conducting research on global development, poverty, and inequality. Its careers page lists fellow and senior fellow positions across its Washington, D.C. and London (CGD Europe) offices. Roles are paid, with hybrid in-office arrangements in some locations."
+  },
+  {
+    "id": "child-trends",
+    "org": "Child Trends",
+    "program": "Research Careers & Internships",
+    "url": "https://www.childtrends.org/careers",
+    "industries": [
+      "nonprofit",
+      "government",
+      "education",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Rockville",
+        "state": "MD",
+        "lat": 39,
+        "lng": -76.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Child Trends recruits research assistants, scholars, and interns to support nonpartisan research on children, youth, and families.",
+    "about": "Child Trends is a nonprofit research organization based in Rockville, MD, that posts current openings on its careers page, including research assistant and research scholar roles that are remote-eligible with flexible locations. Positions are open until filled, and applicants can sign up for alerts about new postings. The organization participates in E-Verify and hires for research-focused roles across its policy areas."
+  },
+  {
+    "id": "niskanen-center",
+    "org": "Niskanen Center",
+    "program": "Internship Program",
+    "url": "https://www.niskanencenter.org/careers",
+    "industries": [
+      "government",
+      "environment",
+      "business",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Niskanen Center offers a full- or part-time internship program supporting policy work across immigration, climate, social policy, legal, and government affairs teams.",
+    "about": "The Niskanen Center is a Washington, D.C.-based public policy think tank whose careers page lists staff openings alongside its Internship Program, which is available full-time or part-time and open to remote candidates. Interns support teams working on immigration, climate, social policy, legal, and communications issues. The organization advertises competitive compensation and benefits for staff and describes its environment as flexible but fast-paced."
+  },
+  {
+    "id": "center-for-economic-and-policy-research",
+    "org": "Center for Economic and Policy Research",
+    "program": "Internships",
+    "url": "https://cepr.net/about-us/internships",
+    "industries": [
+      "business",
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Center for Economic and Policy Research offers internships supporting its economic and policy research in Washington, D.C.",
+    "about": "The Center for Economic and Policy Research (CEPR) is a nonpartisan economic policy think tank in Washington, D.C. Its internship program gives college and graduate students hands-on experience assisting researchers on economic, social, and policy issues. The organization is based in the D.C. area and offers paid positions."
+  },
+  {
+    "id": "institute-for-women-s-policy-research",
+    "org": "Institute for Women's Policy Research",
+    "program": "Research Careers & Internships",
+    "url": "https://iwpr.org/about/careers",
+    "industries": [
+      "government",
+      "nonprofit",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Institute for Women's Policy Research recruits researchers, policy analysts, and other professionals for work on issues affecting women and families.",
+    "about": "The Institute for Women's Policy Research (IWPR) is a Washington, D.C.-based 501(c)(3) research organization operating a hybrid workplace with a minimum of two in-office days per week. Its careers page recruits researchers, policy analysts, and other professionals, and IWPR has adopted an equitable compensation framework reviewed with Working IDEAL. It is an equal-opportunity employer that recognizes a staff bargaining unit, and applications require a resume, cover letter, and writing sample where indicated."
+  },
+  {
+    "id": "u-s-department-of-defense",
+    "org": "U.S. Department of Defense",
+    "program": "SMART Scholarship-for-Service Program",
+    "url": "https://www.smartscholarship.org/smart",
+    "industries": [
+      "technology",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full tuition, annual stipend, and guaranteed DoD employment",
+    "deadlineNote": "Applications typically open Aug and close early Dec",
+    "summary": "The DoD SMART Scholarship-for-Service Program funds STEM students' education in exchange for guaranteed civilian employment with the Department of Defense.",
+    "about": "The Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-Service Program is run by the U.S. Department of Defense to build the DoD STEM workforce. Recipients receive full tuition, an annual cash stipend, summer internships, and mentorship in exchange for a period of guaranteed civilian employment with the DoD after graduation. It is a national program open to undergraduate and graduate students in eligible STEM fields."
+  },
+  {
+    "id": "national-medical-fellowships",
+    "org": "National Medical Fellowships",
+    "program": "Scholarships and Awards",
+    "url": "https://nmfonline.org/scholarships-programs/scholarships-and-awards",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awards range from roughly $5,000 to full cost of attendance",
+    "summary": "National Medical Fellowships offers merit- and need-based scholarships to medical and health-professions students, with an emphasis on underrepresented communities.",
+    "about": "National Medical Fellowships (NMF), based in Alexandria, VA, provides scholarships and awards recognizing both merit and financial need for students in medical, dental, nursing, pharmacy, PA, and allied health programs. Individual awards range from about $5,000 up to the full cost of attendance, and many carry geographic, financial-need, or community-service criteria. Students apply through an online portal across application cycles that run from January through August.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "society-of-physics-students-american-institute",
+    "org": "Society of Physics Students (American Institute of Physics)",
+    "program": "SPS Scholarships",
+    "url": "https://students.aip.org/sps",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Society of Physics Students, part of the American Institute of Physics, provides scholarships, research and travel grants, and outreach awards for physics and astronomy students.",
+    "about": "The Society of Physics Students (SPS) is a professional association for students and their advisers, operated through the American Institute of Physics with collegiate chapters. Among its membership benefits, SPS offers scholarships, research and travel grants, and outreach awards for individuals and chapters in physics and astronomy. Detailed eligibility, amounts, and deadlines are provided on the SPS awards pages."
+  },
+  {
+    "id": "ashrae",
+    "org": "ASHRAE",
+    "program": "Scholarships and Grants",
+    "url": "https://www.ashrae.org/membership--conferences/student-zone/scholarships-and-grants",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "ASHRAE offers society and chapter scholarships, equipment grants, travel grants, and a graduate grant-in-aid program for students in HVAC&R and the built environment.",
+    "about": "ASHRAE, the professional society for heating, ventilation, air conditioning, refrigeration, and the built environment, provides multiple funding programs for students on its Student Zone page. Offerings include ASHRAE Society Scholarships, chapter scholarships, undergraduate program equipment grants, student travel grants for conferences, and a Graduate Student Grant-in-Aid Program. These support undergraduate and graduate students studying HVAC&R-related fields."
+  },
+  {
+    "id": "sme-education-foundation",
+    "org": "SME Education Foundation",
+    "program": "Scholarship Opportunities",
+    "url": "https://www.smeef.org/sme-education-foundation-scholarships/scholarship-opportunities",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awards range from $2,500 to $20,000",
+    "deadlineNote": "Applications accepted Nov 1-Feb 1; 2026-2027 cycle closed, next cycle opens November for 2027-2028",
+    "summary": "The SME Education Foundation offers 60+ manufacturing and engineering scholarships through a single application for graduating high school seniors and current college students.",
+    "about": "The SME Education Foundation, based in Southfield, MI, awards more than 60 distinct scholarship programs through one application, with awards ranging from $2,500 to $20,000. Both merit- and need-based, one-time and renewing scholarships support students pursuing associate or bachelor's degrees in technical fields tied to manufacturing and engineering. Applications are accepted annually from November 1 to February 1, and the Foundation explicitly encourages young women and underrepresented communities to apply."
+  },
+  {
+    "id": "american-meteorological-society",
+    "org": "American Meteorological Society",
+    "program": "AMS Scholarships and Fellowships",
+    "url": "https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The American Meteorological Society awards scholarships and fellowships to students pursuing atmospheric and related sciences from high school through graduate levels.",
+    "about": "The American Meteorological Society (AMS) offers a range of scholarships and fellowships supporting students in the atmospheric, oceanic, and hydrologic sciences. Programs span incoming college freshmen, undergraduates, and graduate students, including named awards and minority scholarships. It is a national program administered through the AMS student resources pages."
+  },
+  {
+    "id": "health-resources-and-services-administration-h",
+    "org": "Health Resources and Services Administration (HRSA)",
+    "program": "Nurse Corps Scholarship Program",
+    "url": "https://bhw.hrsa.gov/funding/apply-scholarship/nurse-corps",
+    "industries": [
+      "healthcare",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Tuition, fees, and monthly stipend in exchange for service",
+    "summary": "HRSA's Nurse Corps Scholarship Program pays tuition, fees, and a monthly stipend for nursing students who commit to work at high-need health facilities after graduation.",
+    "about": "The Nurse Corps Scholarship Program is administered by the Bureau of Health Workforce within the U.S. Health Resources and Services Administration (HRSA). It covers tuition, eligible fees, and provides a monthly living stipend for students enrolled in accredited nursing programs. In return, recipients commit to serve at least two years at a Critical Shortage Facility in a high-need area after completing their training."
+  },
+  {
+    "id": "american-welding-society-foundation",
+    "org": "American Welding Society Foundation",
+    "program": "Scholarships",
+    "url": "https://www.aws.org/career-resources/students/scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awards range from $1,000 to $10,000+",
+    "deadlineNote": "Applications open December 1; most deadlines March 1; Welder Training rolling",
+    "summary": "The American Welding Society offers national, district, and named scholarships covering tuition and supplies for students pursuing welding and related programs.",
+    "about": "The American Welding Society (AWS) has awarded more than 18,000 welding scholarships totaling over $15 million since 1993, including 1,600-plus awards worth $2.7 million in the past year. Categories include national, district, section/named, welder training, educator professional development, and international scholarships, with funds sent directly to institutions to cover tuition, fees, books, supplies, and equipment. Applications open December 1 with most deadlines on March 1, and free AWS student membership is encouraged or required for some awards."
+  },
+  {
+    "id": "national-black-nurses-association",
+    "org": "National Black Nurses Association",
+    "program": "Scholarship Program",
+    "url": "https://www.nbna.org/scholarships",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awards start at $1,000 (up to $2,000 for some named awards)",
+    "deadlineNote": "Deadline March 15",
+    "summary": "The National Black Nurses Association awards scholarships to its members enrolled in nursing programs from LPN through doctoral levels.",
+    "about": "The National Black Nurses Association (NBNA) offers scholarships to student members enrolled in nursing programs, ranging from LPN to doctorate. Awards begin at $1,000, with some named scholarships such as the Della H. Raney Nursing Scholarship at $2,000, and NBNA has awarded over $257,000 across 57 scholarships in a single year. Applicants must be NBNA members in good academic standing with at least one full year of school remaining, and the deadline is March 15.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "physician-associate-foundation-aapa",
+    "org": "Physician Associate Foundation (AAPA)",
+    "program": "PA Student Scholarships",
+    "url": "https://pa-foundation.org/pa-student-scholarships",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Annual cycle; 2026 cycle closed",
+    "summary": "Scholarships for PA students enrolled in ARC-PA-accredited physician associate programs.",
+    "about": "The Physician Associate Foundation (the philanthropic arm of AAPA) awards multiple named scholarships each cycle to student members of AAPA who have completed at least one term of PA studies at an accredited program. Selection considers academic achievement, financial need, and leadership/service. The Foundation reports having awarded more than $2.7 million to nearly 1,600 future PAs."
+  },
+  {
+    "id": "american-occupational-therapy-foundation",
+    "org": "American Occupational Therapy Foundation",
+    "program": "Educational Scholarships",
+    "url": "https://www.aotf.org/Scholarships",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$150 to $5,000",
+    "deadlineNote": "Applications reopen January 2027",
+    "summary": "More than 50 educational scholarships awarded annually to occupational therapy students.",
+    "about": "AOTF awards over 50 scholarships each year to students enrolled in AOTA-accredited or developing OT programs at the professional master's, OTD (doctoral), or occupational therapy assistant level who have completed at least one year of coursework. A single streamlined application considers applicants for every scholarship they qualify for, including general, state-specific, Pi Theta Epsilon, and named endowed awards."
+  },
+  {
+    "id": "spe-foundation-society-of-plastics-engineers",
+    "org": "SPE Foundation (Society of Plastics Engineers)",
+    "program": "Scholarships",
+    "url": "https://www.4spe.org/Scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies; e.g. $3,000-$5,000 named awards",
+    "deadlineNote": "2026-2027 cycle closed",
+    "summary": "Numerous scholarships for students pursuing plastics- and polymer-related fields of study.",
+    "about": "The SPE Foundation offers many named scholarships to undergraduate and graduate students studying disciplines beneficial to a plastics career, such as plastics engineering, polymer science, chemistry, physics, and chemical engineering. Applicants must be SPE student members (membership is free) and in good academic standing. In 2025 the Foundation awarded $304,000 to 81 students across 45 universities."
+  },
+  {
+    "id": "american-physical-society",
+    "org": "American Physical Society",
+    "program": "APS Scholarship for Undergraduate Physics Majors",
+    "url": "https://www.aps.org/programs/minorities/honors/scholarship",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Annual cycle",
+    "summary": "Scholarship supporting undergraduate physics majors from historically underrepresented groups.",
+    "about": "The American Physical Society offers scholarships to undergraduate students pursuing physics who belong to groups historically underrepresented in the field. Awards support tuition and provide mentoring to help students persist in the physics major.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "american-dental-association-foundation",
+    "org": "American Dental Association Foundation",
+    "program": "Dental Student Scholarship Program",
+    "url": "https://www.adafoundation.org/dental-student-scholarship-program",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000 (up to two awards)",
+    "deadlineNote": "2026 applications Aug 3 - Sept 7 (NC pilot)",
+    "summary": "Scholarship helping predoctoral dental students offset dental school debt and financial barriers.",
+    "about": "Funded by a donation from Dr. and Mrs. Gary Oyster, the ADA Foundation's Dental Student Scholarship Program awards up to two $5,000 scholarships to students enrolled in a CODA-accredited predoctoral dental program who are in good academic standing and demonstrate financial need. The 2026 inaugural round is piloting in North Carolina, with plans to expand nationally in 2027."
+  },
+  {
+    "id": "sigma-theta-tau-international-sigma",
+    "org": "Sigma Theta Tau International (Sigma)",
+    "program": "Nursing Scholarships",
+    "url": "https://www.sigmanursing.org/advance-elevate/scholarships",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $5,000 per year",
+    "deadlineNote": "Applications currently closed",
+    "summary": "Nursing scholarships supporting students advancing to bachelor's and advanced nursing degrees.",
+    "about": "The Sigma Foundation for Nursing offers several scholarships, including the RN to BSN Scholarship, the Helene Fuld Trust Scholarship for accelerated second-degree and DNP students, and the Dion Family Scholarship for advanced degrees in nursing informatics or gerontological nursing. Awards provide up to US$5,000 per year, and applicants must attend accredited U.S. programs."
+  },
+  {
+    "id": "american-speech-language-hearing-foundation",
+    "org": "American Speech-Language-Hearing Foundation",
+    "program": "Graduate Student Scholarship",
+    "url": "https://www.ashfoundation.org/Apply/Graduate-Student-Scholarship",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000",
+    "deadlineNote": "Next program opens 2027",
+    "summary": "$5,000 scholarships for full-time students in communication sciences and disorders graduate programs.",
+    "about": "The ASHFoundation awards $5,000 scholarships to full-time students enrolled in U.S. communication sciences and disorders (CSD) graduate programs, including master's and clinical/research doctorate students. Up to 15 general scholarships plus additional special-category awards (International Student, Minority Student, NSSLHA, and named memorial scholarships) are offered, and prior ASHFoundation scholarship recipients are ineligible."
+  },
+  {
+    "id": "women-in-aviation-international",
+    "org": "Women in Aviation International",
+    "program": "WAI Scholarships",
+    "url": "https://www.wai.org/education/scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Applications June 1 - Sept 1",
+    "summary": "Aviation and aerospace scholarships awarded annually to Women in Aviation International members.",
+    "about": "Women in Aviation International offers a large slate of scholarships, including general awards and named Harvard Scholarships, to support careers across aviation and aerospace. Applicants must be current WAI members, and awards are announced at the annual WAI conference. The organization notes it does not consider race, ethnicity, or gender in awarding scholarships.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "asm-materials-education-foundation",
+    "org": "ASM Materials Education Foundation",
+    "program": "Scholarships",
+    "url": "https://www.asmfoundation.org/scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Annual cycle",
+    "summary": "Undergraduate scholarships for students in materials science and engineering fields.",
+    "about": "The ASM Materials Education Foundation awards scholarships to undergraduate students studying materials science and engineering, metallurgy, and related disciplines. Named and merit-based awards support tuition, and many recipients are ASM International student members."
+  },
+  {
+    "id": "foundation-for-physical-therapy-research",
+    "org": "Foundation for Physical Therapy Research",
+    "program": "Scholarships",
+    "url": "https://foundation4pt.org/apply-for-funding/scholarships",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Annual cycle",
+    "summary": "Scholarships supporting physical therapy students pursuing research careers.",
+    "about": "The Foundation for Physical Therapy Research offers scholarships to physical therapy and physical therapist assistant students, including awards aimed at students interested in research careers. Funding supports education and early research development in the physical therapy field."
+  },
+  {
+    "id": "american-water-works-association",
+    "org": "American Water Works Association",
+    "program": "Water Equation Scholarship Program",
+    "url": "https://www.awwa.org/water-equation/awwa-scholarship-program",
+    "industries": [
+      "environment",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000 to $30,000",
+    "deadlineNote": "Applications close early November",
+    "summary": "Scholarships and fellowships supporting students beginning careers in the water sector.",
+    "about": "AWWA's Water Equation Scholarship Program funds undergraduate, master's, and doctoral students, plus water operators, through AWWA and corporate-partner awards ranging from about $5,000 to $30,000 (the Abel Wolman Fellowship provides $30,000/year). Applicants must be permanent residents of the U.S., Mexico, or Canada, and AWWA membership is not required."
+  },
+  {
+    "id": "american-geophysical-union",
+    "org": "American Geophysical Union",
+    "program": "Student Awards and Grants",
+    "url": "https://www.agu.org/learn-and-develop/learn/student-and-early-career/student-awards-and-grants",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Varies by award",
+    "summary": "Awards, grants, and travel support for students in the Earth and space sciences.",
+    "about": "The American Geophysical Union offers a range of student and early-career awards, research grants, and travel grants across the Earth and space sciences. Programs support undergraduate and graduate members presenting research and advancing in geophysical fields."
+  },
+  {
+    "id": "aci-foundation",
+    "org": "ACI Foundation",
+    "program": "Fellowships and Scholarships",
+    "url": "https://www.acifoundation.org/scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$5,000 scholarship; $10,000 fellowship plus travel",
+    "deadlineNote": "Deadline November 1",
+    "summary": "About 50 fellowships and scholarships for students in concrete-related degree programs.",
+    "about": "The ACI Foundation funds roughly 50 fellowships and scholarships for full-time undergraduate and graduate students in concrete-related fields. Fellowships provide a $10,000 stipend plus paid travel to two ACI Conventions, while scholarships provide a $5,000 stipend; fellowship applicants must attend an accredited U.S. or Canadian institution. Recipients are recognized in Concrete International magazine."
+  },
+  {
+    "id": "institute-of-food-technologists",
+    "org": "Institute of Food Technologists",
+    "program": "Feeding Tomorrow Scholarships",
+    "url": "https://www.ift.org/community/students/scholarships",
+    "industries": [
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Varies by award; includes IFT FIRST travel stipends",
+    "deadlineNote": "Applications open in January and close in early March; check back in January",
+    "summary": "The Feeding Tomorrow scholarships fund food science students at the first-year, undergraduate, and graduate levels.",
+    "about": "Administered by IFT's philanthropic arm, Feeding Tomorrow offers first-year, undergraduate, PepsiCo hybrid, graduate, and IFT FIRST travel scholarships for students pursuing degrees in the science of food. Applicants generally need a 3.0 GPA, and international students are eligible for most categories. Applications open in January and close in early March."
+  },
+  {
+    "id": "american-society-of-safety-professionals-found",
+    "org": "American Society of Safety Professionals Foundation",
+    "program": "Academic Scholarships",
+    "url": "https://foundation.assp.org/academic-scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$214,500 awarded to 114 students in 2025-2026",
+    "deadlineNote": "Applications accepted October 15 – February 15",
+    "summary": "The ASSP Foundation awards academic scholarships to students in environmental, health, and safety (EHS) degree programs.",
+    "about": "A single online application considers students for roughly 80 named scholarships funded by ASSP chapters and corporate sponsors. Awards are open to associate, bachelor's, master's, and doctoral students enrolled in EHS-related programs and studying in the U.S.; high school seniors are not eligible. In 2025-2026 the Foundation awarded $214,500 to 114 students."
+  },
+  {
+    "id": "society-of-exploration-geophysicists",
+    "org": "Society of Exploration Geophysicists",
+    "program": "SEG Scholarships",
+    "url": "https://seg.org/community/students/scholarships",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "SEG offers scholarships to students pursuing studies in geophysics and related geoscience fields.",
+    "about": "The Society of Exploration Geophysicists scholarship program supports high school, undergraduate, and graduate students intending to pursue careers in applied geophysics. A single application is matched to many named, donor-funded scholarships administered by the SEG Foundation. Award amounts vary and some are renewable."
+  },
+  {
+    "id": "emergency-nurses-association-foundation",
+    "org": "Emergency Nurses Association Foundation",
+    "program": "Scholarships",
+    "url": "https://www.ena.org/about-us/enf/scholarships",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The ENA Foundation awards scholarships to emergency nursing students and nurses pursuing advanced degrees.",
+    "about": "The Emergency Nurses Association Foundation funds undergraduate and graduate scholarships for students in nursing and emergency care programs. Awards support tuition for those advancing their careers in emergency nursing."
+  },
+  {
+    "id": "aapg-foundation",
+    "org": "AAPG Foundation",
+    "program": "Grants and Scholarships",
+    "url": "https://foundation.aapg.org/scholarships",
+    "industries": [
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The AAPG Foundation provides grants and scholarships to geoscience students.",
+    "about": "The American Association of Petroleum Geologists Foundation supports undergraduate and graduate students in the geosciences through named scholarships and research grants, including the Grants-in-Aid program. Awards help fund tuition and thesis or dissertation field research."
+  },
+  {
+    "id": "american-dental-hygienists-association",
+    "org": "American Dental Hygienists' Association",
+    "program": "ADHA Foundation Scholarships",
+    "url": "https://www.adha.org/ioh/scholarships",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Applications December 1 – February 28",
+    "summary": "The ADHA Foundation offers scholarships to dental hygiene students across degree levels.",
+    "about": "The American Dental Hygienists' Association Foundation awards 17 different scholarships to associate, bachelor's, and graduate dental hygiene students. Only ADHA members are eligible to apply. Applications run from December 1 to February 28, with recipients selected in late spring."
+  },
+  {
+    "id": "national-society-of-professional-surveyors",
+    "org": "National Society of Professional Surveyors",
+    "program": "NSPS Scholarships",
+    "url": "https://www.nsps.us.com/page/Scholarships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "NSPS awards scholarships to students pursuing surveying and geomatics degrees.",
+    "about": "The National Society of Professional Surveyors offers multiple named scholarships to undergraduate students enrolled in surveying, geomatics, or related programs. Awards are administered in partnership with the NSPS Foundation and vary in amount."
+  },
+  {
+    "id": "marine-technology-society",
+    "org": "Marine Technology Society",
+    "program": "Scholarships",
+    "url": "https://mtsociety.org/what-we-do/education-outreach/scholarships",
+    "industries": [
+      "science",
+      "environment",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Marine Technology Society awards scholarships to students pursuing marine technology and ocean-related studies.",
+    "about": "MTS offers scholarships to high school, undergraduate, and graduate students interested in marine science, technology, and engineering. Awards are generally open to student members and vary in amount by named fund."
+  },
+  {
+    "id": "aana-foundation",
+    "org": "AANA Foundation",
+    "program": "Scholarships",
+    "url": "https://www.aana.com/about-us/aana-foundation",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The AANA Foundation funds scholarships and research grants for nurse anesthesia (CRNA) students and educators.",
+    "about": "The American Association of Nurse Anesthesiology Foundation supports doctoral-level student registered nurse anesthetists and researchers through scholarships and research grants. Funding advances education and scientific research in the nurse anesthesia profession."
+  },
+  {
+    "id": "air-and-waste-management-association",
+    "org": "Air & Waste Management Association",
+    "program": "Scholarships",
+    "url": "https://www.awma.org/scholarships",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Details and forms available in October",
+    "summary": "The Air & Waste Management Association awards scholarships to graduate students in air quality, waste management, and environmental fields.",
+    "about": "A&WMA offers international scholarships, thesis and dissertation awards, and best student poster awards to full-time graduate students pursuing careers in air quality, waste management, environmental policy, and sustainability. Named awards include the Richard Stessel, Jacqueline Shields, and Dave Benforado memorial scholarships. Scholarship information and nomination forms become available in October."
+  },
+  {
+    "id": "american-society-of-naval-engineers",
+    "org": "American Society of Naval Engineers",
+    "program": "ASNE Scholarships",
+    "url": "https://www.navalengineers.org/Education/Scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $4,000",
+    "deadlineNote": "Applications typically due in February",
+    "summary": "ASNE awards merit-based scholarships of up to $4,000 to students pursuing naval engineering.",
+    "about": "The American Society of Naval Engineers scholarship program, established in 1979, supports rising junior and senior undergraduates and graduate students interested in naval engineering. Selection is merit-based, considering academic record, work history, and demonstrated interest in the field. Awards are up to $4,000 per year."
+  },
+  {
+    "id": "ceramic-and-glass-industry-foundation-american",
+    "org": "Ceramic and Glass Industry Foundation (American Ceramic Society)",
+    "program": "Student Scholarship Opportunities",
+    "url": "https://foundation.ceramics.org/student-resources/student-scholarship-opportunities",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000 (TRI Scholarship)",
+    "deadlineNote": "TRI Scholarship applications due May 15",
+    "summary": "The Ceramic and Glass Industry Foundation lists student scholarship opportunities, including the TRI refractories scholarship.",
+    "about": "CGIF, part of The American Ceramic Society, promotes scholarship opportunities for undergraduate and graduate students in ceramic engineering, materials science, and related fields. Featured is The Refractories Institute (TRI) Scholarship, a one-time $5,000 award for full-time students at North American institutions. The TRI application is due May 15."
+  },
+  {
+    "id": "naacp",
+    "org": "NAACP",
+    "program": "NAACP Scholarships",
+    "url": "https://naacp.org/find-resources/scholarships-awards-internships",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "internship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The NAACP offers scholarships, awards, and internships/fellowships to students committed to civil rights and social justice.",
+    "about": "Through its INSPIRE Initiatives and partner organizations, the NAACP awards scholarships to students demonstrating academic excellence, emerging leadership, and a commitment to social justice. It also offers internships and fellowships for future civil rights leaders seeking hands-on experience. Specific eligibility criteria and deadlines vary by individual program.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "national-black-mba-association",
+    "org": "National Black MBA Association",
+    "program": "NBMBAA Scholarship Program",
+    "url": "https://membership.nbmbaa.org/Programs/Scholarships/Scholarship-List",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards (amounts vary by program/cycle)",
+    "summary": "The National Black MBA Association offers merit- and need-based scholarships for Black undergraduate and graduate students pursuing business and management degrees.",
+    "about": "NBMBAA runs a national scholarship program that awards funds to students of color enrolled in business, management, and related graduate programs. Scholarships are administered through the association's membership portal and open on a seasonal cycle. The organization aims to expand economic and educational opportunity for Black professionals and students.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "national-association-of-black-accountants",
+    "org": "National Association of Black Accountants",
+    "program": "NABA National Scholarship Program",
+    "url": "https://www.nabainc.org/scholarships",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards (varies)",
+    "summary": "NABA awards national scholarships to Black students pursuing accounting, finance, and business degrees at the undergraduate and graduate levels.",
+    "about": "The National Association of Black Accountants has awarded more than $11 million in scholarships to students of color in accounting and business. Awards support undergraduate and graduate members pursuing careers in the accounting profession. NABA also runs pipeline programs such as ACAP and CPA Bound to broaden access to the field.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "100-black-men-of-america",
+    "org": "100 Black Men of America",
+    "program": "Scholarship Programs",
+    "url": "https://100blackmen.org/four-for-the-future",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "100 Black Men of America provides mentoring, education, and scholarship support to Black youth through its national 'Four For The Future' initiative and local chapters.",
+    "about": "100 Black Men of America is a national mentoring organization focused on the education, leadership, and economic empowerment of Black youth. Its 'Four For The Future' program spans mentoring, education, leadership, and health, and member chapters award scholarships to students. Programs are open to high school and college students across the country.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "alpha-kappa-alpha-educational-advancement-foun",
+    "org": "Alpha Kappa Alpha Educational Advancement Foundation",
+    "program": "AKA-EAF Scholarships",
+    "url": "https://akaeaf.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarships, fellowships, and endowment awards (varies)",
+    "summary": "The AKA Educational Advancement Foundation awards need- and merit-based scholarships, fellowships, and endowments to undergraduate and graduate students of all backgrounds.",
+    "about": "AKA-EAF has funded over $6 million in scholarships to more than 6,000 students over 45 years. Awards are judged on academic achievement, community service, leadership, and, where relevant, financial need, and are open to students regardless of sorority membership. A searchable tool matches undergraduate, graduate, and non-traditional students to available awards across many majors.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "league-of-united-latin-american-citizens",
+    "org": "League of United Latin American Citizens",
+    "program": "LULAC National Scholarship Fund",
+    "url": "https://lulac.org/programs/education/scholarships",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards administered through LULAC councils",
+    "summary": "The LULAC National Scholarship Fund awards scholarships to Hispanic students at the high school, undergraduate, and graduate levels through local LULAC councils.",
+    "about": "LULAC, the nation's largest and oldest Latino civil rights organization, runs the LULAC National Scholarship Fund in partnership with local councils across the country. Awards support Hispanic students entering or attending college and graduate school. Selection considers academic performance, community involvement, and financial need.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "maldef",
+    "org": "MALDEF",
+    "program": "Law School Scholarship Program",
+    "url": "https://www.maldef.org/resources/scholarship-resources",
+    "industries": [
+      "law",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,000–$10,000 per award (5–15 awards per year)",
+    "summary": "MALDEF's Law School Scholarship Program awards $2,000–$10,000 to law students committed to advancing Latino civil rights.",
+    "about": "MALDEF, a national Latino legal civil rights organization, awards its Law School Scholarship Program to students enrolled full time at accredited U.S. law schools. Awards range from $2,000 to $10,000, with roughly five to fifteen granted each year. Selection emphasizes a demonstrated commitment to advancing Latino civil rights, alongside achievement, background, and financial need. MALDEF also publishes a free scholarship resource guide.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "hispanic-heritage-foundation",
+    "org": "Hispanic Heritage Foundation",
+    "program": "Youth Awards",
+    "url": "https://hispanicheritage.org/programs/youth-awards",
+    "industries": [
+      "education",
+      "science",
+      "technology",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Grants/awards for winners by category",
+    "summary": "The Hispanic Heritage Foundation Youth Awards recognize high school Latino students for excellence across categories such as STEM, arts, and community service.",
+    "about": "The Youth Awards honor graduating Latino high school seniors for achievement in categories including science, technology, arts, and education. Regional and national winners receive grants and recognition to support their college education. The foundation's programs and events are free and open to all.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "telacu-education-foundation",
+    "org": "TELACU Education Foundation",
+    "program": "TELACU Scholarship Program",
+    "url": "https://www.telacu.com",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards plus mentoring/support services",
+    "summary": "The TELACU Education Foundation provides scholarships and mentoring to first-generation, low-income Latino college students.",
+    "about": "The TELACU Education Foundation supports first-generation, low-income, and predominantly Latino college students with scholarships paired with mentoring, academic support, and leadership development. The program aims to increase college completion among underserved students. Support continues throughout a student's undergraduate career.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "congressional-hispanic-leadership-institute",
+    "org": "Congressional Hispanic Leadership Institute",
+    "program": "CHLI Scholarship & Internship Programs",
+    "url": "https://www.chli.org",
+    "industries": [
+      "government",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Paid Washington, D.C. internships; scholarships and fellowship stipends",
+    "summary": "CHLI offers paid Washington, D.C. internships, fellowships, and scholarships for Hispanic college and graduate students in public policy and legislative affairs.",
+    "about": "The Congressional Hispanic Leadership Institute runs programs including the semester-long Global Leaders Internship placing students in Congressional and corporate legislative affairs offices, a Communications Fellowship for recent graduates, and a Summer Law Fellowship for first- and second-year law students. It also awards scholarships such as the Wendy Martinez Scholarship. Internships are paid and based in Washington, D.C., so this program is primarily in-person.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "native-forward-scholars-fund",
+    "org": "Native Forward Scholars Fund",
+    "program": "Native American Scholarships",
+    "url": "https://nativeforward.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards for undergraduate, graduate, and professional study",
+    "summary": "Native Forward Scholars Fund awards scholarships to American Indian and Alaska Native undergraduate, graduate, and professional students nationwide.",
+    "about": "Formerly the American Indian Graduate Center, Native Forward Scholars Fund is one of the largest direct providers of scholarships to Native students in the United States. It funds enrolled members of federally and state-recognized tribes at the undergraduate, graduate, and professional levels across all fields of study. The organization also provides mentoring and student support services.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "cobell-scholarship",
+    "org": "Cobell Scholarship",
+    "program": "Cobell Scholarship for Native Students",
+    "url": "https://cobellscholar.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Tuition scholarship paid directly to institution, plus mentorship (six award types)",
+    "summary": "The Cobell Scholarship funds enrolled members of federally recognized tribes and Alaska Native corporations pursuing undergraduate through graduate degrees.",
+    "about": "Created from the historic Cobell Settlement, the Cobell Scholarship supports Native American and Alaska Native students attending accredited nonprofit institutions full time. It offers six scholarship types spanning undergraduate, graduate, professional, vocational, and dissertation study, with funds paid directly to the student's institution. Recipients also receive mentorship and a community of Native scholars.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "association-on-american-indian-affairs",
+    "org": "Association on American Indian Affairs",
+    "program": "AAIA Scholarships",
+    "url": "https://www.indian-affairs.org/nativescholarship.html",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 awarded twice per year until graduation",
+    "summary": "The Association on American Indian Affairs runs the country's oldest Native scholarship program, awarding $1,000 twice yearly to Native undergraduate and graduate students.",
+    "about": "AAIA has awarded Native scholarships since 1947, calling it the oldest Native scholarship program in the country. Funded through endowments and administered with the American Indian College Fund, it awards $1,000 twice per year to enrolled citizens of Native Nations attending accredited institutions full time with a 2.5+ GPA. Applications are currently closed and reopen in early 2027 for the Fall 2027 and Spring 2028 semesters.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "indian-health-service",
+    "org": "Indian Health Service",
+    "program": "IHS Scholarship Program",
+    "url": "https://www.ihs.gov/scholarship",
+    "industries": [
+      "healthcare",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Tuition, required fees, and a monthly living stipend",
+    "summary": "A federal scholarship covering tuition, fees, and a monthly stipend for American Indian and Alaska Native students in health professions in exchange for a service commitment.",
+    "about": "Established in 1978, the IHS Scholarship Program provides financial support to qualified American Indian and Alaska Native health professions students. Recipients commit to a minimum two-year service obligation in a medically underserved Indian health program. To date roughly 7,000 students have received awards.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "japanese-american-citizens-league",
+    "org": "Japanese American Citizens League",
+    "program": "JACL National Scholarship Program",
+    "url": "https://jacl.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Over 30 awards totaling more than $70,000 annually (one-time awards)",
+    "deadlineNote": "Entering freshman applications due March 2, 2026; all other categories due April 3, 2026.",
+    "summary": "A national scholarship program offering over 30 awards annually across freshman, undergraduate, graduate, law, and special-award categories to JACL members attending U.S. institutions.",
+    "about": "Running since 1946, the JACL National Scholarship Program awards over $70,000 each year in one-time scholarships. Applicants must be active National JACL members planning full-time enrollment at a U.S. college, university, or graduate/professional program. Categories include entering freshman, undergraduate, graduate, law, and special financial-need and creative arts awards.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "oca-asian-pacific-american-advocates",
+    "org": "OCA - Asian Pacific American Advocates",
+    "program": "OCA Scholarships",
+    "url": "https://www.ocanational.org/scholarships",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awards ranging from $2,000 to $5,000 depending on program",
+    "summary": "A set of national scholarships, several targeting first-generation students, for high school seniors and undergraduates pursuing higher education and public service.",
+    "about": "OCA - Asian Pacific American Advocates administers scholarships such as the OCA-UPS Gold Mountain awards ($2,000 for first-gen high school seniors; $2,500 for rising first-gen college seniors), the Joe and Loanne Chiu Scholarship ($5,000 for first-year first-gen undergraduates), and the S.Y. & S.F. Fung Public Service Scholarship ($2,000 for a public administration master's student). The page also links to additional partner scholarship opportunities.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "korean-american-scholarship-foundation",
+    "org": "Korean American Scholarship Foundation",
+    "program": "KASF Scholarships",
+    "url": "https://www.kasf.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awarded $845,500 in 2025 across all recipient categories",
+    "deadlineNote": "2026-2027 scholarship applications are currently closed; applications are administered by U.S. regional chapters.",
+    "summary": "A national foundation awarding scholarships to Korean American and Korean international undergraduate, graduate, and high school students through regional chapters across the U.S.",
+    "about": "The Korean American Scholarship Foundation awarded $845,500 in 2025 and has cumulatively granted $14.9 million to 8,794 students. Applications are organized by seven U.S. regional chapters (Eastern, Midwestern, Mountain States, Northeastern, Southern, Southwestern, and Western). Recipients include undergraduate and graduate students, high school students, and Korean War Veterans descendants.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "league-foundation",
+    "org": "LEAGUE Foundation",
+    "program": "LEAGUE Foundation Academic Scholarships",
+    "url": "https://www.leaguefoundation.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Academic scholarships (253 awarded totaling $560,000 since 1996)",
+    "summary": "National academic scholarships for self-identifying LGBTQ+ graduating U.S. high school seniors entering higher education.",
+    "about": "The LEAGUE Foundation provides college scholarships to self-identifying LGBTQ+ and supportive graduating U.S. high school students moving directly into higher education. Selection is based on academics, community involvement, and educational goals. Since 1996 the foundation has awarded 253 scholarships totaling $560,000; applications open in January and close in April."
+  },
+  {
+    "id": "pride-foundation",
+    "org": "Pride Foundation",
+    "program": "Pride Foundation Scholarships",
+    "url": "https://pridefoundation.org/scholarships",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "free",
+    "compensation": "Access to 60+ scholarship funds ($705,000 to 108 students in the current year)",
+    "deadlineNote": "2026-2027 application opened October 11, 2025 and closed January 9, 2026.",
+    "summary": "A single application connecting LGBTQ+ and allied students in the Pacific Northwest to 60+ scholarship funds regardless of school, major, or GPA.",
+    "about": "Seattle-based Pride Foundation offers scholarships to LGBTQ+ or questioning students who reside in Alaska, Idaho, Montana, Oregon, or Washington (they may study elsewhere). One application provides access to 60+ funds, open regardless of school, major, GPA, or citizenship status. Since 1993 it has awarded more than $8.5 million to over 2,400 students, including $705,000 to 108 students in the current year."
+  },
+  {
+    "id": "national-federation-of-the-blind",
+    "org": "National Federation of the Blind",
+    "program": "NFB Scholarship Program",
+    "url": "https://nfb.org/programs-services/scholarships-and-awards/scholarship-program",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national merit-based scholarship program for blind and legally blind students pursuing post-secondary education.",
+    "about": "The National Federation of the Blind operates a national scholarship program for legally blind students pursuing full-time post-secondary study in the United States. Awards are merit-based and recipients attend the NFB national convention. The official page could not be read directly due to bot-blocking, but the URL is on the unambiguous official NFB domain."
+  },
+  {
+    "id": "american-foundation-for-the-blind",
+    "org": "American Foundation for the Blind",
+    "program": "AFB Scholars Program",
+    "url": "https://afb.org/get-involved/afb-scholars-program",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$8,000 (community college), $20,000 (undergraduate), or $28,000 (graduate), renewable annually",
+    "deadlineNote": "Applications open January 6, 2026 with a February 17, 2026 deadline; winners notified late May 2026.",
+    "summary": "A scholarship program for blind and visually impaired students in science/technology, research, or aging and vision loss fields, with awards up to $28,000.",
+    "about": "The AFB Scholars Program, funded by the Lulu J. Alonso Scholarship Fund, offers renewable scholarships across three pathways: Science & Technology, Research, and Aging & Vision Loss. Award amounts are $8,000 for community college, $20,000 for undergraduate, and $28,000 for graduate study. Applicants must be enrolled or accepted full-time in a post-secondary program and maintain a minimum 3.0 GPA, and participate in mentorship and an annual conference."
+  },
+  {
+    "id": "national-center-for-learning-disabilities",
+    "org": "National Center for Learning Disabilities",
+    "program": "Anne Ford and Allegra Ford Thomas Scholarships",
+    "url": "https://ncld.org/scholarships-awards",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "National scholarships for graduating high school seniors with documented learning disabilities pursuing bachelor's degree or two-year/vocational programs.",
+    "about": "The National Center for Learning Disabilities offers the Anne Ford Scholarship and the Allegra Ford Thomas Scholarship for high school seniors with documented learning disabilities and/or ADHD. The Anne Ford award supports students pursuing a four-year bachelor's degree, while the Allegra Ford Thomas award supports those entering a two-year community college or vocational/technical program. Both are administered through NCLD's scholarships and awards program."
+  },
+  {
+    "id": "zonta-international",
+    "org": "Zonta International",
+    "program": "Amelia Earhart Fellowship & Women in Business Scholarships",
+    "url": "https://www.zonta.org",
+    "industries": [
+      "science",
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "International awards supporting women in aerospace-related science and engineering (Amelia Earhart Fellowship) and women in business/STEM education.",
+    "about": "Zonta International, a global organization advancing the status of women, administers the Amelia Earhart Fellowship for women pursuing PhD/doctoral degrees in aerospace-related sciences and engineering, as well as scholarships supporting women in business and other fields. Awards are open to qualifying women internationally. The official page could not be read directly due to bot-blocking, but the URL is on the unambiguous official Zonta domain.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "patsy-takemoto-mink-education-foundation",
+    "org": "Patsy Takemoto Mink Education Foundation",
+    "program": "Education Support Awards",
+    "url": "https://www.patsyminkfoundation.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Awardees are notified and announced each year in late October/early November.",
+    "summary": "Education Support Awards providing financial help to low-income women, especially mothers, pursuing education or job training.",
+    "about": "The Patsy Takemoto Mink Education Foundation focuses on educational access, opportunity, and equity for low-income women, especially mothers, along with enrichment programs for children. Its annual Education Support Awards support the educational and job-training goals of eligible low-income women. Application details are provided on the foundation's Education Support Application page, with awardees announced each fall.",
+    "equityTags": [
+      "low-income",
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "jeannette-rankin-foundation",
+    "org": "Jeannette Rankin Foundation",
+    "program": "Jeannette Rankin Women's Scholarship Fund",
+    "url": "https://rankinfoundation.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards",
+    "summary": "The Jeannette Rankin Foundation awards scholarships to low-income women age 35 and older pursuing an undergraduate or vocational degree.",
+    "about": "The Jeannette Rankin Foundation, named for the first woman elected to the U.S. Congress, funds education for low-income women. Its Women's Scholarship Fund supports non-traditional students age 35+ seeking a first associate, bachelor's, or vocational/technical credential. Awards are renewable and paired with ongoing support.",
+    "equityTags": [
+      "low-income",
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "women-s-sports-foundation",
+    "org": "Women's Sports Foundation",
+    "program": "WSF Scholarships and Grants",
+    "url": "https://www.womenssportsfoundation.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Women's Sports Foundation offers grants and funding that expand access to sport for girls and women, including individual athlete travel/training grants and program grants.",
+    "about": "Founded by Billie Jean King, the Women's Sports Foundation advances girls' and women's participation in sports. Its funding includes the Travel & Training Fund for elite female athletes and Sports 4 Life grants to organizations serving girls ages 11-18. The Sports 4 Life program funds organizations rather than paying scholarships directly to individuals."
+  },
+  {
+    "id": "marine-corps-scholarship-foundation",
+    "org": "Marine Corps Scholarship Foundation",
+    "program": "Scholarships for Marine Children",
+    "url": "https://www.mcsf.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "More than $260 million awarded to date",
+    "summary": "The Marine Corps Scholarship Foundation provides need-based scholarships to the children of Marines and Navy Corpsmen for higher education.",
+    "about": "The Foundation is the nation's oldest and largest provider of need-based scholarships to military children. It funds post-high-school, undergraduate, and career/technical education for children of Marines and Navy Corpsmen. It has awarded scholarships valued at more than $260 million and holds a 4-star Charity Navigator rating."
+  },
+  {
+    "id": "thanksusa",
+    "org": "ThanksUSA",
+    "program": "ThanksUSA Scholarship Program",
+    "url": "https://www.thanksusa.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "ThanksUSA awards need-based scholarships to the children and spouses of U.S. military service members.",
+    "about": "ThanksUSA is a nonprofit that thanks the military community by funding education. Its scholarship program provides need-based awards to spouses and children of active-duty and retired U.S. service members. Applicants must be enrolled or planning to enroll in an accredited postsecondary institution."
+  },
+  {
+    "id": "folds-of-honor",
+    "org": "Folds of Honor",
+    "program": "Educational Scholarships",
+    "url": "https://foldsofhonor.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Educational scholarships (73,000+ awarded since 2007)",
+    "summary": "Folds of Honor provides educational scholarships to the spouses and children of fallen or disabled U.S. service members and first responders.",
+    "about": "Folds of Honor is a 501(c)(3) nonprofit with the mission to honor, educate, and unite. It offers Military Scholarships and First Responder Scholarships to families of those killed or disabled in service. It has awarded more than 73,000 educational scholarships since 2007, with 43% going to minority recipients."
+  },
+  {
+    "id": "children-of-fallen-patriots-foundation",
+    "org": "Children of Fallen Patriots Foundation",
+    "program": "College Scholarships and Educational Counseling",
+    "url": "https://www.fallenpatriots.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Over $82 million in scholarships since 2002",
+    "summary": "Children of Fallen Patriots Foundation provides college scholarships and educational counseling to children who lost a military parent in the line of duty.",
+    "about": "The foundation supports children of U.S. service members who died from combat, training, service-related illness, or other duty-related causes. It provides college and trade-school scholarships plus educational counseling and career support. Since 2002 it reports more than $82 million in scholarships to over 4,000 children, and it is joining the Tunnel to Towers Foundation."
+  },
+  {
+    "id": "student-veterans-of-america",
+    "org": "Student Veterans of America",
+    "program": "SVA Scholarships",
+    "url": "https://studentveterans.org/programs/scholarships",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$90,000 awarded annually; individual awards up to $10,000",
+    "summary": "Student Veterans of America partners with sponsors to offer scholarships to student veterans pursuing higher education.",
+    "about": "SVA administers partner-funded scholarships totaling roughly $90,000 annually that do not interfere with GI Bill benefits. Named awards include the John Edelman Scholarship (five $10,000 awards in mental health counseling) and RTX SPY-6 and Patriot Scholarships ($10,000 awards for Navy and Army student veterans in technical fields). Awards recognize leadership and community engagement across undergraduate and graduate study."
+  },
+  {
+    "id": "sphinx-organization",
+    "org": "Sphinx Organization",
+    "program": "Sphinx Competition",
+    "url": "https://www.sphinxmusic.org/sphinx-competition",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      }
+    ],
+    "cost": "free",
+    "compensation": "Over $100,000 in cash prizes; Senior top prize $50,000",
+    "deadlineNote": "30th Annual Competition held January 20-23, 2027 in Detroit",
+    "summary": "The Sphinx Competition is an annual national contest in Detroit for young Black and Latino classical string players offering cash prizes and performance opportunities.",
+    "about": "The Sphinx Competition celebrates Black and Latino string musicians while addressing systemic barriers in classical music. Its Senior Division serves ages 18-30 (top Robert Frederick Smith Prize of $50,000) and its Junior Division serves ages 17 and under (top prize $10,000), with more than $100,000 awarded overall. Finalists perform with the Sphinx Symphony Orchestra in Detroit.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "educational-theatre-association",
+    "org": "Educational Theatre Association",
+    "program": "International Thespian Society Scholarships",
+    "url": "https://foundation.schooltheatre.org/scholarships",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000-$2,000 awards; $40,000+ in Thespy opportunities annually",
+    "deadlineNote": "Thespian scholarship applications open February 1 - April 1; winners announced in May",
+    "summary": "The Educational Theatre Foundation awards scholarships to inducted International Thespian Society members pursuing theatre and theatre education.",
+    "about": "The Educational Theatre Foundation is the philanthropic arm supporting the International Thespian Society. It offers scholarship categories including Artists of the Future, Theatre Educators of the Future, and Leaders of the Future, generally for graduating high school seniors with some undergraduate and graduate eligibility. Thespy Scholarships provide more than $40,000 in educational and training opportunities annually."
+  },
+  {
+    "id": "fashion-scholarship-fund",
+    "org": "Fashion Scholarship Fund",
+    "program": "FSF Scholarship",
+    "url": "https://www.fashionscholarshipfund.org",
+    "industries": [
+      "arts",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Over $1.9M awarded annually; Chairman's Award $25,000",
+    "summary": "The Fashion Scholarship Fund awards scholarships to fashion design and business students through a national case study competition.",
+    "about": "The Fashion Scholarship Fund is a leading U.S. nonprofit for fashion education and workforce development. Students from roughly 75 member schools compete via a case study covering the design and business sides of the industry. FSF awards over $1.9 million annually, with the top Chairman's Award carrying a $25,000 prize plus internships, mentorship, and networking."
+  },
+  {
+    "id": "council-of-fashion-designers-of-america",
+    "org": "Council of Fashion Designers of America",
+    "program": "CFDA Scholarship Fund",
+    "url": "https://cfda.com/programs/students/cfda-scholarship-fund",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards (~$5.9M / 415 scholarships, 1996-2025)",
+    "summary": "The CFDA Scholarship Fund awards merit-based scholarships and industry access to fashion design students at U.S. colleges.",
+    "about": "The Council of Fashion Designers of America runs the CFDA Scholarship Fund for undergraduate juniors and first-year graduate students enrolled in U.S. fashion design programs. From 1996 to 2025 it awarded roughly $5.9 million and 415 scholarships. Recipients gain exposure to CFDA members and industry leaders, and notable alumni include Peter Do and Peter Som."
+  },
+  {
+    "id": "national-federation-of-music-clubs",
+    "org": "National Federation of Music Clubs",
+    "program": "Competitions & Awards",
+    "url": "https://www.nfmc-music.org/competitions-awards",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "More than $750,000 in prizes annually",
+    "summary": "The National Federation of Music Clubs runs music competitions across multiple divisions awarding substantial prize money to U.S. musicians.",
+    "about": "The NFMC offers more than $750,000 in competition and award prizes at the local, state, and national levels. The biennial Young Artist and Ellis Duo-Pianists competitions alone award $92,000 plus two years of performance bookings. Categories span voice, instrumental, composition, dance, conducting, and music therapy across Junior, Student/Collegiate, and Senior divisions, and applicants generally must be U.S. citizens and NFMC members."
+  },
+  {
+    "id": "chopin-foundation-of-the-united-states",
+    "org": "Chopin Foundation of the United States",
+    "program": "National Scholarship Program for Young American Pianists",
+    "url": "https://chopin.org/requirements",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Renewable $1,000 scholarships (one-time $500 half-awards possible)",
+    "deadlineNote": "Application deadline May 15; awards announced by August 15",
+    "summary": "The Chopin Foundation of the United States awards renewable annual scholarships to talented young American pianists ages 14-17 preparing for the National Chopin Piano Competition.",
+    "about": "Open to U.S. citizens and legal residents ages 14-17 who are enrolled in school, the program provides renewable $1,000 scholarships (or a one-time $500 half-award). Applicants must prepare specified Chopin repertoire that rotates across four years. The application deadline is May 15, with awards announced by August 15."
+  },
+  {
+    "id": "from-the-top",
+    "org": "From the Top",
+    "program": "Jack Kent Cooke Young Artist Award",
+    "url": "https://fromthetop.org",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$10,000 Young Artist Award",
+    "summary": "From the Top's Jack Kent Cooke Young Artist Award recognizes exceptional pre-college classical musicians who show outstanding musicianship and financial need.",
+    "about": "From the Top is a nonprofit that celebrates and empowers young classical musicians through radio broadcasts, digital media, learning programs, and awards, and as of July 2026 operates as a program of KERA in North Texas. The Jack Kent Cooke Young Artist Award is given to standout young performers featured by the organization. Applications are submitted through the organization's Apply portal."
+  },
+  {
+    "id": "princess-grace-foundation-usa",
+    "org": "Princess Grace Foundation-USA",
+    "program": "Grants & Awards in Theater, Dance, and Film",
+    "url": "https://pgfusa.org/apply",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$15,000 Princess Grace Award; Playwriting Fellowship",
+    "deadlineNote": "Nomination round due early February; full application due May 1",
+    "summary": "The Princess Grace Foundation-USA awards grants to emerging artists in theater, dance, and film across the United States.",
+    "about": "The program offers a $15,000 unrestricted Princess Grace Award for emerging theater, dance, and film artists, plus a Playwriting Fellowship run with New Dramatists. Applicants must be nominated (self-nominations are not allowed) and may include individuals still in school as well as early-career professionals. The nomination round closes in early February, with full applications due May 1."
+  },
+  {
+    "id": "the-concord-review",
+    "org": "The Concord Review",
+    "program": "Emerson Prize / History Essay Journal",
+    "url": "https://www.tcr.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Emerson Prize $3,000; publication",
+    "summary": "The Concord Review publishes exemplary history research papers by secondary students and awards the Emerson Prize for outstanding authors.",
+    "about": "The Concord Review is the only quarterly journal in the world to publish the academic history research papers of secondary (high school) students, branded as 'Varsity Academics.' Students may submit history papers for consideration for publication, which requires a submission fee. The Emerson Prize recognizes the most outstanding authors."
+  },
+  {
+    "id": "national-history-day",
+    "org": "National History Day",
+    "program": "NHD Contest",
+    "url": "https://www.nhd.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarships and prizes",
+    "summary": "National History Day is a year-long academic program culminating in a contest where students in grades 6-12 create research-based history projects.",
+    "about": "NHD engages students in grades 6-12 in historical research on an annual theme, producing papers, exhibits, performances, websites, and documentaries. Projects advance through local, affiliate, and national contest levels judged by volunteers. The 2027 theme is 'Innovation in History: Impact, Influence, Change,' and winners can earn scholarships and prizes."
+  },
+  {
+    "id": "john-f-kennedy-presidential-library-foundation",
+    "org": "John F. Kennedy Presidential Library Foundation",
+    "program": "Profile in Courage Essay Contest",
+    "url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$10,000 first prize",
+    "deadlineNote": "Deadline typically mid-January",
+    "summary": "The John F. Kennedy Presidential Library Foundation's Profile in Courage Essay Contest invites U.S. high school students to write about an act of political courage by an elected official.",
+    "about": "The nationwide essay contest is open to U.S. high school students in grades 9-12, who write about a U.S. elected official who demonstrated political courage. The first-place winner receives $10,000, with additional awards for finalists. The submission deadline is typically in mid-January."
+  },
+  {
+    "id": "ayn-rand-institute",
+    "org": "Ayn Rand Institute",
+    "program": "Student Essay Contests",
+    "url": "https://aynrand.org/students/essay-contests",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Prizes up to $25,000",
+    "summary": "The Ayn Rand Institute hosts annual student essay contests on Ayn Rand's novels with cash prizes for winners.",
+    "about": "ARI runs essay contests on Anthem and The Fountainhead (middle and high school students, ages 13+) and on Atlas Shrugged (high school, college, and graduate students), open to students worldwide. Entrants must be enrolled in school during the contest period. Prizes total up to $25,000 across multiple awards."
+  },
+  {
+    "id": "optimist-international",
+    "org": "Optimist International",
+    "program": "Essay Contest",
+    "url": "https://www.optimist.org/member/scholarships3.cfm",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500 college scholarship",
+    "deadlineNote": "Club-level contests held by early February",
+    "summary": "Optimist International's Essay Contest lets students under age 19 write on an annual topic to compete for college scholarships.",
+    "about": "The contest is open to students under age 19 who have not completed high school, entered through local Optimist Clubs by residence. Club winners advance to District contests, where District winners receive a $2,500 college scholarship funded by the Optimist International Foundations. Club-level contests are held by early February, and the 2026-2027 topic is 'Finding My Voice in a World Full of Noise.'"
+  },
+  {
+    "id": "academy-of-american-poets",
+    "org": "Academy of American Poets",
+    "program": "University & College Poetry Prizes",
+    "url": "https://poets.org/academy-american-poets/prizes/university-college-poetry-prizes",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$100 cash prize per participating campus (200+ schools)",
+    "summary": "The Academy of American Poets sponsors University & College Poetry Prizes awarding cash to student poets at more than 200 participating campuses.",
+    "about": "Established in 1955, the program funds annual $100 poetry prizes at over 200 U.S. colleges and universities. Only registered students at a participating school may enter, and each institution decides whether its prize is open to undergraduate, graduate, or both. Nearly 10,000 student poets have received prizes since the program began."
+  },
+  {
+    "id": "poetry-society-of-america",
+    "org": "Poetry Society of America",
+    "program": "Annual Awards (incl. student poetry award)",
+    "url": "https://poetrysociety.org/awards",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Cash prizes",
+    "summary": "The Poetry Society of America presents annual awards to poets, including a dedicated student poetry award, alongside book and chapbook prizes.",
+    "about": "The Society's Annual Awards recognize emerging and established poets and include a student poetry award as well as book awards for publishers. Additional honors include the Four Quartets Prize, Chapbook Fellowships, and the nomination-only Frost and Shelley Awards. Specific eligibility and prize amounts are provided on each award's dedicated page."
+  },
+  {
+    "id": "the-adroit-journal",
+    "org": "The Adroit Journal",
+    "program": "Adroit Prizes for Poetry & Prose",
+    "url": "https://theadroitjournal.org/adroit-prizes-for-poetry-prose",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Cash prizes",
+    "summary": "The Adroit Journal's Adroit Prizes for Poetry & Prose recognize outstanding secondary and undergraduate student writers with cash awards.",
+    "about": "The Adroit Prizes for Poetry and Prose are an annual competition open to high school and undergraduate students. Winners receive cash prizes and publication, with selections made by guest judges. The prizes are a well-known launching point for emerging young writers."
+  },
+  {
+    "id": "bow-seat-ocean-awareness-programs",
+    "org": "Bow Seat Ocean Awareness Programs",
+    "program": "Ocean Awareness Contest",
+    "url": "https://bowseat.org/programs/ocean-awareness-contest",
+    "industries": [
+      "arts",
+      "environment"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Cash awards up to $1,000",
+    "deadlineNote": "2026 deadline June 8; 2027 theme announced in September",
+    "summary": "Bow Seat's Ocean Awareness Contest invites students ages 11-18 to create art and writing about ocean conservation for cash awards.",
+    "about": "The annual contest is open to students worldwide ages 11-18, split into Junior (11-14) and Senior (15-18) divisions, and accepts visual art, poetry and spoken word, creative writing, film, performing arts, and interactive/multimedia work on an annual environmental theme. Cash awards of up to $1,000 are given. An adult sponsor is required, and college students are not eligible."
+  },
+  {
+    "id": "bennington-college",
+    "org": "Bennington College",
+    "program": "Young Writers Awards",
+    "url": "https://www.bennington.edu/events/bennington-young-creators-awards/bennington-young-writers-awards",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $2,000 per category plus Bennington scholarships",
+    "deadlineNote": "Submissions September 1 - November 1",
+    "summary": "Bennington College's Young Writers Awards is a national writing competition for high school students in fiction, nonfiction, and poetry.",
+    "about": "Open to high school students in grades 9-12 worldwide, the competition awards cash prizes of up to $2,000 per category (fiction, nonfiction, poetry), plus Bennington College scholarships for winners and finalists who enroll. Entries must be original, in English, 1,500 words or less, and endorsed by a sponsoring teacher or mentor. Submissions open September 1 and are due November 1."
+  },
+  {
+    "id": "the-kenyon-review",
+    "org": "The Kenyon Review",
+    "program": "Patricia Grodd Poetry Prize for Young Writers",
+    "url": "https://kenyonreview.org/contests/patricia-grodd",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Full scholarship to a Kenyon Review Young Writers workshop",
+    "deadlineNote": "Submissions November 1-30",
+    "summary": "A free national poetry contest for high school sophomores and juniors, with the top winner earning a full scholarship to a Kenyon Review Young Writers workshop.",
+    "about": "Established in 2007, the Patricia Grodd Poetry Prize is open only to high school sophomores and juniors, who may submit one unpublished poem with no entry fee. Winners and runners-up are published in The Kenyon Review, and the top winner receives a full scholarship to a Young Writers workshop. Submissions run November 1 through November 30, with winners announced the following March."
+  },
+  {
+    "id": "beinecke-scholarship-program",
+    "org": "Beinecke Scholarship Program",
+    "program": "Beinecke Scholarship",
+    "url": "https://beineckescholarship.org",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$35,000 for graduate study",
+    "summary": "A national scholarship, administered by The Sperry Fund since 1975, supporting exceptional college juniors pursuing graduate study in the arts, humanities, and social sciences.",
+    "about": "The Beinecke Scholarship supports students planning advanced study in the arts, humanities, and social sciences. More than 750 scholars from over 120 colleges and universities have received support since 1975. The program is administered by The Sperry Fund and also runs a Beinecke African Scholarship for conservation leaders."
+  },
+  {
+    "id": "thomas-j-watson-foundation",
+    "org": "Thomas J. Watson Foundation",
+    "program": "Thomas J. Watson Fellowship",
+    "url": "https://watson.foundation/fellowships/tj",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$40,000 stipend plus benefits",
+    "summary": "A one-year fellowship funding graduating seniors from partner institutions to pursue self-designed independent exploration abroad.",
+    "about": "The Watson Fellowship provides a $40,000 stipend plus health insurance, 12 months of qualifying student loan payments, and additional support, for a year of self-directed exploration outside the U.S. Fellows design and carry out their own projects without academic affiliation or employment. Applicants must be graduating seniors nominated by one of 39 partner institutions; at-large applications are not accepted."
+  },
+  {
+    "id": "overseas-press-club-foundation",
+    "org": "Overseas Press Club Foundation",
+    "program": "Scholar Awards",
+    "url": "https://www.overseaspressclubfoundation.org/scholar-awards",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$5,000+ scholarships",
+    "summary": "A slate of endowed scholarships and fellowships for college and graduate students aspiring to careers as foreign correspondents and international journalists.",
+    "about": "The OPC Foundation Scholar Awards comprise numerous named scholarships and fellowships honoring distinguished correspondents, including the Walter & Betsy Cronkite Scholarship, the Reuters Fellowship, and the Harper's Magazine Scholarship in Memory of I.F. Stone. Awards support aspiring foreign correspondents across international affairs, financial journalism, and regional coverage. Winners receive scholarships and professional recognition."
+  },
+  {
+    "id": "s-i-newhouse-school-of-public-communications-s",
+    "org": "S.I. Newhouse School of Public Communications, Syracuse University",
+    "program": "The Alexia (Student Photography Grant)",
+    "url": "https://newhouse.syracuse.edu/centers/the-alexia",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Student photography grant and scholarship",
+    "summary": "A documentary photography grant program at Syracuse University's Newhouse School supporting student and professional photographers who promote a culture of peace.",
+    "about": "The Alexia, housed at the Newhouse School at Syracuse University, awards grants to student and professional photographers producing documentary work that fosters understanding and social change. The student grant provides funding and scholarship support toward a photographic project. The program honors the memory of Alexia Tsairis."
+  },
+  {
+    "id": "the-ascap-foundation",
+    "org": "The ASCAP Foundation",
+    "program": "Morton Gould Young Composer Awards",
+    "url": "https://www.ascapfoundation.org/programs/awards/morton-gould",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Cash awards for composers under 30",
+    "summary": "A national competition granting cash awards to young concert-music composers under the age of 30.",
+    "about": "The ASCAP Foundation Morton Gould Young Composer Awards recognize gifted composers of concert music who are under 30 years of age. Recipients receive cash prizes based on submitted original compositions. The program spans young composers from high school age through graduate-level and early-career musicians."
+  },
+  {
+    "id": "u-s-house-of-representatives",
+    "org": "U.S. House of Representatives",
+    "program": "Congressional Art Competition",
+    "url": "https://www.house.gov/educators-and-students/congressional-art-competition",
+    "industries": [
+      "arts",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Winning artwork displayed in the U.S. Capitol",
+    "summary": "An annual nationwide art competition in which high school students submit work through their congressional district, with winning pieces displayed in the U.S. Capitol.",
+    "about": "The Congressional Art Competition, run by the U.S. House of Representatives, invites high school students to submit original artwork to their local member of Congress. Winners from each participating district have their work displayed for a year in the Cannon Tunnel of the U.S. Capitol. The competition is free to enter and organized district by district."
+  },
+  {
+    "id": "national-endowment-for-the-arts",
+    "org": "National Endowment for the Arts",
+    "program": "Poetry Out Loud",
+    "url": "https://www.poetryoutloud.org",
+    "industries": [
+      "arts",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$20,000 national grand prize",
+    "summary": "A national poetry recitation competition for high school students, culminating in a national finals with a $20,000 grand prize.",
+    "about": "Poetry Out Loud is run by the National Endowment for the Arts with state arts agencies and Mid Atlantic Arts. High school students advance from classroom to school, state, and national levels reciting memorized poems, building public speaking and confidence. Since 2005, over 4.6 million students have participated, and the national champion wins a $20,000 grand prize."
+  },
+  {
+    "id": "gilder-lehrman-institute-of-american-history",
+    "org": "Gilder Lehrman Institute of American History",
+    "program": "Student Programs & Awards",
+    "url": "https://www.gilderlehrman.org/programs-and-events/student-programs",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Awards and recognition",
+    "summary": "American history programs and competitions for high school students offered by the Gilder Lehrman Institute, including essay contests and history awards.",
+    "about": "The Gilder Lehrman Institute of American History offers student programs and awards focused on the study of U.S. history. Offerings include history essay and scholarship competitions, book prizes, and enrichment programs for high school students nationwide. Participation is free and open to students across the country."
+  },
+  {
+    "id": "jane-austen-society-of-north-america",
+    "org": "Jane Austen Society of North America",
+    "program": "Essay Contest",
+    "url": "https://jasna.org/programs/essay-contest",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000 first-place scholarship",
+    "deadlineNote": "Deadline typically early June (June 1 in 2026)",
+    "summary": "A free annual essay contest on Jane Austen's works with separate high school, college, and graduate divisions, awarding scholarships to winners.",
+    "about": "JASNA's Essay Contest encourages the study and appreciation of Jane Austen's works and is open to students worldwide in three divisions: high school, college/university, and graduate school. First-place winners in each division receive a $1,000 scholarship plus registration and lodging at JASNA's Annual General Meeting; second and third place receive $500 and $250. Entry is free and JASNA membership is not required."
+  },
+  {
+    "id": "american-foreign-service-association",
+    "org": "American Foreign Service Association",
+    "program": "National High School Essay Contest",
+    "url": "https://afsa.org/essay-contest",
+    "industries": [
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$2,500 plus a trip to Washington, D.C. and a Semester at Sea voyage",
+    "deadlineNote": "Deadline typically early April; winners notified in June",
+    "summary": "A free national essay contest for high school students on U.S. diplomacy, awarding the winner $2,500 plus trips to Washington, D.C. and a Semester at Sea voyage.",
+    "about": "The AFSA National High School Essay Contest invites grades 9-12 students in the U.S., its territories, and U.S. citizens studying overseas to write a 1,000-1,500 word essay on a diplomacy theme. The winner receives $2,500, an all-expenses-paid trip to Washington, D.C., and an educational Semester at Sea voyage. Children of Foreign Service members and prior first-place winners are ineligible."
+  },
+  {
+    "id": "we-need-diverse-books",
+    "org": "We Need Diverse Books",
+    "program": "Creative Writing Awards (with Penguin Random House)",
+    "url": "https://diversebooks.org/programs/creativewritingawards",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Six $10,000 college scholarships",
+    "summary": "A national creative writing contest, run by Penguin Random House in partnership with We Need Diverse Books, awarding $10,000 college scholarships to diverse high school seniors.",
+    "about": "The Creative Writing Awards recognize diverse young writers through original submissions in poetry, spoken word, fiction/drama, or personal essay/memoir. Open to U.S. public high school seniors age 21 and under who plan to enroll full-time in college, with the first 1,000 applications accepted. Six students each win a $10,000 college scholarship across named categories such as the James Baldwin, Michelle Obama, and Amanda Gorman awards, plus professional development with Penguin Random House editors.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "society-of-children-s-book-writers-and-illustr",
+    "org": "Society of Children's Book Writers and Illustrators",
+    "program": "Awards & Grants",
+    "url": "https://www.scbwi.org/awards-and-grants",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Grants and scholarships for children's book creators",
+    "summary": "A collection of grants and awards supporting emerging and established writers, illustrators, and translators in the field of children's literature.",
+    "about": "SCBWI Awards & Grants support emerging and established authors, illustrators, and translators, both published and pre-published, working in children's literature. Categories cover writers, illustrators, translators, traditionally and independently published creators, and community grants, along with the SCBWI Impact and Legacy Fund. Members are notified when submission periods open, and opportunities include monetary grants and recognition."
+  },
+  {
+    "id": "music-teachers-national-association",
+    "org": "Music Teachers National Association",
+    "program": "MTNA Student Competitions",
+    "url": "https://www.mtna.org/Competitions.html",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Top prizes and national recognition",
+    "summary": "National music competitions in performance, composition, and chamber music for junior, senior, and young-artist level students.",
+    "about": "The Music Teachers National Association runs student competitions in performance (piano, strings, woodwinds, brass, voice), composition, and chamber music across Junior, Senior, and Young Artist levels. Standard categories progress through state, division, and national finals held at the MTNA National Conference, while brass/voice and chamber music use a video preliminary round followed by a live final. Winners earn top prizes and national recognition."
+  },
+  {
+    "id": "hurston-wright-foundation",
+    "org": "Hurston/Wright Foundation",
+    "program": "Hurston/Wright Award for College Writers",
+    "url": "https://www.hurstonwright.org/awards/hurston-wright-award-for-college-writers",
+    "industries": [
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Cash award",
+    "summary": "A writing award recognizing emerging Black college and graduate student writers in fiction and poetry.",
+    "about": "The Hurston/Wright Award for College Writers is described as the only award of its kind recognizing Black college writers and was the foundation's first program. It is open to emerging Black writers of fiction and poetry enrolled full-time in an undergraduate or graduate program anywhere in the United States. Submissions are made through an online portal, with the 2026 cycle deadline on April 1, 2026.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "new-york-state-assembly",
+    "org": "New York State Assembly",
+    "program": "Session Internship Program",
+    "url": "https://nyassembly.gov/internship",
+    "industries": [
+      "government",
+      "law"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Albany",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$8,800 undergraduate / $23,000 graduate stipend",
+    "deadlineNote": "2027 Session and Graduate applications available soon",
+    "summary": "A full-time academic program placing undergraduate and graduate students in the New York State Assembly during the legislative session.",
+    "about": "The New York State Assembly Session Internship Program gives qualified students hands-on work in the Assembly during the legislative session in Albany. Full-time junior and senior undergraduates receive an $8,800 stipend plus up to a full semester's academic credit, while graduate students and recent graduates receive a $23,000 stipend as Graduate Scholars. All majors are encouraged to apply."
+  },
+  {
+    "id": "silicon-valley-community-foundation",
+    "org": "Silicon Valley Community Foundation",
+    "program": "SVCF Scholarships",
+    "url": "https://www.svcf.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Mountain View",
+        "state": "CA",
+        "lat": 37.422,
+        "lng": -122.0841
+      }
+    ],
+    "cost": "free",
+    "compensation": "~700 scholarships totaling $4.5M+ annually",
+    "deadlineNote": "SVCF-managed application deadline February 27, 2026 (noon PST)",
+    "summary": "Community foundation scholarships for high school seniors, undergraduates, re-entry, and graduate students.",
+    "about": "Silicon Valley Community Foundation awards close to 700 scholarships totaling more than $4.5 million annually to graduating high school seniors, current undergraduates, re-entry students, and graduate students. Scholarships come in two types: SVCF-Managed (single application and deadline) and Donor-Managed (varying eligibility and deadlines). Awards are disbursed to institutions in the fall."
+  },
+  {
+    "id": "rhode-island-foundation",
+    "org": "Rhode Island Foundation",
+    "program": "Scholarships",
+    "url": "https://rifoundation.org/grants-scholarships/browse-scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Providence",
+        "state": "RI",
+        "lat": 41.7,
+        "lng": -71.5
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies",
+    "summary": "Donor-directed scholarships for Rhode Island high school, college, and graduate students across many fields and communities.",
+    "about": "The Rhode Island Foundation offers scholarships shaped by donor intent, funding general education or specific fields of study, trade and technical schools, and residents of particular towns or backgrounds. Eligibility varies by fund and commonly includes Rhode Island residency, enrollment at an accredited institution, specific fields of study, and financial need. Applications are offered through three pathways, with availability depending on the current cycle."
+  },
+  {
+    "id": "hawai-i-community-foundation",
+    "org": "Hawai'i Community Foundation",
+    "program": "Scholarships",
+    "url": "https://www.hawaiicommunityfoundation.org/grants-and-scholarships-for-community-causes-and-students",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Honolulu",
+        "state": "HI",
+        "lat": 20.8,
+        "lng": -156.3
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies",
+    "summary": "Community foundation scholarships awarding millions of dollars to Hawaii college students.",
+    "about": "The Hawai'i Community Foundation has awarded millions of scholarship dollars to college students over generations. Applicants apply through the foundation's Scholarship Manager portal and review the Scholarship FAQs for eligibility requirements. The foundation also provides grants to nonprofit organizations through separate competitive programs."
+  },
+  {
+    "id": "maine-community-foundation",
+    "org": "Maine Community Foundation",
+    "program": "Scholarships",
+    "url": "https://www.mainecf.org/find-a-scholarship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Ellsworth",
+        "state": "ME",
+        "lat": 45.4,
+        "lng": -69.2
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies",
+    "summary": "Community foundation scholarships for Maine students pursuing post-secondary, graduate, and aspirational education.",
+    "about": "The Maine Community Foundation encourages all students seeking post-secondary, graduate, or aspirational educational goals to apply, regardless of citizenship or immigration status. Awards consider academic performance, financial need, extracurricular involvement, and work experience. Applicants typically submit applications, transcripts, letters of recommendation, and FAFSA information, with the FAFSA requirement waived for students unable to file due to immigration status."
+  },
+  {
+    "id": "vermont-student-assistance-corporation-vsac",
+    "org": "Vermont Student Assistance Corporation (VSAC)",
+    "program": "Scholarships",
+    "url": "https://www.vsac.org/pay/student-aid-options/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Winooski",
+        "state": "VT",
+        "lat": 44,
+        "lng": -72.7
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies",
+    "summary": "State agency managing more than 150 scholarships for Vermont students pursuing college and career training.",
+    "about": "The Vermont Student Assistance Corporation manages over 150 scholarships for Vermont residents pursuing college and career training, compiled in its scholarships booklet. Specific awards target groups such as Vermont military service members and students experiencing foster care. The page also offers guidance on finding scholarships, avoiding scams, and understanding how awards affect financial aid."
+  },
+  {
+    "id": "new-hampshire-charitable-foundation",
+    "org": "New Hampshire Charitable Foundation",
+    "program": "Student Aid Scholarships",
+    "url": "https://www.nhcf.org/how-can-we-help-you/apply-for-a-scholarship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Concord",
+        "state": "NH",
+        "lat": 43.7,
+        "lng": -71.6
+      }
+    ],
+    "cost": "free",
+    "compensation": "~$8M to ~2,000 students annually",
+    "deadlineNote": "Four-year degree applicants under 24: April 10, 2026",
+    "summary": "New Hampshire's largest private scholarship provider, awarding aid across certificate, associate, bachelor's, and graduate programs.",
+    "about": "The New Hampshire Charitable Foundation is the largest provider of private scholarships in New Hampshire, awarding roughly $8 million to about 2,000 students each year through a single online application. Support spans certificate and license programs (any age), two-year associate degrees, four-year bachelor's degrees, and graduate programs including master's, PhD, MD, and JD. Citizenship is not considered, and most awards use FAFSA/SAI data to determine financial need."
+  },
+  {
+    "id": "georgia-governor-s-office-of-student-achieveme",
+    "org": "Georgia Governor's Office of Student Achievement",
+    "program": "Governor's Honors Program (GHP)",
+    "url": "https://goews.georgia.gov/governors-honors-program",
+    "industries": [
+      "education",
+      "arts",
+      "science"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "free",
+    "compensation": "State-funded residential program; meals and lodging provided",
+    "summary": "A state-funded residential summer enrichment program for talented Georgia high school sophomores and juniors.",
+    "about": "The Governor's Honors Program is a residential summer program for talented Georgia high school sophomores and juniors, offering academic, cultural, and social enrichment on a college campus from mid-June to mid-July. Students take classes in specific areas of study with the goal of developing critical thinkers, innovators, and leaders. Meals and lodging are provided; students cover only travel to the semifinalist event and host campus plus basic supplies."
+  },
+  {
+    "id": "south-carolina-governor-s-school-for-science-a",
+    "org": "South Carolina Governor's School for Science & Mathematics",
+    "program": "GoSciTech Summer Programs",
+    "url": "https://www.scgssm.org",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Hartsville",
+        "state": "SC",
+        "lat": 33.9,
+        "lng": -80.9
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Summer STEM camps with fees (financial aid available)",
+    "summary": "Residential, day, and virtual summer STEM camps for rising 6th-10th graders run by SC's Governor's School.",
+    "about": "The South Carolina Governor's School for Science and Mathematics in Hartsville offers GoSciTech summer STEM camps for rising 6th-10th graders in residential, day, and virtual formats. The school also runs a tuition-free two-year residential high school and STEM outreach programs. GoSciTech camps charge fees, with financial aid available through dedicated fees and payment pages."
+  },
+  {
+    "id": "idaho-stem-action-center",
+    "org": "Idaho STEM Action Center",
+    "program": "Student STEM Programs & Idaho Science and Engineering Fairs",
+    "url": "https://stem.idaho.gov",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boise",
+        "state": "ID",
+        "lat": 44.1,
+        "lng": -114.7
+      }
+    ],
+    "cost": "free",
+    "compensation": "State agency STEM competitions and programs",
+    "summary": "State agency offering STEM competitions, science and engineering fairs, and career-readiness programs for Idaho students.",
+    "about": "The Idaho STEM Action Center is a state agency that connects students, educators, and employers to STEM opportunities across Idaho. Student-facing programs include the Idaho Science & Engineering Fairs (IDSEF), i-STEM, Learning Blade for grades 5-8, Ready for Industry courses, and Computer Science Week/Hour of Code. It also supports educator externships, professional development, and STEM grants."
+  },
+  {
+    "id": "oregon-community-foundation",
+    "org": "Oregon Community Foundation",
+    "program": "Scholarships",
+    "url": "https://oregoncf.org/grants-and-scholarships/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "lat": 45.5152,
+        "lng": -122.6784
+      }
+    ],
+    "cost": "free",
+    "compensation": "3,400+ scholarships totaling $13M+ (2024)",
+    "deadlineNote": "Most deadlines around March 2, 2026",
+    "summary": "One of the country's largest scholarship programs, serving Oregon high school, college, and graduate students.",
+    "about": "The Oregon Community Foundation runs one of the largest scholarship programs of its kind in the country, awarding more than 3,400 scholarships totaling over $13 million in 2024, with 48% going to rural students. Scholarships support high school graduates, current college students, graduate students, and those returning for retraining. Students apply either through the state OSAC common application or directly via the MyOCF portal, with most deadlines around March 2."
+  },
+  {
+    "id": "arizona-community-foundation",
+    "org": "Arizona Community Foundation",
+    "program": "Scholarships",
+    "url": "https://www.azfoundation.org/scholarship-seekers",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies (over $6.9M awarded to ~2,000 students)",
+    "deadlineNote": "General scholarship application reopens January 2027 for the 2026-27 academic year",
+    "summary": "Arizona's largest independent provider of college scholarships lets students complete one online application to be matched to 160+ scholarships.",
+    "about": "The Arizona Community Foundation is described as Arizona's largest independent provider of college scholarships, awarding millions of dollars each year to students pursuing postsecondary education. Students submit a single general online application and are matched to eligible awards from more than 160 donor-funded scholarships. The application is currently closed and reopens in January 2027 for the 2026-27 academic year."
+  },
+  {
+    "id": "san-diego-foundation",
+    "org": "San Diego Foundation",
+    "program": "Community Scholarship Program",
+    "url": "https://www.sdfoundation.org/students",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7157,
+        "lng": -117.1611
+      }
+    ],
+    "cost": "free",
+    "compensation": "Common Scholarship Application; award varies",
+    "summary": "The San Diego Foundation offers a Community Scholarship Program letting students apply for many scholarships through a single Common Scholarship Application.",
+    "about": "The San Diego Foundation runs a Community Scholarship Program for students in the San Diego region, using a Common Scholarship Application so applicants can be matched to multiple donor-established awards at once. Award amounts vary by scholarship. The official page was reachable via the sdfoundation.org student portal but returned a temporary 503 during verification."
+  },
+  {
+    "id": "greater-kansas-city-community-foundation",
+    "org": "Greater Kansas City Community Foundation",
+    "program": "Scholarships",
+    "url": "https://growyourgiving.org/give/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kansas City",
+        "state": "MO",
+        "lat": 38.4,
+        "lng": -92.3
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies",
+    "deadlineNote": "Portal reopens for the 2027/2028 award year in December",
+    "summary": "The Greater Kansas City Community Foundation offers hundreds of scholarships for students in and around Kansas City through a single online general application.",
+    "about": "The Greater Kansas City Community Foundation administers hundreds of scholarships for students in and around Kansas City. Applicants create an account and complete a general application that generates a personalized list of eligible opportunities, with funds typically paid directly to colleges. Applications are currently closed and the portal reopens for the 2027/2028 award year in December."
+  },
+  {
+    "id": "north-carolina-governor-s-school",
+    "org": "North Carolina Governor's School",
+    "program": "Summer Residential Program",
+    "url": "https://www.dpi.nc.gov/students-families/enhanced-opportunities/governors-school-north-carolina",
+    "industries": [
+      "arts",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "lat": 35.6,
+        "lng": -79.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Four-week residential summer program for gifted high schoolers",
+    "summary": "The North Carolina Governor's School is a four-week summer residential program for gifted and talented high school students across ten academic and arts disciplines.",
+    "about": "The North Carolina Governor's School, run by the NC Department of Public Instruction, is the nation's oldest statewide summer residential program for gifted and talented high school students. In 2026 it runs June 21 to July 18 across two campuses (Meredith College in Raleigh and Greensboro College), with students studying one of ten disciplines through interdisciplinary work with no credit, tests, or grades. Students are nominated locally by their school or district."
+  },
+  {
+    "id": "washington-state-legislature",
+    "org": "Washington State Legislature",
+    "program": "Legislative Internship Program",
+    "url": "https://leg.wa.gov/learn-and-participate/civic-education-programs/internship-program",
+    "industries": [
+      "government",
+      "law"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Olympia",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$2,400 per month plus academic credit",
+    "deadlineNote": "Applications for the 2027 cohort open September 1, 2026",
+    "summary": "The Washington State Legislature offers a full-time, nonpartisan legislative internship in Olympia for undergraduate juniors and seniors during the January session.",
+    "about": "The Washington State Legislature's Legislative Internship Program places undergraduate juniors and seniors in full-time, nonpartisan roles in Olympia each January, a tradition dating to 1955. Interns are matched with House or Senate legislators or serve as caucus staff, earning academic credit plus a stipend of $2,400 per month for the 2027 session (January 5 to April 25, 2027). It is open to students of all majors, and applications for the 2027 cohort open September 1, 2026."
+  },
+  {
+    "id": "the-pittsburgh-foundation",
+    "org": "The Pittsburgh Foundation",
+    "program": "Scholarships",
+    "url": "https://pittsburghfoundation.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies (nearly $3M awarded annually)",
+    "deadlineNote": "Applications reopen for the 2027-28 academic year in January 2027",
+    "summary": "The Pittsburgh Foundation awards nearly $3 million annually from about 375 donor-funded scholarships for students in the Pittsburgh region.",
+    "about": "The Pittsburgh Foundation, with The Community Foundation of Westmoreland County, runs a scholarship program awarding nearly $3 million each year from about 375 donor-funded scholarships. Applicants apply online, with additional opportunities offered through a partnership with Scholarship America. Applications are closed for 2026-27 and reopen for the 2027-28 academic year in January 2027."
+  },
+  {
+    "id": "central-indiana-community-foundation",
+    "org": "Central Indiana Community Foundation",
+    "program": "Scholarships",
+    "url": "https://www.cicf.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Indianapolis",
+        "state": "IN",
+        "lat": 39.7684,
+        "lng": -86.1581
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies ($2.1M awarded across 211 scholarships in 2024)",
+    "summary": "The Central Indiana Community Foundation administers scholarships, directly and through partner foundations, using a shared application portal.",
+    "about": "The Central Indiana Community Foundation (CICF) administers scholarships established by community members, both directly and through partner foundations such as the Hamilton County Community Foundation, the Indianapolis Foundation, and the Women's Foundation of Indiana. In 2024 the collaborative awarded 211 scholarships totaling $2.1 million. Applicants use filtering tools and a shared application portal to find and apply for awards matching their residency and degree."
+  },
+  {
+    "id": "seattle-foundation",
+    "org": "Seattle Foundation",
+    "program": "Scholarships",
+    "url": "https://www.seattlefoundation.org/current-scholarship-opportunities",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies ($2,000-$15,000 across awards)",
+    "deadlineNote": "Cycles typically launch in November with March deadlines",
+    "summary": "The Seattle Foundation administers numerous scholarships for Washington State students, hosted online with Scholarship America.",
+    "about": "The Seattle Foundation, in partnership with Scholarship America, administers a wide range of scholarships for students primarily across Washington State. Awards vary widely in amount and eligibility, from field-of-study and community-specific scholarships to STEM and business awards, and range from roughly $2,000 to $15,000. Application cycles typically open in November with March deadlines."
+  },
+  {
+    "id": "the-columbus-foundation",
+    "org": "The Columbus Foundation",
+    "program": "Scholarships",
+    "url": "https://columbusfoundation.org/students/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      }
+    ],
+    "cost": "free",
+    "compensation": "100+ scholarships via a single Universal Scholarship Application",
+    "deadlineNote": "Deadline extended from March 1 to March 9, 2026",
+    "summary": "The Columbus Foundation offers a Universal Scholarship Application giving students access to over 100 scholarships through one online submission.",
+    "about": "The Columbus Foundation offers a Universal Scholarship Application that gives students access to more than 100 Foundation scholarships through a single online application, plus a searchable directory of hundreds of additional scholarships. Common requirements include an essay, transcripts, a FAFSA summary, and letters of recommendation, with selection committees reviewing in April and May. The deadline was extended from March 1 to March 9, 2026."
+  },
+  {
+    "id": "california-mesa-mathematics-engineering-scienc",
+    "org": "California MESA (Mathematics Engineering Science Achievement)",
+    "program": "MESA Student Programs",
+    "url": "https://mesa.ucop.edu",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Oakland",
+        "state": "CA",
+        "lat": 37.8044,
+        "lng": -122.2712
+      }
+    ],
+    "cost": "free",
+    "compensation": "STEM college/career prep for educationally disadvantaged students",
+    "summary": "California MESA is a college and career prep program that supports STEM achievement for nearly 25,000 middle school through university students statewide.",
+    "about": "California MESA (Mathematics Engineering Science Achievement), housed at the University of California Office of the President, is a college and career prep program advancing student achievement in science, technology, engineering, and math. It serves nearly 25,000 students each year across College Prep, Community College, and University segments at 350+ schools, 40 community colleges, and 13 universities. Programming includes MESA Day engineering competitions, alumni networking, and industry mentorship, with a focus on educationally disadvantaged students.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "kentucky-governor-s-scholars-program",
+    "org": "Kentucky Governor's Scholars Program",
+    "program": "Summer Residential Program",
+    "url": "https://gsp.ky.gov",
+    "industries": [
+      "education",
+      "science",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Frankfort",
+        "state": "KY",
+        "lat": 37.5,
+        "lng": -85.3
+      }
+    ],
+    "cost": "free",
+    "compensation": "Selected students attend free of charge",
+    "deadlineNote": "2026-2027 application listed as 'Coming Soon'",
+    "summary": "The Kentucky Governor's Scholars Program is a competitive summer residential program for rising high school seniors that selected students attend free of charge.",
+    "about": "The Kentucky Governor's Scholars Program, established in 1983, is a summer residential program that develops Kentucky's next generation of civic and economic leaders. It combines a strong liberal arts and sciences curriculum with co-curricular and residential life on host campuses such as Centre College, Morehead State University, and Murray State University. Students compete for selection statewide, and those chosen attend the program free of charge."
+  },
+  {
+    "id": "virginia-space-grant-consortium",
+    "org": "Virginia Space Grant Consortium",
+    "program": "Scholarships, Fellowships & Internships",
+    "url": "https://vsgc.odu.edu",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship",
+      "internship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Hampton",
+        "state": "VA",
+        "lat": 37.5,
+        "lng": -78.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "STEM scholarships/fellowships and NASA/industry internships",
+    "summary": "The Virginia Space Grant Consortium offers free STEM scholarships, fellowships, research, and NASA/industry internships for college and graduate students.",
+    "about": "The Virginia Space Grant Consortium (VSGC), affiliated with Old Dominion University, partners with NASA, industry, and institutions to provide STEM education, research, and workforce development. Offerings include Community College STEM, STEM Bridge, and Undergraduate and Graduate STEM Research scholarships and fellowships, plus internships such as CSIIP, NASA Internships, and STEM Takes Flight. It also runs NASA summer academies and K-12 STEM programs."
+  },
+  {
+    "id": "delaware-community-foundation",
+    "org": "Delaware Community Foundation",
+    "program": "Scholarships",
+    "url": "https://delcf.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Wilmington",
+        "state": "DE",
+        "lat": 39,
+        "lng": -75.5
+      }
+    ],
+    "cost": "free",
+    "compensation": "Scholarship award varies ($1,001,500 awarded to 237 students in 2025-26)",
+    "deadlineNote": "2026-27 recipients announced May 2026",
+    "summary": "The Delaware Community Foundation administers a range of donor-funded scholarships for Delaware students through an online scholarship portal.",
+    "about": "The Delaware Community Foundation (DCF) administers a range of scholarships for students, detailed in its Scholarship Compendium and awarded through an online portal. For the 2025-2026 year, DCF awarded a record $1,001,500 to 237 students. Applications for 2026-2027 are currently closed, with recipients to be announced in May 2026."
+  },
+  {
+    "id": "community-foundation-for-greater-atlanta",
+    "org": "Community Foundation for Greater Atlanta",
+    "program": "Scholarships",
+    "url": "https://cfgreateratlanta.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "free",
+    "compensation": "Hundreds of scholarships across funds; award amounts vary by fund (up to $40,000 for some)",
+    "deadlineNote": "Most 2026-2027 applications open Dec 8, 2025 and close March 2, 2026",
+    "summary": "Community-based scholarship funds awarding hundreds of scholarships each year to Greater Atlanta students pursuing postsecondary education.",
+    "about": "The Community Foundation for Greater Atlanta administers hundreds of scholarships across many donor funds, most accessible through a single universal application. Award criteria vary by fund and can include GPA, financial need, and residency, with awards paid directly to students' institutions. The main 2026-2027 application window runs from December 8, 2025 to March 2, 2026."
+  },
+  {
+    "id": "texas-space-grant-consortium",
+    "org": "Texas Space Grant Consortium",
+    "program": "Fellowships & Scholarships",
+    "url": "https://ig.utexas.edu/tsgc/fellowships-and-scholarships",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "STEM/space scholarships and fellowships; over $2 million awarded to date",
+    "deadlineNote": "2026-2027 applications open August 31",
+    "summary": "Undergraduate scholarships and graduate fellowships supporting Texas students in STEM and space-related research.",
+    "about": "The Texas Space Grant Consortium offers undergraduate scholarships (including the Columbia Crew Memorial Undergraduate Scholarship) and graduate fellowships to students at member Texas institutions interested in STEM and space research. Applicants need an active NASA Gateway account, and the consortium has awarded over $2 million to students in Texas. The 2026-2027 application window opens August 31."
+  },
+  {
+    "id": "the-gatton-academy-of-mathematics-and-science",
+    "org": "The Gatton Academy of Mathematics and Science (Western Kentucky University)",
+    "program": "Residential STEM Academy",
+    "url": "https://www.wku.edu/academy",
+    "industries": [
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Bowling Green",
+        "state": "KY",
+        "lat": 37.5,
+        "lng": -85.3
+      }
+    ],
+    "cost": "free",
+    "compensation": "Tuition, fees, room and board covered by the Commonwealth of Kentucky",
+    "summary": "Kentucky's two-year residential STEM academy where high school juniors and seniors take WKU college coursework tuition-free.",
+    "about": "The Gatton Academy of Mathematics and Science, established in 2007 at Western Kentucky University, enrolls gifted Kentucky high school juniors and seniors as full-time WKU students. Students pursue advanced STEM coursework, undergraduate research, and study-abroad opportunities. Tuition, fees, room, and board are paid for by the Commonwealth of Kentucky."
+  },
+  {
+    "id": "knowles-teacher-initiative",
+    "org": "Knowles Teacher Initiative",
+    "program": "Teaching Fellows Program",
+    "url": "https://knowlesteachers.org",
+    "industries": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Multi-year grants and stipends",
+    "deadlineNote": "Annual fall/winter application for early-career STEM teacher candidates",
+    "summary": "National multi-year fellowship supporting early-career high school math and science teachers with funding, mentoring, and a professional network.",
+    "about": "The Knowles Teacher Initiative's Teaching Fellows Program supports newer high school STEM educators through a multi-year fellowship offering grants, stipends, professional development, and mentoring. Fellows join a national network of more than 600 Fellows working to improve education across the United States. The program centers on community, financial support, professional growth, and coaching."
+  },
+  {
+    "id": "math-for-america",
+    "org": "Math for America",
+    "program": "MfA Fellowship",
+    "url": "https://www.mathforamerica.org",
+    "industries": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Substantial stipends for math/science teachers",
+    "summary": "Four-year New York City fellowship providing stipends and a professional community for accomplished public-school math and science teachers.",
+    "about": "Math for America runs a four-year fellowship, renewable for up to 20 years, for outstanding K-12 public school math and science teachers in New York City. Fellows receive substantial stipends and access to hundreds of teacher-led professional learning courses each semester. The MfA network spans 373 schools and reaches roughly 100,000 students per year."
+  },
+  {
+    "id": "generation-teach",
+    "org": "Generation Teach",
+    "program": "Teaching Fellowship",
+    "url": "https://generationteach.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid summer teaching fellowship",
+    "summary": "Summer teaching fellowship for undergraduates and high school juniors and seniors who want to try teaching K-8 students.",
+    "about": "Generation Teach offers a summer program with a 'Teach' track for undergraduate students and high school juniors and seniors excited to try teaching, alongside 'Lead' and 'Learn' tracks for educators and K-8 students. Fellows help lead summer learning communities focused on youth development. The organization is headquartered in Boston, Massachusetts."
+  },
+  {
+    "id": "college-advising-corps",
+    "org": "College Advising Corps",
+    "program": "Near-Peer Adviser Program",
+    "url": "https://collegeadvisingcorps.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps stipend",
+    "summary": "National service program placing recent college graduates as near-peer college advisers in under-resourced high schools.",
+    "about": "College Advising Corps partners with universities to place recent college graduates in low-income high schools as near-peer advisers, helping students pursue postsecondary options including community college, four-year institutions, trade school, or military service. It targets schools with high counselor-to-student ratios (cited as 408 students to one counselor). AmeriCorps is a strategic investor in the program.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "matriculate",
+    "org": "Matriculate",
+    "program": "Advising Fellows",
+    "url": "https://matriculate.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "volunteering",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Virtual advising fellowship in which trained college undergraduates mentor high-achieving, low-income high school students toward college.",
+    "about": "Matriculate recruits and trains college undergraduates as Advising Fellows who provide free, virtual college advising to high-achieving, low-income high school juniors and seniors. Fellows work in all-volunteer, campus-based Matriculate Student Associations. The role is remote and volunteer-based.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "imentor",
+    "org": "iMentor",
+    "url": "https://imentor.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "mentorship",
+      "volunteering"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Mentorship program pairing volunteer mentors with 11th and 12th graders, most first-generation college-bound, in NYC, Chicago, and Baltimore.",
+    "about": "iMentor matches every 11th and 12th grade student in its partner high schools with a committed volunteer mentor who supports them on the path to college and career. It operates in New York City, Chicago, and Baltimore and has connected roughly 36,000 students with mentors since 1999. About 68% of its students are first-generation college students.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "reading-partners",
+    "org": "Reading Partners",
+    "program": "AmeriCorps Literacy Tutor",
+    "url": "https://readingpartners.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps living allowance",
+    "summary": "AmeriCorps and volunteer literacy tutoring program helping elementary students build foundational reading skills nationwide.",
+    "about": "Reading Partners is a national literacy nonprofit that provides research-based, one-on-one tutoring to elementary students through volunteer tutors and AmeriCorps members. It operates in regions across the country, including the San Francisco Bay Area, Los Angeles, Minnesota, Tulsa, North Texas, South Carolina, the Mid-Atlantic, and New York City. AmeriCorps members serve full terms of national service."
+  },
+  {
+    "id": "826-national",
+    "org": "826 National",
+    "program": "Volunteer Writing Tutor",
+    "url": "https://826national.org",
+    "industries": [
+      "education",
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "National youth writing network engaging volunteers to support and tutor student writers in under-resourced communities.",
+    "about": "826 National is the largest youth writing network in the country, supporting local chapters that deliver writing programs to students, especially those from under-resourced communities. Volunteers help students develop their writing across nine chapters including San Francisco, Chicago, Los Angeles, Boston, and Brooklyn. The organization also publishes young writers and offers free educator resources through 826 Digital."
+  },
+  {
+    "id": "educators-rising",
+    "org": "Educators Rising",
+    "program": "Educators Rising (PDK International)",
+    "url": "https://educatorsrising.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Career and technical student organization guiding high school students toward teaching careers through chapters, curriculum, and competitions.",
+    "about": "Educators Rising, a program of PDK International, is a community-based 'grow your own' pathway that helps middle and high school students explore teaching and gain early clinical experience. It offers chapters, curriculum, micro-credentials, scholarships, and a national conference featuring performance-based competitive events. An Educators Rising Collegiate program continues supporting aspiring teachers through college."
+  },
+  {
+    "id": "cerra-center-for-educator-recruitment-retentio",
+    "org": "CERRA (Center for Educator Recruitment, Retention & Advancement)",
+    "program": "Teacher Cadet Program",
+    "url": "https://www.cerra.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Rock Hill",
+        "state": "SC",
+        "lat": 33.9,
+        "lng": -80.9
+      }
+    ],
+    "cost": "free",
+    "summary": "High school program introducing students to teaching careers through the Teacher Cadet curriculum.",
+    "about": "The Center for Educator Recruitment, Retention, and Advancement (CERRA) administers the Teacher Cadet Program, a curriculum that introduces high school students to the teaching profession and encourages them to consider education careers. CERRA is based in Rock Hill, South Carolina."
+  },
+  {
+    "id": "golden-apple-foundation",
+    "org": "Golden Apple Foundation",
+    "program": "Golden Apple Scholars of Illinois",
+    "url": "https://www.goldenapple.org/scholars-illinois",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "free",
+    "compensation": "Up to $23,000 in financial assistance plus paid professional development",
+    "summary": "A teacher-preparation program giving Illinois high school seniors and early college students up to $23,000 in tuition assistance in exchange for a five-year commitment to teach in an Illinois school-of-need.",
+    "about": "Golden Apple Scholars of Illinois recruits high school seniors, partner-university freshmen and sophomores, and community college students committed to becoming teachers. Scholars receive up to $23,000 in financial assistance, paid summer institutes, hands-on classroom experience, mentoring, and job-placement support. In return they agree to teach for five years in an Illinois school-of-need within seven years of graduation."
+  },
+  {
+    "id": "university-of-mississippi",
+    "org": "University of Mississippi",
+    "program": "Mississippi Teacher Corps",
+    "url": "https://mtc.olemiss.edu",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Oxford",
+        "state": "MS",
+        "lat": 32.7,
+        "lng": -89.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Full teacher salary plus a free Master of Arts in Teaching",
+    "summary": "A two-year alternate-route program at the University of Mississippi that places college graduates as full-time paid teachers in critical-needs Mississippi schools while they earn a free master's degree.",
+    "about": "The Mississippi Teacher Corps recruits non-education college graduates to teach in high-need Mississippi public schools via an alternate-route pathway. Participants earn a full teacher's salary and receive a free Master of Arts in Teaching and licensure through the University of Mississippi. The program pairs summer training with ongoing coaching over a two-year commitment."
+  },
+  {
+    "id": "bpe-boston-plan-for-excellence",
+    "org": "BPE (Boston Plan for Excellence)",
+    "program": "Boston Teacher Residency",
+    "url": "https://www.bpe.org/boston-teacher-residency",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Residency stipend plus master's degree",
+    "summary": "A Boston teacher residency run by BPE in which aspiring teachers train for a year alongside a mentor while earning a stipend and a master's degree.",
+    "about": "Boston Teacher Residency, operated by the Boston Plan for Excellence, prepares new teachers for Boston Public Schools through a year-long classroom apprenticeship paired with master's-level coursework. As an AmeriCorps program, residents receive a stipend during the residency year and earn a master's degree. The model emphasizes practical training in high-need urban classrooms."
+  },
+  {
+    "id": "city-teaching-alliance",
+    "org": "City Teaching Alliance",
+    "program": "Teacher Residency (formerly Urban Teachers)",
+    "url": "https://cityteachingalliance.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid residency with master's degree",
+    "summary": "A national teacher-residency program (formerly Urban Teachers) with a four-year 2x2 model offering a paid residency, coaching, and a master's degree from American University.",
+    "about": "City Teaching Alliance prepares aspiring educators through two years of intensive residency training followed by two years of continued coaching and support. Participants earn a master's degree in partnership with American University while teaching in partner schools. The program operates in Baltimore/Central Maryland, Dallas, Philadelphia, and the Greater DC metro area."
+  },
+  {
+    "id": "nyc-public-schools",
+    "org": "NYC Public Schools",
+    "program": "NYC Teaching Fellows",
+    "url": "https://nycteachingfellows.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Full teacher salary",
+    "summary": "A New York City program recruiting career changers and recent graduates to become full-salaried teachers in high-need NYC public schools while earning subsidized certification.",
+    "about": "NYC Teaching Fellows is an alternative teacher-certification pathway connected to NYC Public Schools. Fellows serve as full-salaried teachers of record in high-need subject areas and receive subsidized coursework toward certification and a master's degree. The program targets shortage subjects across New York City schools."
+  },
+  {
+    "id": "tntp",
+    "org": "TNTP",
+    "program": "TNTP Teaching Fellows",
+    "url": "https://tntpteachingfellows.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Teacher salary in partner districts",
+    "summary": "A national alternative-certification network placing career changers, college seniors, and recent graduates as paid teachers in partner districts through hands-on training and coaching.",
+    "about": "TNTP Teaching Fellows offers a faster, more affordable route to teacher certification via job-embedded training and personalized coaching. Fellows teach in partner districts through locally branded programs such as Baltimore City Teaching Residency, teachNOLA, Teach Minnesota, Buffalo Urban Teaching Fellows, and Indianapolis Teaching Fellows. It focuses on high-need subject areas and communities."
+  },
+  {
+    "id": "saga-education",
+    "org": "Saga Education",
+    "program": "Saga Fellows",
+    "url": "https://www.saga.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps stipend for math tutoring fellows",
+    "summary": "A national fellowship in which recent college graduates serve full time as in-school math tutors, supported by an AmeriCorps living stipend.",
+    "about": "Saga Education is a nonprofit that provides high-dosage, in-school math tutoring to students in under-resourced schools. Saga Fellows serve full time as math tutors and receive an AmeriCorps living stipend during their term. The program operates across multiple U.S. cities and partner districts."
+  },
+  {
+    "id": "education-pioneers",
+    "org": "Education Pioneers",
+    "program": "Fellowship",
+    "url": "https://educationpioneers.org",
+    "industries": [
+      "education",
+      "business"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid fellowship placements",
+    "summary": "A national fellowship placing graduate students and skilled professionals in paid, project-based roles at education organizations to build leadership outside the classroom.",
+    "about": "Education Pioneers develops leaders for public education in non-teaching roles such as data analysis, operations, strategy, and project management. It offers a Summer Fellowship and a ten-month Impact Fellowship, placing fellows with partner host organizations to lead key initiatives. Fellows gain leadership experience and join a national professional network."
+  },
+  {
+    "id": "teach-plus",
+    "org": "Teach Plus",
+    "program": "Teaching Policy Fellowship",
+    "url": "https://teachplus.org/what-we-do/how-we-grow-teacher-leaders/policy-fellowships",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "A part-time fellowship that trains experienced classroom teachers to advocate for education policy changes at the local, state, and national levels.",
+    "about": "The Teach Plus Teaching Policy Fellowship develops current teachers as policy leaders who influence decisions affecting students. Fellows build advocacy skills and engage with policymakers while continuing to teach. Teach Plus operates across 12 states and nationally."
+  },
+  {
+    "id": "surge-institute",
+    "org": "Surge Institute",
+    "program": "Surge Fellowship",
+    "url": "https://www.surgeinstitute.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "A national fellowship that develops leaders of color in education through a cohort year of leadership training, coaching, and networking.",
+    "about": "The Surge Institute is a national nonprofit that educates and develops leaders of color driving transformative change for young people and communities. The Surge Fellowship provides a cohort-based year of leadership development, mentorship, and a professional network for education leaders. Surge's broader programs also include the Surge Academy and the Black Principals Network.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "peer-health-exchange",
+    "org": "Peer Health Exchange",
+    "program": "College Health Educator Volunteers",
+    "url": "https://www.peerhealthexchange.org",
+    "industries": [
+      "education",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "volunteering"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national program that trains college student volunteers to deliver health education workshops to high school students.",
+    "about": "Peer Health Exchange recruits and trains college students as volunteer health educators who lead peer-to-peer workshops for high-school-aged youth. Since 2003 it has trained more than 15,000 college students reaching over 188,000 young people. The organization pairs in-person and digital health education to help young people make healthy decisions."
+  },
+  {
+    "id": "playworks",
+    "org": "Playworks",
+    "program": "AmeriCorps Coach",
+    "url": "https://www.playworks.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps living allowance",
+    "summary": "A national service opportunity in which AmeriCorps members serve full time as Playworks coaches, leading recess and play at low-income schools for a living allowance.",
+    "about": "Playworks is a national nonprofit that brings safe, healthy play and recess to schools. AmeriCorps members serve as full-time on-site coaches who lead recess games, train student Junior Coaches, and run classroom game time at low-income schools. Coaches receive an AmeriCorps living allowance during their term of service."
+  },
+  {
+    "id": "onegoal",
+    "org": "OneGoal",
+    "program": "OneGoal Fellowship",
+    "url": "https://www.onegoal.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A multi-year college-persistence program pairing high schoolers from under-resourced communities with trained teacher-mentors to reach and complete a postsecondary path.",
+    "about": "OneGoal is a national nonprofit working to close the postsecondary opportunity gap for students from low-income communities, who it notes are three times less likely to earn a postsecondary degree. It operates across ten states coast to coast, including California, Georgia, Illinois, Indiana, Kentucky, Massachusetts, Michigan, New York, Texas, and Wisconsin, and reports impacting over 203,000 students. The model empowers classroom teachers to guide students through college enrollment and completion.",
+    "equityTags": [
+      "first-gen",
+      "low-income"
+    ]
+  },
+  {
+    "id": "aim-high",
+    "org": "Aim High",
+    "program": "Summer Teaching Fellowship",
+    "url": "https://www.aimhigh.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "summer-program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid summer teaching fellowship",
+    "summary": "A paid summer teaching fellowship supporting Aim High's tuition-free enrichment program for middle schoolers across Northern California.",
+    "about": "Aim High is a multi-year summer enrichment program offered free to 5th through 8th graders across Northern California, centered in the San Francisco Bay Area. It recruits high school and college-age teaching fellows and interns through a 'Teach With Us' pathway to staff its classrooms. The organization reports that 98 percent of surveyed alumni are graduating high school and heading to college."
+  },
+  {
+    "id": "higher-achievement",
+    "org": "Higher Achievement",
+    "program": "Mentor & Scholar Program",
+    "url": "https://higherachievement.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "high-school"
+    ],
+    "types": [
+      "mentorship",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "free",
+    "summary": "A volunteer mentoring program in which older students and adults mentor middle-school scholars from under-resourced communities.",
+    "about": "Higher Achievement is an out-of-school-time academic mentoring nonprofit serving middle-school scholars in under-resourced communities. It recruits volunteer mentors, including high school and college students, to work with scholars in after-school and summer academies. It operates across several East Coast metro areas with roots in Washington, DC.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "naf-national-academy-foundation",
+    "org": "NAF (National Academy Foundation)",
+    "program": "NAFTrack Internships & Academies",
+    "url": "https://naf.org",
+    "industries": [
+      "education",
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Career-themed high school academies plus work-based learning and internships connecting students to industry partners nationwide.",
+    "about": "NAF partners schools with businesses to run career-themed academies in fields including Engineering, Finance, Health Sciences, Hospitality & Tourism, and Information Technology, aligned to the National Career Clusters Framework. Its NAFTrack work-based learning tracker and paid internships connect students to industry partners. The organization states more than 700,000 students have benefited from the NAF approach since 1980.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "teach-kentucky",
+    "org": "Teach Kentucky",
+    "program": "Teaching Fellowship",
+    "url": "https://www.teachkentucky.com",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Louisville",
+        "state": "KY",
+        "lat": 37.5,
+        "lng": -85.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Full-time teacher salary plus financial incentives and support",
+    "summary": "A selective recruitment program placing college graduates as full-time salaried teachers in Louisville-area schools while they earn a Master of Arts in Teaching.",
+    "about": "Teach Kentucky recruits high-achieving college graduates and seniors to teach full-time in Kentucky public schools, most placed in the Louisville metro area. Recruits earn a full-time teacher salary while completing an alternative-route Master of Arts in Teaching certification. The program emphasizes strong content knowledge and offers financial incentives and support to launch an education career."
+  },
+  {
+    "id": "encorps",
+    "org": "EnCorps",
+    "program": "STEM Teachers Program",
+    "url": "https://encorps.org",
+    "industries": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "A program that helps STEM professionals become classroom teachers, tutors, and mentors in high-need California schools.",
+    "about": "EnCorps recruits experienced STEM industry professionals and prepares them to teach, tutor, or mentor in California schools, offering paths including classroom teaching, online middle-school math tutoring, and CTE teacher mentorship. It is a California nonprofit public benefit corporation based in Redondo Beach. The organization reports recruiting more than 2,000 STEM professionals since 2007 and impacting over 317,000 students across 100-plus high-need partner schools."
+  },
+  {
+    "id": "relay-graduate-school-of-education",
+    "org": "Relay Graduate School of Education",
+    "program": "Teacher Preparation Program",
+    "url": "https://relay.edu",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A graduate school offering practice-based teacher preparation and certification programs delivered through flexible online coursework nationwide.",
+    "about": "Relay Graduate School of Education trains educators through a practice-based, evidence-based model built on observation, feedback, and repeated practice. It offers graduate and degree programs with or without certification, teacher professional education, and leader development, delivered via flexible online coursework taught by experienced PK-12 educators. Relay reports more than 10,000 teacher alumni and 6,000 leader alumni and operates nationwide."
+  },
+  {
+    "id": "camelback-ventures",
+    "org": "Camelback Ventures",
+    "program": "Camelback Fellowship",
+    "url": "https://www.camelbackventures.org",
+    "industries": [
+      "education",
+      "business"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Investment capital and accelerator support",
+    "summary": "A venture accelerator fellowship providing capital and community to diverse social-impact entrepreneurs building solutions to systemic inequities.",
+    "about": "The Camelback Fellowship is a rigorous venture accelerator that has run for 10 years, providing capital and community to diverse entrepreneurs building education and social-impact ventures for under-resourced communities. The organization reports supporting more than 235 fellows, investing over $11 million, and helping fellows raise $432 million in follow-on funding. It focuses on expanding who gets to build the next generation of ventures.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "latinos-for-education",
+    "org": "Latinos for Education",
+    "program": "Aspiring Latino Leaders Fellowship",
+    "url": "https://www.latinosforeducation.org/aspiring-latino-leaders-fellowship",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A leadership development fellowship preparing Latino professionals to take on decision-making roles in education.",
+    "about": "Latinos for Education is a national nonprofit that develops, places, and connects Latino leaders in the education sector. Its Aspiring Latino Leaders Fellowship, themed 'If There's No Seat at the Table, Bring Your Own,' builds the leadership skills of Latino professionals seeking greater influence in education. The organization works to increase Latino representation in education leadership across the country.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "the-literacy-lab",
+    "org": "The Literacy Lab",
+    "program": "Leading Men Fellowship",
+    "url": "https://theliteracylab.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "AmeriCorps stipend for young men of color serving as pre-K literacy tutors",
+    "summary": "An AmeriCorps fellowship placing young men of color as full-year pre-K literacy tutors in early-childhood classrooms.",
+    "about": "The Literacy Lab provides evidence-based literacy instruction so all children can access reading and learning. Its fellows support a single pre-K classroom five hours a day for a full school year, delivering one-on-one, small-group, and whole-group literacy instruction using a research-backed framework. Fellows receive 40-plus hours of initial training plus at least 90 additional hours of coaching and observation, and the Leading Men Fellowship variant places young men of color as early-literacy tutors.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "cedars-sinai",
+    "org": "Cedars-Sinai",
+    "program": "Student Research Education Programs (Summer Undergraduate Research)",
+    "url": "https://www.cedars-sinai.edu/health-sciences-university/education.html",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Summer research education programs placing high school and undergraduate students in Cedars-Sinai labs in Los Angeles.",
+    "about": "Cedars-Sinai, through its Health Sciences University, offers education and research training programs for students in Los Angeles. Its student research education offerings include mentored summer undergraduate research placements in biomedical and clinical labs. Programs are based on-site and are paid."
+  },
+  {
+    "id": "icahn-school-of-medicine-at-mount-sinai",
+    "org": "Icahn School of Medicine at Mount Sinai",
+    "program": "Summer Undergraduate Research Program (SURP)",
+    "url": "https://icahn.mssm.edu/education/students/undergraduate",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "A paid summer research program placing undergraduates in biomedical labs at the Icahn School of Medicine at Mount Sinai in New York.",
+    "about": "The Icahn School of Medicine at Mount Sinai runs a Summer Undergraduate Research Program (SURP) giving students hands-on biomedical research experience with faculty mentors. Participants work full-time in labs over the summer at Mount Sinai's New York City campus. The program provides a stipend to participants."
+  },
+  {
+    "id": "texas-children-s-hospital",
+    "org": "Texas Children's Hospital",
+    "program": "Education & Training Programs",
+    "url": "https://www.texaschildrens.org/health-professionals/education-and-training",
+    "industries": [
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "volunteering",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "free",
+    "summary": "Texas Children's offers education, training, and trainee placement programs (fellowships, residencies, and student placements) plus separate volunteer opportunities.",
+    "about": "Texas Children's Hospital, affiliated with Baylor College of Medicine, provides medical education and training including fellowships, residencies, continuing medical education, a simulation center, and physician-assistant student placement. Volunteer opportunities are offered separately through its Volunteer Services. The verified page focuses on graduate/professional trainee programs rather than high school internships."
+  },
+  {
+    "id": "children-s-national-hospital",
+    "org": "Children's National Hospital",
+    "program": "Research Opportunities for Students",
+    "url": "https://www.childrensnational.org/about-us/health-equity/investing-in-the-future-of-healthcare/research-opportunities",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid (varies by program; e.g., Colaco Scholar Program provides a stipend)",
+    "summary": "Children's National offers mentored research and summer internship programs for high school and undergraduate students exploring careers in medicine and biomedical research.",
+    "about": "Children's National Research & Innovation hosts several student research programs, including the Colaco Scholar Program (an ~8-week paid summer lab experience), the METEOR neuroscience summer internship, the Urban Alliance program, and a Psychology Research Training Program for undergraduate and graduate students. High school applicants generally must be at least 15 and rising juniors or seniors. Stipends are confirmed for some but not all programs."
+  },
+  {
+    "id": "children-s-hospital-los-angeles-chla",
+    "org": "Children's Hospital Los Angeles (CHLA)",
+    "program": "Education & Training / Summer Student Research (The Saban Research Institute)",
+    "url": "https://www.chla.org",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "CHLA's Saban Research Institute offers mentored summer research and training opportunities for high school and college students.",
+    "about": "Children's Hospital Los Angeles, through The Saban Research Institute, provides education and training including summer student research experiences for high school and undergraduate students working with hospital researchers. The official CHLA domain blocked automated verification with an HTTP 403 response, so program details were confirmed at the domain level only."
+  },
+  {
+    "id": "nemours-children-s-health",
+    "org": "Nemours Children's Health",
+    "program": "Nemours Summer Undergraduate Research Program (NSURP)",
+    "url": "https://www.nemours.org/education/research.html",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Wilmington",
+        "state": "DE",
+        "lat": 39,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$6,000 scholarship (10-week program)",
+    "summary": "A paid 10-week summer research program placing undergraduates on mentored biomedical research projects at Nemours Children's Health.",
+    "about": "The Nemours Summer Undergraduate Research Program (NSURP) is a 10-week, full-time onsite program running since 1971 that offers undergraduates a $6,000 scholarship to complete a mentored research project. It operates at Nemours sites in Delaware and Florida and requires enrollment as an undergraduate, U.S. citizenship or permanent residency, and a minimum 3.2 GPA. Applications typically open in December and close in mid-January."
+  },
+  {
+    "id": "ann-and-robert-h-lurie-children-s-hospital-of",
+    "org": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+    "program": "Volunteer & Student Programs",
+    "url": "https://www.luriechildrens.org/en/ways-to-help/volunteer",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "volunteering",
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "free",
+    "summary": "Lurie Children's offers hospital volunteer programs (including summer-only opportunities) and medical education/training pathways for students.",
+    "about": "Ann & Robert H. Lurie Children's Hospital of Chicago, the pediatric teaching hospital for Northwestern University Feinberg School of Medicine, offers hospital volunteer programs including summer-only opportunities, alongside graduate/professional medical education and training. It is affiliated with the Stanley Manne Children's Research Institute. A distinct high-school or undergraduate research internship program was not confirmed on the official site during verification."
+  },
+  {
+    "id": "northwell-health",
+    "org": "Northwell Health",
+    "program": "Feinstein Institutes Summer Student Internship Program",
+    "url": "https://feinstein.northwell.edu/education/summer-student-intern-program",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "research",
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Manhasset",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$2,000 stipend (8-week program)",
+    "summary": "An 8-week paid summer research internship at Northwell's Feinstein Institutes for Medical Research for matriculated undergraduate students.",
+    "about": "The Feinstein Institutes for Medical Research (the research arm of Northwell Health) runs an 8-week Summer Student Internship Program that matches undergraduate students with faculty mentors across institutes such as Bioelectronic Medicine, Cancer Research, and Molecular Medicine, ending in an academic poster session. Accepted students receive a $2,000 stipend to offset living and travel costs. High school students are directed to the separate Visiting Scholar Program."
+  },
+  {
+    "id": "health-career-connection",
+    "org": "Health Career Connection",
+    "program": "HCC Summer Internship Program",
+    "url": "https://www.healthcareers.org",
+    "industries": [
+      "healthcare",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "A national paid summer internship program placing college students, especially those underrepresented in health, into mentored roles at health organizations.",
+    "about": "Health Career Connection (HCC) is a national nonprofit that runs a paid Summer Internship Program placing undergraduate and recent-graduate students into mentored internships at hospitals, health plans, public health agencies, and other health organizations. The program emphasizes access for first-generation, low-income, and students-of-color pursuing health careers. Automated verification failed on a TLS certificate error, but healthcareers.org is HCC's official domain.",
+    "equityTags": [
+      "first-gen",
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "association-of-american-medical-colleges-aamc",
+    "org": "Association of American Medical Colleges (AAMC)",
+    "program": "Aspiring Docs",
+    "url": "https://students-residents.aamc.org/aspiring-docs/aspiring-docs",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A free AAMC resource program offering guidance, fact sheets, and personal stories to help aspiring students explore and prepare for careers in medicine.",
+    "about": "Aspiring Docs is an AAMC initiative providing free resources and inspiration for students considering a career in medicine, including fact sheets, personal stories, and an 'Ask a Med Student' video series. It offers guidance on exploring medical careers, gaining experience, and preparing for the application process. It is a nationally available online resource rather than a paid or in-person program."
+  },
+  {
+    "id": "student-national-medical-association-snma",
+    "org": "Student National Medical Association (SNMA)",
+    "program": "Pipeline & Pre-Medical Programs",
+    "url": "https://snma.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "SNMA runs pipeline and pre-medical mentorship programs that support underrepresented minority students pursuing careers in medicine.",
+    "about": "The Student National Medical Association is the nation's oldest and largest student organization focused on the needs of medical students of color. Through initiatives like the Health Professions Recruitment and Exposure Program (HPREP) and the Minority Association of Pre-medical Students (MAPS), it provides mentorship, exposure, and academic support to high school and college students. Programs run across chapters nationwide.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "american-medical-student-association-amsa",
+    "org": "American Medical Student Association (AMSA)",
+    "program": "Premedical Programs & Leadership",
+    "url": "https://www.amsa.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "AMSA offers premedical mentorship, leadership roles, and scholar programs for students on the path to becoming physicians.",
+    "about": "The American Medical Student Association is an independent, student-governed association supporting future physicians. Its offerings include a Pathway to Medical School mentorship track, scholar programs, a residency prep series, and numerous leadership positions across chapters and academies. The organization is built around advocacy, education, and networking pillars."
+  },
+  {
+    "id": "howard-hughes-medical-institute-hhmi",
+    "org": "Howard Hughes Medical Institute (HHMI)",
+    "program": "Science Education Programs",
+    "url": "https://www.hhmi.org/science-education/programs",
+    "industries": [
+      "science",
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "research",
+      "fellowship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "HHMI funds and runs science education programs, research opportunities, and fellowships that broaden participation in science.",
+    "about": "The Howard Hughes Medical Institute's Science Education division supports programs designed to make science more inclusive and to develop the next generation of scientists. Its portfolio spans undergraduate research initiatives, fellowships, and education programs at high school and college levels. Many programs provide paid stipends to participants."
+  },
+  {
+    "id": "american-heart-association",
+    "org": "American Heart Association",
+    "program": "HBCU Scholars & Undergraduate Research Internships",
+    "url": "https://www.heart.org/en/professional/research-programs/aha-hbcu-scholars-program",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The American Heart Association offers HBCU Scholars and undergraduate research internship programs for students in cardiovascular and health sciences.",
+    "about": "The American Heart Association funds research programs aimed at building a diverse cardiovascular and stroke science workforce. Its HBCU Scholars program and undergraduate research internships give students of color hands-on research experience and mentorship. Participants typically receive paid stipends.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "american-cancer-society",
+    "org": "American Cancer Society",
+    "program": "Diversity in Cancer Research (DICR) Internship",
+    "url": "https://www.cancer.org/research.html",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The American Cancer Society's Diversity in Cancer Research program includes paid undergraduate research internships for students from underrepresented backgrounds.",
+    "about": "The American Cancer Society funds cancer research and training programs, including internships for undergraduates through its Diversity in Cancer Research (DICR) initiative. The internships place students in labs to gain mentored research experience and are aimed at broadening diversity in the cancer research workforce. Interns receive a stipend.",
+    "equityTags": [
+      "students-of-color",
+      "low-income"
+    ]
+  },
+  {
+    "id": "american-association-of-colleges-of-nursing-aa",
+    "org": "American Association of Colleges of Nursing (AACN)",
+    "program": "Nursing Student Programs & Scholarships",
+    "url": "https://www.aacnnursing.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "AACN provides scholarships, a graduate student academy, and educational resources for baccalaureate and graduate nursing students.",
+    "about": "The American Association of Colleges of Nursing is the national voice for academic nursing. It offers scholarships and financial aid, the Graduate Nursing Student Academy (GNSA), the NursingCAS centralized application service, and awards for nursing students. Resources serve undergraduate and graduate nursing students nationwide."
+  },
+  {
+    "id": "national-league-for-nursing-nln",
+    "org": "National League for Nursing (NLN)",
+    "program": "Nursing Student Scholarships & Programs",
+    "url": "https://www.nln.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The National League for Nursing offers foundation scholarships, education research grants, and leadership programs for nursing students and educators.",
+    "about": "The National League for Nursing supports nursing education through scholarships, research grants, and professional development. Its offerings include NLN Foundation Scholarships, Nursing Education Research Grants, and leadership programs such as the Leadership Institute and Leadership Academy. The programs serve nursing students and faculty across degree levels."
+  },
+  {
+    "id": "national-hispanic-medical-association-nhma",
+    "org": "National Hispanic Medical Association (NHMA)",
+    "program": "Premedical & Medical Mentorship Programs",
+    "url": "https://www.nhmamd.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "NHMA runs the College Health Scholars Program, internships, and leadership fellowships that develop the next generation of Hispanic health professionals.",
+    "about": "The National Hispanic Medical Association fosters the pipeline of Hispanic health professionals through several programs. These include the College Health Scholars Program (CHSP), a year-round NHMA Internship Program, and leadership fellowships such as the Hispanic Leadership Development Fellowship. It also offers scholarships like La Proxima Generacion for emerging leaders in medicine and public health.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "latino-medical-student-association-lmsa",
+    "org": "Latino Medical Student Association (LMSA)",
+    "program": "Pre-Medical Pipeline & Mentorship",
+    "url": "https://national.lmsa.net",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "LMSA offers pre-medical pipeline resources, scholarships, and mentorship for aspiring Latino medical trainees.",
+    "about": "The Latino Medical Student Association is a 501(c)(3) nonprofit that represents, supports, educates, and unifies medical trainees across five U.S. regions. Through its LMSA PLUS arm it provides pre-med resources, premed opportunities, national scholarships, and a dedicated mentorship program. It hosts national events including the LMSA National Conference and SALUD Summit.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "american-physical-therapy-association-apta",
+    "org": "American Physical Therapy Association (APTA)",
+    "program": "Student & Aspiring PT Programs",
+    "url": "https://www.apta.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "APTA provides a dedicated student section, career exploration resources, and professional community for students and aspiring physical therapists.",
+    "about": "The American Physical Therapy Association offers resources for students and those exploring careers in physical therapy. These include a For Students section, a Careers in Physical Therapy area, the APTA Learning Center, and an online community connecting students with PTs and PTAs. Membership provides discounted courses and access to scientific literature."
+  },
+  {
+    "id": "american-occupational-therapy-association-aota",
+    "org": "American Occupational Therapy Association (AOTA)",
+    "program": "Student & Emerging Practitioner Programs",
+    "url": "https://www.aota.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "AOTA offers programs, resources, and mentorship for occupational therapy students and emerging practitioners.",
+    "about": "The American Occupational Therapy Association is the national professional association for occupational therapy. It provides student memberships, career and emerging-practitioner resources, continuing education, and networking opportunities. Its programs serve OT and OTA students at the college and graduate levels."
+  },
+  {
+    "id": "medlife",
+    "org": "MEDLIFE",
+    "program": "Global Health Service Learning Trips",
+    "url": "https://www.medlife.org",
+    "industries": [
+      "healthcare",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "volunteering",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "MEDLIFE runs global health Service Learning Trips where students volunteer with mobile clinics and community development projects abroad.",
+    "about": "MEDLIFE (Medicine, Education, and Development for Low Income Families Everywhere) is a nonprofit that partners with low-income communities in Latin America and Africa. Its Service Learning Trips let high school and college students volunteer alongside local healthcare providers on mobile clinics and development projects. Participants pay a trip fee to take part."
+  },
+  {
+    "id": "child-family-health-international-cfhi",
+    "org": "Child Family Health International (CFHI)",
+    "program": "Global Health Education Programs",
+    "url": "https://www.cfhi.org",
+    "industries": [
+      "healthcare",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "internship",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "CFHI offers ethical, immersive global health education programs abroad for college and graduate students in the health professions.",
+    "about": "Child Family Health International is a nonprofit NGO and a leader in ethical global health education. It places college, graduate, and health-professions students in community-based programs in countries across Latin America, Africa, and Asia, emphasizing local partnership over volunteer-tourism. Students pay program fees to participate in these mentored immersive experiences."
+  },
+  {
+    "id": "doris-duke-foundation",
+    "org": "Doris Duke Foundation",
+    "program": "Medical Research Program (Clinical Research Mentorship & Fellowships)",
+    "url": "https://www.dorisduke.org/programs/medical-research",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "graduate",
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "research",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The Doris Duke Foundation funds medical research grants, fellowships, and clinical research training for physician-scientists and clinical researchers.",
+    "about": "The Doris Duke Foundation's Medical Research Program invests in new approaches in the health sciences to advance a healthier society. It supports early-career physician-scientists and clinical researchers through awards, fellowships, and mentored research funding. Focus areas include health innovation and racial equity in clinical research and practice."
+  },
+  {
+    "id": "robert-wood-johnson-foundation",
+    "org": "Robert Wood Johnson Foundation",
+    "program": "Health Policy Fellowships & Nursing/Leadership Scholars",
+    "url": "https://www.rwjf.org",
+    "industries": [
+      "healthcare",
+      "government",
+      "nonprofit"
+    ],
+    "audiences": [
+      "graduate",
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The Robert Wood Johnson Foundation supports health policy fellowships and leadership/scholars programs for clinicians, nurses, and researchers advancing health equity.",
+    "about": "The Robert Wood Johnson Foundation is a national philanthropy focused on building a Culture of Health. It funds leadership development programs, fellowships, and scholars initiatives that develop diverse leaders in health policy, nursing, and research. Opportunities are posted through its active funding opportunities and leadership programs."
+  },
+  {
+    "id": "american-academy-of-pediatrics-aap",
+    "org": "American Academy of Pediatrics (AAP)",
+    "program": "Medical Student & Trainee Programs (Path to Pediatrics)",
+    "url": "https://www.aap.org",
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The American Academy of Pediatrics offers career resources, mentorship, and trainee programs for pre-med students, medical students, and pediatric trainees.",
+    "about": "The American Academy of Pediatrics provides its Path to Pediatrics resources spanning pre-med, medical school, residency, and fellowship stages. Offerings include career planning support, community and networking groups, and educational tools. It connects students and trainees with the pediatric professional community."
+  },
+  {
+    "id": "american-physician-scientists-association-apsa",
+    "org": "American Physician Scientists Association (APSA)",
+    "program": "Undergraduate & Medical Student Programs",
+    "url": "https://www.physicianscientists.org",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The American Physician Scientists Association offers mentorship, research resources, and programming for undergraduate and medical students pursuing physician-scientist careers.",
+    "about": "The American Physician Scientists Association is a national trainee-led organization supporting aspiring physician-scientists. It provides mentorship, an annual meeting, research and career resources, and networking for undergraduate, graduate, and medical students. Membership and many programs are free to students."
+  },
+  {
+    "id": "naacp-legal-defense-and-educational-fund-ldf",
+    "org": "NAACP Legal Defense and Educational Fund (LDF)",
+    "program": "Legal Internships & Fellowships",
+    "url": "https://www.naacpldf.org/about-us/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The NAACP Legal Defense Fund offers legal internships and fellowships supporting its racial justice litigation and advocacy work.",
+    "about": "The NAACP Legal Defense and Educational Fund is the nation's premier civil rights legal organization. It hosts law student interns and legal fellows who contribute to litigation, policy, and advocacy on racial justice. Positions are based primarily in New York with additional offices.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "mexican-american-legal-defense-and-educational",
+    "org": "Mexican American Legal Defense and Educational Fund (MALDEF)",
+    "program": "Law Clerk / Legal Internship Program",
+    "url": "https://www.maldef.org/about/career-opportunities",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "MALDEF offers a competitive law clerk summer internship and legal and policy internships supporting its Latino civil rights litigation and advocacy.",
+    "about": "The Mexican American Legal Defense and Educational Fund is a national Latino civil rights organization. It runs a competitive Law Clerk Summer Internship program for law students and legal, policy, communications, and development internships. Positions are offered in offices including Los Angeles, San Antonio, Sacramento, and Washington, DC.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "asian-american-legal-defense-and-education-fun",
+    "org": "Asian American Legal Defense and Education Fund (AALDEF)",
+    "program": "Legal Internships",
+    "url": "https://www.aaldef.org/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Varies",
+    "summary": "AALDEF offers legal internships for law and undergraduate students supporting its Asian American civil rights litigation and advocacy.",
+    "about": "The Asian American Legal Defense and Education Fund is a New York-based national civil rights organization serving Asian American communities. It hosts legal interns and volunteers who assist with litigation, community education, and advocacy. Internships are based in New York City.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "latinojustice-prldef",
+    "org": "LatinoJustice PRLDEF",
+    "program": "Careers & Internships",
+    "url": "https://www.latinojustice.org/en/careers-internships",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "LatinoJustice PRLDEF offers internships supporting its Latino civil rights litigation, advocacy, and community empowerment work.",
+    "about": "LatinoJustice PRLDEF is a national civil rights legal organization defending the rights of Latino communities. It offers internships and career opportunities for students supporting litigation, advocacy, and community programs. Positions are based primarily in New York.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "brennan-center-for-justice",
+    "org": "Brennan Center for Justice",
+    "program": "Internship Program",
+    "url": "https://www.brennancenter.org/careers",
+    "industries": [
+      "law",
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Brennan Center for Justice hires legal and undergraduate interns to support its democracy, justice, and national security policy, research, and litigation work.",
+    "about": "The Brennan Center for Justice at NYU School of Law is a nonpartisan law and policy institute. It hires legal and undergraduate interns for fall, spring, and summer terms across programs including Democracy, Justice, and Liberty & National Security. Interns support policy advocacy, research, and litigation, with offices in New York and Washington, DC."
+  },
+  {
+    "id": "center-for-constitutional-rights",
+    "org": "Center for Constitutional Rights",
+    "program": "Ella Baker Internship Program",
+    "url": "https://ccrjustice.org/home/get-involved/internships/ella-baker-internship-program",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "The Center for Constitutional Rights' Ella Baker Internship Program places law and undergraduate students in social justice legal work.",
+    "about": "The Center for Constitutional Rights is a nonprofit legal and educational organization advancing social justice movements. Its Ella Baker Internship Program gives law students and undergraduates hands-on experience in movement-based legal advocacy and litigation. The program is based in New York and provides a stipend."
+  },
+  {
+    "id": "american-bar-association",
+    "org": "American Bar Association",
+    "program": "Judicial Intern Opportunity Program (JIOP)",
+    "url": "https://www.americanbar.org/groups/litigation/about/jiop",
+    "industries": [
+      "law",
+      "government"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$2,000 stipend",
+    "deadlineNote": "Applications typically due in January",
+    "summary": "The ABA's Judicial Intern Opportunity Program places law students from underrepresented backgrounds in summer judicial internships with a stipend.",
+    "about": "The Judicial Intern Opportunity Program is a national American Bar Association initiative expanding access to the judiciary for law students from communities underrepresented in the legal profession. Selected students complete four- to six-week judicial internships and receive a $2,000 stipend. Applications are typically due in January.",
+    "equityTags": [
+      "first-gen",
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "alliance-defending-freedom",
+    "org": "Alliance Defending Freedom",
+    "program": "Blackstone Legal Fellowship",
+    "url": "https://blackstonelegalfellowship.org",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend + housing",
+    "deadlineNote": "Applications due early January",
+    "summary": "Alliance Defending Freedom's Blackstone Legal Fellowship is a summer formation and internship program for Christian law students.",
+    "about": "The Blackstone Legal Fellowship, run by Alliance Defending Freedom, is a summer program for Christian law students combining professional formation with legal internships. It runs in three phases including a formation curriculum, self-arranged internships, and a theology-of-work component. Applications are due in early January with acceptances in February."
+  },
+  {
+    "id": "institute-for-justice",
+    "org": "Institute for Justice",
+    "program": "Student Programs & Clerkships",
+    "url": "https://ij.org/students",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Arlington",
+        "state": "VA",
+        "lat": 38.8799,
+        "lng": -77.1068
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Institute for Justice offers paid law clerkships and student programs supporting its constitutional and public interest litigation.",
+    "about": "The Institute for Justice is a nonprofit public interest law firm defending civil liberties through litigation. It offers paid law student clerkships and student programs at its Arlington, Virginia headquarters and other offices. Students work on constitutional litigation and legal research."
+  },
+  {
+    "id": "pacific-legal-foundation",
+    "org": "Pacific Legal Foundation",
+    "program": "Litigation Fellowship",
+    "url": "https://pacificlegal.org/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [
+      {
+        "city": "Arlington",
+        "state": "VA",
+        "lat": 38.8799,
+        "lng": -77.1068
+      }
+    ],
+    "cost": "paid",
+    "compensation": "$100,000 salary",
+    "summary": "Pacific Legal Foundation runs a paid, year-long Litigation Fellowship for recent law-school graduates across its four practice areas.",
+    "about": "The fellowship pays a $100,000 salary and places fellows alongside PLF attorneys to work on litigation, legal research, writing, and case development. It is a remote program open across the U.S., though fellows are encouraged to spend some days each week in the Arlington, VA office. Strong fellows may be considered for permanent attorney positions after the program."
+  },
+  {
+    "id": "foundation-for-individual-rights-and-expressio",
+    "org": "Foundation for Individual Rights and Expression (FIRE)",
+    "program": "Internships & Student Programs",
+    "url": "https://www.fire.org/careers",
+    "industries": [
+      "law",
+      "nonprofit",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "FIRE offers paid student programs including the remote Campus Scholars Program for undergraduates and clerkships, fellowships, and summer internships for law students.",
+    "about": "The Campus Scholars Program is a year-long, paid, remote program for current undergraduates who defend civil liberties on campus and build a personal project. Law students can pursue clerkships, fellowships (including the Arthur D. Hellman Fellowship), and summer internships for hands-on legal experience. FIRE maintains offices in Philadelphia, PA and Washington, D.C."
+  },
+  {
+    "id": "electronic-privacy-information-center-epic",
+    "org": "Electronic Privacy Information Center (EPIC)",
+    "program": "Internet Public Interest Opportunities Program (IPIOP) Clerkship",
+    "url": "https://epic.org/about/careers",
+    "industries": [
+      "law",
+      "technology",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "EPIC's Internet Public Interest Opportunities Program (IPIOP) offers clerkships and fellowships for students and law students working on privacy and technology policy.",
+    "about": "EPIC is a public-interest research center in Washington, DC focused on privacy, civil liberties, and technology policy. Its IPIOP program provides clerkships and fellowships in which participants conduct legal and policy research alongside EPIC staff. Positions are based in Washington, DC."
+  },
+  {
+    "id": "center-for-democracy-and-technology",
+    "org": "Center for Democracy & Technology",
+    "program": "Internship Program",
+    "url": "https://cdt.org/careers",
+    "industries": [
+      "law",
+      "technology",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Center for Democracy & Technology offers internships for students working on technology and civil-liberties policy.",
+    "about": "CDT is a nonprofit based in Washington, DC that advocates for civil rights and civil liberties in the digital age. Its internship program engages students in policy research and advocacy across areas such as privacy, free expression, and security. Positions are based in Washington, DC."
+  },
+  {
+    "id": "amnesty-international-usa",
+    "org": "Amnesty International USA",
+    "program": "Internships",
+    "url": "https://www.amnestyusa.org/about-us/jobs-and-internships",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Amnesty International USA offers internships for students supporting its human-rights research and advocacy work.",
+    "about": "Amnesty International USA is the U.S. section of the global human-rights movement Amnesty International. It offers internships that support research, campaigns, and advocacy across its program areas. Positions are associated with its offices, including New York and Washington, DC."
+  },
+  {
+    "id": "robert-f-kennedy-human-rights",
+    "org": "Robert F. Kennedy Human Rights",
+    "program": "Internship Program",
+    "url": "https://kennedyhumanrights.org/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Robert F. Kennedy Human Rights offers internships supporting its human-rights advocacy, litigation, and education programs.",
+    "about": "Robert F. Kennedy Human Rights (now branded Kennedy Human Rights) is a nonprofit advancing human rights through advocacy, litigation, and education. It offers internships that support its program teams. The organization operates offices in the U.S., including New York and Washington, DC."
+  },
+  {
+    "id": "the-sentencing-project",
+    "org": "The Sentencing Project",
+    "program": "Internship Program",
+    "url": "https://www.sentencingproject.org/about-us/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Sentencing Project offers internship and fellowship opportunities supporting its criminal-justice research and advocacy, though none are open at this time.",
+    "about": "The Sentencing Project is a nonprofit based in Washington, DC advocating for reforms in sentencing and criminal-justice policy. Its official careers and internships page notes that internship and fellowship opportunities are offered when available. At the time of verification the page indicated no open internship or fellowship positions."
+  },
+  {
+    "id": "southern-center-for-human-rights",
+    "org": "Southern Center for Human Rights",
+    "program": "Internships & Clerkships",
+    "url": "https://www.schr.org/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.749,
+        "lng": -84.388
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "The Southern Center for Human Rights offers internships and law clerkships supporting its capital defense and prison-conditions litigation.",
+    "about": "The Southern Center for Human Rights is a nonprofit legal organization in Atlanta, GA that litigates on behalf of people facing the death penalty and challenges conditions in prisons and jails. It offers internships and clerkships for students and law students to support its litigation and advocacy. Positions are based in Atlanta, GA."
+  },
+  {
+    "id": "juvenile-law-center",
+    "org": "Juvenile Law Center",
+    "program": "Internship Program",
+    "url": "https://jlc.org/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Juvenile Law Center offers internships for students supporting its advocacy for children in the justice and child-welfare systems.",
+    "about": "Juvenile Law Center is a nonprofit public-interest law firm based in Philadelphia, PA focused on the rights and well-being of children in the foster care and justice systems. It offers internships that support its litigation, policy, and advocacy work. Positions are based in Philadelphia, PA."
+  },
+  {
+    "id": "national-immigration-law-center",
+    "org": "National Immigration Law Center",
+    "program": "Internship Program",
+    "url": "https://www.nilc.org/get-involved/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The National Immigration Law Center lists internship and career opportunities in immigrant rights law, policy, and communications.",
+    "about": "NILC is a national nonprofit focused on defending and advancing the rights of low-income immigrants through litigation, policy advocacy, and communications. Its careers page is the intake point for internships and staff roles based primarily in Los Angeles and Washington, DC. Compensation specifics could not be confirmed because the site blocks automated access."
+  },
+  {
+    "id": "immigrant-legal-resource-center",
+    "org": "Immigrant Legal Resource Center",
+    "program": "Law Clerk / Internship Program",
+    "url": "https://www.ilrc.org/about-us/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Compensation not stated on posting",
+    "summary": "The Immigrant Legal Resource Center offers law clerk internships for spring, fall, and summer terms supporting immigration policy, legal trainings, and civic engagement.",
+    "about": "ILRC is a San Francisco-based national nonprofit that supports immigrants and the advocates who serve them. Law clerks work under an ILRC attorney mentor on policy, legal trainings, and immigrant civic engagement, with a preferred ten-week commitment. Applicants need strong legal research and writing skills and a demonstrated commitment to immigration issues."
+  },
+  {
+    "id": "lawyers-committee-for-civil-rights-under-law",
+    "org": "Lawyers' Committee for Civil Rights Under Law",
+    "program": "Internships & Fellowships",
+    "url": "https://www.lawyerscommittee.org/career-opportunities",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Summer interns receive a stipend; internships otherwise unpaid with academic credit or outside funding; fellowships rely on outside funding",
+    "summary": "The Lawyers' Committee offers legal, graduate, and undergraduate internships plus attorney fellowships at its Washington, DC national office.",
+    "about": "The Lawyers' Committee for Civil Rights Under Law is a national civil rights legal organization based in Washington, DC. Its volunteer internship program has two tracks (legal/graduate and undergraduate/recent graduate), with summer interns working ~30 hours/week for 10 weeks and receiving a stipend. Fellowships serve recent law graduates and practicing attorneys who bring outside funding."
+  },
+  {
+    "id": "national-center-for-lgbtq-rights-formerly-nati",
+    "org": "National Center for LGBTQ Rights (formerly National Center for Lesbian Rights)",
+    "program": "Law Clerk / Legal Internship Program",
+    "url": "https://www.nclrights.org/about-us/jobs-opportunities",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Compensation not stated on posting",
+    "summary": "NCLR seeks law clerks to assist with national impact litigation, public policy, and educational work supporting LGBTQ rights.",
+    "about": "The National Center for LGBTQ Rights (NCLR), based in San Francisco, is a national legal organization advancing LGBTQ civil rights through litigation, policy, and public education. Law clerks answer helpline questions, conduct case research, update publications, and draft memos under staff attorney supervision. General internships are also posted on this page when available."
+  },
+  {
+    "id": "glad-law-glbtq-legal-advocates-and-defenders",
+    "org": "GLAD Law (GLBTQ Legal Advocates & Defenders)",
+    "program": "Internships",
+    "url": "https://www.gladlaw.org/internships",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Stipend up to $3,000 for legal interns; $1,500-$3,000 for development interns",
+    "summary": "GLAD Law offers stipend-supported legal internships for 2L/3L law students and nonprofit development internships based in Boston.",
+    "about": "GLAD Law (GLBTQ Legal Advocates & Defenders) is a Boston-based LGBTQ and HIV legal rights organization. Legal interns conduct research and writing and support litigation and policy advocacy, with fall/spring terms remote-eligible and summer in-person and full-time. Legal interns can receive stipends up to $3,000, and development interns receive $1,500-$3,000 depending on hours."
+  },
+  {
+    "id": "public-citizen",
+    "org": "Public Citizen",
+    "program": "Litigation Group & Internship Program",
+    "url": "https://www.citizen.org/about/careers",
+    "industries": [
+      "law",
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Some internships paid, others unpaid",
+    "summary": "Public Citizen offers both paid and unpaid internships across research, organizing, lobbying, and press work at its Washington, DC offices.",
+    "about": "Public Citizen is a national nonprofit consumer advocacy organization headquartered in Washington, DC. Interns work alongside staff researchers, organizers, lobbyists, and press officers, and summer interns join luncheons and networking events. The organization offers both paid and unpaid internships and encourages women, people of color, and LGBTQ+ candidates to apply."
+  },
+  {
+    "id": "national-constitution-center",
+    "org": "National Constitution Center",
+    "program": "Internship Program",
+    "url": "https://constitutioncenter.org/about/careers",
+    "industries": [
+      "law",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Compensation varies; internships listed separately from paid staff positions",
+    "summary": "The National Constitution Center offers internships alongside volunteer opportunities and staff roles at its Philadelphia museum and education center.",
+    "about": "The National Constitution Center is a nonpartisan museum and civic education institution located at 525 Arch Street in Philadelphia. Its careers page confirms it offers internships and directs applicants to a dedicated internships section. Internships appear as a separate category from paid staff positions, so compensation details require review of the specific posting."
+  },
+  {
+    "id": "constitutional-rights-foundation-now-teach-dem",
+    "org": "Constitutional Rights Foundation (now Teach Democracy)",
+    "program": "Civic Education & Youth Programs",
+    "url": "https://teachdemocracy.org/get-involved",
+    "industries": [
+      "law",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "free",
+    "summary": "Teach Democracy (formerly Constitutional Rights Foundation) runs civic education programs for students, including Mock Trial, the Civic Action Project, Bill of Rights in Action, and Civil Conversation.",
+    "about": "Teach Democracy, formerly the Constitutional Rights Foundation, is a nonpartisan civic education nonprofit based in Los Angeles. It offers programs for elementary through high school students such as Mock Trial, the Civic Action Project, and the Expanding Horizons Institute, along with volunteer opportunities for legal professionals, law students, and educators. A distinct student internship program was not found on the site."
+  },
+  {
+    "id": "just-the-beginning-a-pipeline-organization-jtb",
+    "org": "Just The Beginning - A Pipeline Organization (JTB)",
+    "program": "Summer Judicial Internship Project & Summer Legal Institutes",
+    "url": "https://jtb.org",
+    "industries": [
+      "law",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Summer Judicial Internship Project interns receive stipends; Summer Legal Institutes are free to participants",
+    "summary": "JTB runs the Summer Judicial Internship Project placing students with federal judges and free Summer Legal Institutes to introduce students to the legal profession.",
+    "about": "Just The Beginning is a national pipeline nonprofit that inspires and prepares students from underrepresented backgrounds for legal careers. In 2025 its Summer Judicial Internship Project placed 126 stipend-supported interns with federal judges and law clerks nationwide, and its Summer Legal Institutes educate hundreds of students free of charge. Programs span a 'Scholars' track (middle and high school) and a 'Leaders' track (undergraduate and law students).",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "the-legal-aid-society",
+    "org": "The Legal Aid Society",
+    "program": "Legal Internship Program",
+    "url": "https://legalaidnyc.org/about-us/careers",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Legal Aid Society offers internships and intern applications across its civil, criminal, and juvenile rights practices throughout New York City.",
+    "about": "The Legal Aid Society is New York City's oldest and largest provider of free legal services, operating across the Bronx, Brooklyn, Manhattan, Queens, and Staten Island. Its careers hub links to an internships section and intern application listings. Specific compensation details are provided on the linked internship postings."
+  },
+  {
+    "id": "lambda-legal",
+    "org": "Lambda Legal",
+    "program": "Law Clerk & Undergraduate Internship Program",
+    "url": "https://lambdalegal.org/jobs-and-internships",
+    "industries": [
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend",
+    "summary": "Lambda Legal's Jobs & Internships page is the intake point for its law clerk and undergraduate internship opportunities across its national offices.",
+    "about": "Lambda Legal is a national LGBTQ and HIV civil rights legal organization with offices in New York, Chicago, Los Angeles, Dallas, Atlanta, and Washington, DC. Its Jobs & Internships page hosts openings including law clerk and undergraduate internship roles, offered as work-from-home, hybrid, or in-office. No active internship postings were displayed at the time of verification."
+  },
+  {
+    "id": "democracy-forward",
+    "org": "Democracy Forward",
+    "program": "Legal Internships & Fellowships",
+    "url": "https://democracyforward.org/careers",
+    "industries": [
+      "law",
+      "nonprofit",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Democracy Forward lists legal internships and fellowships at its Washington, DC office supporting public-interest litigation and legal advocacy.",
+    "about": "Democracy Forward is a national legal organization based in Washington, DC that uses litigation and legal advocacy to challenge unlawful government and corporate action. Its careers page is the intake point for legal internships and fellowships. Content could not be read directly because the site blocks automated access."
+  },
+  {
+    "id": "metlife",
+    "org": "MetLife",
+    "program": "Students & Graduates / Early Career Programs",
+    "url": "https://www.metlifecareers.com/en_US/ml/EarlyCareer",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Summer internship applications typically open in fall",
+    "summary": "MetLife offers student internships and early-in-career development programs across areas including actuarial, audit, investments, group benefits, legal, and technology.",
+    "about": "MetLife is a global insurance and financial services company offering internships and early-career development programs for students and recent graduates. Featured tracks include Investments, Group Benefits sales and service, and the Technology METx (MetLife Emerging Talent Experience) program, alongside a Sales Academy and MetLife Technical University. Interns work on real projects from day one with mentorship and professional development."
+  },
+  {
+    "id": "aflac",
+    "org": "Aflac",
+    "program": "University Programs (Students & Graduates)",
+    "url": "https://careers.aflac.com/us/en",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "GA",
+        "lat": 32.9,
+        "lng": -83.6
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Aflac's official careers site featuring a University Programs track with internships and early-career opportunities for students.",
+    "about": "The Aflac careers homepage is a live official recruiting site with a dedicated University Programs section for students and early-career candidates. It links to job categories, subsidiaries, a talent community, and Aflac's job search. The supplemental insurance company is headquartered in Columbus, Georgia."
+  },
+  {
+    "id": "allstate",
+    "org": "Allstate",
+    "program": "Students & Grads Internships",
+    "url": "https://www.allstatecorporation.com/careers.aspx",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Allstate's official corporate careers page covering internships and early-career opportunities for students and recent graduates.",
+    "about": "Allstate offers paid internships and early-career roles across corporate functions at locations nationwide. The original allstate.jobs/students-grads page now redirects to Allstate's corporate careers site as the jobs portal is being restructured."
+  },
+  {
+    "id": "usaa",
+    "org": "USAA",
+    "program": "Student Programs & Internships",
+    "url": "https://www.usaajobs.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Antonio",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "USAA's official careers site with a Student Programs track offering internships and early-career opportunities.",
+    "about": "The USAA jobs site is a live official recruiting platform with a dedicated Student Programs section (/university) and job search across many U.S. cities. USAA is a financial services and insurance provider serving military members and their families, headquartered in San Antonio, Texas."
+  },
+  {
+    "id": "the-hartford",
+    "org": "The Hartford",
+    "program": "Leadership Development & Actuarial Internships",
+    "url": "https://www.thehartford.com/careers/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Hartford",
+        "state": "CT",
+        "lat": 41.6,
+        "lng": -72.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Hartford's official students careers page covering internships and leadership/actuarial development programs for college and graduate students.",
+    "about": "The Hartford, a property-and-casualty insurer headquartered in Hartford, Connecticut, runs paid internship and leadership development programs including an actuarial track for students and recent graduates. The students careers page is hosted on The Hartford's official domain."
+  },
+  {
+    "id": "chubb",
+    "org": "Chubb",
+    "program": "Students & Graduates Development Program",
+    "url": "https://careers.chubb.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Chubb's official careers portal hosting internships and early-career development programs for students and graduates.",
+    "about": "Chubb, a global property-and-casualty insurer, offers internships and early-career development opportunities for students and graduates through its official careers portal. The original us-en students-and-graduates page returned 404; the careers site now routes to Chubb's official candidate portal (titled 'Chubb External')."
+  },
+  {
+    "id": "massmutual",
+    "org": "MassMutual",
+    "program": "Students & Early Career Internships",
+    "url": "https://www.massmutual.com/about-us/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Springfield",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "MassMutual's official careers page covering internships and early-career opportunities for students and graduates.",
+    "about": "MassMutual, a mutual life insurer headquartered in Springfield, Massachusetts, offers paid internships and early-career programs across corporate functions. The careers page is hosted on MassMutual's official domain."
+  },
+  {
+    "id": "northwestern-mutual",
+    "org": "Northwestern Mutual",
+    "program": "Internships (Financial Representative & Corporate)",
+    "url": "https://www.northwesternmutual.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Milwaukee",
+        "state": "WI",
+        "lat": 44.6,
+        "lng": -89.9
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Northwestern Mutual's official careers page offering student internships, including its award-winning financial representative internship and corporate opportunities.",
+    "about": "Northwestern Mutual's careers site describes student internships, led by its College Financial Representative development program, alongside a link to browse corporate internship opportunities. The company, headquartered in Milwaukee, Wisconsin, also lists corporate careers and a military transition program. The internships landing page (opportunities.northwesternmutual.com/students) centers on the financial representative track."
+  },
+  {
+    "id": "new-york-life",
+    "org": "New York Life",
+    "program": "Corporate Internship Program",
+    "url": "https://www.newyorklife.com/about/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "New York Life's official careers page covering its corporate internship program and early-career opportunities for students.",
+    "about": "New York Life, a mutual life insurance company, offers a paid corporate internship program and early-career roles across its business functions nationwide. The careers page is hosted on New York Life's official domain."
+  },
+  {
+    "id": "guardian-life",
+    "org": "Guardian Life",
+    "program": "Students & Graduates Summer Internship",
+    "url": "https://www.guardianlife.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Guardian Life's official careers page featuring a 10-week summer internship program for students and graduates.",
+    "about": "Guardian Life runs a 10-week summer internship focused on building critical skills, making meaningful contributions, and networking, with openings posted through its Workday portal. The mutual life insurer has locations across the US, Canada, and India. The careers page also covers corporate roles and financial professional careers."
+  },
+  {
+    "id": "cincinnati-insurance",
+    "org": "Cincinnati Insurance",
+    "program": "Internship Program",
+    "url": "https://www.cinfin.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Fairfield",
+        "state": "OH",
+        "lat": 40.4,
+        "lng": -82.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Cincinnati Insurance's official careers page offering internships where students are encouraged to learn and grow professionally.",
+    "about": "The Cincinnati Insurance Company, headquartered in Fairfield, Ohio, offers internships alongside full-time roles, with openings posted through its Taleo job portal. The page emphasizes mentorship, the Golden Rule culture, and professional growth for students."
+  },
+  {
+    "id": "american-family-insurance",
+    "org": "American Family Insurance",
+    "program": "Internships & Rotational Development Program",
+    "url": "https://careers.amfam.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Madison",
+        "state": "WI",
+        "lat": 44.6,
+        "lng": -89.9
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "American Family Insurance's official careers page offering internships and a rotational development program for students and recent graduates.",
+    "about": "American Family Insurance's careers site includes an Early Careers section with internships and a Rotational Development Program for students and recent grads, plus roles across affiliates like Homesite, Main Street America, and CONNECT. The company is headquartered in Madison, Wisconsin, with roles across many U.S. cities."
+  },
+  {
+    "id": "erie-insurance",
+    "org": "Erie Insurance",
+    "program": "Internship Program",
+    "url": "https://www.erieinsurance.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Erie",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Erie Insurance's official careers page offering internships and training programs for students.",
+    "about": "Erie Insurance, headquartered in Erie, Pennsylvania, lists dedicated Internships and Training Programs categories among its career paths, with openings across Claims, Actuarial & Data, Underwriting, and more. Its careers content is served via a SuccessFactors-hosted jobs portal (jobs.erieinsurance.com)."
+  },
+  {
+    "id": "mutual-of-omaha",
+    "org": "Mutual of Omaha",
+    "program": "Students & Grads Internships",
+    "url": "https://www.mutualofomaha.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Omaha",
+        "state": "NE",
+        "lat": 41.5,
+        "lng": -99.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships and early-career opportunities at Mutual of Omaha, a Fortune 500 insurance and financial services company.",
+    "about": "Mutual of Omaha's official careers site features an Early Careers section for students and recent graduates alongside its corporate roles. Internships are based primarily at the Omaha, NE headquarters with in-office, hybrid, and remote options. Benefits highlighted include 401(k) and tuition reimbursement."
+  },
+  {
+    "id": "principal-financial-group",
+    "org": "Principal Financial Group",
+    "program": "Students & Recent Graduates Internships",
+    "url": "https://www.principal.com/about-us/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Des Moines",
+        "state": "IA",
+        "lat": 42,
+        "lng": -93.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships and recent-graduate roles at Principal Financial Group, a global financial services firm.",
+    "about": "Principal's official careers site offers corporate careers and Principal Financial Network paths and links to dedicated Internships and Recent graduates pages. Opportunities are centered on its Des Moines, IA headquarters and other locations with hybrid arrangements for students and recent graduates."
+  },
+  {
+    "id": "voya-financial",
+    "org": "Voya Financial",
+    "program": "Internship Program",
+    "url": "https://www.voya.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships at Voya Financial, a national retirement, investment, and insurance company.",
+    "about": "Voya's official careers page is the entry point for applying to roles including internships across U.S. locations. The company cautions applicants to use only official channels and to beware of fraudulent internship or job offers."
+  },
+  {
+    "id": "tiaa",
+    "org": "TIAA",
+    "program": "Students & Graduates Program",
+    "url": "https://www.tiaa.org/public/about-tiaa/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships and early-career programs for students and graduates at TIAA, a national retirement and financial services provider.",
+    "about": "TIAA offers internships and analyst/early-career programs for undergraduate and graduate students across its U.S. offices. Programs provide experience in financial services, technology, and asset management."
+  },
+  {
+    "id": "unum",
+    "org": "Unum",
+    "program": "Internship Program",
+    "url": "https://unumgroup.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chattanooga",
+        "state": "TN",
+        "lat": 35.9,
+        "lng": -86.4
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships at Unum, an international workplace benefits provider headquartered in Chattanooga.",
+    "about": "Unum's official careers site lists opportunities across the U.S., U.K., Ireland, and Poland, including internships. U.S. internships are based primarily at its Chattanooga, TN headquarters with a hybrid model."
+  },
+  {
+    "id": "securian-financial",
+    "org": "Securian Financial",
+    "program": "Internship Program",
+    "url": "https://www.securian.com/about-us/careers.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "St. Paul",
+        "state": "MN",
+        "lat": 44.9537,
+        "lng": -93.09
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Paid internships at Securian Financial, an insurance and retirement company based in St. Paul.",
+    "about": "Securian's official careers page presents Early career and Experienced professional paths and directs applicants to its Workday job portal. Internships are based primarily at its St. Paul, MN headquarters with a hybrid work model."
+  },
+  {
+    "id": "thrivent",
+    "org": "Thrivent",
+    "program": "Internship Program",
+    "url": "https://careers.thrivent.com/internships",
+    "industries": [
+      "business",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Thrivent's paid 12-week summer internship program for undergraduate and graduate students at a Fortune 500 financial services membership organization.",
+    "about": "Thrivent runs a top-rated 12-week paid summer internship, including an actuarial path that can lead to a full-time rotational program. Most roles are remote with some onsite, based out of headquarters in Minneapolis, MN and Appleton, WI. Interns get real project work, networking events, and pathways to full-time roles."
+  },
+  {
+    "id": "milliman",
+    "org": "Milliman",
+    "program": "Actuarial Internship Program",
+    "url": "https://careers.milliman.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid; provided housing or housing stipend",
+    "summary": "Paid internships at Milliman, a global actuarial and consulting firm, with a strong actuarial focus and provided housing or a housing stipend.",
+    "about": "Milliman's careers site describes a structured internship where students work on real client projects across insurance, healthcare, benefits, risk, technology, and data science. Interns receive provided housing or a housing stipend, professional development, and present a final business project to leadership. The firm also offers actuarial scholarships such as the Stuart A. Robertson Memorial Scholarship (up to $10,000)."
+  },
+  {
+    "id": "mercer",
+    "org": "Mercer",
+    "program": "Early Careers Internships",
+    "url": "https://www.mercer.com/en-us/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Early-careers internships at Mercer, a global HR and investment consulting firm, giving students full-time analyst-level experience.",
+    "about": "Mercer's careers page includes an Internships and early careers section inviting students to gain the experience of a full-time analyst role alongside industry consultants. Openings are posted through the Marsh McLennan careers portal across U.S. locations."
+  },
+  {
+    "id": "wtw-willis-towers-watson",
+    "org": "WTW (Willis Towers Watson)",
+    "program": "Early Careers Internship Program",
+    "url": "https://careers.wtwco.com/early-careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "WTW's early-careers programs including internships, graduate programs, placements, and apprenticeships at a global advisory, broking, and solutions firm.",
+    "about": "WTW's early careers site offers Graduate Programs, Internships, Placements, apprenticeships, and the Insight (Level Up / Step Up) programs. It features employee stories from interns and graduate-program participants and links to search roles and events."
+  },
+  {
+    "id": "arthur-j-gallagher",
+    "org": "Arthur J. Gallagher",
+    "program": "Summer Internship Program",
+    "url": "https://jobs.ajg.com/ajg-students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Gallagher's paid summer Sales Internship Program offering client exposure, case competitions, and a nationwide intern network.",
+    "about": "Arthur J. Gallagher's student careers page features the Gallagher Sales Internship Program, a summer internship with client exposure, sales challenges, case competitions, a 500+ peer network, and an in-person conference in Chicago. It also runs Gallagher Bassett's IN2GB rotational internship for students at HBCUs. CEO Pat Gallagher started as an intern."
+  },
+  {
+    "id": "brown-and-brown-insurance",
+    "org": "Brown & Brown Insurance",
+    "program": "Internship Program",
+    "url": "https://us.bbrown.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Brown & Brown offers internships that develop future insurance professionals through hands-on experience and leadership programs.",
+    "about": "Brown & Brown is one of the largest insurance brokerages in the US. Its careers page describes investing in future insurance professionals through internships and leadership programs. Internship roles are posted through the company's careers portal across its national office network."
+  },
+  {
+    "id": "rsm-us",
+    "org": "RSM US",
+    "program": "Campus Internships",
+    "url": "https://rsmus.com/careers/students.html",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "RSM US offers student internships across Assurance, Tax, and Consulting alongside an Explore preview program and scholarships.",
+    "about": "RSM US is a national audit, tax, and consulting firm. Its early-career page offers entry points based on graduation timeline, including the virtual Explore program, internships, scholarships, and full-time roles. Internships give students hands-on work with firm leaders and clients across Assurance, Tax, and Consulting tracks."
+  },
+  {
+    "id": "crowe",
+    "org": "Crowe",
+    "program": "Campus & Internship Program",
+    "url": "https://www.crowe.com/careers/students",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Crowe recruits students for campus internships and entry-level roles in audit, tax, and consulting.",
+    "about": "Crowe is a national public accounting, consulting, and technology firm. Its students careers section covers campus recruiting and internship opportunities for those starting their careers. Roles span the firm's audit, tax, and advisory service lines."
+  },
+  {
+    "id": "cliftonlarsonallen-cla",
+    "org": "CliftonLarsonAllen (CLA)",
+    "program": "Campus Internships",
+    "url": "https://www.claconnect.com/en/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "CLA recruits early-career professionals through campus internships and also offers a dedicated high school internship track.",
+    "about": "CliftonLarsonAllen (CLA) is a national professional services firm providing accounting, tax, and advisory services. Its careers page presents pathways for high school students, early-career/campus recruits, and experienced professionals. Campus recruiting and internships lead into entry-level roles across the firm."
+  },
+  {
+    "id": "baker-tilly-us",
+    "org": "Baker Tilly US",
+    "program": "Campus Internship Program",
+    "url": "https://www.bakertilly.com/careers",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Baker Tilly recruits students for campus internships that lead into entry-level advisory, tax, and assurance roles.",
+    "about": "Baker Tilly is a national advisory, tax, and assurance firm. Its careers site includes campus recruiting and internship programs for students. The firm recently merged with Moss Adams, and Moss Adams careers pages now redirect to Baker Tilly."
+  },
+  {
+    "id": "plante-moran",
+    "org": "Plante Moran",
+    "program": "Campus Internship & Staff Program",
+    "url": "https://careers.plantemoran.com",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Plante Moran recruits campus students for audit and tax internships that lead into entry-level staff roles.",
+    "about": "Plante Moran is a national audit, tax, consulting, and wealth management firm. Its Early Careers site posts campus internship openings such as multi-year Audit or Tax Intern roles alongside entry-level positions. The program is aimed at students taking their first step into the profession."
+  },
+  {
+    "id": "techstars",
+    "org": "Techstars",
+    "program": "Techstars Accelerator",
+    "url": "https://www.techstars.com/accelerators",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "fellowship",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Investment for equity",
+    "deadlineNote": "Rolling by program/cohort",
+    "summary": "Techstars runs three-month, mentorship-driven accelerator programs that provide startups capital, domain expertise, and network access.",
+    "about": "Techstars operates accelerator programs across many verticals (Health, Finance, Space & Defense, Critical Infrastructure) and global locations. Each program offers three months of intensive, mentorship-driven support plus access to capital and partnerships. Cohorts run on a rolling basis by program."
+  },
+  {
+    "id": "500-global",
+    "org": "500 Global",
+    "program": "500 Global Accelerator",
+    "url": "https://500.co/accelerators",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Palo Alto",
+        "state": "CA",
+        "lat": 37.4419,
+        "lng": -122.143
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Investment for equity",
+    "summary": "500 Global runs a flagship accelerator and specialized global programs that help founders validate, build, and scale their startups.",
+    "about": "500 Global is a venture capital firm that has run its flagship accelerator since 2010, based in Palo Alto. Programs provide networks, coaching, and mentorship covering customer discovery, product-market fit, and go-to-market. It also offers specialized programs across Latin America, MENA, Japan, and Korea."
+  },
+  {
+    "id": "masschallenge",
+    "org": "MassChallenge",
+    "program": "MassChallenge Accelerator",
+    "url": "https://masschallenge.org/programs",
+    "industries": [
+      "technology",
+      "business",
+      "healthcare"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Equity-free cash awards",
+    "summary": "MassChallenge runs equity-free accelerator programs across healthcare, climate, security, food, and financial systems.",
+    "about": "MassChallenge is a nonprofit accelerator network known for equity-free programming. Its offerings include Early Stage (founder-focused, industry-agnostic) and Challenge Programs for mid-to-late stage startups across Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. Program availability rotates by cohort."
+  },
+  {
+    "id": "gener8tor",
+    "org": "gener8tor",
+    "program": "gener8tor Accelerator",
+    "url": "https://www.gener8tor.com/accelerators",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$100K investment for equity",
+    "summary": "gener8tor runs a selective 12-week, investment-for-equity accelerator that invests $100K and provides concierge mentorship.",
+    "about": "gener8tor is a nationally ranked accelerator that invests $100K into high-growth startups through a 12-week investment-for-equity program. Each cohort accepts only five to six companies and includes 100+ introductions to mentors and investors. Alumni have raised $1.9B+ in capital and created 8,300+ jobs."
+  },
+  {
+    "id": "alchemist-accelerator",
+    "org": "Alchemist Accelerator",
+    "program": "Alchemist Accelerator",
+    "url": "https://www.alchemistaccelerator.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "~$30K investment for ~5% equity",
+    "summary": "Alchemist is a six-month accelerator for enterprise/B2B startups offering coaching, mentorship, and fundraising support.",
+    "about": "Alchemist Accelerator is a Silicon Valley-rooted, globally accessible six-month program that helps technical founders become CEOs. It supports AI-SaaS and deeptech companies that monetize from enterprises, offering workshops, mentor access, 1:1 coaching, and fundraising support. Founders receive an optional ~$30K net investment in exchange for about 5% equity, with free Bay Area co-working space."
+  },
+  {
+    "id": "antler",
+    "org": "Antler",
+    "program": "Antler Residency",
+    "url": "https://www.antler.co",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "fellowship",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend plus investment",
+    "summary": "Antler is a global early-stage VC that backs founders from first check onward through its cohort-based residency model.",
+    "about": "Antler is a global early-stage venture capital firm investing in founders from first check to IPO across 26 locations worldwide. It provides pre-seed founders with capital, network, and support to get started, and offers Antler Elevate for scale-ups. Its portfolio includes 1,800+ companies and a community of 12,000+ founders."
+  },
+  {
+    "id": "founder-institute",
+    "org": "Founder Institute",
+    "program": "Founder Institute Accelerator",
+    "url": "https://fi.co",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Program fee (equity-based)",
+    "summary": "A global, mentor-driven startup company-builder program that guides aspiring founders from idea to launched company through a structured, AI-native curriculum.",
+    "about": "Founded in 2009, the Founder Institute is a cohort-based program (now branding itself as an AI-native company builder) operating in more than 100 countries with local mentors and demo days. It offers a roughly 10-session curriculum, AI-generated weekly sprints, mentor support, and access to early investment. Participation is fee-based rather than free."
+  },
+  {
+    "id": "draper-university",
+    "org": "Draper University",
+    "program": "Draper University Entrepreneurship Program",
+    "url": "https://www.draperuniversity.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Mateo",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Tuition",
+    "summary": "An immersive in-person entrepreneurship program in San Mateo, California, founded by venture capitalist Tim Draper to train aspiring founders.",
+    "about": "Draper University runs residential entrepreneurship programs at its San Mateo campus focused on startup skills, risk-taking, and hands-on venture building. Programs are tuition-based and geared toward college-age and older aspiring entrepreneurs."
+  },
+  {
+    "id": "startx",
+    "org": "StartX",
+    "program": "StartX Founder Community",
+    "url": "https://web.startx.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Palo Alto",
+        "state": "CA",
+        "lat": 37.4419,
+        "lng": -122.143
+      }
+    ],
+    "cost": "free",
+    "compensation": "No fees and no equity taken (nonprofit accelerator)",
+    "summary": "A nonprofit accelerator and founder community for Stanford-affiliated entrepreneurs that takes no equity and charges no fees.",
+    "about": "StartX supports Stanford student, alumni, and faculty founders through a cohort accelerator, mentorship, investor access, and a network of 3,000+ founders and 85+ Stanford professors. It explicitly takes no equity and charges no fees, and is becoming an anchor tenant of a new Stanford Research Park innovation hub."
+  },
+  {
+    "id": "halcyon",
+    "org": "Halcyon",
+    "program": "Halcyon Incubator Fellowship",
+    "url": "https://halcyonaccelerator.org/incubator",
+    "industries": [
+      "business",
+      "nonprofit",
+      "technology",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "lat": 38.9072,
+        "lng": -77.0369
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "$10,000 stipend plus five months of housing",
+    "summary": "A five-month residential fellowship in Washington, DC for early-stage social entrepreneurs building financially sustainable, impact-driven ventures.",
+    "about": "The Halcyon Incubator selects a small cohort of early-stage social entrepreneurs each cycle who relocate to live and work at Halcyon House in Georgetown for about five months. Fellows receive housing plus a $10,000 stipend along with mentorship and support to develop ventures from idea to MVP stage."
+  },
+  {
+    "id": "capital-factory",
+    "org": "Capital Factory",
+    "program": "Capital Factory Accelerator",
+    "url": "https://www.capitalfactory.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "cost": "free",
+    "compensation": "Equity-based membership; cash investment available via Texas Fund",
+    "summary": "A Texas-based early-stage startup network and venture firm that connects founders to mentorship, investors, and funding.",
+    "about": "Founded in 2009 in Austin, Capital Factory describes itself as the most active early-stage investor in Texas. Its All Access membership program (which takes common stock rather than a cash fee) serves as the front door to the Texas startup ecosystem, while its Texas Fund makes cash investments in deep and frontier tech from seed to Series C."
+  },
+  {
+    "id": "plug-and-play-tech-center",
+    "org": "Plug and Play Tech Center",
+    "program": "Plug and Play Accelerator",
+    "url": "https://www.plugandplaytechcenter.com/startups",
+    "industries": [
+      "technology",
+      "business",
+      "healthcare",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Sunnyvale",
+        "state": "CA",
+        "lat": 37.3688,
+        "lng": -122.0363
+      }
+    ],
+    "cost": "free",
+    "compensation": "Equity-free accelerator with corporate and investor access",
+    "summary": "A large global startup accelerator headquartered in Silicon Valley that runs industry-focused programs connecting startups with corporate partners and investors.",
+    "about": "Plug and Play Tech Center runs equity-free accelerator programs across verticals such as fintech, health, mobility, and sustainability. Startups gain access to corporate partners, mentorship, and investment opportunities through its Sunnyvale, California hub and global network."
+  },
+  {
+    "id": "dorm-room-fund",
+    "org": "Dorm Room Fund",
+    "program": "Dorm Room Fund (First Round Capital)",
+    "url": "https://www.dormroomfund.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Student-run VC; $90K–$250K checks to student founders",
+    "summary": "A nationwide student-run venture fund that writes early checks to student-founded startups and trains students as investors.",
+    "about": "Dorm Room Fund, originally backed by First Round Capital, invests $90K–$250K first checks in student and recent-alumni founders across college, business school, and PhD stages. It supports founders with mentorship and investor introductions and has backed 300+ student-run companies that have raised over $6B in follow-on capital."
+  },
+  {
+    "id": "contrary",
+    "org": "Contrary",
+    "program": "Contrary Fellowship",
+    "url": "https://www.contrary.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "mentorship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Talent community; investment for founders",
+    "summary": "A talent- and research-driven venture firm that runs a fellowship/talent community connecting top student and early-career builders with mentorship and investment.",
+    "about": "Contrary is an investment firm that backs a small number of entrepreneurs from seed to scale and cultivates a talent network of student and early-career technologists. Its fellowship program provides community, mentorship, and access to investment for founders, and applications are handled through Contrary's talent channels."
+  },
+  {
+    "id": "z-fellows",
+    "org": "Z Fellows",
+    "program": "Z Fellows",
+    "url": "https://www.zfellows.com",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Optional $10,000 investment at a $1B valuation cap",
+    "summary": "A one-week program pairing early-stage builders with founders of billion-dollar companies, with an optional $10,000 investment.",
+    "about": "Z Fellows runs a mostly virtual, one-week program (with a final in-person day in SF or NYC) that connects technical builders with mentors like Marc Randolph, Naval Ravikant, and Dylan Field. It has worked with high school dropouts, college students, and full-time employees, with no age or company requirement, and offers an optional $10,000 investment on a $1B cap SAFE plus ongoing support."
+  },
+  {
+    "id": "soma-capital",
+    "org": "Soma Capital",
+    "program": "Soma Fellows",
+    "url": "https://www.somacap.com/fellows",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "mentorship",
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Fellowship community; investment access for founders",
+    "summary": "A remote fellowship community run by Soma Capital that connects student and early-career founders with mentorship and investor access.",
+    "about": "Soma Fellows is a program by venture firm Soma Capital that builds a community of ambitious student and early-career founders. Fellows receive mentorship, peer networking, and access to Soma's investor network and portfolio resources."
+  },
+  {
+    "id": "1517-fund",
+    "org": "1517 Fund",
+    "program": "1517 Fund / Medici Project Grants",
+    "url": "https://www.1517fund.com",
+    "industries": [
+      "technology",
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Medici grants ($1,000+) and pre-seed investment for young founders",
+    "summary": "A venture fund and community founded by former Thiel Fellowship leaders that backs young founders, students, and dropouts with grants and pre-seed investment.",
+    "about": "1517 Fund invests in founders without undergraduate degrees, students, high schoolers, and deep-tech scientists, writing first checks from $50,000 up to $1M. Its Medici Project deploys 200+ minimum-$1,000 cash grants annually to help early builders validate ideas before they are founders. The site notes its investment funds are currently closed, while grants and community programming continue."
+  },
+  {
+    "id": "thiel-foundation",
+    "org": "Thiel Foundation",
+    "program": "Thiel Fellowship",
+    "url": "https://thielfellowship.org",
+    "industries": [
+      "technology",
+      "business",
+      "science"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$250,000 grant over two years",
+    "summary": "A two-year fellowship that pays young people to skip or stop out of college to build companies and pursue ambitious projects.",
+    "about": "Founded by Peter Thiel in 2011, the Thiel Fellowship awards a $250,000 grant distributed over two years to young people who forgo or leave college to work on their own ventures. Fellows receive mentorship, workshops, and access to the Thiel Foundation's network of founders, investors, and scientists. The program is designed to let recipients build their ideas without accumulating student debt."
+  },
+  {
+    "id": "pear-vc",
+    "org": "Pear VC",
+    "program": "Pear Garage",
+    "url": "https://pear.vc/garage",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Menlo Park",
+        "state": "CA",
+        "lat": 37.453,
+        "lng": -122.1817
+      }
+    ],
+    "cost": "free",
+    "compensation": "Student founder program; Pear Studio access and 100K+ in tech credits",
+    "summary": "A student founder community program from Pear VC for Stanford and Berkeley engineering students building companies and projects.",
+    "about": "Pear Garage is a program run by Pear VC for undergraduate and graduate engineering students in the Bay Area who are excited about working on their own company or project. Members gain access to the Pear Studio ecosystem, including workshops, dinners, talks with founders and industry leaders, office hours with the Pear team, over $100K in cloud and tech credits, and a peer community. It operates out of Pear's spaces in San Francisco and Menlo Park."
+  },
+  {
+    "id": "venture-for-america",
+    "org": "Venture for America",
+    "program": "VFA Fellowship",
+    "url": "https://ventureforamerica.org",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Salaried startup placement",
+    "summary": "A fellowship that places recent college graduates in salaried roles at startups across emerging U.S. cities to train them as entrepreneurs.",
+    "about": "Venture for America is a fellowship that recruits recent college graduates and young professionals and places them in full-time, salaried positions at startups in cities across the United States. Fellows receive entrepreneurial training, mentorship, and a peer community with the aim of eventually launching their own ventures. The program focuses on spreading entrepreneurial talent to growing regional startup ecosystems."
+  },
+  {
+    "id": "kauffman-fellows",
+    "org": "Kauffman Fellows",
+    "program": "Kauffman Fellows Program",
+    "url": "https://www.kauffmanfellows.org",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Venture capital leadership education program",
+    "summary": "A two-year education and networking program that develops leaders in venture capital and innovation investing.",
+    "about": "The Kauffman Fellows Program, running since 1995, is a two-year education program and lifelong community for venture capital and innovation-economy professionals. It combines a structured curriculum, self-reflection, and peer learning with a global network of GPs, LPs, and ecosystem leaders spanning dozens of countries. The program emphasizes building a more diverse venture capital industry reflective of society."
+  },
+  {
+    "id": "hult-prize-foundation",
+    "org": "Hult Prize Foundation",
+    "program": "Hult Prize",
+    "url": "https://www.hultprize.org",
+    "industries": [
+      "business",
+      "nonprofit",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,000,000 grand prize",
+    "summary": "The world's largest student startup competition, challenging college and graduate students to launch social-impact ventures for a $1 million prize.",
+    "about": "The Hult Prize is a global competition in which students build, scale, and pitch startups that address major social and environmental challenges. It draws more than 200,000 annual participants across 130+ countries, advancing through campus, regional, and global rounds. The winning team receives $1 million USD in seed funding to bring their idea to life."
+  },
+  {
+    "id": "entrepreneurs-organization",
+    "org": "Entrepreneurs' Organization",
+    "program": "Global Student Entrepreneur Awards (GSEA)",
+    "url": "https://eonetwork.org/gsea",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $100,000 in cash prizes",
+    "summary": "A global competition run by the Entrepreneurs' Organization for college students who own and operate a business while in school.",
+    "about": "The Global Student Entrepreneur Awards (GSEA), run by the Entrepreneurs' Organization since 1998, is a premier competition for university and college students who own and operate a business while attending school. Participants advance through local, regional, and global rounds, gaining mentorship, recognition, and networking. Winners compete for up to $100,000 in cash prizes at the Global Finals."
+  },
+  {
+    "id": "launchx",
+    "org": "LaunchX",
+    "program": "LaunchX Summer Program",
+    "url": "https://launchx.com",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Tuition; financial awards available",
+    "summary": "A summer entrepreneurship program where high school students launch real startups in person or online.",
+    "about": "LaunchX offers entrepreneurship programs for high school students, including a flagship in-person summer program in San Diego and multiple online options across summer, spring, and fall. Participants work in teams with mentorship and staff guidance to build real businesses. Tuition applies, with financial awards available to help offset costs."
+  },
+  {
+    "id": "young-entrepreneurs-academy",
+    "org": "Young Entrepreneurs Academy",
+    "program": "YEA! Class",
+    "url": "https://yeausa.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Program fee; scholarships available",
+    "summary": "An academic-year program that guides middle and high school students through starting and running a real business or social movement.",
+    "about": "The Young Entrepreneurs Academy (YEA!) is a program delivered through local chapters that teaches middle and high school students to launch actual businesses or social movements. Students work with guest speakers, business mentors, and investor panels, and top students compete at a national competition for college scholarships, startup funding, and prizes. A program fee applies, with scholarships available."
+  },
+  {
+    "id": "conrad-foundation",
+    "org": "Conrad Foundation",
+    "program": "Conrad Challenge",
+    "url": "https://www.conradchallenge.org",
+    "industries": [
+      "technology",
+      "science",
+      "business",
+      "environment"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Prizes and seed funding",
+    "summary": "A year-long innovation and entrepreneurship competition where high school students design science- and tech-based solutions to real-world problems.",
+    "about": "The Conrad Challenge, run by the Conrad Foundation, is an annual innovation competition for high school students who work in teams to develop commercially viable products addressing global and industry challenges in areas such as health, energy, aerospace, and sustainability. Teams advance through multiple rounds culminating in a final Innovation Summit. Finalists can win prizes and seed funding to advance their ventures."
+  },
+  {
+    "id": "watson-institute",
+    "org": "Watson Institute",
+    "program": "Watson Semester / Venture Program",
+    "url": "https://www.watson.org",
+    "industries": [
+      "business",
+      "nonprofit",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boulder",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Entrepreneurship training with venture development stipend; scholarships available",
+    "summary": "A fellowship-based training program in Boulder, Colorado for young social entrepreneurs and innovators.",
+    "about": "The Watson Institute runs immersive fellowship programs that train next-generation social entrepreneurs and innovators through entrepreneurship and leadership curriculum, mentorship, and a venture development stipend. It has more than 3,600 alumni across 27 U.S. states and 81 countries, some selected for Y Combinator, the Echoing Green Fellowship, and Forbes 30 Under 30. The institute is based in Boulder, Colorado."
+  },
+  {
+    "id": "hbcuvc",
+    "org": "HBCUvc",
+    "program": "HBCUvc Fellowship",
+    "url": "https://www.hbcu.vc",
+    "industries": [
+      "business",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "program",
+      "mentorship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid VC fellowship",
+    "summary": "A venture capital fellowship that trains HBCU-connected students of color for careers in venture and investing.",
+    "about": "HBCUvc is a nonprofit foundation working to unlock community investment capital and increase representation of Black and Latinx investors in venture capital. Its VC Fellowship gives students practical VC skills, live sessions with real investors, and an optional pathway into HBCUvc's talent network, with no prior finance experience required. The organization aims to help close the funding gap facing underrepresented founders.",
+    "equityTags": [
+      "students-of-color",
+      "first-gen"
+    ]
+  },
+  {
+    "id": "robert-toigo-foundation",
+    "org": "Robert Toigo Foundation",
+    "program": "Toigo Fellowship",
+    "url": "https://toigofoundation.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Fellowship award and career support",
+    "summary": "A fellowship and lifelong leadership program that develops underrepresented graduate students and professionals for leadership careers in finance.",
+    "about": "The Robert Toigo Foundation has spent over 36 years identifying and developing diverse talent in finance. Its programming, now framed as the LIFE (Leaders Investing in Financial Excellence) lifelong leadership ecosystem, supports high-potential graduate students entering finance and alumni advancing into senior roles through education, coaching, and industry partnerships. The foundation reports developing over 2,000 leaders committed to reflecting the communities finance serves.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "uncharted",
+    "org": "Uncharted",
+    "program": "Uncharted Accelerator",
+    "url": "https://uncharted.org",
+    "industries": [
+      "nonprofit",
+      "business",
+      "environment",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ],
+    "cost": "free",
+    "compensation": "Equity-free social venture support",
+    "summary": "Uncharted runs equity-free accelerator programs that help social entrepreneurs scale ventures tackling pressing community problems.",
+    "about": "Uncharted is a Denver-based nonprofit that designs and runs accelerators pairing early-stage social ventures with mentorship, community, and support. It focuses on problems such as economic mobility, health, and climate, and offers equity-free support to founders."
+  },
+  {
+    "id": "take-two-interactive",
+    "org": "Take-Two Interactive",
+    "program": "Internship Program",
+    "url": "https://careers.take2games.com",
+    "industries": [
+      "technology",
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Take-Two Interactive's careers site lists opportunities across its labels, including Rockstar Games, 2K, and Zynga.",
+    "about": "Take-Two Interactive is a leading developer, publisher, and marketer of interactive entertainment. Its official careers site describes its culture and links to job openings across corporate, publishing, and studio locations. Internship and early-career roles surface through the linked jobs board."
+  },
+  {
+    "id": "rockstar-games",
+    "org": "Rockstar Games",
+    "program": "Internships",
+    "url": "https://www.rockstargames.com/careers",
+    "industries": [
+      "technology",
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rockstar Games' careers page lists roles and opportunities at the studio behind Grand Theft Auto and Red Dead Redemption.",
+    "about": "Rockstar Games is a video game developer and publisher known for the Grand Theft Auto and Red Dead Redemption franchises. Its official careers page lists roles across its studios, including its New York headquarters. The page is bot-protected against automated access."
+  },
+  {
+    "id": "2k",
+    "org": "2K",
+    "program": "Graduate Programs",
+    "url": "https://www.2k.com/careers",
+    "industries": [
+      "technology",
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Novato",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "2K's careers page highlights early-career graduate programs across publishing, engineering, and technical art.",
+    "about": "2K is a Take-Two label and video game publisher headquartered in Novato, California. Its careers page features graduate programs in publishing, engineering, and technical art, with roles across multiple studios. Applications route through its early-careers Greenhouse job board."
+  },
+  {
+    "id": "wizards-of-the-coast",
+    "org": "Wizards of the Coast",
+    "program": "Internships",
+    "url": "https://company.wizards.com/en/careers",
+    "industries": [
+      "technology",
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Renton",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Wizards of the Coast's careers page includes internship opportunities for students alongside roles across its game studios.",
+    "about": "Wizards of the Coast, the Hasbro subsidiary behind Magic: The Gathering and Dungeons & Dragons, is based in Renton, Washington. Its careers page invites students seeking internships and freelance artists to apply and lists roles across its studios. Interns are directed to a dedicated internship/apprenticeship resource."
+  },
+  {
+    "id": "hasbro",
+    "org": "Hasbro",
+    "program": "Internship Program",
+    "url": "https://jobs.hasbro.com",
+    "industries": [
+      "business",
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pawtucket",
+        "state": "RI",
+        "lat": 41.7,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Hasbro's careers site advertises jobs and internship opportunities, including early-career programs.",
+    "about": "Hasbro is a global play and entertainment company headquartered in Pawtucket, Rhode Island. Its official careers site promotes 'Jobs and Internship Opportunities' and investment in the next generation through early-career programs. Openings are posted on its Greenhouse job board."
+  },
+  {
+    "id": "mattel",
+    "org": "Mattel",
+    "program": "Internship Program",
+    "url": "https://corporate.mattel.com/en-us/careers",
+    "industries": [
+      "business",
+      "arts",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "El Segundo",
+        "state": "CA",
+        "lat": 33.9192,
+        "lng": -118.4165
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Mattel's careers page presents opportunities at the global toy company behind Barbie and Hot Wheels.",
+    "about": "Mattel is a leading global toy and entertainment company headquartered in El Segundo, California. Its official careers page hosts job listings across the company. The jobs.mattel.com address redirects to this canonical corporate careers page."
+  },
+  {
+    "id": "zynga",
+    "org": "Zynga",
+    "program": "Interns & Grads (University Program)",
+    "url": "https://www.zynga.com/careers",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Mateo",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Zynga's careers site includes an Interns & Grads university program alongside roles in engineering, design, and analytics.",
+    "about": "Zynga is a mobile game developer and Take-Two label with offices including the San Francisco Bay Area. Its careers site features an 'Interns & Grads' university program and roles across engineering, data analytics, game design, and product. Work models include hybrid, onsite, and remote."
+  },
+  {
+    "id": "sega-of-america",
+    "org": "SEGA of America",
+    "program": "Internships",
+    "url": "https://www.sega.com/careers",
+    "industries": [
+      "technology",
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Irvine",
+        "state": "CA",
+        "lat": 33.6846,
+        "lng": -117.8265
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "SEGA's careers page lists opportunities at the game publisher, including internships.",
+    "about": "SEGA of America is the U.S. arm of the video game publisher, based in Irvine, California. Its official careers page lists roles and internship opportunities across the company. The page is bot-protected against automated access."
+  },
+  {
+    "id": "ubisoft",
+    "org": "Ubisoft",
+    "program": "Internships & Graduate Program",
+    "url": "https://www.ubisoft.com/en-us/company/careers",
+    "industries": [
+      "technology",
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Ubisoft's careers page features an Interns & Graduates section for students starting their careers in game development.",
+    "about": "Ubisoft is a global video game publisher with studios worldwide. Its official careers hub includes a dedicated 'Interns & Graduates' pathway inviting students and new grads to begin their careers. The page links to detailed job sections and locations."
+  },
+  {
+    "id": "valve-corporation",
+    "org": "Valve Corporation",
+    "program": "Careers / Jobs",
+    "url": "https://www.valvesoftware.com/en/jobs",
+    "industries": [
+      "technology",
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Bellevue",
+        "state": "WA",
+        "lat": 47.6101,
+        "lng": -122.2015
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Valve's jobs page lists hiring areas across game and Steam development but does not advertise a dedicated internship program.",
+    "about": "Valve, based in Bellevue, Washington, makes games, Steam, and hardware. Its official jobs page describes a flat company that hires experienced collaborators across areas like software engineering, art, and game design. No internship or student program is named on the page."
+  },
+  {
+    "id": "warner-music-group",
+    "org": "Warner Music Group",
+    "program": "Internship Program",
+    "url": "https://www.wmg.com/careers",
+    "industries": [
+      "media",
+      "arts",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Warner Music Group's careers page lists opportunities across its music and media businesses, including internships.",
+    "about": "Warner Music Group is a major music company with recorded music and publishing operations, headquartered in New York. Its official careers site hosts opportunities across labels and corporate functions, including an internship program for students."
+  },
+  {
+    "id": "universal-music-group",
+    "org": "Universal Music Group",
+    "program": "Internship Program",
+    "url": "https://www.universalmusic.com/careers",
+    "industries": [
+      "media",
+      "arts",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Santa Monica",
+        "state": "CA",
+        "lat": 34.0195,
+        "lng": -118.4912
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Universal Music Group offers paid internships for college students across its music, media, and business teams.",
+    "about": "Universal Music Group is a global music company whose careers site hosts internship and early-career openings. Internships are paid and posted seasonally across UMG labels and corporate functions. Roles are based primarily out of major U.S. hubs including Santa Monica and New York."
+  },
+  {
+    "id": "sony-music-entertainment",
+    "org": "Sony Music Entertainment",
+    "program": "Internship Program",
+    "url": "https://www.sonymusic.com/careers",
+    "industries": [
+      "media",
+      "arts",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Sony Music Entertainment runs paid internships for college students across its labels and corporate functions.",
+    "about": "Sony Music Entertainment is a global recorded-music company whose careers page lists internship and early-career opportunities. Internships are paid and span areas such as A&R, marketing, digital, and business operations. Positions are largely based in New York with other U.S. locations."
+  },
+  {
+    "id": "creative-artists-agency",
+    "org": "Creative Artists Agency",
+    "program": "Internship Program",
+    "url": "https://www.caa.com/careers",
+    "industries": [
+      "media",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Creative Artists Agency offers paid internships for college students in talent representation and entertainment/media business.",
+    "about": "Creative Artists Agency (CAA) is a leading talent and sports agency whose careers page hosts internship and entry-level openings. Interns support agency departments across entertainment, sports, and media. Roles are primarily in-person out of its Los Angeles headquarters and other offices."
+  },
+  {
+    "id": "united-talent-agency",
+    "org": "United Talent Agency",
+    "program": "Internship Program",
+    "url": "https://www.unitedtalent.com/careers",
+    "industries": [
+      "media",
+      "business",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "United Talent Agency offers paid internships for college students across talent representation and media/business teams.",
+    "about": "United Talent Agency (UTA) is a global talent, entertainment, and sports company whose careers page lists internship and early-career roles. Interns work within agency and corporate departments. Positions are primarily in-person out of Los Angeles and other UTA offices."
+  },
+  {
+    "id": "iheartmedia",
+    "org": "iHeartMedia",
+    "program": "Internships",
+    "url": "https://careers.iheartmedia.com",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "iHeartMedia posts internships and early-career roles nationally through its official careers portal.",
+    "about": "iHeartMedia is a major U.S. audio and media company operating broadcast radio, podcasts, and digital platforms. Its careers site routes to a Workday job portal where internships and entry-level openings are posted. Opportunities are available across many U.S. markets."
+  },
+  {
+    "id": "siriusxm",
+    "org": "SiriusXM",
+    "program": "Early Career Programs / Internships",
+    "url": "https://careers.siriusxm.com/earlycareer",
+    "industries": [
+      "media",
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid competitively",
+    "deadlineNote": "Summer applications open in January, Fall in June, Spring in October.",
+    "summary": "SiriusXM runs paid seasonal internships and early-career programs across media, technology, and business functions.",
+    "about": "SiriusXM offers Summer, Fall, and Spring internships spanning finance, marketing, programming, engineering, product, and more, all paid competitively. It also runs the Pathways Program, a 12-month full-time development track for recent graduates from HBCUs. Roles vary between remote (U.S.-based) and in-office."
+  },
+  {
+    "id": "live-nation-entertainment",
+    "org": "Live Nation Entertainment",
+    "program": "Early Careers / Internships",
+    "url": "https://www.livenationentertainment.com/careers",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Live Nation Entertainment posts internships and early-career roles nationally through its official careers portal.",
+    "about": "Live Nation Entertainment is a global live-events and ticketing company (including Ticketmaster) whose careers site links to open North America and international roles via Workday. The company is recognized for supporting new-grad and job-starter talent. Internships and entry-level positions are posted across U.S. locations."
+  },
+  {
+    "id": "aeg",
+    "org": "AEG",
+    "program": "Internship Program",
+    "url": "https://www.aegworldwide.com/careers",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "AEG runs paid, year-round 12-week internship programs in sports and live entertainment.",
+    "about": "AEG is a global sports and live-entertainment company (divisions include AEG Presents, Goldenvoice, and LA Galaxy). Its internships are paid, run year-round in 12-week cycles, and offer hands-on project work with mentorship. Roles are based across AEG's U.S. operations, headquartered in Los Angeles."
+  },
+  {
+    "id": "lionsgate",
+    "org": "Lionsgate",
+    "program": "Internship Program",
+    "url": "https://jobs.lionsgate.com",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Santa Monica",
+        "state": "CA",
+        "lat": 34.0195,
+        "lng": -118.4912
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Lionsgate offers internships and entry-level roles in film and television through its official careers portal.",
+    "about": "Lionsgate is a film and television production and distribution company whose careers portal includes a dedicated Internships section alongside full-time openings. It highlights professional-development opportunities and company benefits. Roles are based primarily out of its Santa Monica headquarters."
+  },
+  {
+    "id": "sony-pictures-entertainment",
+    "org": "Sony Pictures Entertainment",
+    "program": "Internship Program",
+    "url": "https://www.sonypictures.com/corp/careers.html",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Culver City",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Sony Pictures Entertainment offers paid internships in film, television, and media across its studio operations.",
+    "about": "Sony Pictures Entertainment is a major film and television studio whose careers page hosts internship and early-career openings. Interns support production, marketing, distribution, and corporate teams. Roles are largely in-person out of its Culver City headquarters."
+  },
+  {
+    "id": "fox-corporation",
+    "org": "Fox Corporation",
+    "program": "Fox Internship Program",
+    "url": "https://www.foxcareers.com",
+    "industries": [
+      "media"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Fox Corporation offers internships and early-career programs across its news, sports, and entertainment brands nationally.",
+    "about": "Fox Corporation's careers portal spans FOX News Media, FOX Sports, FOX Entertainment, FOX Television Stations, and Tubi. Programs include the FOX Entertainment Writers Incubator, FOX News Multimedia Reporters Program, FAE Fastrack, and a Career Launch Program, giving students real-world project experience. Opportunities are posted across multiple U.S. locations."
+  },
+  {
+    "id": "sesame-workshop",
+    "org": "Sesame Workshop",
+    "program": "Internship Program",
+    "url": "https://sesameworkshop.org/about-us/careers",
+    "industries": [
+      "media",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Sesame Workshop posts internships and early-career roles in educational media through its official careers page.",
+    "about": "Sesame Workshop is the nonprofit educational-media organization behind Sesame Street, made up of educators, creators, researchers, artists, and producers. Its careers page hosts open roles and a talent network, with internships posted seasonally. Positions are mostly hybrid and based in New York, NY."
+  },
+  {
+    "id": "directors-guild-of-america",
+    "org": "Directors Guild of America",
+    "program": "Assistant Director Training Program (Eastern Region)",
+    "url": "https://www.dgatrainingprogram.org",
+    "industries": [
+      "media",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid trainee wages",
+    "deadlineNote": "Annual application cycle; the 2026 application is now closed, so check the site for the next open dates.",
+    "summary": "The DGA-Producer Training Program (Eastern Region) is a two-year paid training track for aspiring Assistant Directors in New York.",
+    "about": "The Assistant Director Training Program combines about 350 days of paid on-the-job training with monthly seminars, primarily on productions around New York City under DGA member supervision. Graduates qualify to join the DGA as Second Assistant Directors. Admission is competitive and limited to a small number of trainees each cycle."
+  },
+  {
+    "id": "national-basketball-association",
+    "org": "National Basketball Association",
+    "program": "NBA Internships / Early Careers",
+    "url": "https://careers.nba.com",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The NBA's official careers portal lists jobs and early career opportunities across the league's offices.",
+    "about": "Careers site for the National Basketball Association, headquartered at its New York league office. It provides access to open roles and early career pathways in sports, media, and business operations. Specific internship listings are surfaced through the site's job search."
+  },
+  {
+    "id": "national-football-league",
+    "org": "National Football League",
+    "program": "Early Career Programs / Internships",
+    "url": "https://www.nfl.com/careers",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The NFL's official careers page covers roles and early career programs across the league office, teams, and media divisions.",
+    "about": "Official careers site for the National Football League, spanning opportunities at the New York league office, NFL Films, NFL Media, and international offices. It includes a dedicated Early Career Programs section for students and recent graduates. The NFL notes an in-person work policy requiring employees to work from their assigned office."
+  },
+  {
+    "id": "major-league-baseball",
+    "org": "Major League Baseball",
+    "program": "MLB Internships & Diversity Fellowship",
+    "url": "https://www.mlb.com/careers",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "MLB's official careers page provides access to opportunities across the league office, MLB Network, and member clubs.",
+    "about": "Official careers site for Major League Baseball, headquartered in New York. It outlines MLB's mission, values, and benefits and links to MLB, MLB Network, and club-level opportunities. Inclusion is highlighted as a core value, with roles including internships and fellowship openings surfaced through the opportunities links."
+  },
+  {
+    "id": "nascar",
+    "org": "NASCAR",
+    "program": "Internship Program",
+    "url": "https://careers.nascar.com",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "NASCAR's official careers site hosts its internship program and roles across the motorsports organization.",
+    "about": "Careers portal for NASCAR, the stock-car racing sanctioning body based in Charlotte, North Carolina. It advertises internships and full-time roles across business, media, and operations. Access was bot-blocked at the time of verification but the domain is the organization's official careers site."
+  },
+  {
+    "id": "united-states-olympic-and-paralympic-committee",
+    "org": "United States Olympic & Paralympic Committee",
+    "program": "USOPC Internships",
+    "url": "https://www.usopc.org/careers",
+    "industries": [
+      "nonprofit",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Colorado Springs",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The USOPC's official careers page presents its culture, values, and job opportunities, including internships.",
+    "about": "Careers site for the United States Olympic & Paralympic Committee, headquartered in Colorado Springs, Colorado. It describes the organization's mission and core values and links to open opportunities. Internship and early career roles are surfaced through its opportunities portal."
+  },
+  {
+    "id": "draftkings",
+    "org": "DraftKings",
+    "program": "Internships & Co-Ops (Early Careers)",
+    "url": "https://careers.draftkings.com",
+    "industries": [
+      "technology",
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "DraftKings' official careers site offers an Early Careers track including internships and co-ops.",
+    "about": "Careers portal for DraftKings, a digital sports entertainment and gaming company. Its Early Careers section splits into Internships & Co-Ops and Entry-Level paths, with offices across the US and internationally. The site links to open roles and a talent community for students."
+  },
+  {
+    "id": "fanduel",
+    "org": "FanDuel",
+    "program": "University Program / Internships",
+    "url": "https://www.fanduel.com/careers",
+    "industries": [
+      "technology",
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "FanDuel's official careers page hosts its university program and internship opportunities.",
+    "about": "Careers site for FanDuel, a US sports betting and daily fantasy sports company. It advertises university programs and internships alongside full-time technology, media, and business roles. Access was bot-blocked at verification but the domain is FanDuel's official careers page."
+  },
+  {
+    "id": "wwe",
+    "org": "WWE",
+    "program": "Internship Program",
+    "url": "https://corporate.wwe.com/careers",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Stamford",
+        "state": "CT",
+        "lat": 41.0534,
+        "lng": -73.5387
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "WWE's official corporate careers page lists roles and links to its jobs portal, including internships.",
+    "about": "Corporate careers page for WWE, the sports entertainment company headquartered in Stamford, Connecticut. It presents employee benefits and culture and directs applicants to WWE's official Workday jobs portal. Internship and full-time media and business roles are posted there."
+  },
+  {
+    "id": "wasserman",
+    "org": "Wasserman",
+    "program": "Internship Program",
+    "url": "https://the.team/careers",
+    "industries": [
+      "media",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "deadlineNote": "Spring, Summer, and Fall sessions; undergrads past sophomore year",
+    "summary": "Wasserman's careers page describes an internship program offering hands-on experience at the global sports, music, and culture marketing company.",
+    "about": "Careers site for Wasserman, a global sports, music, and culture marketing and talent agency headquartered in Los Angeles. Its internship program runs across Spring, Summer, and Fall sessions in divisions including Brands and Properties, Music Talent Representation, and Sports and Media Talent Representation. Roles are posted through the company's Workday portal."
+  },
+  {
+    "id": "southwest-research-institute-swri",
+    "org": "Southwest Research Institute (SwRI)",
+    "program": "Student Internship Program",
+    "url": "https://www.swri.org/careers/interns",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Antonio",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Competitive pay plus complimentary housing and paid transportation to and from San Antonio",
+    "summary": "SwRI's student internship program gives STEM students paid hands-on research experience at its San Antonio campus.",
+    "about": "The Southwest Research Institute student internship program targets STEM majors enrolled in accredited universities. Interns receive competitive pay, complimentary housing, and paid transportation to and from San Antonio, Texas. The summer-based program includes social events, end-of-summer intern presentations, and volunteer activities."
+  },
+  {
+    "id": "united-launch-alliance-ula",
+    "org": "United Launch Alliance (ULA)",
+    "program": "Summer Internship Program",
+    "url": "https://www.ulalaunch.com/careers/internships",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Centennial",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid hourly; one-time housing/transportation allowance may apply",
+    "deadlineNote": "Postings open the Tuesday after Labor Day",
+    "summary": "ULA's summer internship program offers roughly 100 paid, 10-week engineering and business roles at the rocket launch company.",
+    "about": "United Launch Alliance runs a paid 10-week summer internship (May through August) with about 100 mostly engineering roles plus business positions in finance, HR, contracts, IT, and communications. Job postings open the Tuesday after Labor Day, with interviews and offers from September through December. Applicants must be US Persons, have completed at least freshman year, and meet a 2.90+ GPA; sites include Colorado, Alabama, Florida, California, and Washington, D.C."
+  },
+  {
+    "id": "organization-of-black-aerospace-professionals",
+    "org": "Organization of Black Aerospace Professionals (OBAP)",
+    "program": "OBAP Scholarships",
+    "url": "https://obap.org/outreach-programs/scholarships",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship awards covering flight training, FAA exam fees, and prep materials (over $8M awarded to date)",
+    "summary": "OBAP awards scholarships supporting diversity in aerospace, funding degree programs, flight training, and technical certifications.",
+    "about": "The Organization of Black Aerospace Professionals scholarship program has awarded over $8 million to nearly 600 recipients, funding degree programs, flight training, and FAA certifications. An active OBAP membership (at least three months) is required, and applicants must be 17 or older, reside in the US, complete volunteer hours, and provide recommendation letters. Applications run each Spring (April 1-30) and Fall (September 1-30) via AwardSpring, with awards paid directly to institutions.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "experimental-aircraft-association-eaa",
+    "org": "Experimental Aircraft Association (EAA)",
+    "program": "EAA Aviation Scholarships",
+    "url": "https://www.eaa.org/eaa/learn-to-fly/Scholarships",
+    "industries": [
+      "education",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship award",
+    "deadlineNote": "Applications October 1 - December 19",
+    "summary": "EAA offers flight training, post-secondary, and youth aviation scholarships for aspiring pilots and aviation students in the U.S. and Canada.",
+    "about": "EAA awards flight training scholarships usable at U.S. and Canadian flight schools, post-secondary scholarships for collegiate aviation programs, and the Ray Aviation Scholarship for youth flight training. Applicants must be at least 16, and EAA membership is not required but prioritized. Applications open October 1 through December 19 each year."
+  },
+  {
+    "id": "vertical-flight-society",
+    "org": "Vertical Flight Society",
+    "program": "Student Activities & Scholarships",
+    "url": "https://vtol.org/benefits-and-resources/education-and-student-activities/student-activities-and-resources",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship award",
+    "summary": "The Vertical Flight Society provides design competitions and Vertical Flight Foundation scholarships for students pursuing vertical flight and rotorcraft careers.",
+    "about": "VFS offers the annual Student Design Competition, the Design-Build-Vertical Flight contest, and merit-based Vertical Flight Foundation scholarships for college students in vertical flight technology. It also supports student chapters, a student council, and educational memberships. Activities emphasize hands-on aircraft and eVTOL design experience."
+  },
+  {
+    "id": "sierra-space",
+    "org": "Sierra Space",
+    "program": "Internship Program",
+    "url": "https://www.sierraspace.com/careers/internship",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Louisville",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Sierra Space offers paid onsite internships in engineering, operations, and business functions across its U.S. facilities.",
+    "about": "Sierra Space runs paid, fully onsite internships spanning engineering, operations, and general/administrative roles in Spring, Summer, or Fall sessions. Locations include Louisville and Centennial, CO; Madison, WI; and Durham, NC. Applicants must be enrolled undergraduate through PhD students able to obtain a U.S. security clearance; F-1 visa students are not supported."
+  },
+  {
+    "id": "draper-charles-stark-draper-laboratory",
+    "org": "Draper (Charles Stark Draper Laboratory)",
+    "program": "Student Opportunities (Internships & Co-ops)",
+    "url": "https://www.draper.com/education-programs/student-opportunities",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "state": "MA",
+        "lat": 42.3736,
+        "lng": -71.1097
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Draper Laboratory offers internships and co-ops for undergraduate and graduate students across engineering, science, and business functions.",
+    "about": "Draper's student program provides summer internships and fall/spring co-ops open to all undergraduate and graduate students, with opportunities to earn academic credit. Work spans market areas including Biotechnology, Electronic, Strategic, and Space Systems. Strong participants may advance to the Draper Scholars Program or full-time roles."
+  },
+  {
+    "id": "aircraft-owners-and-pilots-association-aopa",
+    "org": "Aircraft Owners and Pilots Association (AOPA)",
+    "program": "AOPA Foundation Flight Training Scholarships",
+    "url": "https://www.aopa.org/training-and-safety/students/aopa-flight-training-scholarships",
+    "industries": [
+      "education",
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$250 to $14,000",
+    "deadlineNote": "Fall cycle opens October 1; Spring cycle opens April 1",
+    "summary": "The AOPA Foundation awards flight training scholarships ranging from $250 to $14,000 to aspiring and current pilots who are AOPA members.",
+    "about": "AOPA offers flight training scholarships funded by donors, including at least 90 awards of $12,000 each for high school students ages 16-18 pursuing a private pilot certificate. Applicants must be current AOPA members residing in the U.S. or its territories; high school students qualify for free membership. Fall applications run October 1 through December 30 and Spring applications April 1 through June 30."
+  },
+  {
+    "id": "the-ninety-nines",
+    "org": "The Ninety-Nines",
+    "program": "Amelia Earhart Memorial Scholarships",
+    "url": "https://ninety-nines.org/ae-memorial-scholarships",
+    "industries": [
+      "education",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $20,000",
+    "deadlineNote": "AE Scholarship applications due January 1",
+    "summary": "The Ninety-Nines' Amelia Earhart Memorial Scholarship Fund awards flight training, academic, and technical training scholarships to women pilots who are members.",
+    "about": "Established in 1940, the AEMSF provides flight training scholarships up to $20,000, academic scholarships up to $10,000, technical training awards up to $20,000, and specialized awards for women pilots. Applicants must generally be Ninety-Nines members. AE Scholarship applications are due January 1 annually.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "caci-international",
+    "org": "CACI International",
+    "program": "Internships & Early Careers",
+    "url": "https://careers.caci.com/intern",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "CACI International runs a year-round internship and early career program supporting national security missions across technical and business fields.",
+    "about": "CACI offers a year-round internship program giving students hands-on project experience alongside full-time employees, plus early career roles for recent graduates. Fields include engineering, software, computer science, and management. Interns receive mentorship, development programs, and access to CACI Virtual University."
+  },
+  {
+    "id": "moog-inc",
+    "org": "Moog Inc.",
+    "program": "Students & Interns",
+    "url": "https://www.moog.com/careers/students-and-early-careers.html",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "East Aurora",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Moog Inc. offers internships, apprenticeships, and recent-graduate roles across engineering, manufacturing, IT, and business disciplines.",
+    "about": "Moog provides hands-on, mentored internships across engineering, manufacturing, IT/computer science, supply chain, finance, and HR, with many interns converting to full-time roles. It also offers paid apprenticeships blending work with academic learning and full-time positions for recent graduates. Applications route through Moog's Workday career site."
+  },
+  {
+    "id": "civil-air-patrol",
+    "org": "Civil Air Patrol",
+    "program": "Cadet Program",
+    "url": "https://www.gocivilairpatrol.com/programs/cadets",
+    "industries": [
+      "technology",
+      "science",
+      "government",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Civil Air Patrol Cadet Program develops youth ages 12-18 through leadership, aerospace, fitness, and character education.",
+    "about": "The CAP Cadet Program, established in 1942, engages youth ages 12 through 18 across leadership, aerospace education, physical fitness, and character development. Cadets participate in weekly squadron meetings, summer encampments, and flying opportunities across 950+ squadrons. Annual dues are modest with financial assistance available and no military obligation."
+  },
+  {
+    "id": "u-s-space-and-rocket-center",
+    "org": "U.S. Space & Rocket Center",
+    "program": "Space Camp",
+    "url": "https://www.spacecamp.com",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Huntsville",
+        "state": "AL",
+        "lat": 32.8,
+        "lng": -86.8
+      }
+    ],
+    "cost": "paid",
+    "summary": "Space Camp at the U.S. Space & Rocket Center offers immersive STEM programs simulating astronaut training and space missions.",
+    "about": "Space Camp in Huntsville, AL provides tiered programs including Space Camp, Space Academy, and Advanced Space Academy where trainees simulate ISS missions and moon landings while applying STEM concepts. Advanced Space Academy focuses on college and career preparation. Related offerings include Aviation Challenge, Cyber Camp, and Robotics, with scholarship programs available."
+  },
+  {
+    "id": "aerovironment",
+    "org": "AeroVironment",
+    "program": "Internship Program",
+    "url": "https://www.avinc.com/careers/internships",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Simi Valley",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "AeroVironment offers paid 8-12 week internships working on autonomous systems, mission-critical software, and space and cyber capabilities.",
+    "about": "AeroVironment's paid internships run 8-12 weeks and give students real project work rather than busy-work, treating interns like employees. Positions span U.S. sites including Simi Valley, CA plus locations across the West Coast, East Coast, and Central U.S. Applicants must be enrolled at sophomore level or higher and meet ITAR citizenship requirements."
+  },
+  {
+    "id": "peraton",
+    "org": "Peraton",
+    "program": "Students & Early Career",
+    "url": "https://careers.peraton.com/students-early-career",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Peraton offers paid internships, co-ops, and early career programs supporting national security missions across the U.S.",
+    "about": "Peraton runs a 10-week paid summer internship program (June-August) plus fall and spring co-ops, all paid hourly with mentors assigned. Applicants must be actively enrolled at an accredited university and be U.S. citizens; locations may be remote, hybrid, or onsite. It also offers early career roles and the two-year Ignite Innovators technical leadership program, with about 40% of eligible interns converting to full-time."
+  },
+  {
+    "id": "redwire-space",
+    "org": "Redwire Space",
+    "program": "Careers / Internships",
+    "url": "https://rdw.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Jacksonville",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Redwire Space's careers page directs candidates to space and defense-tech job openings, including internship opportunities, at its Jacksonville, FL headquarters.",
+    "about": "Redwire is a space infrastructure company building avionics, power systems, RF, and autonomous/uncrewed systems. Its careers landing page routes applicants to space jobs (careers.rdw.com) and defense-tech jobs. The company is headquartered in Jacksonville, Florida."
+  },
+  {
+    "id": "relativity-space",
+    "org": "Relativity Space",
+    "program": "Student Roles / Internships",
+    "url": "https://www.relativityspace.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Long Beach",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Relativity Space's careers page offers open roles and dedicated student roles for its reusable-rocket and aerospace manufacturing programs.",
+    "about": "Relativity Space is developing reusable rockets, including the Terran R launch vehicle, and advanced aerospace manufacturing. Its careers page features open roles plus a dedicated 'Student Roles' section, employee stories, and benefits. The company is headquartered in Long Beach, California, with sites in Cape Canaveral, FL and Stennis, MS."
+  },
+  {
+    "id": "firefly-aerospace",
+    "org": "Firefly Aerospace",
+    "program": "Internships",
+    "url": "https://fireflyspace.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Cedar Park",
+        "state": "TX",
+        "lat": 31.5,
+        "lng": -99.3
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Firefly Aerospace's careers page recruits interns and full-time staff for its launch vehicle and spacecraft programs in the Cedar Park/Leander, TX area.",
+    "about": "Firefly Aerospace builds launch vehicles and spacecraft including the Alpha and Eclipse rockets and the Blue Ghost lunar lander. Its careers page highlights internships and full-time roles from launch technicians to propulsion engineers, plus benefits like tuition assistance and employee stock ownership. The company is based in the Cedar Park/Leander, Texas area."
+  },
+  {
+    "id": "planet-labs",
+    "org": "Planet Labs",
+    "program": "Careers / Internships",
+    "url": "https://www.planet.com/company/careers",
+    "industries": [
+      "technology",
+      "science",
+      "environment"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Planet Labs' careers page recruits for its Earth-imaging satellite mission, with roles based across offices including its San Francisco headquarters.",
+    "about": "Planet Labs operates a fleet of imaging satellites with the goal of making global change visible, accessible, and actionable. Its careers page outlines company culture, values, and benefits such as tuition reimbursement and flexible time off. Offices include San Francisco (HQ), Washington D.C., Berlin, London, and others."
+  },
+  {
+    "id": "kratos-defense-and-security-solutions",
+    "org": "Kratos Defense & Security Solutions",
+    "program": "Careers",
+    "url": "https://www.kratosdefense.com/careers",
+    "industries": [
+      "technology",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7157,
+        "lng": -117.1611
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Kratos Defense & Security Solutions' careers page lists open roles across its defense technology teams, headquartered in San Diego, CA.",
+    "about": "Kratos develops mission-critical defense technologies including unmanned systems, space, hypersonics, and propulsion. Its careers page highlights open roles, culture, and benefits such as education reimbursement and an employee stock purchase program. The company's corporate headquarters is in San Diego, California, with facilities across the U.S. and abroad."
+  },
+  {
+    "id": "students-for-the-exploration-and-development-o",
+    "org": "Students for the Exploration and Development of Space (SEDS-USA)",
+    "program": "Student Chapters & Projects",
+    "url": "https://seds.org",
+    "industries": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "competition",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "SEDS-USA is a national student nonprofit whose university chapters run hands-on space projects, chapter competitions, and industry-connected leadership development.",
+    "about": "Students for the Exploration and Development of Space (SEDS-USA) is a 501(c)(3) nonprofit founded at MIT in 1980 that supports student-run space chapters across the country. The organization reports 100+ chapters and 10,000+ students, offering hardware projects, chapter competitions, an alumni network, and the annual SpaceVision conference. Students can join or start a chapter through the site."
+  },
+  {
+    "id": "axiom-space",
+    "org": "Axiom Space",
+    "program": "Careers / Internships",
+    "url": "https://www.axiomspace.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Axiom Space's careers page recruits for its commercial space station and space infrastructure programs, based in Houston, TX.",
+    "about": "Axiom Space is building what it describes as the world's first commercial space station and related space infrastructure. Its careers page details benefits including education reimbursement, 401(k) matching, and equity awards, and routes applications through its Workday site. The company is based in Houston, Texas."
+  },
+  {
+    "id": "spirit-aerosystems",
+    "org": "Spirit AeroSystems",
+    "program": "Internships (High School & College)",
+    "url": "https://careers.spiritaero.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Wichita",
+        "state": "KS",
+        "lat": 38.5,
+        "lng": -98.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Spirit AeroSystems' careers page offers both high school and college internships alongside full-time aerospace roles, based in Wichita, KS.",
+    "about": "Spirit AeroSystems is an aerospace manufacturer serving commercial, defense, and space segments. Its careers page includes dedicated High School Internships and College Internships as well as an Interns & Apprentices section, with a Total Rewards benefits program. The company is headquartered in Wichita, Kansas and, as of December 2025, is wholly owned by The Boeing Company."
+  },
+  {
+    "id": "stoke-space",
+    "org": "Stoke Space",
+    "program": "Internship Program",
+    "url": "https://www.stokespace.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kent",
+        "state": "WA",
+        "lat": 47.4,
+        "lng": -120.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Stoke Space's careers page runs a term-based internship program across engineering, operations, and software teams at its Kent, WA headquarters.",
+    "about": "Stoke Space is developing fully reusable rockets. Its careers page describes internships in engineering, operations, and software running in Spring, Summer, and Fall terms, where interns work on real, open-ended problems, plus benefits like stock options and 401(k) match. The company is based in Kent, WA, with a test site in Moses Lake, WA and launch operations at Cape Canaveral."
+  },
+  {
+    "id": "the-aerospace-corporation",
+    "org": "The Aerospace Corporation",
+    "program": "Internships / Students & New Graduates",
+    "url": "https://aerospace.org/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "El Segundo",
+        "state": "CA",
+        "lat": 33.9192,
+        "lng": -118.4165
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "The Aerospace Corporation's careers page hosts internships and roles for students and new graduates supporting national space programs, based in El Segundo, CA.",
+    "about": "The Aerospace Corporation is a federally funded research and development center supporting national space programs. Its careers page hosts opportunities for students and new graduates, including internships. The organization is headquartered in El Segundo, California."
+  },
+  {
+    "id": "astrobotic-technology",
+    "org": "Astrobotic Technology",
+    "program": "Careers / Internships",
+    "url": "https://www.astrobotic.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Astrobotic Technology's careers page lists roles and internships for its lunar and space robotics work in Pittsburgh, PA.",
+    "about": "Astrobotic Technology develops lunar landers, rovers, and space robotics and infrastructure. Its careers page lists open roles and internship opportunities. The company is headquartered in Pittsburgh, Pennsylvania."
+  },
+  {
+    "id": "shield-ai",
+    "org": "Shield AI",
+    "program": "Future Innovators Scholarship",
+    "url": "https://shield.ai/scholarship-application",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship award",
+    "deadlineNote": "Most recent application cycle closed April 15, 2026; check for a future cycle.",
+    "summary": "Shield AI's Future Innovators Scholarship awards graduating high school seniors pursuing STEM fields such as AI, autonomous systems, aviation, and robotics.",
+    "about": "The Shield AI Future Innovators Scholarship supports outstanding graduating high school seniors passionate about AI, autonomous systems, aviation, robotics, and emerging technology. Eligibility requires a minimum 3.0 GPA, confirmed college plans, intent to major in a STEM field, and a recommendation letter, with leadership and community involvement preferred. The most recent application cycle closed April 15, 2026; the award amount is not stated on the page."
+  },
+  {
+    "id": "ursa-major",
+    "org": "Ursa Major",
+    "program": "Careers",
+    "url": "https://www.ursamajor.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Berthoud",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Ursa Major's careers page lists propulsion and space-systems roles, primarily at its Berthoud, CO headquarters.",
+    "about": "Ursa Major is an aerospace and defense company focused on rocket propulsion, hypersonics, and solid rocket motors. Its careers page lists open roles across engineering, additive manufacturing, avionics, and operations, plus a DoD SkillBridge track for transitioning service members. The company is headquartered in Berthoud, Colorado, with additional sites in Longmont, CO and Youngstown, OH."
+  },
+  {
+    "id": "vast-space",
+    "org": "Vast Space",
+    "program": "Careers / Internships",
+    "url": "https://www.vastspace.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Long Beach",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Aerospace company building crewed space stations, offering paid roles and internships out of its Long Beach headquarters.",
+    "about": "Vast is developing long-term human space habitation, including artificial gravity stations. Its careers page invites applicants to join 1000+ experts and lists current openings with equity, 401(k), paid parental leave, and medical benefits. Positions are based in Long Beach, California."
+  },
+  {
+    "id": "varda-space-industries",
+    "org": "Varda Space Industries",
+    "program": "Careers",
+    "url": "https://www.varda.com/careers",
+    "industries": [
+      "technology",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "El Segundo",
+        "state": "CA",
+        "lat": 33.9192,
+        "lng": -118.4165
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Space manufacturing startup offering paid technical roles and internships to build an industrial park in orbit.",
+    "about": "Varda Space Industries develops in-space manufacturing and reentry capsules. Its careers page describes company values and offers competitive salaries, company equity, comprehensive benefits, and catered meals. Roles are based at its El Segundo, California facility."
+  },
+  {
+    "id": "national-space-society",
+    "org": "National Space Society",
+    "program": "NSS Gerard K. O'Neill Space Settlement Contest",
+    "url": "https://nss.org/nss-space-settlement-contest",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Submissions due in February",
+    "summary": "Free annual competition where students design orbital space settlements and submit them for judging by the National Space Society.",
+    "about": "The NSS Gerard K. O'Neill Space Settlement Contest invites students to design space settlements, individually or in teams. It is run by the National Space Society, with rules, past winners, and entry instructions on the official contest site. Submissions are typically due in February each year."
+  },
+  {
+    "id": "the-nature-conservancy",
+    "org": "The Nature Conservancy",
+    "program": "Careers & Internships",
+    "url": "https://www.nature.org/en-us/about-us/careers",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Global conservation nonprofit offering careers, internships, and fellowship programs across its US and international offices.",
+    "about": "The Nature Conservancy is a leading environmental nonprofit working to protect lands and waters. Its careers landing page (\"Work You Can Believe In\") routes applicants to the TNC job portal and highlights equal-opportunity commitments and accommodations. Internships and fellowship programs are posted through the portal."
+  },
+  {
+    "id": "world-wildlife-fund",
+    "org": "World Wildlife Fund",
+    "program": "WWF Internships",
+    "url": "https://www.worldwildlife.org/about/careers",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Global conservation nonprofit offering internships and careers supporting wildlife and habitat protection.",
+    "about": "World Wildlife Fund is one of the world's largest conservation organizations. It offers internships and staff positions across program, science, and policy areas, primarily based in Washington, DC with hybrid options. Openings are posted on its official careers page."
+  },
+  {
+    "id": "sierra-club",
+    "org": "Sierra Club",
+    "program": "Careers & Internships",
+    "url": "https://www.sierraclub.org/careers",
+    "industries": [
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Grassroots environmental organization offering paid careers and internships in advocacy and conservation.",
+    "about": "The Sierra Club is a large US grassroots environmental organization. Its careers page hosts open staff and internship positions across advocacy, organizing, and operations. Roles are offered nationally with hybrid and remote options."
+  },
+  {
+    "id": "chesapeake-bay-foundation",
+    "org": "Chesapeake Bay Foundation",
+    "program": "Jobs & Internships",
+    "url": "https://www.cbf.org/about-cbf/jobs-internships",
+    "industries": [
+      "environment",
+      "science",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Annapolis",
+        "state": "MD",
+        "lat": 38.9784,
+        "lng": -76.4922
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Regional environmental nonprofit offering hands-on internships focused on saving the Chesapeake Bay.",
+    "about": "The Chesapeake Bay Foundation works to restore and protect the Chesapeake Bay watershed. Its jobs and internships page describes hands-on, challenging internships for students passionate about the environment and links to current opportunities. It is headquartered in Annapolis, Maryland."
+  },
+  {
+    "id": "ecological-society-of-america",
+    "org": "Ecological Society of America",
+    "program": "SEEDS (Strategies for Ecology Education, Diversity and Sustainability)",
+    "url": "https://www.esa.org/seeds",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "fellowship",
+      "research",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Undergraduate research fellowships + travel awards",
+    "summary": "ESA's flagship education program offering undergraduates research fellowships, mentorship, field trips, and campus chapters to diversify the ecology profession.",
+    "about": "SEEDS is the Ecological Society of America's award-winning education program, now marking 30 years, aimed at diversifying and advancing the ecology profession. It offers undergraduate research fellowships, mentorship with travel awards, national and regional field trips, and support for campus ecology chapters. It primarily serves undergraduates, with extensions to high school, graduate, and international communities.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "grid-alternatives",
+    "org": "GRID Alternatives",
+    "program": "SolarCorps Fellowship",
+    "url": "https://gridalternatives.org/what-we-do/workforce-development/solarcorps-fellowships",
+    "industries": [
+      "environment",
+      "technology",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$40,800 over 11 months + end-of-term award + $600 professional development",
+    "deadlineNote": "2026-27 cohort runs Sep 14, 2026 - Aug 13, 2027",
+    "summary": "Paid 11-month apprenticeship-model fellowship providing hands-on solar installation training and mentorship with GRID Alternatives.",
+    "about": "GRID Alternatives' SolarCorps Fellowship is an 11-month paid apprenticeship-model program with over 1,700 hours of hands-on training, mentorship, workshops, and a midyear retreat. Fellows earn $40,800 plus an end-of-term award and can earn certifications such as OSHA10/30 and NABCEP Associates. Positions are offered in California, Colorado, and the DC area, with about 80% of fellows finding jobs within two months of completing the program."
+  },
+  {
+    "id": "national-wildlife-federation",
+    "org": "National Wildlife Federation",
+    "program": "Internships & EcoLeaders Fellowships",
+    "url": "https://www.nwf.org/About-Us/Careers",
+    "industries": [
+      "environment",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Wildlife conservation nonprofit offering paid internships for high school and undergraduate students plus EcoLeaders campus fellowships.",
+    "about": "The National Wildlife Federation runs an internship program for students currently in high school or pursuing an undergraduate degree, describing them as paid, structured work experiences of varying length. It also offers EcoLeaders Fellowships, in which fellows confront climate change on campuses and educate their communities. Opportunities are posted through its official careers page."
+  },
+  {
+    "id": "earthjustice",
+    "org": "Earthjustice",
+    "program": "Internships, Externships & Law Clerkships",
+    "url": "https://earthjustice.org/about/jobs",
+    "industries": [
+      "environment",
+      "law",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Environmental law nonprofit offering internships, externships, and law clerkships for undergraduate, graduate, and law students.",
+    "about": "Earthjustice is a nonprofit environmental law organization litigating to protect the environment. Its jobs page lists open positions across litigation, policy, communications, and operations, and links students to \"student opportunities\" including internships, externships, and law clerkships for undergraduate, graduate, and law students. Roles are offered nationally with hybrid options."
+  },
+  {
+    "id": "union-of-concerned-scientists",
+    "org": "Union of Concerned Scientists",
+    "program": "Jobs & Science Fellows Program",
+    "url": "https://www.ucs.org/about/jobs",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Science advocacy nonprofit offering jobs and a Science Fellows Program for early-career to senior scientists and scholars.",
+    "about": "The Union of Concerned Scientists is a science-based advocacy nonprofit. Its jobs page invites applicants to join its team of experts and describes the Science Fellows Program, which brings early-career to senior-level scientists and scholars to work on innovative projects. The page also covers benefits, pay equity, and equal-opportunity commitments."
+  },
+  {
+    "id": "rainforest-alliance",
+    "org": "Rainforest Alliance",
+    "program": "Careers & Internships",
+    "url": "https://www.rainforest-alliance.org/about/careers",
+    "industries": [
+      "environment",
+      "nonprofit",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "International conservation nonprofit offering careers and internship opportunities supporting sustainable land use and business.",
+    "about": "The Rainforest Alliance works to create a better future for people and nature through sustainable land use and business practices. Its careers page links to a job board and details benefits, equal-opportunity statements, and leadership, with internships referenced among its opportunities and requests for proposals. Roles are offered with hybrid options."
+  },
+  {
+    "id": "trout-unlimited",
+    "org": "Trout Unlimited",
+    "program": "Jobs & Internships",
+    "url": "https://www.tu.org/about/jobs-and-internships",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Trout Unlimited posts jobs and internships supporting coldwater fisheries and watershed conservation across the country.",
+    "about": "Trout Unlimited is a national nonprofit dedicated to conserving, protecting, and restoring North America's coldwater fisheries and their watersheds. Its jobs and internships page directs applicants to open position announcements, each with its own application instructions. TU is an Equal Opportunity Employer and hires for roles across science, conservation, and operations."
+  },
+  {
+    "id": "ducks-unlimited",
+    "org": "Ducks Unlimited",
+    "program": "Careers & Internships",
+    "url": "https://www.ducks.org/jobs",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Ducks Unlimited lists career and internship openings supporting wetlands and waterfowl conservation.",
+    "about": "Ducks Unlimited is a national nonprofit focused on conserving, restoring, and managing wetlands and associated habitats for waterfowl. Its careers section links to current job listings and an online application portal. DU has been recognized as a 'Best and Brightest' company to work for."
+  },
+  {
+    "id": "monterey-bay-aquarium",
+    "org": "Monterey Bay Aquarium",
+    "program": "Internships & Externships",
+    "url": "https://www.montereybayaquarium.org/about-us/about-the-aquarium/job-opportunities",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Monterey",
+        "state": "CA",
+        "lat": 36.7,
+        "lng": -119.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Monterey Bay Aquarium offers jobs, internships, and externships across animal care, conservation science, and guest experience.",
+    "about": "Monterey Bay Aquarium hires across departments including Animal Care, Conservation & Science, Marketing, Facilities, Guest Experience, and Technology. Staff roles offer a competitive compensation and benefits package, and the Aquarium highlights pathways from teen volunteer to staff. Internships, externships, and volunteer opportunities are available alongside paid positions."
+  },
+  {
+    "id": "chicago-botanic-garden",
+    "org": "Chicago Botanic Garden",
+    "program": "Research Experiences for Undergraduates (REU) & Science Internships",
+    "url": "https://www.chicagobotanic.org/science/next-generation",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "research",
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Glencoe",
+        "state": "IL",
+        "lat": 40,
+        "lng": -89.2
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid 10-week summer REU; paid high-school internships",
+    "summary": "Chicago Botanic Garden trains the next generation of plant scientists through paid REU, high-school, and graduate programs in plant biology and conservation.",
+    "about": "The Garden's science training includes a 10-week paid summer Research Experiences for Undergraduates (REU) program in plant biology and conservation, running since 2004. Its Science Career Continuum offers free summer programs and paid internships for middle- and high-school students, and a graduate program with Northwestern University offers M.S. and Ph.D. degrees. Programs use a near-peer mentoring model and have trained thousands of participants."
+  },
+  {
+    "id": "new-york-botanical-garden",
+    "org": "New York Botanical Garden",
+    "program": "Employment & Internships",
+    "url": "https://www.nybg.org/about/work-with-us/employment",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Bronx",
+        "state": "NY",
+        "lat": 42.9,
+        "lng": -75.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The New York Botanical Garden posts employment and internship opportunities supporting its botanical research, horticulture, and education mission.",
+    "about": "The New York Botanical Garden in the Bronx is an Equal Opportunity/Affirmative Action employer whose roles support its Inclusion, Diversity, Equity and Accessibility initiatives. Its employment page links to current listings, updated periodically, and a general application. Underrepresented communities, women, veterans, and individuals with disabilities are encouraged to apply."
+  },
+  {
+    "id": "longwood-gardens",
+    "org": "Longwood Gardens",
+    "program": "Professional Horticulture Program & Internships",
+    "url": "https://longwoodgardens.org/education/professional-horticulture-program",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "fellowship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kennett Square",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Tuition-free; housing and benefits provided",
+    "summary": "Longwood Gardens' tuition-free Professional Horticulture Program combines hands-on training, coursework, and mentorship to prepare future horticulturists.",
+    "about": "The Professional Horticulture Program, established in 1970, has produced nearly 350 graduates working in public and private gardens, greenhouse production, conservation, arboriculture, and education. The tuition-free curriculum blends classroom study, hands-on projects, field trips, and study abroad, taught by Longwood staff and regional faculty. Housing and benefits information is provided through the Office of Student Programs."
+  },
+  {
+    "id": "rodale-institute",
+    "org": "Rodale Institute",
+    "program": "Internships (Research, Farmer Training, Communications)",
+    "url": "https://rodaleinstitute.org/about/internships",
+    "industries": [
+      "environment",
+      "science",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Kutztown",
+        "state": "PA",
+        "lat": 40.9,
+        "lng": -77.8
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Rodale Institute offers internships in regenerative organic agriculture across research, farmer training, communications, development, and multimedia.",
+    "about": "Rodale Institute, a leader in regenerative organic agriculture research, offers internships spanning research (soil, crop, animal, and environmental health at its Pennsylvania and Iowa sites), a Farmer Training Program with full-season and fellowship tracks, and roles in communications, development, and multimedia. Positions are geared toward those seeking career experience in organic and regenerative farming. Each department lists its own requirements and application details."
+  },
+  {
+    "id": "national-ffa-organization",
+    "org": "National FFA Organization",
+    "program": "Grants & Scholarships",
+    "url": "https://www.ffa.org/participate/grants-and-scholarships",
+    "industries": [
+      "environment",
+      "education",
+      "business"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarship award amounts vary",
+    "summary": "The National FFA Organization awards grants and scholarships to FFA members pursuing agricultural education and careers.",
+    "about": "The National FFA Organization supports agricultural education for students across the U.S. and provides grants and scholarships to its members. Awards vary in amount and are available to high-school and college students pursuing agriculture-related studies and careers. Applications are managed through FFA's scholarship platform."
+  },
+  {
+    "id": "american-farmland-trust",
+    "org": "American Farmland Trust",
+    "program": "Careers & Internships",
+    "url": "https://www.farmland.org/careers",
+    "industries": [
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "American Farmland Trust lists careers and opportunities supporting farmland protection, environmentally sound farming, and farmer access to land.",
+    "about": "American Farmland Trust is a national 501(c)(3) nonprofit working to save farmland, promote environmentally sound farming practices, and keep farmers on the land. Its careers page lists openings across headquarters and regional offices (California, New York, Pacific Northwest, Texas), many fully remote. Applications are handled through an external job portal."
+  },
+  {
+    "id": "consolidated-edison-con-edison",
+    "org": "Consolidated Edison (Con Edison)",
+    "program": "Leadership Development Program for Recent College Graduates",
+    "url": "https://www.coned.com/en/about-us/careers/opportunities-for-recent-college-graduates",
+    "industries": [
+      "technology",
+      "environment",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid; includes 100% tuition reimbursement and benefits",
+    "summary": "Con Edison's 18-month rotational Leadership Development Program places recent college graduates across engineering, business, and IT assignments.",
+    "about": "Con Edison's Leadership Development Program is an intensive 18-month rotational program of three six-month assignments across New York City, Westchester, and Rockland Counties. Associates rotate through engineering, business, and IT roles, including at least one supervisory assignment, with mentorship and leadership presentations. Eligibility requires a 3.0+ GPA, a relevant major, fewer than three years of full-time experience, and a driver's license; benefits include 100% tuition reimbursement."
+  },
+  {
+    "id": "center-for-biological-diversity",
+    "org": "Center for Biological Diversity",
+    "program": "Jobs, Internships & Law Clerkships",
+    "url": "https://www.biologicaldiversity.org/about/jobs",
+    "industries": [
+      "environment",
+      "law",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "The Center for Biological Diversity recruits for jobs, internships, fellowships, and law clerkships supporting endangered species and environmental advocacy.",
+    "about": "The Center for Biological Diversity is a national nonprofit that works to protect endangered species and wild places through science, law, and advocacy. It hires environmental organizers, scientists, attorneys, administrators, fundraisers, and communications specialists, and supports emerging professionals through fellowships and internships. The organization emphasizes diversity, equity, and inclusion and is an equal-opportunity employer."
+  },
+  {
+    "id": "the-wilderness-society",
+    "org": "The Wilderness Society",
+    "program": "Careers & Internships",
+    "url": "https://www.wilderness.org/careers-internships",
+    "industries": [
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid; competitive salary and benefits",
+    "summary": "The Wilderness Society posts careers, internships, and the Gloria Barron Wilderness Society Scholarship supporting public lands conservation.",
+    "about": "The Wilderness Society is a national nonprofit dedicated to protecting public lands and wilderness across the United States. Its careers page lists staff openings with competitive salary and benefits (medical/dental/vision, vacation, parental leave, retirement, and sabbatical), along with the Gloria Barron Wilderness Society Scholarship. The organization is an equal-opportunity employer committed to fair treatment across identities."
+  },
+  {
+    "id": "defenders-of-wildlife",
+    "org": "Defenders of Wildlife",
+    "program": "Jobs & Internships",
+    "url": "https://defenders.org/jobs",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "National wildlife conservation nonprofit offering paid jobs and internships in environmental protection and science.",
+    "about": "Defenders of Wildlife is a national nonprofit membership organization dedicated to the protection of native animals and plants. Its careers page advertises openings with competitive salary and benefits and links to internship opportunities. The organization is an Equal Opportunity Employer."
+  },
+  {
+    "id": "american-rivers",
+    "org": "American Rivers",
+    "program": "Careers & Internships",
+    "url": "https://www.americanrivers.org/about-us/careers",
+    "industries": [
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "National river conservation nonprofit offering internships to develop the next generation of conservation leaders.",
+    "about": "American Rivers is a national conservation organization working to make every river clean and healthy for people and wildlife, having protected 4.4 million miles of rivers and streams. Its careers page lists professional openings and describes an internship program providing experience in the environmental non-profit field. The organization is headquartered in Washington, DC."
+  },
+  {
+    "id": "the-land-institute",
+    "org": "The Land Institute",
+    "program": "Internships & Fellowships",
+    "url": "https://landinstitute.org/about-us/careers",
+    "industries": [
+      "environment",
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Salina",
+        "state": "KS",
+        "lat": 38.5,
+        "lng": -98.4
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid seasonal/postbac/fellowship roles",
+    "summary": "Kansas research nonprofit offering seasonal, post-bac, fellowship, and research-assistant roles in perennial-grain and ecosystem agriculture.",
+    "about": "The Land Institute in Salina, Kansas conducts research on perennial grains and ecological agriculture. Its careers page describes roles ranging from short-term seasonal, post-bac, post-doc, and fellowship positions to full-time scientist and technician jobs. Many leaders in the perennial-grain movement began as fellows, interns, and research assistants there."
+  },
+  {
+    "id": "aldo-leopold-foundation",
+    "org": "Aldo Leopold Foundation",
+    "program": "Fellows & Employment",
+    "url": "https://www.aldoleopold.org/join-and-support/employment",
+    "industries": [
+      "environment",
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Baraboo",
+        "state": "WI",
+        "lat": 44.6,
+        "lng": -89.9
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Wisconsin conservation nonprofit offering a Fellows Program for emerging conservation leaders.",
+    "about": "The Aldo Leopold Foundation in Baraboo, Wisconsin fosters a land ethic through conservation, education, and stewardship. Its employment page describes a Fellows Program with pathways for every career stage. No specific openings were listed at the time of verification."
+  },
+  {
+    "id": "save-the-redwoods-league",
+    "org": "Save the Redwoods League",
+    "program": "Careers & Apprenticeships",
+    "url": "https://www.savetheredwoods.org/careers",
+    "industries": [
+      "environment",
+      "science",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid apprenticeships",
+    "summary": "California redwood conservation nonprofit offering paid field-based restoration apprenticeships for emerging natural-resource professionals.",
+    "about": "Save the Redwoods League protects and restores redwood forests. Its careers page features Redwoods Rising Apprenticeships that build capacity for North Coast restoration and Sequoia Apprenticeships training Sierra Nevada stewards, including forestry and lands-coalition roles recruited from local colleges. Positions are hands-on and field-based."
+  },
+  {
+    "id": "teton-science-schools",
+    "org": "Teton Science Schools",
+    "program": "Careers & Internships",
+    "url": "https://www.tetonscience.org/about/careers",
+    "industries": [
+      "environment",
+      "education",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Jackson",
+        "state": "WY",
+        "lat": 43,
+        "lng": -107.5
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid",
+    "summary": "Wyoming place-based education nonprofit offering AmeriCorps, graduate, and educator programs in the Greater Yellowstone ecosystem.",
+    "about": "Teton Science Schools in Jackson, Wyoming is a leader in transformative place-based education for learners of all ages. Its careers page references AmeriCorps positions, the Wyoming Rural Teacher Corps, and a graduate program, and directs applicants to a hiring portal for current openings. Roles focus on outdoor and environmental education."
+  },
+  {
+    "id": "coral-restoration-foundation",
+    "org": "Coral Restoration Foundation",
+    "program": "Coral Conservation & Reef Restoration Internship",
+    "url": "https://coralrestoration.org/internships",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Key Largo",
+        "state": "FL",
+        "lat": 27.8,
+        "lng": -81.7
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Small educational stipend",
+    "deadlineNote": "4-month sessions (Fall/Spring/Summer); must be 21+",
+    "summary": "Key Largo marine nonprofit offering a four-month coral reef restoration internship with a small educational stipend.",
+    "about": "Coral Restoration Foundation runs a full-time volunteer internship in nonprofit marine conservation focused on coral reef restoration in Key Largo, Florida. Interns complete community engagement, daily operations, fieldwork, and a mentored personal project over roughly four months, with land-only and combined water-land tracks. Applicants must be 21 or older, enrolled in or recently graduated from an undergraduate or graduate program, and hold CPR/First Aid certification; dive tracks require Advanced Open Water and 30+ logged dives."
+  },
+  {
+    "id": "first-solar",
+    "org": "First Solar",
+    "program": "Careers & Internships",
+    "url": "https://www.firstsolar.com/en/Careers",
+    "industries": [
+      "technology",
+      "environment",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Tempe",
+        "state": "AZ",
+        "lat": 34.2,
+        "lng": -111.7
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "U.S. solar technology manufacturer offering paid roles and seasonal internships across engineering, R&D, and operations.",
+    "about": "First Solar is a U.S.-headquartered thin-film solar technology and manufacturing company. Its careers page organizes opportunities into six areas including Manufacturing Operations, R&D, Supply Chain, Business Operations, IT, and Sales & Marketing, with Day-1 benefits and education assistance. Specific internship listings appear seasonally through the company job portal rather than on the landing page."
+  },
+  {
+    "id": "woodwell-climate-research-center",
+    "org": "Woodwell Climate Research Center",
+    "program": "Careers & Research Positions",
+    "url": "https://www.woodwellclimate.org/about/careers",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Falmouth",
+        "state": "MA",
+        "lat": 42.2,
+        "lng": -71.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "Massachusetts climate science institute offering paid research assistant and staff positions in a hybrid workplace.",
+    "about": "Woodwell Climate Research Center in Falmouth, Massachusetts conducts climate science across Arctic, Carbon, Risk, Tropics, and Water research areas. Its careers page lists current open positions such as Research Assistant and Development Coordinator roles. It operates as a hybrid workplace."
+  },
+  {
+    "id": "american-forests",
+    "org": "American Forests",
+    "program": "Job Opportunities & Internships",
+    "url": "https://www.americanforests.org/job-opportunities",
+    "industries": [
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid",
+    "summary": "National forest conservation nonprofit offering paid jobs and internships advancing forest health and climate equity.",
+    "about": "American Forests is a national conservation nonprofit working on forest health, climate change, and social equity. Its careers page describes benefits, a commitment to a diverse and inclusive workplace, and an open-positions section, and offers application accommodations via jobs@americanforests.org. Specific role listings are surfaced through its application process."
+  },
+  {
+    "id": "great-basin-institute",
+    "org": "Great Basin Institute",
+    "program": "Research Associate Program",
+    "url": "https://thegreatbasininstitute.org/research-associate-program",
+    "industries": [
+      "environment",
+      "science",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "research",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid AmeriCorps/agency positions on public lands",
+    "summary": "Paid conservation research positions placing students and emerging professionals with federal land agencies across the American West.",
+    "about": "The Great Basin Institute's Research Associate Program places students, recent graduates, and emerging professionals in paid technical, research, and data-analysis roles supporting resource managers. Placements span wildlife studies, habitat restoration, invasive species, GIS, and environmental education with partners including the National Park Service, BLM, USFWS, and U.S. Forest Service. Roles run 8 weeks to a year, may include benefits, and connect to AmeriCorps education awards and Public Land Corps hiring authorities."
+  },
+  {
+    "id": "peace-corps",
+    "org": "Peace Corps",
+    "program": "Peace Corps Volunteer Service",
+    "url": "https://www.peacecorps.gov/volunteer",
+    "industries": [
+      "government",
+      "nonprofit",
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "volunteering",
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Living stipend plus $10,000+ readjustment allowance",
+    "deadlineNote": "Rolling applications",
+    "summary": "U.S. federal service program placing volunteers abroad for roughly two years with a living stipend and readjustment allowance.",
+    "about": "The Peace Corps is a U.S. government agency that sends volunteers to serve communities abroad in areas such as education, health, and community development. Volunteers receive a living stipend covering in-country expenses plus a readjustment allowance of more than $10,000 upon completion. Applications are accepted on a rolling basis."
+  },
+  {
+    "id": "the-rotary-foundation",
+    "org": "The Rotary Foundation",
+    "program": "Rotary Peace Fellowship",
+    "url": "https://www.rotary.org/en/our-programs/peace-fellowships",
+    "industries": [
+      "government",
+      "nonprofit",
+      "education"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Fully funded (tuition, fees, room, board, round-trip travel, field study)",
+    "deadlineNote": "2028-29 application opens online February 2027 (2027-28 cycle closed)",
+    "summary": "Fully funded graduate fellowship training peace and development professionals at one of Rotary's global peace centers.",
+    "about": "The Rotary Peace Fellowship funds up to 170 fellows per year to study peace and conflict resolution at one of eight Rotary Peace Centers. Options include a master's degree (15-24 months with a field study) and a one-year professional development certificate for working professionals. Funding covers tuition and fees, room and board, round-trip transportation, and internship/field-study expenses."
+  },
+  {
+    "id": "fund-for-education-abroad",
+    "org": "Fund for Education Abroad",
+    "program": "Study Abroad Scholarships",
+    "url": "https://fundforeducationabroad.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$1,250–$10,000 scholarships",
+    "deadlineNote": "Winter/Spring 2027 applications close September 16, 2026; deadlines vary by term",
+    "summary": "Need-based study abroad scholarships for underrepresented US college students, including first-generation and community college students.",
+    "about": "The Fund for Education Abroad awards scholarships to US students with demonstrated financial need who are studying abroad, prioritizing groups underrepresented in education abroad. The organization reports having awarded over $5.3 million in scholarships, with recipients including a large share of first-generation and community college students. Individual awards range up to roughly $10,000.",
+    "equityTags": [
+      "first-gen",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "ciee-council-on-international-educational-exch",
+    "org": "CIEE (Council on International Educational Exchange)",
+    "program": "College Study Abroad",
+    "url": "https://www.ciee.org/go-abroad/college-study-abroad",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "scholarship",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "deadlineNote": "Varies by term",
+    "summary": "CIEE offers 500+ college study abroad programs across 49 locations worldwide, with internships and need- and merit-based scholarships available.",
+    "about": "CIEE's College Study Abroad program spans over 500 programs in 49 locations across Africa, Asia-Pacific, Europe, Latin America, and the Middle East, ranging from two-week J-terms to full semesters. Students can add full- or part-time internships in fields such as business and STEM across 40+ cities. CIEE awards millions in scholarships and grants for students with demonstrated financial need and academic merit."
+  },
+  {
+    "id": "ies-abroad",
+    "org": "IES Abroad",
+    "program": "Study Abroad & Internships Abroad",
+    "url": "https://www.iesabroad.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "IES Abroad provides 140+ study abroad and internship programs in 30+ cities worldwide for college students, with scholarships and financial aid.",
+    "about": "IES Abroad offers semester, summer, and direct-enrollment study abroad plus full-time, part-time, and remote internships across more than 30 cities and 140+ programs worldwide. The nonprofit handles logistics such as housing and health insurance through local staff in host cities. It offers dedicated scholarships and financial aid and cites more than 75 years of experience serving over 190,000 students."
+  },
+  {
+    "id": "institute-for-shipboard-education",
+    "org": "Institute for Shipboard Education",
+    "program": "Semester at Sea",
+    "url": "https://www.semesteratsea.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Semester at Sea is a multi-country study abroad program aboard a ship that serves as a floating campus, earning students a full semester of college credit.",
+    "about": "Operated by the Institute for Shipboard Education and academically sponsored by Colorado State University, Semester at Sea lets students travel to 10 or more countries while earning a full semester of college credit. Voyages typically span 100+ days and cross three to four continents, combining shipboard coursework with in-country field experiences. It serves undergraduates, gap-year students, recent graduates, and lifelong learners."
+  },
+  {
+    "id": "world-learning",
+    "org": "World Learning",
+    "program": "SIT Study Abroad",
+    "url": "https://studyabroad.sit.edu",
+    "industries": [
+      "education",
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "SIT Study Abroad, run by World Learning, offers field-based semester, summer, and multi-country programs organized around critical global issues.",
+    "about": "SIT Study Abroad, operated by World Learning, Inc. and the School for International Training, offers interdisciplinary summer, semester, internship, and multi-country programs worldwide. Programs are built around seven Critical Global Issues such as Climate & Environment and Global Health & Well-being, and include a hands-on Independent Study Project research component. Faculty are field experts often based in the country of study."
+  },
+  {
+    "id": "american-councils-for-international-education",
+    "org": "American Councils for International Education",
+    "program": "Critical Language Scholarship & language programs",
+    "url": "https://www.americancouncils.org",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "high-school",
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Fully funded language immersion programs",
+    "summary": "American Councils administers 250+ international exchange and language programs, including the fully funded Critical Language Scholarship.",
+    "about": "American Councils for International Education runs over 250 international exchange, professional development, and language programs in partnership with more than 1,000 organizations, with programs in 130 countries and 100,000+ alumni. Featured programs include the Critical Language Scholarship, NSLI-Y, FLEX, YSEALI, and EducationUSA. Many programs offer fully funded language immersion for high school, college, and graduate participants."
+  },
+  {
+    "id": "daad-german-academic-exchange-service",
+    "org": "DAAD (German Academic Exchange Service)",
+    "program": "Scholarships for Study & Research in Germany",
+    "url": "https://www.daad.org/en",
+    "industries": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Monthly stipend plus travel",
+    "summary": "DAAD offers scholarships and research funding for US students and academics to study and conduct research in Germany.",
+    "about": "DAAD, the German Academic Exchange Service, provides a database of scholarships and funding for foreign students, graduates, and academics at the undergraduate, graduate, PhD, and faculty levels. Its Study Scholarship supports Master's studies in Germany with a monthly living allowance, and RISE Germany offers research internships. Awards typically include a monthly stipend and travel support."
+  },
+  {
+    "id": "henry-luce-foundation",
+    "org": "Henry Luce Foundation",
+    "program": "Luce Scholars Program",
+    "url": "https://lucescholars.org",
+    "industries": [
+      "nonprofit",
+      "government",
+      "business"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Stipend plus professional placement in Asia",
+    "summary": "The Luce Scholars Program is a yearlong fellowship placing emerging US leaders in professional roles across Asia with language training.",
+    "about": "Founded in 1974 by the Henry Luce Foundation, the Luce Scholars Program is a yearlong fellowship that immerses emerging leaders in Asia's countries, cultures, and people. It combines language training with a professional job placement in Northeast, Southeast, or South Asia. The program seeks young professionals from diverse fields who are curious, adaptable, and committed to service."
+  },
+  {
+    "id": "gates-cambridge-trust",
+    "org": "Gates Cambridge Trust",
+    "program": "Gates Cambridge Scholarship",
+    "url": "https://www.gatescambridge.org",
+    "industries": [
+      "education",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full cost of study at University of Cambridge",
+    "deadlineNote": "Mid-October deadline",
+    "summary": "The Gates Cambridge Scholarship is a fully funded international award for outstanding postgraduate students at the University of Cambridge.",
+    "about": "The Gates Cambridge Scholarship is an international scholarship program funding outstanding postgraduate students to study at the University of Cambridge. It seeks scholars with potential for social leadership and a desire to improve others' lives, guided by values of community, learning, internationality, compassion, and change. The award covers the full cost of study plus a maintenance stipend."
+  },
+  {
+    "id": "davis-projects-for-peace",
+    "org": "Davis Projects for Peace",
+    "program": "Projects for Peace",
+    "url": "https://www.middlebury.edu/projects-for-peace",
+    "industries": [
+      "nonprofit",
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "competition",
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$10,000 grant",
+    "deadlineNote": "Deadlines set by partner campuses",
+    "summary": "Davis Projects for Peace awards $10,000 grants to 125+ student leaders each year to design and carry out grassroots peace projects.",
+    "about": "Founded by Kathryn W. Davis in 2007 and administered through Middlebury, Projects for Peace awards $10,000 grants annually to 125 or more student leaders to implement community-centered peace projects, typically over the summer. Recipients must be enrolled at an eligible partner institution, and most grantees are undergraduates. A separate Alumni Award offers up to $50,000 for continuing peacebuilding work."
+  },
+  {
+    "id": "unite-for-sight",
+    "org": "Unite For Sight",
+    "program": "Global Impact Corps",
+    "url": "https://www.uniteforsight.org/volunteer",
+    "industries": [
+      "healthcare",
+      "nonprofit"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "volunteering",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Unite For Sight's Global Impact Corps is an immersive global health volunteer program supporting eye care delivery abroad.",
+    "about": "Unite For Sight's Global Impact Corps places volunteers in an immersive global health program at sites in Ghana, Honduras, and India, joining a network of over 10,000 trained fellows. Volunteers support local partner doctors who have provided care for more than 2.9 million patients living in poverty, including over 109,000 sight-restoring surgeries. The program offers academic credit, mentoring, and research opportunities."
+  },
+  {
+    "id": "aiesec",
+    "org": "AIESEC",
+    "program": "Global Volunteer & Global Talent",
+    "url": "https://aiesecus.org",
+    "industries": [
+      "business",
+      "nonprofit",
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "AIESEC US offers Global Volunteer projects and Global Talent international internships that build leadership for college students abroad.",
+    "about": "AIESEC US is a youth-led 501(c)(3) nonprofit, established in 1956, offering cross-cultural leadership experiences abroad. Global Volunteer places students in volunteering projects tied to the UN Sustainable Development Goals, with possible scholarships, while Global Talent provides international internships in a student's field of study. The organization also offers a Global Teacher program and membership opportunities."
+  },
+  {
+    "id": "cultural-vistas",
+    "org": "Cultural Vistas",
+    "program": "International Fellowships & Internships",
+    "url": "https://culturalvistas.org",
+    "industries": [
+      "business",
+      "government",
+      "nonprofit",
+      "technology"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "internship",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "summary": "Cultural Vistas runs international fellowships and internships that place US college and graduate students in professional roles abroad.",
+    "about": "Cultural Vistas is a nonprofit that develops international fellowship and internship programs placing US students and young professionals in work-based experiences abroad across business, government, technology, and nonprofit sectors. Its programs, such as the Alfa Fellowship and Robert Bosch Foundation Fellowship, typically include stipends and professional placement. It also administers exchange programs for participants coming to the United States."
+  },
+  {
+    "id": "middlebury-language-schools",
+    "org": "Middlebury Language Schools",
+    "program": "Immersive Language Study",
+    "url": "https://www.middlebury.edu/language-schools",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "summer-program",
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Over $7 million in financial aid and scholarships awarded annually",
+    "summary": "Intensive summer immersion study in 13 languages at Middlebury under a signature Language Pledge, plus multi-summer graduate degree tracks.",
+    "about": "Middlebury Language Schools offers 7- and 8-week summer immersion programs in languages including Arabic, Chinese, French, German, Japanese, Korean, Russian and Spanish, with participants pledging to use only their target language. Programs serve learners from beginners to advanced and include graduate degree options completed over several summers. The schools award more than $7 million in financial aid and scholarships each year."
+  },
+  {
+    "id": "the-language-flagship-national-security-educat",
+    "org": "The Language Flagship (National Security Education Program)",
+    "program": "Flagship Language Programs",
+    "url": "https://thelanguageflagship.org",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Funded language study including an overseas capstone",
+    "summary": "Federally funded undergraduate program building professional-level proficiency in critical languages, culminating in an overseas capstone year.",
+    "about": "The Language Flagship, part of the Defense Language and National Security Education Office's National Security Education Program, funds intensive language study at U.S. universities and abroad. Students combine their regular major with language coursework and an overseas capstone to reach professional working proficiency in languages such as Arabic, Chinese, Russian, Korean and Portuguese."
+  },
+  {
+    "id": "blakemore-foundation",
+    "org": "Blakemore Foundation",
+    "program": "Blakemore Freeman Fellowships",
+    "url": "https://www.blakemorefoundation.org/blakemorefreeman",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Full tuition plus stipend for one academic year of advanced Asian language study abroad",
+    "summary": "Fellowships funding a full academic year of advanced study of an East or Southeast Asian language at an approved program in Asia.",
+    "about": "Blakemore Freeman Fellowships support U.S. citizens or permanent residents pursuing advanced study of Chinese, Japanese, Korean, Thai, Vietnamese, Indonesian or Khmer for careers using the language. Applicants must hold a bachelor's degree and have completed at least three years of college-level study in the language. Awards cover full tuition paid to the language school plus a stipend for travel, living and study expenses."
+  },
+  {
+    "id": "american-scandinavian-foundation",
+    "org": "American-Scandinavian Foundation",
+    "program": "Fellowships & Grants for Americans",
+    "url": "https://www.amscan.org/fellowships-and-grants",
+    "industries": [
+      "education",
+      "arts",
+      "science"
+    ],
+    "audiences": [
+      "graduate"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship",
+      "research"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Fellowships up to $23,000",
+    "summary": "Fellowships and grants for American graduate students and professionals to pursue study or research in Scandinavia.",
+    "about": "The American-Scandinavian Foundation awards fellowships and grants supporting educational and cultural exchange between the United States and the Nordic countries. Fellowships for Americans fund a year of graduate-level study or research in Denmark, Finland, Iceland, Norway or Sweden. The landing page links to the dedicated fellowships-for-Americans category with eligibility details and award amounts."
+  },
+  {
+    "id": "the-kosciuszko-foundation",
+    "org": "The Kosciuszko Foundation",
+    "program": "Scholarships & Exchange to Poland",
+    "url": "https://thekf.org/what-we-do/grants-scholarships",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Foundation awards up to $2 million annually in scholarships, grants and fellowships",
+    "summary": "Tuition scholarships, summer studies, and U.S.-Poland exchange programs promoting educational and cultural ties between the two countries.",
+    "about": "The Kosciuszko Foundation offers tuition scholarships, an Exchange Program to Poland, an Exchange Program to the U.S., and Summer Studies Abroad for students, scholars and professionals. Programs support academic excellence and cultural exchange between the United States and Poland. The Foundation awards up to $2 million annually in scholarships, grants and fellowships."
+  },
+  {
+    "id": "jet-program-usa",
+    "org": "JET Program USA",
+    "program": "Japan Exchange and Teaching Programme",
+    "url": "https://jetprogramusa.org",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "college",
+      "graduate"
+    ],
+    "types": [
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Approximately 3.36 million yen annual salary",
+    "summary": "Japanese government exchange program placing U.S. college graduates in schools and government offices across Japan as teaching and cultural ambassadors.",
+    "about": "The Japan Exchange and Teaching (JET) Programme, founded in 1987, is the only teaching exchange program managed by the government of Japan and is administered in the U.S. through the Embassy of Japan. Participants serve as Assistant Language Teachers or Coordinators for International Relations in schools, boards of education and government offices. More than 39,000 Americans have participated, with participants earning a salary of roughly 3.36 million yen per year."
+  },
+  {
+    "id": "afs-usa",
+    "org": "AFS-USA",
+    "program": "High School Study Abroad",
+    "url": "https://www.afsusa.org/study-abroad",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Semester, year, and summer study abroad programs abroad for U.S. high school students through the AFS international exchange network.",
+    "about": "AFS-USA, a nonprofit intercultural exchange organization, sends U.S. high school students abroad on semester, year and summer programs featuring homestays and cultural immersion. Programs are available in numerous countries worldwide. AFS offers scholarships and financial aid to help students participate."
+  },
+  {
+    "id": "youth-for-understanding-usa-yfu",
+    "org": "Youth For Understanding USA (YFU)",
+    "program": "Study Abroad Programs",
+    "url": "https://www.yfuusa.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Nonprofit high school exchange organization offering semester, year, and summer study abroad programs with host families worldwide.",
+    "about": "Youth For Understanding USA (YFU) is a nonprofit international exchange organization that places U.S. high school students in host families abroad for summer, semester and academic-year programs. Its programs emphasize cultural immersion and global citizenship. YFU offers scholarships to support student participation."
+  },
+  {
+    "id": "amigos-de-las-americas",
+    "org": "Amigos de las Americas",
+    "program": "Immersion & Service Programs in Latin America",
+    "url": "https://amigosinternational.org",
+    "industries": [
+      "nonprofit",
+      "education",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "volunteering",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Immersion and community-service programs in Latin America for high school and college students through the Amigos de las Americas nonprofit.",
+    "about": "Amigos de las Americas (AMIGOS) is a nonprofit offering youth leadership, cultural immersion and community-service programs across Latin America. Participants live with host communities and engage in service projects focused on youth development and community collaboration. Programs primarily serve high school and college-age students."
+  },
+  {
+    "id": "the-experiment-in-international-living",
+    "org": "The Experiment in International Living",
+    "program": "Summer Abroad for High School Students",
+    "url": "https://www.experiment.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Summer abroad programs featuring homestays and cultural immersion for U.S. high school students, run by World Learning.",
+    "about": "The Experiment in International Living, operated by the nonprofit World Learning, offers summer study abroad programs for high school students with homestays and cultural immersion in countries such as France, Ecuador, Italy and Japan. Options include language training, ecological studies, internships and college credit. The organization has more than 90 years of experience in international exchange."
+  },
+  {
+    "id": "cet-academic-programs",
+    "org": "CET Academic Programs",
+    "program": "Study Abroad & Internships Abroad",
+    "url": "https://www.cetacademicprograms.com",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Study abroad and internship-abroad programs for college and gap-year students across locations in Asia, Europe, Latin America and the Middle East.",
+    "about": "Founded in 1982 and based in Washington, DC, CET Academic Programs runs study abroad and internship programs for college and gap-year students in locations including China, Japan, Jordan, Italy, Spain, Brazil and Colombia. Offerings feature intensive language study, local roommate placements and internship placements. The organization provides scholarships and financial services to participants."
+  },
+  {
+    "id": "tilting-futures-formerly-global-citizen-year",
+    "org": "Tilting Futures (formerly Global Citizen Year)",
+    "program": "Take Action Lab",
+    "url": "https://tiltingfutures.org",
+    "industries": [
+      "education",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A credit-eligible, immersive semester program where young people apprentice with local organizations abroad to build changemaking and leadership skills.",
+    "about": "Take Action Lab is run by Tilting Futures, the organization formerly known as Global Citizen Year. Students spend a semester in Cape Town, South Africa (Civic Innovation) or Penang Island, Malaysia (Environment & Sustainability), combining apprenticeships with real-world global challenge coursework, now credit-eligible through the University of Pittsburgh. Tuition and financial aid options are available, and a shorter nine-week Accelerator track is also offered."
+  },
+  {
+    "id": "carpe-diem-education",
+    "org": "Carpe Diem Education",
+    "program": "Gap Semester & Year Abroad",
+    "url": "https://carpediemeducation.org",
+    "industries": [
+      "education",
+      "environment",
+      "nonprofit"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "volunteering"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "Experiential small-group gap semester, summer, and year-abroad programs combining cultural immersion, service learning, and outdoor adventure.",
+    "about": "Carpe Diem Education offers fall/spring semester programs, summer programs, and the signature Latitudes Year that pairs a group semester with a Focused Volunteer Placement. Programs run 5 to 10 weeks to destinations such as Southeast Asia, India & Nepal, Central America, and Italy & Greece, with components like homestays, language study, and environmental conservation. Scholarships, financial aid, and college credit are available, and the organization is Gap Year Association accredited and a certified B Corp."
+  },
+  {
+    "id": "fulbright-canada",
+    "org": "Fulbright Canada",
+    "program": "Killam Fellowships Program",
+    "url": "https://www.fulbright.ca/programs/killam-fellowships",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "fellowship",
+      "scholarship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "$6,000 US per semester or $12,000 US per academic year, plus a health benefit plan",
+    "deadlineNote": "Next competition opens August 15, 2026",
+    "summary": "A binational exchange fellowship enabling exceptional undergraduates to study for a semester or full year at a university in the other country (US or Canada).",
+    "about": "The Killam Fellowships Program supports exceptional undergraduate students from universities in Canada and the United States to spend one semester or a full academic year at a host university abroad. Fellows receive $6,000 US per semester ($12,000 US for the year) plus a health benefit plan, and may apply for a mobility grant of up to $800 for an educational field trip. New Fellows attend a fall Orientation in Ottawa and a spring seminar in Washington, D.C."
+  },
+  {
+    "id": "per-scholas",
+    "org": "Per Scholas",
+    "program": "Tech Training",
+    "url": "https://perscholas.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Free (no-cost) tuition",
+    "summary": "A nonprofit offering no-cost technology skills training, industry certifications, and job-placement support across the US.",
+    "about": "Per Scholas provides tuition-free tech training in tracks including AWS re/Start, Cybersecurity Analyst, IT Support, Salesforce Administrator, Data Center Technician, and AI Native Software Development. Courses are delivered across many US locations plus a National remote option, funded by donors and business partners rather than learner tuition. The organization reports having trained more than 30,000 technologists over its 30-year history.",
+    "equityTags": [
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "npower",
+    "org": "NPower",
+    "program": "Tech Fundamentals",
+    "url": "https://www.npower.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Free training; some paid internships/apprenticeships",
+    "summary": "A nonprofit offering free tech training and certification pathways, including its Tech Fundamentals course covering IT basics.",
+    "about": "NPower delivers free tech training and certifications, primarily serving young adults, women, and military-connected individuals across states including California, New York, Texas, and Maryland. Its Tech Fundamentals program covers the basics of IT, and the organization connects learners to internship and apprenticeship opportunities with employer partners. NPower reports an 80% graduation rate and a 220% average salary increase for participants.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "merit-america",
+    "org": "Merit America",
+    "url": "https://www.meritamerica.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$0 upfront; deferred payment until earning at least $40,000",
+    "summary": "A nonprofit offering part-time, flexible online tech and career training for working adults without a four-year degree.",
+    "about": "Merit America provides part-time technical training paired with career coaching, technical advisors, and peer support, in tracks such as IT Support, Data Analytics, UX Design, Cybersecurity, Project Management, and Supply Chain. Programs run roughly 12 to 22 weeks at about 16 to 20 hours per week, delivered mostly online with 3 to 5 hours of weekly live meetings. Learners pay $0 upfront and only begin repayment after completing and earning at least $40,000, with a guarantee waiving payment if that threshold is not met within two years.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "generation-usa",
+    "org": "Generation USA",
+    "url": "https://usa.generation.org",
+    "industries": [
+      "technology",
+      "healthcare"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A nonprofit offering free job-training and placement programs that move adults into careers that would otherwise be inaccessible.",
+    "about": "Generation USA is part of a global workforce-development nonprofit that trains and places adults into careers at no cost to learners. It offers programs such as Generation JobSprint and reports 157,248 graduates across 17 countries since 2015. The organization cites a 77% job-placement rate within six months of program completion.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "i-c-stars",
+    "org": "i.c.stars",
+    "url": "https://www.icstars.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "stipend",
+    "compensation": "Paid internship/practicum",
+    "summary": "A highly selective technology leadership program that develops underserved young adults through intensive training and a two-year practicum.",
+    "about": "i.c.stars combines intensive project-based technology training with a two-year practicum to build tech, business, and leadership skills for underserved young adults who have overcome adversity. The program offers internships and job placement, and now operates in Chicago, Milwaukee, and Kansas City. It reports that 99% of alumni volunteer with the organization after graduating.",
+    "equityTags": [
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "braven",
+    "org": "Braven",
+    "url": "https://braven.org",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "College credit for traditional Fellows; stipend for BravenX Fellows",
+    "summary": "A career-accelerating program that equips promising college students with the skills, networks, confidence, and experience to land strong first jobs.",
+    "about": "Braven begins with a semester-long course for college students, followed by support that lasts through graduation, serving many Pell Grant recipients at partner schools nationwide. Participants, called Fellows, receive college credit (or a stipend in the online BravenX cohort) and are matched with volunteer Leadership Coaches and mock interviewers. Braven reports over 15,000 Fellows and stronger salary and job-attainment outcomes for its 2024 graduates versus peers.",
+    "equityTags": [
+      "first-gen",
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "phi-theta-kappa",
+    "org": "Phi Theta Kappa",
+    "program": "PTK Scholarships",
+    "url": "https://www.ptk.org/scholarships",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Hundreds of scholarships collectively worth millions",
+    "deadlineNote": "Varies by scholarship",
+    "summary": "Hundreds of competitive, need-based, and university-partner transfer scholarships for community college students who are PTK members.",
+    "about": "Phi Theta Kappa offers three scholarship types: competitive scholarships rewarding academic excellence and leadership, need-based scholarships for members facing financial hardship, and university partner scholarships from hundreds of four-year institutions for transferring members. The awards primarily support community college students planning to transfer to complete a bachelor's degree. PTK also provides member support such as workshops, one-on-one advising, and essay and resume guidance."
+  },
+  {
+    "id": "skillsusa",
+    "org": "SkillsUSA",
+    "url": "https://www.skillsusa.org",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national career and technical education student organization offering skills competitions and leadership development for middle school through postsecondary students.",
+    "about": "SkillsUSA is a national nonprofit workforce-development organization serving more than 444,000 student and teacher members across all 50 states and US territories. It runs the SkillsUSA Championships and WorldSkills competitions along with leadership programs such as the Washington Leadership Training Institute, work-based learning, scholarships, and conferences. Membership spans middle school, high school, and college/postsecondary levels through local chapters."
+  },
+  {
+    "id": "project-lead-the-way",
+    "org": "Project Lead the Way",
+    "url": "https://www.pltw.org",
+    "industries": [
+      "technology",
+      "science",
+      "healthcare"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A nonprofit providing project-based PreK-12 STEM and Career Technical Education curriculum in computer science, engineering, and biomedical science.",
+    "about": "Project Lead the Way (PLTW) offers hands-on, project-based STEM curriculum spanning PLTW Launch (PreK-5), Gateway (6-8), and high-school pathways in Computer Science, Engineering, and Biomedical Science. Programs connect students to real-world problem-solving with support from industry partners such as AWS Educate, Lockheed Martin, Toyota, and Lilly. PLTW also provides intensive teacher professional development led by certified Master Teachers."
+  },
+  {
+    "id": "apprenti",
+    "org": "Apprenti",
+    "url": "https://apprenticareers.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid registered apprenticeship (~$57,000+)",
+    "summary": "A registered apprenticeship program connecting career seekers with paid, on-the-job tech training, most roles requiring no prior experience.",
+    "about": "Apprenti runs a Registered Apprenticeship model launched in 2015 that pairs employers with career seekers for paid, on-the-job training across industries including Technology, Life Sciences, and Human Resources. Apprentices earn while they learn, with a cited figure of $57,000+, and most roles require no prior experience, making it a debt-free alternative for career changers. The organization reports over 4,500 apprentices placed and an 89% employer retention rate for graduates."
+  },
+  {
+    "id": "careerwise",
+    "org": "CareerWise",
+    "url": "https://careerwiseusa.org",
+    "industries": [
+      "healthcare",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "internship",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid earn-and-learn youth apprenticeship",
+    "summary": "A national youth apprenticeship movement connecting young people roughly ages 16-26 to paid, earn-and-learn apprenticeships across industries like healthcare, advanced manufacturing, and teaching.",
+    "about": "CareerWise USA is a 501(c)(3) nonprofit leading a nationwide modern youth apprenticeship program under the banner '50 States, One Apprenticeship Movement.' Apprentices earn wages while gaining work experience, industry credentials, and college credit during the years between 16 and 26. The program operates in states including Colorado, Indiana, and New York and reports 2,600+ completed apprenticeships."
+  },
+  {
+    "id": "launchcode",
+    "org": "LaunchCode",
+    "url": "https://www.launchcode.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A nonprofit offering free technology training and job placement to help people launch careers in software development and AI.",
+    "about": "LaunchCode is a 501(c)(3) nonprofit that provides free tech education paired with job placement through 500+ hiring partners nationwide. Programs include full-stack and Java software development plus AI adoption tracks. It reports 22,500+ alumni and thousands of tech careers launched.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "pursuit",
+    "org": "Pursuit",
+    "program": "Fellowship",
+    "url": "https://www.pursuit.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "fellowship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "free",
+    "summary": "A fellowship that trains low-income New Yorkers for high-paying careers in tech and the AI economy.",
+    "about": "Pursuit is a nonprofit whose flagship AI-Native Program trains participants, called Builders, from low-income and underrepresented backgrounds in New York City. It uses an outcomes-based 'Good Job Agreement' model that ties funding to helping participants build long-term careers rather than charging upfront tuition. Historically participants have seen large income jumps into six-figure starting salaries.",
+    "equityTags": [
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "climb-hire",
+    "org": "Climb Hire",
+    "url": "https://www.climbhire.co",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A free, cohort-based training program that helps overlooked working adults break into tech and high-growth careers.",
+    "about": "Climb Hire is a nonprofit offering free career tracks in IT support, IT apprenticeship, and paid search marketing to working adults without college degrees. Programs are cohort-based and combine industry instruction, certifications, mentorship, and a lasting alumni network. It currently concentrates in California and Colorado and reports an average income boost of about $26k.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "nontraditional-employment-for-women",
+    "org": "Nontraditional Employment for Women",
+    "program": "Pre-Apprenticeship Training",
+    "url": "https://www.new-nyc.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    ],
+    "cost": "free",
+    "summary": "A pre-apprenticeship training program preparing women for skilled construction, utility, and maintenance trades in New York City.",
+    "about": "Nontraditional Employment for Women (NEW) is a NYC-based workforce development nonprofit that trains and places women in skilled construction, utility, and maintenance trades. Its core pre-apprenticeship training program is paired with job placement and wrap-around support services. NEW supplies workers to the industries that build, power, and maintain New York."
+  },
+  {
+    "id": "chicago-women-in-trades",
+    "org": "Chicago Women in Trades",
+    "url": "https://chicagowomenintrades.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "free",
+    "summary": "A Chicago nonprofit providing training that prepares women for careers in the skilled construction and manufacturing trades.",
+    "about": "Chicago Women in Trades is a nonprofit that helps women enter and succeed in the skilled trades through hands-on technical training, career support, and advocacy. It is based in Chicago, Illinois. Content could not be loaded directly because the official site returned an SSL certificate configuration error on its hosting server."
+  },
+  {
+    "id": "oregon-tradeswomen",
+    "org": "Oregon Tradeswomen",
+    "url": "https://oregontradeswomen.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "lat": 45.5152,
+        "lng": -122.6784
+      }
+    ],
+    "cost": "free",
+    "summary": "A Portland nonprofit offering an apprenticeship-readiness (pre-apprenticeship) program preparing women for skilled construction trades careers.",
+    "about": "Oregon Tradeswomen is a nonprofit in Portland, Oregon that runs the state-certified Pathways to Success apprenticeship-readiness program for people preparing to enter the skilled construction trades. It also offers the RISE Up Oregon respectful-workplace program and hosts an annual construction career fair. The organization focuses on helping women access family-wage trades careers."
+  },
+  {
+    "id": "job-corps",
+    "org": "Job Corps",
+    "url": "https://www.jobcorps.gov",
+    "industries": [
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "stipend",
+    "compensation": "Free training plus housing, meals, and a living allowance",
+    "summary": "The nation's largest free residential career training and education program for low-income young adults ages 16-24.",
+    "about": "Job Corps is a free, residential career training and education program run by the U.S. Department of Labor for low-income young people ages 16-24. Students get hands-on training in fields such as manufacturing, healthcare, technology, and construction, plus free housing, meals, basic medical care, and a living allowance. It operates 120+ campuses nationwide and has run for over 60 years.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "fame-usa",
+    "org": "FAME USA",
+    "program": "Federation for Advanced Manufacturing Education",
+    "url": "https://fame-usa.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid earn-and-learn apprenticeship",
+    "summary": "An earn-and-learn advanced manufacturing apprenticeship combining technical education with paid, hands-on work at partner manufacturers.",
+    "about": "FAME USA (Federation for Advanced Manufacturing Education) is an earn-and-learn program originally created by Toyota and now operated by the Manufacturing Institute, the education partner of the National Association of Manufacturers. Students earn a degree while gaining paid hands-on experience with sponsoring manufacturers. It runs local chapters across roughly 17 states with support from 450+ manufacturers."
+  },
+  {
+    "id": "nccer",
+    "org": "NCCER",
+    "url": "https://www.nccer.org",
+    "industries": [
+      "education",
+      "business"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national nonprofit providing standardized construction and skilled-trades education, credentials, and accreditation, with foundation scholarships for students.",
+    "about": "The National Center for Construction Education & Research (NCCER) is a 501(c)(3) nonprofit founded in 1996 that develops standardized curriculum, assessments, credentials, and program accreditation for the construction and skilled trades. It serves high school students, postsecondary learners, veterans, and industry through 1,000+ accredited organizations. Its foundation also awards scholarships to students pursuing construction careers."
+  },
+  {
+    "id": "home-builders-institute",
+    "org": "Home Builders Institute",
+    "program": "HBI PACT / Pre-Apprenticeship",
+    "url": "https://www.hbi.org",
+    "industries": [
+      "business",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national nonprofit offering free skilled-trades training, including pre-apprenticeship programs, to prepare students for careers in the building industry.",
+    "about": "Home Builders Institute (HBI) is a national nonprofit providing free skilled trades training and education for the residential construction industry, including its PACT (Pre-Apprenticeship Certificate Training) program. It serves youth and adults through programs with Job Corps, corrections, the military, and schools, and licenses CTE curriculum. HBI operates in 48 states and states all training is at no cost to students."
+  },
+  {
+    "id": "associated-builders-and-contractors",
+    "org": "Associated Builders and Contractors",
+    "program": "ABC Apprenticeship",
+    "url": "https://www.abc.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid apprenticeship",
+    "summary": "A national construction trade association offering registered, paid apprenticeship and craft training programs across commercial construction trades.",
+    "about": "Associated Builders and Contractors (ABC) is a national construction industry trade association representing merit-shop contractors. Through its local chapters it delivers registered apprenticeship and craft training programs in trades such as electrical, plumbing, HVAC, and welding, where apprentices earn wages while they learn. ABC operates chapters across the United States."
+  },
+  {
+    "id": "imagine-america-foundation",
+    "org": "Imagine America Foundation",
+    "url": "https://www.imagine-america.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Scholarships and tuition assistance for career/technical colleges",
+    "summary": "A nonprofit foundation providing free-to-apply scholarships and tuition assistance for students attending career and technical (trade) colleges nationwide.",
+    "about": "Imagine America Foundation (IAF) is a nonprofit that has supported the career college community since 1982, distributing more than $10 million in tuition assistance each year. It offers scholarships for high school students, adult learners, and current college students pursuing fields such as HVAC, welding, automotive, healthcare, and IT. Applying is free through an online student profile.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "scholarship-america",
+    "org": "Scholarship America",
+    "program": "Dollars for Scholars",
+    "url": "https://scholarshipamerica.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "Scholarship America's Dollars for Scholars connects students to locally funded, community-based college scholarships through a national network of volunteer-run chapters.",
+    "about": "Scholarship America is a national nonprofit founded in 1958 that works to remove financial barriers to higher education, reporting more than $6 billion awarded since its founding. Its Dollars for Scholars program lets communities establish local chapters that award scholarships to area students. The organization also offers scholarship search resources for high school, community college, STEM, and veteran students.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "multiverse",
+    "org": "Multiverse",
+    "url": "https://www.multiverse.io",
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid apprenticeship",
+    "summary": "Multiverse runs paid, employer-based apprenticeships that train early-career professionals in AI, data, and technology through coaching and on-the-job learning.",
+    "about": "Multiverse is an apprenticeship and workforce-training platform that helps companies upskill teams in AI, data, and tech via expert coaching combined with applied work. Its programmes (such as AI-Powered Productivity, AI Solutions Builder, and the Data Fellowship) target junior to mid-level employees, and it reports 22,000+ learners across 1,500+ companies. Note: the site is UK-headquartered and heavily UK-focused (referencing the UK apprenticeship levy), though Multiverse also operates apprenticeship programs in the United States."
+  },
+  {
+    "id": "techtonic",
+    "org": "Techtonic",
+    "program": "Software Developer Apprenticeship",
+    "url": "https://www.techtonic.com",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program",
+      "internship"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Boulder",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Paid apprenticeship",
+    "summary": "Techtonic offers a paid, registered software developer apprenticeship that trains and employs early-career developers, based in Boulder, Colorado.",
+    "about": "Techtonic is a Boulder, CO software company that runs a U.S. Department of Labor registered apprenticeship program, hiring and training software developers who earn wages while learning. Apprentices build real client software while gaining full-stack development skills. The program emphasizes creating pathways into tech careers for people from non-traditional backgrounds."
+  },
+  {
+    "id": "the-hidden-genius-project",
+    "org": "The Hidden Genius Project",
+    "url": "https://www.hiddengeniusproject.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "program",
+      "mentorship"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Oakland",
+        "state": "CA",
+        "lat": 37.8044,
+        "lng": -122.2712
+      }
+    ],
+    "cost": "free",
+    "summary": "The Hidden Genius Project trains and mentors Black male youth in technology creation, entrepreneurship, and leadership.",
+    "about": "Founded in 2012 and based in Oakland, CA, The Hidden Genius Project is a nonprofit that mentors Black male high school students in computer science and leadership. Its flagship 15-month Immersion Program provides 800+ hours of training in software development, entrepreneurship, and leadership, alongside introductory Catalyst workshops and community partnerships. The organization reports serving over 18,000 students to date.",
+    "equityTags": [
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "the-knowledge-house",
+    "org": "The Knowledge House",
+    "url": "https://theknowledgehouse.org",
+    "industries": [
+      "technology"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "fellowship"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The Knowledge House offers tech-skills training and fellowships that prepare students from underserved communities for technology careers.",
+    "about": "The Knowledge House (TKH) is a nonprofit tech workforce development organization founded in 2014 in the South Bronx. Its programs include the Teen Tech Launchpad for high schoolers and Innovation and Technology Fellowships for adults 18+, covering web development, data science, cybersecurity, and AI. TKH delivers programs nationally across New York, Newark, Atlanta, Los Angeles, Washington DC, and Connecticut.",
+    "equityTags": [
+      "low-income",
+      "students-of-color"
+    ]
+  },
+  {
+    "id": "cara-collective",
+    "org": "Cara Collective",
+    "url": "https://caracollective.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    ],
+    "cost": "free",
+    "summary": "Cara Collective provides free workforce readiness training, job placement, and coaching for people facing barriers to employment in Chicago.",
+    "about": "Cara Collective, founded in 1991 and based in Chicago, is a nonprofit that helps people affected by poverty build careers through free training, job placement, and professional coaching. It operates its signature Cara program, the Cleanslate transitional-jobs social enterprise, and Cara Plus, a national employer-partnership arm. The organization reports over 18,000 job placements since 1991.",
+    "equityTags": [
+      "low-income"
+    ]
+  },
+  {
+    "id": "helmets-to-hardhats",
+    "org": "Helmets to Hardhats",
+    "url": "https://helmetstohardhats.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "college"
+    ],
+    "types": [
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Paid building-trades apprenticeship",
+    "summary": "Helmets to Hardhats connects military veterans and transitioning service members with paid, debt-free apprenticeships in the building and construction trades.",
+    "about": "Helmets to Hardhats is a national program that links veterans and transitioning military members to career opportunities in the union construction trades via an 'earn while you learn' apprenticeship model. Participants can access debt-free training across 16+ trades (electricians, ironworkers, plumbers, carpenters, and more) while using GI Bill benefits. It operates under contract with the Center for Military Recruitment, Assessment and Veterans' Employment."
+  },
+  {
+    "id": "ase-education-foundation",
+    "org": "ASE Education Foundation",
+    "url": "https://www.aseeducationfoundation.org",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "program",
+      "scholarship"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The ASE Education Foundation accredits automotive training programs and connects students to certifications, scholarships, and apprenticeships in the transportation trades.",
+    "about": "The ASE Education Foundation sets standards for automotive, diesel, and collision-repair education by accrediting high school and post-secondary training programs. It offers entry-level ASE certifications, scholarships, a school-finder tool, and an apprenticeship program backed by a $25 million federal grant. The Foundation reports over 118,000 students in more than 1,800 accredited programs and partners with major manufacturers and shops."
+  },
+  {
+    "id": "national-restaurant-association-educational-fo",
+    "org": "National Restaurant Association Educational Foundation",
+    "program": "ProStart & Scholarships",
+    "url": "https://chooserestaurants.org",
+    "industries": [
+      "business",
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "scholarship",
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "deadlineNote": "Scholarships open Jan 15 - Mar 15",
+    "summary": "The National Restaurant Association Educational Foundation runs the ProStart high school program, culinary competitions, and scholarships for restaurant and hospitality careers.",
+    "about": "The NRAEF is the philanthropic foundation of the National Restaurant Association, focused on education and career development in restaurants, foodservice, and hospitality. Its two-year ProStart high school program reaches more than 234,000 students in over 2,275 schools and culminates in the National ProStart Invitational competition. It also awards more than $1 million annually in scholarships to post-secondary students, with applications open January 15 to March 15."
+  },
+  {
+    "id": "national-science-teaching-association",
+    "org": "National Science Teaching Association",
+    "program": "Toshiba/NSTA ExploraVision",
+    "url": "https://www.exploravision.org",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $10,000 U.S. savings bonds",
+    "deadlineNote": "Entries due late January/February",
+    "summary": "Toshiba/NSTA ExploraVision is a national K-12 science competition challenging student teams to envision and design a technology 10+ years in the future.",
+    "about": "ExploraVision, sponsored by Toshiba and administered by the National Science Teaching Association, is a national STEM competition in which student teams research a current technology and imagine how it could evolve in 10 or more years. It is open to K-12 students, including high schoolers, and emphasizes scientific inquiry, critical thinking, and teamwork. National winners receive U.S. savings bonds as prizes."
+  },
+  {
+    "id": "international-brain-bee",
+    "org": "International Brain Bee",
+    "url": "https://thebrainbee.org",
+    "industries": [
+      "healthcare",
+      "science"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "The International Brain Bee is a tiered neuroscience competition for teenagers that advances from local to national to world championship levels.",
+    "about": "Founded in 1998, the International Brain Bee is a neuroscience competition for teens designed to inspire students to study the brain and pursue neuroscience careers. It reaches more than 25,000 competitors annually across 50+ countries through a three-tiered structure of local, national, and world championship rounds. The 2026 World Championship is planned as a virtual event held alongside the Society for Neuroscience meeting."
+  },
+  {
+    "id": "best-robotics",
+    "org": "BEST Robotics",
+    "url": "https://www.bestrobotics.org",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "BEST Robotics is a free national robotics competition that engages middle and high school students in designing and building robots for an annual game.",
+    "about": "BEST (Boosting Engineering, Science, and Technology) Robotics is a national nonprofit that runs an annual, no-cost robotics competition for middle and high school students. Teams register and advance through regional championships and competition hubs, building robots for a yearly challenge. Its mission is to empower the next generation of STEM leaders, and participation is funded through sponsors rather than team fees."
+  },
+  {
+    "id": "technology-student-association",
+    "org": "Technology Student Association",
+    "program": "TSA National Conference & Competitions",
+    "url": "https://tsaweb.org",
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Membership dues",
+    "summary": "A national STEM student organization offering leadership programs and 42 high school (plus 37 middle school) competitions culminating in a national conference.",
+    "about": "The Technology Student Association (TSA) serves middle and high school students interested in STEM through chapter-based membership. Members compete in dozens of technology and engineering competitions at state and national levels and participate in leadership programs and a national service project. Based in Reston, VA."
+  },
+  {
+    "id": "ncf-envirothon",
+    "org": "NCF-Envirothon",
+    "url": "https://envirothon.org",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A natural resources and environmental science competition where high school teams test knowledge in aquatic ecology, forestry, soils, wildlife, and current environmental issues.",
+    "about": "The NCF-Envirothon, run by the National Conservation Foundation, is a hands-on environmental competition for students in grades 9-12 (ages 14-19). Teams study five subject areas and compete through problem-solving and outdoor field experiences, with over 25,000 students participating annually across the US, Canada, China, and Singapore. The 2026 competition is at Mississippi State University, July 19-25, 2026."
+  },
+  {
+    "id": "national-ocean-sciences-bowl",
+    "org": "National Ocean Sciences Bowl",
+    "url": "https://nosb.org",
+    "industries": [
+      "environment",
+      "science"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national academic competition in ocean science for high school students, with regional bowls leading to a national finals.",
+    "about": "The National Ocean Sciences Bowl (NOSB) is a buzzer-style academic competition addressing gaps in environmental and earth sciences education and preparing students for STEM careers. Roughly 2,000 students from 350 high schools and 1,500 volunteers participate annually, with regional competitions in February-March and a national finals in May. All states are eligible to compete."
+  },
+  {
+    "id": "national-academic-quiz-tournaments",
+    "org": "National Academic Quiz Tournaments",
+    "url": "https://www.naqt.com",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Entry fees",
+    "summary": "An organization that writes questions and runs quiz bowl academic competitions for middle school, high school, and college students.",
+    "about": "National Academic Quiz Tournaments (NAQT) produces quiz bowl questions and hosts buzzer-based academic competitions across a wide range of subjects. It serves middle school, high school, and collegiate levels through both in-person and online tournaments culminating in national championships."
+  },
+  {
+    "id": "united-states-academic-decathlon",
+    "org": "United States Academic Decathlon",
+    "url": "https://www.usad.org",
+    "industries": [
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Registration fees",
+    "summary": "A team-based high school academic competition spanning ten subjects tied to an annual theme, progressing from local to national levels.",
+    "about": "The United States Academic Decathlon (USAD) has nine-student teams compete across ten categories including art, economics, math, science, and speech, grouped by GPA into Honor, Scholastic, and Varsity divisions. The 2026-2027 theme is transportation and travel. A separate Pentathlon track (USAP) serves 5th to 8th graders."
+  },
+  {
+    "id": "odyssey-of-the-mind",
+    "org": "Odyssey of the Mind",
+    "url": "https://www.odysseyofthemind.com",
+    "industries": [
+      "education",
+      "arts"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "An international creative problem-solving competition where student teams tackle open-ended problems and advance toward World Finals.",
+    "about": "Odyssey of the Mind teaches students to develop and apply their natural creativity to solve open-ended problems as teams. The program builds teamwork, budgeting, time management, and public speaking skills, with membership-based participation leading to regional, state, and World Finals competitions."
+  },
+  {
+    "id": "destination-imagination",
+    "org": "Destination Imagination",
+    "url": "https://www.destinationimagination.org",
+    "industries": [
+      "education",
+      "arts",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A nonprofit STEAM program where student teams solve open-ended creative challenges, with a competitive Challenge Experience for grades 3-12 and university students.",
+    "about": "Destination Imagination (DI) engages student teams in a structured Creative Process to solve open-ended STEAM challenges, building creative thinking, critical thinking, and collaboration skills. Its flagship Challenge Experience runs August-May for grades 3-12 and university students, alongside a Team Film Challenge, Early Learning, and SkillFire curriculum offerings."
+  },
+  {
+    "id": "future-problem-solving-program-international",
+    "org": "Future Problem Solving Program International",
+    "url": "https://www.fpspi.org",
+    "industries": [
+      "education",
+      "environment"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A K-12 educational program teaching a six-step problem-solving process through team and individual competitions on real-world topics.",
+    "about": "Future Problem Solving Program International (FPSPI) is a nonprofit that teaches students a proven 6-step problem-solving method applied to real-world topics in business, civics, science, society, and technology. Over 30,000 K-12 students participate annually across 34+ US states and 14+ countries through components such as Global Issues, Community Projects, Creative Writing, and Storytelling, plus an International Conference."
+  },
+  {
+    "id": "kenyon-college",
+    "org": "Kenyon College",
+    "program": "Kenyon Review Young Writers Workshop",
+    "url": "https://kenyonreview.org/workshops/young-writers",
+    "industries": [
+      "arts",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "hybrid",
+    "national": false,
+    "locations": [
+      {
+        "city": "Gambier",
+        "state": "OH",
+        "lat": 40.4,
+        "lng": -82.8
+      }
+    ],
+    "cost": "paid",
+    "deadlineNote": "Summer Residential due March 1; Winter Online due mid-December",
+    "summary": "A writing program for high school students offering residential summer sessions at Kenyon College and online workshops.",
+    "about": "The Kenyon Review Young Writers Workshop brings talented high school students together in a supportive literary community to develop their writing. It offers two-week summer residential sessions on the Kenyon College campus in Gambier, Ohio, as well as one-week Summer Online and six-week Winter Online multi-genre workshops."
+  },
+  {
+    "id": "aspen-music-festival-and-school",
+    "org": "Aspen Music Festival and School",
+    "url": "https://www.aspenmusicfestival.com",
+    "industries": [
+      "arts"
+    ],
+    "audiences": [
+      "high-school",
+      "college"
+    ],
+    "types": [
+      "summer-program"
+    ],
+    "format": "in-person",
+    "national": false,
+    "locations": [
+      {
+        "city": "Aspen",
+        "state": "CO",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "cost": "paid",
+    "compensation": "Financial assistance and fellowships available",
+    "summary": "An eight-week summer training program and festival for emerging classical musicians in Aspen, Colorado.",
+    "about": "The Aspen Music Festival and School is a summer program (July 1-August 23) where nearly 500 young instrumentalists, singers, conductors, and composers train with over 100 artist-faculty. Participants perform in orchestras and recitals alongside their teachers, and financial assistance and fellowships are available through the School."
+  },
+  {
+    "id": "foundation-for-teaching-economics",
+    "org": "Foundation for Teaching Economics",
+    "program": "Economics for Leaders",
+    "url": "https://www.fte.org/students/economics-for-leaders-program",
+    "industries": [
+      "business",
+      "education",
+      "government"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Need-based scholarships available",
+    "deadlineNote": "Applications reviewed on a rolling basis",
+    "summary": "A selective residential summer program teaching high school student leaders to apply economic reasoning and leadership theory to decision-making.",
+    "about": "Economics for Leaders (EFL), run by the Foundation for Teaching Economics, is a competitive residential summer program for current high school sophomores and juniors. Held at various campus sites with roughly 25-40 students each, it introduces economic concepts, reasoning, and leadership theory, with optional college credit and need-based scholarships. A separate virtual version is also offered."
+  },
+  {
+    "id": "blue-ocean-student-entrepreneur-competition",
+    "org": "Blue Ocean Student Entrepreneur Competition",
+    "url": "https://www.blueoceancompetition.org",
+    "industries": [
+      "business"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Thousands in cash prizes",
+    "summary": "A fully virtual global pitch competition where high school students submit video pitches for innovative 'blue ocean' business ideas.",
+    "about": "The Blue Ocean Student Entrepreneur Competition is a virtual pitch competition for high school students worldwide, inspired by the Blue Ocean Strategy methodology of pursuing differentiation and low cost. Students submit a 5-minute YouTube video pitch and compete for thousands in cash prizes, with over 23,000 students from 173 countries participating in 2026. It is run by a Maryland-registered 501(c)(3) nonprofit."
+  },
+  {
+    "id": "national-speech-and-debate-association",
+    "org": "National Speech & Debate Association",
+    "url": "https://www.speechanddebate.org",
+    "industries": [
+      "education",
+      "government",
+      "media"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Membership dues; scholarships and college funding available",
+    "summary": "The largest US speech and debate organization, offering high school students national competitions across more than ten speech and five debate events.",
+    "about": "The National Speech & Debate Association runs competitive speech and debate events, an Honor Society, and a National Tournament with district-level qualifiers. Student membership requires dues, and the association offers scholarships, college funding, and coaching resources. Founded in 1925, it marked its centennial in 2025-2026."
+  },
+  {
+    "id": "center-for-civic-education",
+    "org": "Center for Civic Education",
+    "program": "We the People: The Citizen and the Constitution",
+    "url": "https://www.civiced.org",
+    "industries": [
+      "government",
+      "law",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "program"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "summary": "A national constitutional-education program culminating in the largest US civics competition, where students defend positions in simulated congressional hearings.",
+    "about": "We the People: The Citizen and the Constitution is a comprehensive constitutional curriculum implemented nationwide by the Center for Civic Education. Students study the Constitution and Bill of Rights and compete in simulated congressional hearings on historical and current issues. The program serves elementary, middle, and high school students and culminates in a national finals competition."
+  },
+  {
+    "id": "junior-state-of-america",
+    "org": "Junior State of America",
+    "url": "https://jsa.org",
+    "industries": [
+      "government",
+      "law",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "summer-program",
+      "program"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "summary": "A student-led civic engagement nonprofit offering high schoolers year-round chapters, conventions, and summer programs on government, law, and politics.",
+    "about": "Junior State of America (JSA) is a long-established, student-led civic education nonprofit that engages high school students in debate, discussion, and political awareness. It runs school chapters, regional and national conventions, and summer programs. Programs generally require paid enrollment or membership fees."
+  },
+  {
+    "id": "bill-of-rights-institute",
+    "org": "Bill of Rights Institute",
+    "program": "MyImpact Challenge",
+    "url": "https://billofrightsinstitute.org",
+    "industries": [
+      "government",
+      "law",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Up to $10,000",
+    "summary": "A national civic contest from the Bill of Rights Institute where students aged 13-19 can win up to $10,000 for community service projects.",
+    "about": "The Bill of Rights Institute, a national civic education nonprofit based in Arlington, VA, runs the MyImpact Challenge, a contest recognizing students aged 13-19 for service projects that improve their communities. Top entrants can win up to $10,000. Participation is free."
+  },
+  {
+    "id": "genes-in-space",
+    "org": "Genes in Space",
+    "url": "https://www.genesinspace.org",
+    "industries": [
+      "science",
+      "healthcare",
+      "technology"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "research"
+    ],
+    "format": "hybrid",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "Winning experiment conducted aboard the International Space Station",
+    "deadlineNote": "2026 competition opened January 5, 2026; entries due in spring",
+    "summary": "A national contest challenging students to design a DNA biology experiment to be conducted aboard the International Space Station.",
+    "about": "Genes in Space, run in partnership with miniPCR bio, invites students to propose molecular biology experiments that address challenges of space exploration. The winning proposal is developed and flown to the International Space Station for real research. The 2026 competition opened January 5, 2026, and winners have been announced."
+  },
+  {
+    "id": "comap",
+    "org": "COMAP",
+    "program": "High School Mathematical Contest in Modeling (HiMCM)",
+    "url": "https://comap.org/contests/himcm-midmcm",
+    "industries": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "paid",
+    "compensation": "Registration/entry fee required",
+    "deadlineNote": "2026 contest window is November 4-17",
+    "summary": "An international mathematical modeling competition where teams of up to four high school students solve a real-world problem within a 14-day window.",
+    "about": "The High School Mathematical Contest in Modeling (HiMCM), run by COMAP, has teams of up to four students model and solve an open-ended real-world problem using high-school-level mathematics. Teams have a 14-day window to complete and submit their solution paper for judging. The 2026 (29th) contest window is November 4-17, 2026."
+  },
+  {
+    "id": "advantage-testing-foundation",
+    "org": "Advantage Testing Foundation",
+    "program": "Math Prize for Girls",
+    "url": "https://mathprize.atfoundation.org",
+    "industries": [
+      "science",
+      "education"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition"
+    ],
+    "format": "in-person",
+    "national": true,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "state": "MA",
+        "lat": 42.3736,
+        "lng": -71.1097
+      }
+    ],
+    "cost": "free",
+    "compensation": "$100,000 in prizes, including $50,000 for first place",
+    "deadlineNote": "Held annually at MIT in the fall (October 11, 2026)",
+    "summary": "The largest math prize for girls in the world, an in-person competition at MIT that awards $100,000 in prizes to young female mathematicians.",
+    "about": "Math Prize for Girls, run by the Advantage Testing Foundation, gathers roughly 250 young women at MIT for a competition testing mathematical creativity and insight. It aims to promote gender equity in STEM and awards $100,000 in monetary prizes, including $50,000 for first place. The 2026 event is scheduled for October 11 at MIT in Cambridge, MA.",
+    "equityTags": [
+      "women-in-stem"
+    ]
+  },
+  {
+    "id": "john-f-kennedy-library-foundation",
+    "org": "John F. Kennedy Library Foundation",
+    "program": "Profile in Courage Essay Contest",
+    "url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
+    "industries": [
+      "government",
+      "education",
+      "media"
+    ],
+    "audiences": [
+      "high-school"
+    ],
+    "types": [
+      "competition",
+      "scholarship"
+    ],
+    "format": "remote",
+    "national": true,
+    "locations": [],
+    "cost": "free",
+    "compensation": "$10,000 first prize",
+    "deadlineNote": "Submissions due in January",
+    "summary": "A national essay contest for US high school students describing an act of political courage by a US elected official, with a $10,000 first prize.",
+    "about": "The Profile in Courage Essay Contest, run by the John F. Kennedy Library Foundation, invites high school students to write about an act of political courage by a US elected official since 1917, inspired by JFK's book Profiles in Courage. The first-place winner receives $10,000, with additional awards for runners-up and finalists. Submissions are typically due in January."
   }
 ];
