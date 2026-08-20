@@ -1,7 +1,10 @@
 import type { Opportunity } from "@/lib/catalog";
 
 // Auto-generated from verified research (see InternNow expansion workflows).
-export const MORE_OPPORTUNITIES: Opportunity[] = [
+// Split into chunks so TypeScript can type the large literal without hitting
+// the "union type too complex" limit.
+
+const CHUNK_0: Opportunity[] = [
   {
     "id": "codepath",
     "org": "CodePath",
@@ -7736,7 +7739,10 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "cost": "paid",
     "summary": "A three-month summer internship program placing undergraduates into roles at 8VC portfolio startups.",
     "about": "The 8VC Fellowship is an immersive three-month summer internship that places undergraduates into engineering or design roles at 8VC portfolio companies spanning AI, healthcare, financial services, defense, and life sciences. A single application is considered across dozens of portfolio companies, and fellows collaborate directly with founders and engineers on technical problems."
-  },
+  }
+];
+
+const CHUNK_1: Opportunity[] = [
   {
     "id": "thrive-capital",
     "org": "Thrive Capital",
@@ -14597,7 +14603,10 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "compensation": "Stipend plus room & board and roundtrip boat transportation",
     "summary": "A 10-week summer research program placing undergraduates with faculty mentors on marine research and long-term monitoring projects on Appledore Island.",
     "about": "SURG members work with faculty mentors and scientists on marine research projects to build skills for graduate school or careers, based at the Shoals Marine Laboratory on Appledore Island, Maine. The lab provides room and board, a stipend, and roundtrip boat transportation to and from the island for members unless otherwise specified. Students may be considered for only one internship per year; 2026 tracks include seabird ecology, intertidal ecology, marine mammals, gull population biology, physical oceanography, and furbearers."
-  },
+  }
+];
+
+const CHUNK_2: Opportunity[] = [
   {
     "id": "edge-foundation",
     "org": "EDGE Foundation",
@@ -21700,7 +21709,10 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "compensation": "Paid",
     "summary": "POLITICO offers paid internships and the POLITICO Journalism Institute training program for college students interested in political journalism.",
     "about": "POLITICO is a news organization covering politics and policy in Washington and beyond. It runs paid internships and the POLITICO Journalism Institute, an intensive training program for aspiring journalists. Programs are based at its Arlington, VA headquarters."
-  },
+  }
+];
+
+const CHUNK_3: Opportunity[] = [
   {
     "id": "national-association-of-black-journalists",
     "org": "National Association of Black Journalists",
@@ -28855,7 +28867,10 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "compensation": "Part-time paid internship (NJ Career Accelerator Internship Grant); non-NJ applicants may apply for unpaid roles",
     "summary": "Coriell Institute offers part-time paid internships for college students across laboratory research, bioinformatics, quality assurance, and business development.",
     "about": "The Coriell Institute for Medical Research in Camden, NJ places current or recently graduated college students in research and professional roles to gain career experience. Paid positions are supported by the NJ Career Accelerator Internship Grant and require New Jersey residency or enrollment at a NJ college/university. All tracks are currently listed as closed."
-  },
+  }
+];
+
+const CHUNK_4: Opportunity[] = [
   {
     "id": "weill-cornell-medicine",
     "org": "Weill Cornell Medicine",
@@ -35871,7 +35886,10 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "cost": "free",
     "summary": "AOTA offers programs, resources, and mentorship for occupational therapy students and emerging practitioners.",
     "about": "The American Occupational Therapy Association is the national professional association for occupational therapy. It provides student memberships, career and emerging-practitioner resources, continuing education, and networking opportunities. Its programs serve OT and OTA students at the college and graduate levels."
-  },
+  }
+];
+
+const CHUNK_5: Opportunity[] = [
   {
     "id": "medlife",
     "org": "MEDLIFE",
@@ -42816,7 +42834,10 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
       "low-income",
       "students-of-color"
     ]
-  },
+  }
+];
+
+const CHUNK_6: Opportunity[] = [
   {
     "id": "cara-collective",
     "org": "Cara Collective",
@@ -43472,3 +43493,5 @@ export const MORE_OPPORTUNITIES: Opportunity[] = [
     "about": "The Profile in Courage Essay Contest, run by the John F. Kennedy Library Foundation, invites high school students to write about an act of political courage by a US elected official since 1917, inspired by JFK's book Profiles in Courage. The first-place winner receives $10,000, with additional awards for runners-up and finalists. Submissions are typically due in January."
   }
 ];
+
+export const MORE_OPPORTUNITIES: Opportunity[] = [...CHUNK_0, ...CHUNK_1, ...CHUNK_2, ...CHUNK_3, ...CHUNK_4, ...CHUNK_5, ...CHUNK_6];
